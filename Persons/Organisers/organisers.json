@@ -1,0 +1,749 @@
+[
+  {
+    "name": "Natán Riggenbach",
+    "gender": "m",
+    "id": "2011RIGG03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 128,
+    "competitionsOrganised": 54
+  },
+  {
+    "name": "Christian Montoya",
+    "gender": "m",
+    "id": "2018MONT03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 37,
+    "competitionsOrganised": 8
+  },
+  {
+    "name": "Roberto Antonio Ocmin Baráybar",
+    "gender": "m",
+    "id": "2011BARA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 31,
+    "competitionsOrganised": 8
+  },
+  {
+    "name": "Andrés Hisashi Suzuki Cabrera",
+    "gender": "m",
+    "id": "2016SUZU03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 74,
+    "competitionsOrganised": 13
+  },
+  {
+    "name": "Piero Alessandro Laguna Obregon",
+    "gender": "m",
+    "id": "2016OBRE01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 79,
+    "competitionsOrganised": 17
+  },
+  {
+    "name": "Jose Manuel Pumayalli Tito",
+    "gender": "m",
+    "id": "2021TITO01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Pedro Antonio Bonilla Zamora",
+    "gender": "m",
+    "id": "2012ZAMO02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Ruben Toranzo",
+    "gender": "m",
+    "id": "2011TORA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 2,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Erland Fuentes Ramos",
+    "gender": "m",
+    "id": "2011RAMO02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 8,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Ernesto Gutiérrez Cuba",
+    "gender": "m",
+    "id": "2011CUBA02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 59,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Pablo Nicolás Oshiro Mondoñedo",
+    "gender": "m",
+    "id": "2010MOND01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 72,
+    "competitionsOrganised": 4
+  },
+  {
+    "name": "Alexander Esquivel",
+    "gender": "m",
+    "id": "2011ESQU01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 36,
+    "competitionsOrganised": 32
+  },
+  {
+    "name": "Jhonatan Reategui",
+    "gender": "m",
+    "id": "2016REAT01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 42,
+    "competitionsOrganised": 19
+  },
+  {
+    "name": "Valentino Nuñez",
+    "gender": "m",
+    "id": "2016NUNE15",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 13,
+    "competitionsOrganised": 3
+  },
+  {
+    "name": "Luis Enrique Gonzales Chauca",
+    "gender": "m",
+    "id": "2013CHAU02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Ronald Fernando Remuzgo Salazar",
+    "gender": "m",
+    "id": "2017SALA07",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 27,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "César Cornejo Soldevilla",
+    "gender": "m",
+    "id": "2015CORN06",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 11,
+    "competitionsOrganised": 12
+  },
+  {
+    "name": "Claudio Sandoval Fenco",
+    "gender": "m",
+    "id": "2021FENC01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 13,
+    "competitionsOrganised": 5
+  },
+  {
+    "name": "Leví Sánchez Nunura",
+    "gender": "m",
+    "id": "2018NUNU01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 9,
+    "competitionsOrganised": 3
+  },
+  {
+    "name": "Bryan Celis Zapata",
+    "gender": "m",
+    "id": "2012ZAPA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 8,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Juan Chacón Palacios",
+    "gender": "m",
+    "id": "2016PALA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 18,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Kevin Antony Tello Delgado",
+    "gender": "m",
+    "id": "2017DELG02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 61,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Brian Pebes Cabrera",
+    "gender": "m",
+    "id": "2013CABR03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 1,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Yenny Huanqque Ccapa",
+    "gender": "f",
+    "id": "2013CCAP02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 3,
+    "competitionsOrganised": 3
+  },
+  {
+    "name": "Luis Vargas",
+    "gender": "m",
+    "id": "2018VARG10",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 12,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Luis Gómez Taya",
+    "gender": "m",
+    "id": "2018TAYA02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 20,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Yuri Villanueva Alzamora",
+    "gender": "m",
+    "id": "2013ALZA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 73,
+    "competitionsOrganised": 6
+  },
+  {
+    "name": "Percy Flavio Chacón Cutipa",
+    "gender": "m",
+    "id": "2018CUTI01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 8,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Jesús Acencio",
+    "gender": "m",
+    "id": "2016ACEN01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 3,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "David Chirme Sisa",
+    "gender": "m",
+    "id": "2019SISA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Mateo Aguirre",
+    "gender": "m",
+    "id": "2022AGUI03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 22,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Leon Achata",
+    "gender": "m",
+    "id": "2015ACHA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 51,
+    "competitionsOrganised": 4
+  },
+  {
+    "name": "Johan Matheos Serpa Juli",
+    "gender": "m",
+    "id": "2017JULI05",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 3,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Marcelo Omar Quispe Cutipa",
+    "gender": "m",
+    "id": "2017CUTI01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 19,
+    "competitionsOrganised": 3
+  },
+  {
+    "name": "Diego Fernando Yampi Curie",
+    "gender": "m",
+    "id": "2019CURI01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 5,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Kenny Zapana Quispe",
+    "gender": "m",
+    "id": "2014QUIS02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 5,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Diego Morales",
+    "gender": "m",
+    "id": "2025MORA15",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 1,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Fabrizio Chacaltana",
+    "gender": "m",
+    "id": "2015CHAC03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 8,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Leonardo José Hilario Cori",
+    "gender": "m",
+    "id": "2017CORI01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 35,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Thony Jerson Pardavé Tineo",
+    "gender": "m",
+    "id": "2024TINE01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 1,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Piero Stefano Menéndez Jaramillo",
+    "gender": "m",
+    "id": "2017JARA09",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 20,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Francisco Barrenechea Sanchez",
+    "gender": "m",
+    "id": "2023SANC31",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 38,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Marlon Rojas",
+    "gender": "m",
+    "id": "2023ROJA17",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 11,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Romer Rodríguez",
+    "gender": "m",
+    "id": "2016RODR53",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 7,
+    "competitionsOrganised": 3
+  },
+  {
+    "name": "Ximena Paola Bazán Rivasplata",
+    "gender": "f",
+    "id": "2022RIVA03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 34,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Javier Briceño",
+    "gender": "m",
+    "id": "2018BRIC05",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 2,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Helar Gomez Chalco",
+    "gender": "m",
+    "id": "2015CHAL01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 66,
+    "competitionsOrganised": 4
+  },
+  {
+    "name": "Carlos Daniel Torres Tello",
+    "gender": "m",
+    "id": "2018TELL03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 20,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Angel Jesus Panebra Rodriguez",
+    "gender": "m",
+    "id": "2016RODR37",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 59,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Arturo Antonio Flores Reyes",
+    "gender": "m",
+    "id": "2011REYE02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 6,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Jorge Salazar Larrea",
+    "gender": "m",
+    "id": "2025LARR01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 1,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Pedro Luis Mamani Suclla",
+    "gender": "m",
+    "id": "2015SUCL01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 45,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Exon Gamboa Cochachi",
+    "gender": "m",
+    "id": "2012COCH01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Humberto Guillen Gonzales",
+    "gender": "m",
+    "id": "2011GONZ05",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Jesus Eduardo Leiva Ramos",
+    "gender": "m",
+    "id": "2011LEIV01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 33,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Noel Yzaguirre",
+    "gender": "m",
+    "id": "2011QUEZ01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 25,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Brayan Boza Ñahuinripa",
+    "gender": "m",
+    "id": "2017NAHU02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 9,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Jhon Anderson Soto Bellido",
+    "gender": "m",
+    "id": "2013BELL06",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 35,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Angelo Giovanni Licetti León",
+    "gender": "m",
+    "id": "2013LEON05",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 23,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Jose Abanto Ortiz",
+    "gender": "m",
+    "id": "2012ORTI04",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 52,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Bruno Alonso Villacorta Montoya",
+    "gender": "m",
+    "id": "2016MONT33",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 34,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Michel Andre Gonzaga Quijano",
+    "gender": "m",
+    "id": "2018QUIJ01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 61,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Rodrigo Aguilar",
+    "gender": "m",
+    "id": "2017AGUI08",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 32,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Jarry Tapia Vasquez",
+    "gender": "m",
+    "id": "2015VASQ06",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 24,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Alejandro Collantes",
+    "gender": "m",
+    "id": "2015COLL07",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 19,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Eduardo Andre Salas Catunta",
+    "gender": "m",
+    "id": "2018CATU01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 8,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Rodrigo Zarate",
+    "gender": "m",
+    "id": "2014ZARA01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 46,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Jose Alex Apaza Huaman",
+    "gender": "m",
+    "id": "2013HUAM02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 8,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Luis Gonzalo Porras Lopez",
+    "gender": "m",
+    "id": "2017LOPE38",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 27,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Ricardo Jesús Gambini Abril",
+    "gender": "m",
+    "id": "2017ABRI01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 16,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Gerson Huver Barrientos Chávez",
+    "gender": "m",
+    "id": "2017CHAV22",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 2,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Stalin Cipriano Tejeda",
+    "gender": "m",
+    "id": "2017TEJE01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 5,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Kiyoshi Francisco Mamani Malaga",
+    "gender": "m",
+    "id": "2019MALA03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 16,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Tyffany Villanueva",
+    "gender": "f",
+    "id": "2022VILL04",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 15,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Josué Esteban Bacilio Chicoma",
+    "gender": "m",
+    "id": "2013CHIC01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 32,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Daniela Medalit Cornejo Soldevilla",
+    "gender": "f",
+    "id": "2017SOLD01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 22,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Ricardo Jose Reaño Ortega",
+    "gender": "m",
+    "id": "2011ORTE02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 5,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Marvin Castañeda Cruzado",
+    "gender": "m",
+    "id": "2011CRUZ01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 11,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Kevin Estefano Coayla Vargas",
+    "gender": "m",
+    "id": "2016VARG04",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 15,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Vladimir De la Torre",
+    "gender": "m",
+    "id": "2012TORR07",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 16,
+    "competitionsOrganised": 1
+  },
+  {
+    "name": "Fabián Nicolás Cáceres Herrera",
+    "gender": "m",
+    "id": "2022HERR11",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 15,
+    "competitionsOrganised": 4
+  },
+  {
+    "name": "Jael Riggenbach",
+    "gender": "f",
+    "id": "2011RIGG02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 83,
+    "competitionsOrganised": 2
+  },
+  {
+    "name": "Walter Torres Revilla",
+    "gender": "m",
+    "id": "2024REVI03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 4,
+    "competitionsOrganised": 1
+  }
+]

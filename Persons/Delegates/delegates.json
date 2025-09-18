@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Helar Gomez Chalco",
+    "gender": "m",
+    "id": "2015CHAL01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 66,
+    "competitionsDelegated": 49
+  },
+  {
+    "name": "Natán Riggenbach",
+    "gender": "m",
+    "id": "2011RIGG03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 128,
+    "competitionsDelegated": 121
+  },
+  {
+    "name": "Pedro Luis Mamani Suclla",
+    "gender": "m",
+    "id": "2015SUCL01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 45,
+    "competitionsDelegated": 9
+  },
+  {
+    "name": "Kevin Antony Tello Delgado",
+    "gender": "m",
+    "id": "2017DELG02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 61,
+    "competitionsDelegated": 7
+  },
+  {
+    "name": "Jose Abanto Ortiz",
+    "gender": "m",
+    "id": "2012ORTI04",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 52,
+    "competitionsDelegated": 44
+  },
+  {
+    "name": "Paulo Guillén",
+    "gender": "m",
+    "id": "2014GUIL02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 13,
+    "competitionsDelegated": 12
+  },
+  {
+    "name": "Andrés Hisashi Suzuki Cabrera",
+    "gender": "m",
+    "id": "2016SUZU03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 74,
+    "competitionsDelegated": 58
+  },
+  {
+    "name": "Michel Andre Gonzaga Quijano",
+    "gender": "m",
+    "id": "2018QUIJ01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 61,
+    "competitionsDelegated": 57
+  },
+  {
+    "name": "Angelo Giovanni Licetti León",
+    "gender": "m",
+    "id": "2013LEON05",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 23,
+    "competitionsDelegated": 6
+  },
+  {
+    "name": "Jhonatan Reategui",
+    "gender": "m",
+    "id": "2016REAT01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 42,
+    "competitionsDelegated": 15
+  },
+  {
+    "name": "Bruno Alonso Villacorta Montoya",
+    "gender": "m",
+    "id": "2016MONT33",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 34,
+    "competitionsDelegated": 22
+  },
+  {
+    "name": "Noel Yzaguirre",
+    "gender": "m",
+    "id": "2011QUEZ01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 25,
+    "competitionsDelegated": 10
+  },
+  {
+    "name": "Christian Saenz Valdivia",
+    "gender": "m",
+    "id": "2013VALD02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 16,
+    "competitionsDelegated": 3
+  }
+]

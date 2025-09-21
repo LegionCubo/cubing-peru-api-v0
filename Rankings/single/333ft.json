@@ -17,9 +17,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Ningbo Footsteps 2019",
+    "cityName": "Ningbo, Zhejiang",
+    "competitionDate": "2019-12-15",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -39,9 +40,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Juan Manuel Zafra Open 2019",
+    "cityName": "Barcelona",
+    "competitionDate": "2019-06-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -61,9 +63,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Iruña Open 2018",
+    "cityName": "Pamplona, Navarra",
+    "competitionDate": "2018-02-03",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -83,8 +86,9 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Italian Open 2015",
+    "cityName": "Milan",
+    "competitionDate": "2015-12-05",
+    "gender": "m"
   }
 ]

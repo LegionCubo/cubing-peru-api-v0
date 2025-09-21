@@ -19,7 +19,8 @@
     "personCountryId": "Peru",
     "competitionName": "Chosica Cubing Cup 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-9-3"
+    "competitionDate": "2023-09-03",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -41,7 +42,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Cubing Festival lll 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-2"
+    "competitionDate": "2024-11-02",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -63,7 +65,8 @@
     "personCountryId": "Peru",
     "competitionName": "Torneo Aventura Cubica 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-1-23"
+    "competitionDate": "2016-01-23",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -85,7 +88,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Cubing Festival VI 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -107,7 +111,8 @@
     "personCountryId": "Peru",
     "competitionName": "UNSA Speedcubing Primavera 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-10-7"
+    "competitionDate": "2023-10-07",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -129,7 +134,8 @@
     "personCountryId": "Peru",
     "competitionName": "200 Perú 2024",
     "cityName": "Arequipa",
-    "competitionDate": "2024-7-13"
+    "competitionDate": "2024-07-13",
+    "gender": "f"
   },
   {
     "pos": "1",
@@ -149,9 +155,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Parthenope Summer Open 2024",
+    "cityName": "San Sebastiano Al Vesuvio, Napoli",
+    "competitionDate": "2024-06-15",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -173,7 +180,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Spring 2017",
     "cityName": "Arequipa",
-    "competitionDate": "2017-12-9"
+    "competitionDate": "2017-12-09",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -195,7 +203,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Summer 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-2-4"
+    "competitionDate": "2023-02-04",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -217,7 +226,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Space lV Santa Anita 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-1-4"
+    "competitionDate": "2025-01-04",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -239,7 +249,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima I 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-9-16"
+    "competitionDate": "2023-09-16",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -261,7 +272,8 @@
     "personCountryId": "Peru",
     "competitionName": "GeekStore Speedsolving 2019",
     "cityName": "Pucallpa",
-    "competitionDate": "2019-12-28"
+    "competitionDate": "2019-12-28",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -281,9 +293,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Laguna Speedcubing Open V 2024",
+    "cityName": "San Pedro City, Laguna",
+    "competitionDate": "2024-07-14",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -305,7 +318,8 @@
     "personCountryId": "Peru",
     "competitionName": "Aventura Cúbica V 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-1-27"
+    "competitionDate": "2018-01-27",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -327,7 +341,8 @@
     "personCountryId": "Peru",
     "competitionName": "Torneo Aventura Cubica 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-1-23"
+    "competitionDate": "2016-01-23",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -349,7 +364,8 @@
     "personCountryId": "Peru",
     "competitionName": "Los Reyes del Cubo Chiclayo 2024",
     "cityName": "Chiclayo",
-    "competitionDate": "2024-4-28"
+    "competitionDate": "2024-04-28",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -371,7 +387,8 @@
     "personCountryId": "Peru",
     "competitionName": "Yanahuara Summer 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-3-1"
+    "competitionDate": "2025-03-01",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -393,7 +410,8 @@
     "personCountryId": "Peru",
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -415,7 +433,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Norte Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-4-23"
+    "competitionDate": "2016-04-23",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -437,7 +456,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Space Santa Anita 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-21"
+    "competitionDate": "2023-10-21",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -459,7 +479,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -481,7 +502,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -503,7 +525,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -525,7 +548,8 @@
     "personCountryId": "Peru",
     "competitionName": "Huancayo Summer 2023",
     "cityName": "Huancayo",
-    "competitionDate": "2023-3-18"
+    "competitionDate": "2023-03-18",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -547,7 +571,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cusco Speedcubing III 2019",
     "cityName": "Cusco",
-    "competitionDate": "2019-11-30"
+    "competitionDate": "2019-11-30",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -569,7 +594,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima IV 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-3-2"
+    "competitionDate": "2024-03-02",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -591,7 +617,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedcubers Elite Lima 2021",
     "cityName": "Lima",
-    "competitionDate": "2021-10-30"
+    "competitionDate": "2021-10-30",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -613,7 +640,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Fall 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-6-1"
+    "competitionDate": "2019-06-01",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -635,7 +663,8 @@
     "personCountryId": "Peru",
     "competitionName": "UNSA Speedcubing Otoño 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-4-26"
+    "competitionDate": "2025-04-26",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -657,7 +686,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Deluxe 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-1-12"
+    "competitionDate": "2019-01-12",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -679,7 +709,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima IV 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-3-2"
+    "competitionDate": "2024-03-02",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -701,7 +732,8 @@
     "personCountryId": "Peru",
     "competitionName": "Caballero de los Mares Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-8"
+    "competitionDate": "2024-10-08",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -723,7 +755,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Cubinvierno 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-7-22"
+    "competitionDate": "2023-07-22",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -745,7 +778,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedcuber Peru II Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-12-16"
+    "competitionDate": "2023-12-16",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -767,7 +801,8 @@
     "personCountryId": "Peru",
     "competitionName": "RubIquitos 2016",
     "cityName": "Iquitos",
-    "competitionDate": "2016-10-22"
+    "competitionDate": "2016-10-22",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -789,7 +824,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Norte Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-4-23"
+    "competitionDate": "2016-04-23",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -811,7 +847,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -833,7 +870,8 @@
     "personCountryId": "Peru",
     "competitionName": "Crazy Cubes Open 2017",
     "cityName": "Trujillo",
-    "competitionDate": "2017-7-9"
+    "competitionDate": "2017-07-09",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -855,7 +893,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima V 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-29"
+    "competitionDate": "2025-03-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -877,7 +916,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -899,7 +939,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -921,7 +962,8 @@
     "personCountryId": "Peru",
     "competitionName": "Game Pro Tour 2016",
     "cityName": "Arequipa",
-    "competitionDate": "2016-8-13"
+    "competitionDate": "2016-08-13",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -943,7 +985,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-7-16"
+    "competitionDate": "2016-07-16",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -965,7 +1008,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima II 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-9-30"
+    "competitionDate": "2023-09-30",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -987,7 +1031,8 @@
     "personCountryId": "Peru",
     "competitionName": "Los Reyes del Cubo Chiclayo III 2025",
     "cityName": "Chiclayo",
-    "competitionDate": "2025-1-25"
+    "competitionDate": "2025-01-25",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1009,7 +1054,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2013",
     "cityName": "Lima",
-    "competitionDate": "2013-4-5"
+    "competitionDate": "2013-04-05",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1031,7 +1077,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Space lll Santa Anita 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-5-25"
+    "competitionDate": "2024-05-25",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -1053,7 +1100,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1075,7 +1123,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Cuberano 2020",
     "cityName": "Lima",
-    "competitionDate": "2020-1-18"
+    "competitionDate": "2020-01-18",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1097,7 +1146,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima lll 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-10"
+    "competitionDate": "2024-02-10",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1119,7 +1169,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Spring Open 2015",
     "cityName": "Lima",
-    "competitionDate": "2015-10-10"
+    "competitionDate": "2015-10-10",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1141,7 +1192,8 @@
     "personCountryId": "Peru",
     "competitionName": "Game Pro Tour 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-10-27"
+    "competitionDate": "2018-10-27",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -1163,7 +1215,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Norte Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-4-23"
+    "competitionDate": "2016-04-23",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1185,7 +1238,8 @@
     "personCountryId": "Peru",
     "competitionName": "Paseo Central Winter 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-7-5"
+    "competitionDate": "2025-07-05",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1207,7 +1261,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cube Force Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-5-20"
+    "competitionDate": "2023-05-20",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -1229,7 +1284,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1251,7 +1307,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Marcos Open 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-8-12"
+    "competitionDate": "2023-08-12",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1273,7 +1330,8 @@
     "personCountryId": "Peru",
     "competitionName": "Open Christmas Cube Huancayo 2024",
     "cityName": "Huancayo",
-    "competitionDate": "2024-12-14"
+    "competitionDate": "2024-12-14",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1295,7 +1353,8 @@
     "personCountryId": "Peru",
     "competitionName": "UNSA Speedcubing Otoño 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-4-26"
+    "competitionDate": "2025-04-26",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1315,9 +1374,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Etna Open 2016",
+    "cityName": "Misterbianco, Catania",
+    "competitionDate": "2016-12-18",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1339,7 +1399,8 @@
     "personCountryId": "Peru",
     "competitionName": "Glorioso San Carlos 2020",
     "cityName": "Puno",
-    "competitionDate": "2020-2-15"
+    "competitionDate": "2020-02-15",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -1361,7 +1422,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cube Force Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-5-20"
+    "competitionDate": "2023-05-20",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -1383,7 +1445,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-8-27"
+    "competitionDate": "2016-08-27",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -1405,7 +1468,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-7-16"
+    "competitionDate": "2016-07-16",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1427,7 +1491,8 @@
     "personCountryId": "Peru",
     "competitionName": "Los Reyes del Cubo Chiclayo III 2025",
     "cityName": "Chiclayo",
-    "competitionDate": "2025-1-25"
+    "competitionDate": "2025-01-25",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1449,7 +1514,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cultural Open 2014",
     "cityName": "Arequipa",
-    "competitionDate": "2014-2-7"
+    "competitionDate": "2014-02-07",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -1471,7 +1537,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Norte Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-4-23"
+    "competitionDate": "2016-04-23",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1493,7 +1560,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cientifico Open 2015",
     "cityName": "Lima",
-    "competitionDate": "2015-11-8"
+    "competitionDate": "2015-11-08",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1515,7 +1583,8 @@
     "personCountryId": "Peru",
     "competitionName": "UNSA Speedcubing Verano 2024",
     "cityName": "Arequipa",
-    "competitionDate": "2024-2-17"
+    "competitionDate": "2024-02-17",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1537,7 +1606,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2013",
     "cityName": "Lima",
-    "competitionDate": "2013-4-5"
+    "competitionDate": "2013-04-05",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -1557,9 +1627,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Les Franqueses Open 2019",
+    "cityName": "Les Franqueses del Vallès, Barcelona",
+    "competitionDate": "2019-04-06",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1581,7 +1652,8 @@
     "personCountryId": "Peru",
     "competitionName": "Yanahuara Summer 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-3-1"
+    "competitionDate": "2025-03-01",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1603,7 +1675,8 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
-    "competitionDate": "2012-2-18"
+    "competitionDate": "2012-02-18",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1625,7 +1698,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cusco Speedcubing II 2019",
     "cityName": "Cusco",
-    "competitionDate": "2019-6-29"
+    "competitionDate": "2019-06-29",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -1647,7 +1721,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Cubing Festival I 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-6-22"
+    "competitionDate": "2024-06-22",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -1669,7 +1744,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Fall 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-6-1"
+    "competitionDate": "2019-06-01",
+    "gender": "m"
   },
   {
     "pos": "42",
@@ -1689,9 +1765,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "German Nationals 2023",
+    "cityName": "Körle",
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1713,7 +1790,8 @@
     "personCountryId": "Peru",
     "competitionName": "Chiclayo Open 2012",
     "cityName": "Chiclayo",
-    "competitionDate": "2012-8-11"
+    "competitionDate": "2012-08-11",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1735,7 +1813,8 @@
     "personCountryId": "Peru",
     "competitionName": "Paseo Central Winter 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-7-5"
+    "competitionDate": "2025-07-05",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -1755,9 +1834,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "El Masnou Open 2024",
+    "cityName": "El Masnou",
+    "competitionDate": "2024-04-20",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1779,7 +1859,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Junín 2018",
     "cityName": "Huancayo",
-    "competitionDate": "2018-8-18"
+    "competitionDate": "2018-08-18",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1801,7 +1882,8 @@
     "personCountryId": "Peru",
     "competitionName": "Los Reyes del Cubo Chiclayo 2024",
     "cityName": "Chiclayo",
-    "competitionDate": "2024-4-28"
+    "competitionDate": "2024-04-28",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1823,7 +1905,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Sakura 2017",
     "cityName": "Huancayo",
-    "competitionDate": "2017-12-17"
+    "competitionDate": "2017-12-17",
+    "gender": "m"
   },
   {
     "pos": "15",
@@ -1843,9 +1926,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Santpedor Open 2025",
+    "cityName": "Santpedor",
+    "competitionDate": "2025-06-14",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1867,7 +1951,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Geekcuber 2023",
     "cityName": "Pucallpa",
-    "competitionDate": "2023-4-2"
+    "competitionDate": "2023-04-02",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1889,7 +1974,8 @@
     "personCountryId": "Peru",
     "competitionName": "Contigo Peru Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-6-7"
+    "competitionDate": "2024-06-07",
+    "gender": "f"
   },
   {
     "pos": "12",
@@ -1911,7 +1997,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -1933,7 +2020,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG & Friends 2015",
     "cityName": "Lima",
-    "competitionDate": "2015-7-11"
+    "competitionDate": "2015-07-11",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1955,7 +2043,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Jose Cubing 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-3-10"
+    "competitionDate": "2018-03-10",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -1977,7 +2066,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima lll 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-10"
+    "competitionDate": "2024-02-10",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -1999,7 +2089,8 @@
     "personCountryId": "Peru",
     "competitionName": "Open PUCP Cubing Community 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-7-19"
+    "competitionDate": "2024-07-19",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2021,7 +2112,8 @@
     "personCountryId": "Peru",
     "competitionName": "UNSA Speedcubing Otoño 2025",
     "cityName": "Arequipa",
-    "competitionDate": "2025-4-26"
+    "competitionDate": "2025-04-26",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -2043,7 +2135,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-8-27"
+    "competitionDate": "2016-08-27",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -2065,7 +2158,8 @@
     "personCountryId": "Peru",
     "competitionName": "Real Cube 2022",
     "cityName": "Lima",
-    "competitionDate": "2022-8-6"
+    "competitionDate": "2022-08-06",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2087,7 +2181,8 @@
     "personCountryId": "Peru",
     "competitionName": "Mariano Melgar Speedcubing 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-8-4"
+    "competitionDate": "2018-08-04",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2109,7 +2204,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Fall Arequipa 2017",
     "cityName": "Arequipa",
-    "competitionDate": "2017-4-22"
+    "competitionDate": "2017-04-22",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2131,7 +2227,8 @@
     "personCountryId": "Peru",
     "competitionName": "Game Pro Tour 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-10-27"
+    "competitionDate": "2018-10-27",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2153,7 +2250,8 @@
     "personCountryId": "Peru",
     "competitionName": "Salesianos Open 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-9-29"
+    "competitionDate": "2018-09-29",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2175,7 +2273,8 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Happy New Year 2020",
     "cityName": "Trujillo",
-    "competitionDate": "2020-2-22"
+    "competitionDate": "2020-02-22",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -2197,7 +2296,8 @@
     "personCountryId": "Peru",
     "competitionName": "Last Cubing Lima 2017",
     "cityName": "Lima",
-    "competitionDate": "2017-12-9"
+    "competitionDate": "2017-12-09",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -2219,7 +2319,8 @@
     "personCountryId": "Peru",
     "competitionName": "Mariano Melgar 2015",
     "cityName": "Arequipa",
-    "competitionDate": "2015-4-11"
+    "competitionDate": "2015-04-11",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2241,7 +2342,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Spring Open 2015",
     "cityName": "Lima",
-    "competitionDate": "2015-10-10"
+    "competitionDate": "2015-10-10",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2263,7 +2365,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Rubik Arguedas 2013",
     "cityName": "Lima",
-    "competitionDate": "2013-11-9"
+    "competitionDate": "2013-11-09",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -2285,7 +2388,8 @@
     "personCountryId": "Peru",
     "competitionName": "Palacio del Cubo 2013",
     "cityName": "Lima",
-    "competitionDate": "2013-10-26"
+    "competitionDate": "2013-10-26",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -2307,7 +2411,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-7-16"
+    "competitionDate": "2016-07-16",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2329,7 +2434,8 @@
     "personCountryId": "Peru",
     "competitionName": "Caballero de los Mares Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-8"
+    "competitionDate": "2024-10-08",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -2351,7 +2457,8 @@
     "personCountryId": "Peru",
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-7-17"
+    "competitionDate": "2011-07-17",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -2373,7 +2480,8 @@
     "personCountryId": "Peru",
     "competitionName": "Huánuco al Cubo 2024",
     "cityName": "Huánuco",
-    "competitionDate": "2024-8-18"
+    "competitionDate": "2024-08-18",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -2395,7 +2503,8 @@
     "personCountryId": "Peru",
     "competitionName": "Salesianos Open 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-9-29"
+    "competitionDate": "2018-09-29",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -2417,7 +2526,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2439,7 +2549,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cusco Speedcubing 2022",
     "cityName": "Cusco",
-    "competitionDate": "2022-12-10"
+    "competitionDate": "2022-12-10",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -2461,7 +2572,8 @@
     "personCountryId": "Peru",
     "competitionName": "UNSA Speedcubing Primavera 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-10-7"
+    "competitionDate": "2023-10-07",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -2483,7 +2595,8 @@
     "personCountryId": "Peru",
     "competitionName": "INABIF Open 2015",
     "cityName": "Lima",
-    "competitionDate": "2015-12-5"
+    "competitionDate": "2015-12-05",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2503,9 +2616,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Riberas del Guadaíra 2018",
+    "cityName": "Alcalá de Guadaíra, Sevilla",
+    "competitionDate": "2018-05-05",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2527,7 +2641,8 @@
     "personCountryId": "Peru",
     "competitionName": "Open Colca 2014",
     "cityName": "Arequipa",
-    "competitionDate": "2014-3-21"
+    "competitionDate": "2014-03-21",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -2549,7 +2664,8 @@
     "personCountryId": "Peru",
     "competitionName": "Plaza Center Cube Lima II 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-9-30"
+    "competitionDate": "2023-09-30",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2571,7 +2687,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Sakura 2017",
     "cityName": "Huancayo",
-    "competitionDate": "2017-12-17"
+    "competitionDate": "2017-12-17",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2593,7 +2710,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Martin Open 2015",
     "cityName": "Arequipa",
-    "competitionDate": "2015-10-10"
+    "competitionDate": "2015-10-10",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -2615,7 +2733,8 @@
     "personCountryId": "Peru",
     "competitionName": "TCG Spring Open 2015",
     "cityName": "Lima",
-    "competitionDate": "2015-10-10"
+    "competitionDate": "2015-10-10",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -2637,7 +2756,8 @@
     "personCountryId": "Peru",
     "competitionName": "Cuber Spring Open Plaza Huancayo 2023",
     "cityName": "Huancayo",
-    "competitionDate": "2023-9-23"
+    "competitionDate": "2023-09-23",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2659,7 +2779,8 @@
     "personCountryId": "Peru",
     "competitionName": "Hunter Open 2015",
     "cityName": "Arequipa",
-    "competitionDate": "2015-6-13"
+    "competitionDate": "2015-06-13",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -2681,7 +2802,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Rubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-8-27"
+    "competitionDate": "2016-08-27",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2703,6 +2825,7 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Sakura 2017",
     "cityName": "Huancayo",
-    "competitionDate": "2017-12-17"
+    "competitionDate": "2017-12-17",
+    "gender": "m"
   }
 ]

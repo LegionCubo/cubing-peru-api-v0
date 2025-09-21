@@ -17,9 +17,10 @@
     "regionalSingleRecord": "SAR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "CubingUSA Nationals 2017",
+    "cityName": "Fort Wayne, Indiana",
+    "competitionDate": "2017-07-07",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -41,7 +42,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Jose Cubing 2018",
     "cityName": "Arequipa",
-    "competitionDate": "2018-3-10"
+    "competitionDate": "2018-03-10",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -63,7 +65,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -85,7 +88,8 @@
     "personCountryId": "Peru",
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -107,7 +111,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -129,7 +134,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -151,7 +157,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -173,7 +180,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -193,9 +201,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "TahimiKubing in MultiLupa 2024",
+    "cityName": "Muntinlupa City",
+    "competitionDate": "2024-03-31",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -217,7 +226,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -239,7 +249,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -261,6 +272,7 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   }
 ]

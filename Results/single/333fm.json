@@ -19,7 +19,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -41,7 +42,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -63,7 +65,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -85,7 +88,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -107,7 +111,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -129,7 +134,8 @@
     "personCountryId": "Peru",
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -151,7 +157,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -173,29 +180,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
-  },
-  {
-    "pos": "7",
-    "best": "26",
-    "average": "3633",
-    "value1": "26",
-    "value2": "43",
-    "value3": "40",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Kevin Arturo Huamán Ruiz",
-    "personId": "2014RUIZ10",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -217,7 +203,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -239,7 +226,31 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
+  },
+  {
+    "pos": "7",
+    "best": "26",
+    "average": "3633",
+    "value1": "26",
+    "value2": "43",
+    "value3": "40",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Kevin Arturo Huamán Ruiz",
+    "personId": "2014RUIZ10",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "20",
@@ -261,7 +272,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Los Andes 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-6-1"
+    "competitionDate": "2025-06-01",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -283,7 +295,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "47",
@@ -305,7 +318,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -327,29 +341,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
-  },
-  {
-    "pos": "3",
-    "best": "27",
-    "average": "3067",
-    "value1": "27",
-    "value2": "33",
-    "value3": "32",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Ronald Fernando Remuzgo Salazar",
-    "personId": "2017SALA07",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -371,7 +364,8 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
   },
   {
     "pos": "12",
@@ -393,7 +387,8 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
   },
   {
     "pos": "51",
@@ -415,7 +410,8 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -437,29 +433,31 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
-    "pos": "5",
-    "best": "28",
-    "average": "3333",
-    "value1": "37",
-    "value2": "28",
-    "value3": "35",
+    "pos": "3",
+    "best": "27",
+    "average": "3067",
+    "value1": "27",
+    "value2": "33",
+    "value3": "32",
     "value4": "0",
     "value5": "0",
-    "competitionId": "GeselligesGewurfelGottingen2025",
+    "competitionId": "PeruNationals2024",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Eduardo Munive",
-    "personId": "2018MUNI02",
+    "personName": "Ronald Fernando Remuzgo Salazar",
+    "personId": "2017SALA07",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -481,73 +479,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
-  },
-  {
-    "pos": "1",
-    "best": "28",
-    "average": "3033",
-    "value1": "28",
-    "value2": "31",
-    "value3": "32",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "AtipanakuyLima2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Paolo Gallegos",
-    "personId": "2018DIAZ09",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Atipanakuy Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-17"
-  },
-  {
-    "pos": "1",
-    "best": "28",
-    "average": "2900",
-    "value1": "29",
-    "value2": "30",
-    "value3": "28",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Paolo Gallegos",
-    "personId": "2018DIAZ09",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
-  },
-  {
-    "pos": "2",
-    "best": "28",
-    "average": "2933",
-    "value1": "29",
-    "value2": "28",
-    "value3": "31",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Mateo Aguirre",
-    "personId": "2022AGUI03",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -569,7 +502,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -591,7 +525,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "52",
@@ -613,7 +548,8 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -635,7 +571,100 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
+  },
+  {
+    "pos": "1",
+    "best": "28",
+    "average": "3033",
+    "value1": "28",
+    "value2": "31",
+    "value3": "32",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "AtipanakuyLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Paolo Gallegos",
+    "personId": "2018DIAZ09",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Atipanakuy Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-17",
+    "gender": "m"
+  },
+  {
+    "pos": "1",
+    "best": "28",
+    "average": "2900",
+    "value1": "29",
+    "value2": "30",
+    "value3": "28",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Paolo Gallegos",
+    "personId": "2018DIAZ09",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
+  },
+  {
+    "pos": "2",
+    "best": "28",
+    "average": "2933",
+    "value1": "29",
+    "value2": "28",
+    "value3": "31",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Mateo Aguirre",
+    "personId": "2022AGUI03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
+  },
+  {
+    "pos": "5",
+    "best": "28",
+    "average": "3333",
+    "value1": "37",
+    "value2": "28",
+    "value3": "35",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "GeselligesGewurfelGottingen2025",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Eduardo Munive",
+    "personId": "2018MUNI02",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Geselliges Gewürfel Göttingen 2025",
+    "cityName": "Göttingen",
+    "competitionDate": "2025-08-23",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -657,7 +686,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -679,7 +709,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -701,7 +732,8 @@
     "personCountryId": "Peru",
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -723,7 +755,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -745,7 +778,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -767,7 +801,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -789,7 +824,8 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -811,7 +847,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -831,9 +868,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "PoliMi Mental Breakdown 2019",
+    "cityName": "Milan",
+    "competitionDate": "2019-03-16",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -853,9 +891,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Potablava Open 2022",
+    "cityName": "El Prat de Llobregat, Barcelona",
+    "competitionDate": "2022-11-12",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -877,7 +916,8 @@
     "personCountryId": "Peru",
     "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
-    "competitionDate": "2022-11-26"
+    "competitionDate": "2022-11-26",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -899,29 +939,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
-  },
-  {
-    "pos": "5",
-    "best": "30",
-    "average": "-1",
-    "value1": "37",
-    "value2": "30",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "AtipanakuyLima2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Michel Andre Gonzaga Quijano",
-    "personId": "2018QUIJ01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Atipanakuy Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-17"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -943,7 +962,31 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
+  },
+  {
+    "pos": "5",
+    "best": "30",
+    "average": "-1",
+    "value1": "37",
+    "value2": "30",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "AtipanakuyLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Michel Andre Gonzaga Quijano",
+    "personId": "2018QUIJ01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Atipanakuy Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -965,7 +1008,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -987,7 +1031,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "20",
@@ -1009,7 +1054,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1031,7 +1077,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1051,97 +1098,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "4",
-    "best": "31",
-    "average": "3400",
-    "value1": "31",
-    "value2": "38",
-    "value3": "33",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "JaquecaDiTella2023",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Mateo Aguirre",
-    "personId": "2022AGUI03",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "5",
-    "best": "31",
-    "average": "3200",
-    "value1": "32",
-    "value2": "31",
-    "value3": "33",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "JaquecaDiTella2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Mateo Aguirre",
-    "personId": "2022AGUI03",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NR",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "6",
-    "best": "31",
-    "average": "3267",
-    "value1": "31",
-    "value2": "35",
-    "value3": "32",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "NacionalesArgentinas2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Mateo Aguirre",
-    "personId": "2022AGUI03",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "22",
-    "best": "31",
-    "average": "-1",
-    "value1": "56",
-    "value2": "-1",
-    "value3": "31",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpanishChampionship2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "David Parra Meza",
-    "personId": "2010PARR01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "PoliMi Op3n 2018",
+    "cityName": "Milan",
+    "competitionDate": "2018-05-26",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1163,51 +1123,100 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
-    "pos": "2",
+    "pos": "4",
     "best": "31",
-    "average": "3600",
+    "average": "3400",
     "value1": "31",
-    "value2": "39",
-    "value3": "38",
+    "value2": "38",
+    "value3": "33",
     "value4": "0",
     "value5": "0",
-    "competitionId": "PUCPZomblinders2024",
+    "competitionId": "JaquecaDiTella2023",
     "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Andrés Hisashi Suzuki Cabrera",
-    "personId": "2016SUZU03",
+    "roundTypeId": "1",
+    "personName": "Mateo Aguirre",
+    "personId": "2022AGUI03",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "PUCP Zomblinders 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionName": "Jaqueca Di Tella 2023",
+    "cityName": "Buenos Aires, Buenos Aires",
+    "competitionDate": "2023-05-27",
+    "gender": "m"
   },
   {
-    "pos": "3",
+    "pos": "5",
     "best": "31",
-    "average": "3467",
-    "value1": "38",
+    "average": "3200",
+    "value1": "32",
+    "value2": "31",
+    "value3": "33",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "JaquecaDiTella2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Mateo Aguirre",
+    "personId": "2022AGUI03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NR",
+    "personCountryId": "Peru",
+    "competitionName": "Jaqueca Di Tella 2023",
+    "cityName": "Buenos Aires, Buenos Aires",
+    "competitionDate": "2023-05-27",
+    "gender": "m"
+  },
+  {
+    "pos": "6",
+    "best": "31",
+    "average": "3267",
+    "value1": "31",
     "value2": "35",
+    "value3": "32",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "NacionalesArgentinas2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Mateo Aguirre",
+    "personId": "2022AGUI03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Nacionales Argentinas 2023",
+    "cityName": "Buenos Aires, Buenos Aires",
+    "competitionDate": "2023-09-01",
+    "gender": "m"
+  },
+  {
+    "pos": "22",
+    "best": "31",
+    "average": "-1",
+    "value1": "56",
+    "value2": "-1",
     "value3": "31",
     "value4": "0",
     "value5": "0",
-    "competitionId": "AtipanakuyLima2024",
+    "competitionId": "FMCSpanishChampionship2023",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Pedro Giuseppe Garcia Milla",
-    "personId": "2016MILL07",
+    "personName": "David Parra Meza",
+    "personId": "2010PARR01",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "Atipanakuy Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-17"
+    "competitionName": "FMC Spanish Championship 2023",
+    "cityName": "Multiple cities",
+    "competitionDate": "2023-10-14",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -1229,7 +1238,54 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
+  },
+  {
+    "pos": "2",
+    "best": "31",
+    "average": "3600",
+    "value1": "31",
+    "value2": "39",
+    "value3": "38",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PUCPZomblinders2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Andrés Hisashi Suzuki Cabrera",
+    "personId": "2016SUZU03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "PUCP Zomblinders 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-10-27",
+    "gender": "m"
+  },
+  {
+    "pos": "3",
+    "best": "31",
+    "average": "3467",
+    "value1": "38",
+    "value2": "35",
+    "value3": "31",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "AtipanakuyLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pedro Giuseppe Garcia Milla",
+    "personId": "2016MILL07",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Atipanakuy Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -1251,7 +1307,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -1273,7 +1330,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Los Andes 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-6-1"
+    "competitionDate": "2025-06-01",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1295,51 +1353,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
-  },
-  {
-    "pos": "2",
-    "best": "32",
-    "average": "0",
-    "value1": "32",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "VedrunaBalaguerOpen2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pablo Nicolás Oshiro Mondoñedo",
-    "personId": "2010MOND01",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "155",
-    "best": "32",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "32",
-    "value3": "51",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCEurope2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Adrian Estrada",
-    "personId": "2010ESTR01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1361,7 +1376,54 @@
     "personCountryId": "Peru",
     "competitionName": "CCS 2018",
     "cityName": "Trujillo",
-    "competitionDate": "2018-3-2"
+    "competitionDate": "2018-03-02",
+    "gender": "m"
+  },
+  {
+    "pos": "2",
+    "best": "32",
+    "average": "0",
+    "value1": "32",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "VedrunaBalaguerOpen2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pablo Nicolás Oshiro Mondoñedo",
+    "personId": "2010MOND01",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Vedruna Balaguer Open 2019",
+    "cityName": "Balaguer, Lleida",
+    "competitionDate": "2019-02-23",
+    "gender": "m"
+  },
+  {
+    "pos": "155",
+    "best": "32",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "32",
+    "value3": "51",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCEurope2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Adrian Estrada",
+    "personId": "2010ESTR01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Europe 2019",
+    "cityName": "Multiple cities (see website)",
+    "competitionDate": "2019-03-23",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1383,7 +1445,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1405,7 +1468,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1427,7 +1491,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1449,51 +1514,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
-  },
-  {
-    "pos": "1",
-    "best": "32",
-    "average": "3367",
-    "value1": "34",
-    "value2": "32",
-    "value3": "35",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpringLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Pedro Giuseppe Garcia Milla",
-    "personId": "2016MILL07",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-15"
-  },
-  {
-    "pos": "3",
-    "best": "32",
-    "average": "3967",
-    "value1": "47",
-    "value2": "40",
-    "value3": "32",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ZomblindersLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Jack Valencia",
-    "personId": "2019VALE16",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Zomblinders Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "53",
@@ -1515,7 +1537,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -1537,7 +1560,100 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
+  },
+  {
+    "pos": "1",
+    "best": "32",
+    "average": "3367",
+    "value1": "34",
+    "value2": "32",
+    "value3": "35",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpringLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "1",
+    "personName": "Pedro Giuseppe Garcia Milla",
+    "personId": "2016MILL07",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spring Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-15",
+    "gender": "m"
+  },
+  {
+    "pos": "3",
+    "best": "32",
+    "average": "3967",
+    "value1": "47",
+    "value2": "40",
+    "value3": "32",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ZomblindersLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jack Valencia",
+    "personId": "2019VALE16",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Zomblinders Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-29",
+    "gender": "m"
+  },
+  {
+    "pos": "1",
+    "best": "32",
+    "average": "3633",
+    "value1": "32",
+    "value2": "36",
+    "value3": "41",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "AltiplanicFMC2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Piero Alessandro Laguna Obregon",
+    "personId": "2016OBRE01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Altiplanic FMC 2024",
+    "cityName": "Multiple Cities",
+    "competitionDate": "2024-05-05",
+    "gender": "m"
+  },
+  {
+    "pos": "3",
+    "best": "32",
+    "average": "4333",
+    "value1": "32",
+    "value2": "44",
+    "value3": "54",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "AltiplanicFMC2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pedro Francisco Jacinto Rodas",
+    "personId": "2023RODA01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Altiplanic FMC 2024",
+    "cityName": "Multiple Cities",
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1559,7 +1675,8 @@
     "personCountryId": "Peru",
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-17"
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -1581,7 +1698,8 @@
     "personCountryId": "Peru",
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-17"
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1603,7 +1721,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -1625,51 +1744,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
-  },
-  {
-    "pos": "1",
-    "best": "32",
-    "average": "3633",
-    "value1": "32",
-    "value2": "36",
-    "value3": "41",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "AltiplanicFMC2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Piero Alessandro Laguna Obregon",
-    "personId": "2016OBRE01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Altiplanic FMC 2024",
-    "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
-  },
-  {
-    "pos": "3",
-    "best": "32",
-    "average": "4333",
-    "value1": "32",
-    "value2": "44",
-    "value3": "54",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "AltiplanicFMC2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pedro Francisco Jacinto Rodas",
-    "personId": "2023RODA01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Altiplanic FMC 2024",
-    "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1691,7 +1767,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Valencube Huancayo 2025",
     "cityName": "Huancayo",
-    "competitionDate": "2025-2-15"
+    "competitionDate": "2025-02-15",
+    "gender": "m"
   },
   {
     "pos": "14",
@@ -1713,7 +1790,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -1735,7 +1813,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -1755,53 +1834,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "14",
-    "best": "33",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "33",
-    "value3": "34",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "Minyons2022",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pablo Nicolás Oshiro Mondoñedo",
-    "personId": "2010MOND01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "23",
-    "best": "33",
-    "average": "-1",
-    "value1": "-2",
-    "value2": "44",
-    "value3": "33",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FiresdeGirona2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pablo Nicolás Oshiro Mondoñedo",
-    "personId": "2010MOND01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Rovigo Open 2018",
+    "cityName": "Rovigo",
+    "competitionDate": "2018-02-04",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1823,7 +1859,8 @@
     "personCountryId": "Peru",
     "competitionName": "Pre-Nacionales Arequipa 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-8-10"
+    "competitionDate": "2019-08-10",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1845,7 +1882,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1867,51 +1905,31 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
-    "pos": "2",
-    "best": "33",
-    "average": "3500",
-    "value1": "33",
-    "value2": "37",
-    "value3": "35",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpringLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Paolo Gallegos",
-    "personId": "2018DIAZ09",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-15"
-  },
-  {
-    "pos": "7",
+    "pos": "14",
     "best": "33",
     "average": "-1",
-    "value1": "33",
-    "value2": "-1",
-    "value3": "-1",
+    "value1": "-1",
+    "value2": "33",
+    "value3": "34",
     "value4": "0",
     "value5": "0",
-    "competitionId": "ZomblindersLima2023",
+    "competitionId": "Minyons2022",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Angel Jesus Panebra Rodriguez",
-    "personId": "2016RODR37",
+    "personName": "Pablo Nicolás Oshiro Mondoñedo",
+    "personId": "2010MOND01",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "Zomblinders Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionName": "Minyons de Terrassa Open 2022",
+    "cityName": "Terrassa, Barcelona",
+    "competitionDate": "2022-10-22",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -1933,7 +1951,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -1955,7 +1974,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -1977,7 +1997,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -1999,51 +2020,54 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
-    "pos": "10",
+    "pos": "2",
     "best": "33",
-    "average": "-1",
-    "value1": "33",
-    "value2": "34",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pedro Giuseppe Garcia Milla",
-    "personId": "2016MILL07",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
-  },
-  {
-    "pos": "10",
-    "best": "33",
-    "average": "-1",
+    "average": "3500",
     "value1": "33",
     "value2": "37",
-    "value3": "-1",
+    "value3": "35",
     "value4": "0",
     "value5": "0",
-    "competitionId": "PeruNationals2024",
+    "competitionId": "FMCSpringLima2023",
     "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Kevin Antony Tello Delgado",
-    "personId": "2017DELG02",
+    "roundTypeId": "1",
+    "personName": "Paolo Gallegos",
+    "personId": "2018DIAZ09",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
+    "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
+  },
+  {
+    "pos": "7",
+    "best": "33",
+    "average": "-1",
+    "value1": "33",
+    "value2": "-1",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ZomblindersLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Angel Jesus Panebra Rodriguez",
+    "personId": "2016RODR37",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Zomblinders Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2065,7 +2089,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -2087,7 +2112,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "58",
@@ -2109,7 +2135,77 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
+  },
+  {
+    "pos": "23",
+    "best": "33",
+    "average": "-1",
+    "value1": "-2",
+    "value2": "44",
+    "value3": "33",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FiresdeGirona2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pablo Nicolás Oshiro Mondoñedo",
+    "personId": "2010MOND01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Fires de Girona 2024",
+    "cityName": "Girona",
+    "competitionDate": "2024-11-01",
+    "gender": "m"
+  },
+  {
+    "pos": "10",
+    "best": "33",
+    "average": "-1",
+    "value1": "33",
+    "value2": "34",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pedro Giuseppe Garcia Milla",
+    "personId": "2016MILL07",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
+  },
+  {
+    "pos": "10",
+    "best": "33",
+    "average": "-1",
+    "value1": "33",
+    "value2": "37",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Kevin Antony Tello Delgado",
+    "personId": "2017DELG02",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "17",
@@ -2131,7 +2227,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -2151,9 +2248,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Basauri Open 2014",
+    "cityName": "Basauri (Bilbao)",
+    "competitionDate": "2014-10-04",
+    "gender": "m"
   },
   {
     "pos": "25",
@@ -2173,9 +2271,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Italian Championship 2018",
+    "cityName": "Rome",
+    "competitionDate": "2018-11-02",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -2195,31 +2294,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "3",
-    "best": "34",
-    "average": "-1",
-    "value1": "40",
-    "value2": "-1",
-    "value3": "34",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "SinDNFenelPalacio2022",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Paolo Gallegos",
-    "personId": "2018DIAZ09",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Sin DNF en el Palacio 2022",
-    "cityName": "Lima",
-    "competitionDate": "2022-11-26"
+    "competitionName": "Ningbo Footsteps 2019",
+    "cityName": "Ningbo, Zhejiang",
+    "competitionDate": "2019-12-15",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -2241,29 +2319,31 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
-    "pos": "5",
+    "pos": "3",
     "best": "34",
     "average": "-1",
-    "value1": "38",
-    "value2": "34",
-    "value3": "-1",
+    "value1": "40",
+    "value2": "-1",
+    "value3": "34",
     "value4": "0",
     "value5": "0",
-    "competitionId": "FMCSpringLima2023",
+    "competitionId": "SinDNFenelPalacio2022",
     "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Zamir Pantoja",
-    "personId": "2018PANT03",
+    "roundTypeId": "f",
+    "personName": "Paolo Gallegos",
+    "personId": "2018DIAZ09",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
+    "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2022-11-26",
+    "gender": "m"
   },
   {
     "pos": "56",
@@ -2285,7 +2365,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -2307,51 +2388,31 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
-    "pos": "6",
-    "best": "34",
-    "average": "3533",
-    "value1": "34",
-    "value2": "35",
-    "value3": "37",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Dilan Huillca",
-    "personId": "2019HUIL01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
-  },
-  {
-    "pos": "12",
+    "pos": "5",
     "best": "34",
     "average": "-1",
-    "value1": "34",
-    "value2": "-1",
+    "value1": "38",
+    "value2": "34",
     "value3": "-1",
     "value4": "0",
     "value5": "0",
-    "competitionId": "PeruNationals2024",
+    "competitionId": "FMCSpringLima2023",
     "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Alonzo Sanchez Arica",
-    "personId": "2023ARIC01",
+    "roundTypeId": "1",
+    "personName": "Zamir Pantoja",
+    "personId": "2018PANT03",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
+    "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -2373,7 +2434,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -2395,7 +2457,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -2417,7 +2480,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -2439,7 +2503,54 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
+  },
+  {
+    "pos": "6",
+    "best": "34",
+    "average": "3533",
+    "value1": "34",
+    "value2": "35",
+    "value3": "37",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Dilan Huillca",
+    "personId": "2019HUIL01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
+  },
+  {
+    "pos": "12",
+    "best": "34",
+    "average": "-1",
+    "value1": "34",
+    "value2": "-1",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Alonzo Sanchez Arica",
+    "personId": "2023ARIC01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "55",
@@ -2461,51 +2572,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
-  },
-  {
-    "pos": "22",
-    "best": "35",
-    "average": "-1",
-    "value1": "-2",
-    "value2": "37",
-    "value3": "35",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "RNSEA2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Eduardo Munive",
-    "personId": "2018MUNI02",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "4",
-    "best": "35",
-    "average": "-1",
-    "value1": "35",
-    "value2": "-1",
-    "value3": "36",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "SinDNFenelPalacio2022",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Leon Achata",
-    "personId": "2015ACHA01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Sin DNF en el Palacio 2022",
-    "cityName": "Lima",
-    "competitionDate": "2022-11-26"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -2527,7 +2595,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2549,7 +2618,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
+  },
+  {
+    "pos": "4",
+    "best": "35",
+    "average": "-1",
+    "value1": "35",
+    "value2": "-1",
+    "value3": "36",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "SinDNFenelPalacio2022",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Leon Achata",
+    "personId": "2015ACHA01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Sin DNF en el Palacio 2022",
+    "cityName": "Lima",
+    "competitionDate": "2022-11-26",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -2571,7 +2664,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2593,7 +2687,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -2615,73 +2710,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
-    "pos": "6",
-    "best": "35",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "35",
-    "value3": "41",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PUCPZomblinders2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Alonzo Sanchez Arica",
-    "personId": "2023ARIC01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "PUCP Zomblinders 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-10-27"
-  },
-  {
-    "pos": "6",
-    "best": "35",
-    "average": "-1",
-    "value1": "35",
-    "value2": "-1",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PUCPZomblinders2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Piero Alessandro Laguna Obregon",
-    "personId": "2016OBRE01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "PUCP Zomblinders 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-10-27"
-  },
-  {
-    "pos": "13",
+    "pos": "22",
     "best": "35",
     "average": "-1",
     "value1": "-2",
-    "value2": "-1",
+    "value2": "37",
     "value3": "35",
     "value4": "0",
     "value5": "0",
-    "competitionId": "PeruNationals2024",
+    "competitionId": "RNSEA2023",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Marlon Rojas",
-    "personId": "2023ROJA17",
+    "personName": "Eduardo Munive",
+    "personId": "2018MUNI02",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionName": "Rhein-Neckar Side Events August 2023",
+    "cityName": "Laudenbach",
+    "competitionDate": "2023-08-26",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -2703,7 +2756,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -2725,7 +2779,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -2747,7 +2802,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "188",
@@ -2769,7 +2825,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-6-1"
+    "competitionDate": "2024-06-01",
+    "gender": "m"
   },
   {
     "pos": "224",
@@ -2791,73 +2848,77 @@
     "personCountryId": "Peru",
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-6-1"
+    "competitionDate": "2024-06-01",
+    "gender": "m"
   },
   {
-    "pos": "33",
-    "best": "36",
+    "pos": "6",
+    "best": "35",
     "average": "-1",
     "value1": "-1",
-    "value2": "-1",
-    "value3": "36",
+    "value2": "35",
+    "value3": "41",
     "value4": "0",
     "value5": "0",
-    "competitionId": "France2018",
+    "competitionId": "PUCPZomblinders2024",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "David Parra Meza",
-    "personId": "2010PARR01",
+    "personName": "Alonzo Sanchez Arica",
+    "personId": "2023ARIC01",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "PUCP Zomblinders 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
-    "pos": "28",
-    "best": "36",
-    "average": "0",
-    "value1": "36",
-    "value2": "0",
-    "value3": "0",
+    "pos": "6",
+    "best": "35",
+    "average": "-1",
+    "value1": "35",
+    "value2": "-1",
+    "value3": "-1",
     "value4": "0",
     "value5": "0",
-    "competitionId": "ItalianChampionship2019",
+    "competitionId": "PUCPZomblinders2024",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Adrian Estrada",
-    "personId": "2010ESTR01",
-    "formatId": "1",
+    "personName": "Piero Alessandro Laguna Obregon",
+    "personId": "2016OBRE01",
+    "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "PUCP Zomblinders 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
-    "pos": "9",
-    "best": "36",
+    "pos": "13",
+    "best": "35",
     "average": "-1",
     "value1": "-2",
     "value2": "-1",
-    "value3": "36",
+    "value3": "35",
     "value4": "0",
     "value5": "0",
-    "competitionId": "NhoodXperienceSantBoi2023",
+    "competitionId": "PeruNationals2024",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Jhair Moron Gejaño",
-    "personId": "2016MORO03",
+    "personName": "Marlon Rojas",
+    "personId": "2023ROJA17",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -2879,7 +2940,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-7-16"
+    "competitionDate": "2016-07-16",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -2901,7 +2963,31 @@
     "personCountryId": "Peru",
     "competitionName": "CCS 2018",
     "cityName": "Trujillo",
-    "competitionDate": "2018-3-2"
+    "competitionDate": "2018-03-02",
+    "gender": "m"
+  },
+  {
+    "pos": "33",
+    "best": "36",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "-1",
+    "value3": "36",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "France2018",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "David Parra Meza",
+    "personId": "2010PARR01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "French Championship 2018",
+    "cityName": "Lyon",
+    "competitionDate": "2018-03-31",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -2923,7 +3009,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
+  },
+  {
+    "pos": "28",
+    "best": "36",
+    "average": "0",
+    "value1": "36",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ItalianChampionship2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Adrian Estrada",
+    "personId": "2010ESTR01",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Italian Championship 2019",
+    "cityName": "Rovigo",
+    "competitionDate": "2019-11-01",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -2945,51 +3055,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
-  },
-  {
-    "pos": "2",
-    "best": "36",
-    "average": "3733",
-    "value1": "38",
-    "value2": "38",
-    "value3": "36",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ZomblindersLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Kevin Antony Tello Delgado",
-    "personId": "2017DELG02",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Zomblinders Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-29"
-  },
-  {
-    "pos": "8",
-    "best": "36",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "36",
-    "value3": "-2",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ZomblindersLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pedro Alejandro Condo Tellez",
-    "personId": "2015TELL01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Zomblinders Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
     "pos": "21",
@@ -3011,7 +3078,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "61",
@@ -3033,7 +3101,31 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
+  },
+  {
+    "pos": "9",
+    "best": "36",
+    "average": "-1",
+    "value1": "-2",
+    "value2": "-1",
+    "value3": "36",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "NhoodXperienceSantBoi2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jhair Moron Gejaño",
+    "personId": "2016MORO03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Nhood Xperience Sant Boi 2023",
+    "cityName": "Sant Boi de Llobregat, Barcelona",
+    "competitionDate": "2023-06-10",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -3055,7 +3147,146 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
+  },
+  {
+    "pos": "2",
+    "best": "36",
+    "average": "3733",
+    "value1": "38",
+    "value2": "38",
+    "value3": "36",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ZomblindersLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Kevin Antony Tello Delgado",
+    "personId": "2017DELG02",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Zomblinders Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-29",
+    "gender": "m"
+  },
+  {
+    "pos": "8",
+    "best": "36",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "36",
+    "value3": "-2",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ZomblindersLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pedro Alejandro Condo Tellez",
+    "personId": "2015TELL01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Zomblinders Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-29",
+    "gender": "m"
+  },
+  {
+    "pos": "8",
+    "best": "36",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "36",
+    "value3": "38",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "LoveIsBlindLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Kevin Antony Tello Delgado",
+    "personId": "2017DELG02",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Love Is Blind Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-02-18",
+    "gender": "m"
+  },
+  {
+    "pos": "8",
+    "best": "36",
+    "average": "-1",
+    "value1": "36",
+    "value2": "-1",
+    "value3": "37",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "LoveIsBlindLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Kevin Arturo Huamán Ruiz",
+    "personId": "2014RUIZ10",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Love Is Blind Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-02-18",
+    "gender": "m"
+  },
+  {
+    "pos": "11",
+    "best": "36",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "36",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "AltiplanicFMC2024",
+    "eventId": "333fm",
+    "roundTypeId": "1",
+    "personName": "Pedro Francisco Jacinto Rodas",
+    "personId": "2023RODA01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Altiplanic FMC 2024",
+    "cityName": "Multiple Cities",
+    "competitionDate": "2024-05-05",
+    "gender": "m"
+  },
+  {
+    "pos": "6",
+    "best": "36",
+    "average": "-1",
+    "value1": "39",
+    "value2": "-1",
+    "value3": "36",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "WelcomeSpringLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Alonzo Sanchez Arica",
+    "personId": "2023ARIC01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Welcome Spring Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -3077,7 +3308,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -3099,117 +3331,8 @@
     "personCountryId": "Peru",
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-17"
-  },
-  {
-    "pos": "8",
-    "best": "36",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "36",
-    "value3": "38",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "LoveIsBlindLima2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Kevin Antony Tello Delgado",
-    "personId": "2017DELG02",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Love Is Blind Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-2-18"
-  },
-  {
-    "pos": "8",
-    "best": "36",
-    "average": "-1",
-    "value1": "36",
-    "value2": "-1",
-    "value3": "37",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "LoveIsBlindLima2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Kevin Arturo Huamán Ruiz",
-    "personId": "2014RUIZ10",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Love Is Blind Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-2-18"
-  },
-  {
-    "pos": "11",
-    "best": "36",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "36",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "AltiplanicFMC2024",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Pedro Francisco Jacinto Rodas",
-    "personId": "2023RODA01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Altiplanic FMC 2024",
-    "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
-  },
-  {
-    "pos": "6",
-    "best": "36",
-    "average": "-1",
-    "value1": "39",
-    "value2": "-1",
-    "value3": "36",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "WelcomeSpringLima2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Alonzo Sanchez Arica",
-    "personId": "2023ARIC01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Welcome Spring Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-9-15"
-  },
-  {
-    "pos": "4",
-    "best": "37",
-    "average": "0",
-    "value1": "37",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "VedrunaBalaguerOpen2020",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pablo Nicolás Oshiro Mondoñedo",
-    "personId": "2010MOND01",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -3231,7 +3354,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -3253,7 +3377,8 @@
     "personCountryId": "Peru",
     "competitionName": "Glorioso San Carlos 2019",
     "cityName": "Puno",
-    "competitionDate": "2019-2-16"
+    "competitionDate": "2019-02-16",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -3275,7 +3400,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
+  },
+  {
+    "pos": "4",
+    "best": "37",
+    "average": "0",
+    "value1": "37",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "VedrunaBalaguerOpen2020",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pablo Nicolás Oshiro Mondoñedo",
+    "personId": "2010MOND01",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Vedruna Balaguer Open 2020",
+    "cityName": "Balaguer, Lleida",
+    "competitionDate": "2020-02-15",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -3297,7 +3446,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -3319,7 +3469,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -3341,7 +3492,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -3363,7 +3515,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -3385,7 +3538,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "12",
@@ -3407,7 +3561,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -3429,7 +3584,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -3449,9 +3605,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Uchi Montevideo 2016",
+    "cityName": "Montevideo",
+    "competitionDate": "2016-02-12",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -3471,9 +3628,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Taiwan Championship 2016",
+    "cityName": "Taipei",
+    "competitionDate": "2016-10-29",
+    "gender": "m"
   },
   {
     "pos": "17",
@@ -3493,9 +3651,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Road to IC - Milano 2019",
+    "cityName": "Milan",
+    "competitionDate": "2019-10-19",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -3515,9 +3674,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Ningbo Footsteps 2019",
+    "cityName": "Ningbo, Zhejiang",
+    "competitionDate": "2019-12-15",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -3539,7 +3699,31 @@
     "personCountryId": "Peru",
     "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
-    "competitionDate": "2022-11-26"
+    "competitionDate": "2022-11-26",
+    "gender": "m"
+  },
+  {
+    "pos": "12",
+    "best": "38",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "38",
+    "value3": "-2",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pedro Alejandro Condo Tellez",
+    "personId": "2015TELL01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2023",
+    "cityName": "Arequipa",
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -3561,7 +3745,8 @@
     "personCountryId": "Peru",
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -3583,29 +3768,54 @@
     "personCountryId": "Peru",
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
-    "pos": "12",
+    "pos": "13",
     "best": "38",
     "average": "-1",
-    "value1": "-1",
-    "value2": "38",
-    "value3": "-2",
+    "value1": "-2",
+    "value2": "48",
+    "value3": "38",
     "value4": "0",
     "value5": "0",
-    "competitionId": "PeruNationals2023",
+    "competitionId": "AltiplanicFMC2024",
     "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pedro Alejandro Condo Tellez",
-    "personId": "2015TELL01",
+    "roundTypeId": "1",
+    "personName": "Michel Andre Gonzaga Quijano",
+    "personId": "2018QUIJ01",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2023",
-    "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionName": "Altiplanic FMC 2024",
+    "cityName": "Multiple Cities",
+    "competitionDate": "2024-05-05",
+    "gender": "m"
+  },
+  {
+    "pos": "7",
+    "best": "38",
+    "average": "-1",
+    "value1": "-2",
+    "value2": "-1",
+    "value3": "38",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "WelcomeSpringLima2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Gerson Marcelo Nuñez Huanuiri",
+    "personId": "2017HUAN07",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Welcome Spring Lima 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -3627,7 +3837,8 @@
     "personCountryId": "Peru",
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-17"
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -3649,51 +3860,8 @@
     "personCountryId": "Peru",
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-17"
-  },
-  {
-    "pos": "13",
-    "best": "38",
-    "average": "-1",
-    "value1": "-2",
-    "value2": "48",
-    "value3": "38",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "AltiplanicFMC2024",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Michel Andre Gonzaga Quijano",
-    "personId": "2018QUIJ01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Altiplanic FMC 2024",
-    "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
-  },
-  {
-    "pos": "7",
-    "best": "38",
-    "average": "-1",
-    "value1": "-2",
-    "value2": "-1",
-    "value3": "38",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "WelcomeSpringLima2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Gerson Marcelo Nuñez Huanuiri",
-    "personId": "2017HUAN07",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Welcome Spring Lima 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-11-17",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -3715,7 +3883,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -3737,51 +3906,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
-  },
-  {
-    "pos": "112",
-    "best": "39",
-    "average": "-1",
-    "value1": "44",
-    "value2": "-1",
-    "value3": "39",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCEurope2016",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Adrian Estrada",
-    "personId": "2010ESTR01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "8",
-    "best": "39",
-    "average": "0",
-    "value1": "39",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ValdAranOpen2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pablo Nicolás Oshiro Mondoñedo",
-    "personId": "2010MOND01",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -3803,7 +3929,31 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2013",
     "cityName": "Lima",
-    "competitionDate": "2013-4-5"
+    "competitionDate": "2013-04-05",
+    "gender": "m"
+  },
+  {
+    "pos": "112",
+    "best": "39",
+    "average": "-1",
+    "value1": "44",
+    "value2": "-1",
+    "value3": "39",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCEurope2016",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Adrian Estrada",
+    "personId": "2010ESTR01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Europe 2016",
+    "cityName": "Multiple cities (see website)",
+    "competitionDate": "2016-03-12",
+    "gender": "m"
   },
   {
     "pos": "23",
@@ -3825,7 +3975,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -3847,7 +3998,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -3869,7 +4021,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -3891,7 +4044,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "66",
@@ -3913,7 +4067,31 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
+  },
+  {
+    "pos": "8",
+    "best": "39",
+    "average": "0",
+    "value1": "39",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ValdAranOpen2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pablo Nicolás Oshiro Mondoñedo",
+    "personId": "2010MOND01",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Val d'Aran Open 2024",
+    "cityName": "Salardú",
+    "competitionDate": "2024-08-31",
+    "gender": "m"
   },
   {
     "pos": "63",
@@ -3935,7 +4113,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -3957,7 +4136,8 @@
     "personCountryId": "Peru",
     "competitionName": "CCS 2018",
     "cityName": "Trujillo",
-    "competitionDate": "2018-3-2"
+    "competitionDate": "2018-03-02",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -3979,29 +4159,8 @@
     "personCountryId": "Peru",
     "competitionName": "Glorioso San Carlos 2019",
     "cityName": "Puno",
-    "competitionDate": "2019-2-16"
-  },
-  {
-    "pos": "6",
-    "best": "40",
-    "average": "-1",
-    "value1": "40",
-    "value2": "-1",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "SinDNFenelPalacio2022",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Job Coveñas Otoya",
-    "personId": "2017OTOY01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Sin DNF en el Palacio 2022",
-    "cityName": "Lima",
-    "competitionDate": "2022-11-26"
+    "competitionDate": "2019-02-16",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -4023,7 +4182,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -4045,51 +4205,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
-    "pos": "7",
-    "best": "40",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "45",
-    "value3": "40",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpringLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Kevin Antony Tello Delgado",
-    "personId": "2017DELG02",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-15"
-  },
-  {
-    "pos": "7",
+    "pos": "6",
     "best": "40",
     "average": "-1",
     "value1": "40",
     "value2": "-1",
-    "value3": "42",
+    "value3": "-1",
     "value4": "0",
     "value5": "0",
-    "competitionId": "FMCSpringLima2023",
+    "competitionId": "SinDNFenelPalacio2022",
     "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Leon Achata",
-    "personId": "2015ACHA01",
+    "roundTypeId": "f",
+    "personName": "Job Coveñas Otoya",
+    "personId": "2017OTOY01",
     "formatId": "m",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
+    "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2022-11-26",
+    "gender": "m"
   },
   {
     "pos": "14",
@@ -4111,7 +4251,54 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
+  },
+  {
+    "pos": "7",
+    "best": "40",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "45",
+    "value3": "40",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpringLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "1",
+    "personName": "Kevin Antony Tello Delgado",
+    "personId": "2017DELG02",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spring Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-15",
+    "gender": "m"
+  },
+  {
+    "pos": "7",
+    "best": "40",
+    "average": "-1",
+    "value1": "40",
+    "value2": "-1",
+    "value3": "42",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpringLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "1",
+    "personName": "Leon Achata",
+    "personId": "2015ACHA01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spring Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -4133,7 +4320,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -4155,7 +4343,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -4177,7 +4366,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -4199,7 +4389,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "m"
   },
   {
     "pos": "66",
@@ -4221,51 +4412,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
-  },
-  {
-    "pos": "7",
-    "best": "41",
-    "average": "0",
-    "value1": "41",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "OpenBerry2018",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "David Parra Meza",
-    "personId": "2010PARR01",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "17",
-    "best": "41",
-    "average": "4200",
-    "value1": "44",
-    "value2": "41",
-    "value3": "41",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpanishChampionship2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Pablo Nicolás Oshiro Mondoñedo",
-    "personId": "2010MOND01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -4287,7 +4435,8 @@
     "personCountryId": "Peru",
     "competitionName": "Back to the Palace 2014",
     "cityName": "Lima",
-    "competitionDate": "2014-3-8"
+    "competitionDate": "2014-03-08",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -4309,7 +4458,31 @@
     "personCountryId": "Peru",
     "competitionName": "CCS 2018",
     "cityName": "Trujillo",
-    "competitionDate": "2018-3-2"
+    "competitionDate": "2018-03-02",
+    "gender": "m"
+  },
+  {
+    "pos": "7",
+    "best": "41",
+    "average": "0",
+    "value1": "41",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "OpenBerry2018",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "David Parra Meza",
+    "personId": "2010PARR01",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "L'Open du Berry 2018",
+    "cityName": "Bourges",
+    "competitionDate": "2018-06-02",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -4331,7 +4504,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -4353,7 +4527,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -4375,29 +4550,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
-  },
-  {
-    "pos": "5",
-    "best": "41",
-    "average": "4700",
-    "value1": "41",
-    "value2": "50",
-    "value3": "50",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ZomblindersLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Andrés Hisashi Suzuki Cabrera",
-    "personId": "2016SUZU03",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Zomblinders Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "37",
@@ -4419,7 +4573,54 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
+  },
+  {
+    "pos": "17",
+    "best": "41",
+    "average": "4200",
+    "value1": "44",
+    "value2": "41",
+    "value3": "41",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpanishChampionship2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Pablo Nicolás Oshiro Mondoñedo",
+    "personId": "2010MOND01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spanish Championship 2023",
+    "cityName": "Multiple cities",
+    "competitionDate": "2023-10-14",
+    "gender": "m"
+  },
+  {
+    "pos": "5",
+    "best": "41",
+    "average": "4700",
+    "value1": "41",
+    "value2": "50",
+    "value3": "50",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ZomblindersLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Andrés Hisashi Suzuki Cabrera",
+    "personId": "2016SUZU03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Zomblinders Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -4441,7 +4642,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "38",
@@ -4463,7 +4665,8 @@
     "personCountryId": "Peru",
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-7-14"
+    "competitionDate": "2024-07-14",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -4483,31 +4686,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "9",
-    "best": "42",
-    "average": "0",
-    "value1": "-1",
-    "value2": "42",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "JuanManuelZafraOpen2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Rodrigo Aguilar",
-    "personId": "2017AGUI08",
-    "formatId": "2",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Barcelona Rubik's Summer Open 2011",
+    "cityName": "Sant Cugat (Barcelona)",
+    "competitionDate": "2011-07-29",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -4529,7 +4711,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato UNI-Rubik 2014",
     "cityName": "Lima",
-    "competitionDate": "2014-6-20"
+    "competitionDate": "2014-06-20",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -4551,7 +4734,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -4573,7 +4757,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
+  },
+  {
+    "pos": "9",
+    "best": "42",
+    "average": "0",
+    "value1": "-1",
+    "value2": "42",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "JuanManuelZafraOpen2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Rodrigo Aguilar",
+    "personId": "2017AGUI08",
+    "formatId": "2",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Juan Manuel Zafra Open 2019",
+    "cityName": "Barcelona",
+    "competitionDate": "2019-06-29",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -4595,7 +4803,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -4617,29 +4826,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
-  },
-  {
-    "pos": "3",
-    "best": "42",
-    "average": "4433",
-    "value1": "42",
-    "value2": "45",
-    "value3": "46",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpringLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Jose Smith Caldas Reyes",
-    "personId": "2017REYE27",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -4661,7 +4849,31 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
+  },
+  {
+    "pos": "3",
+    "best": "42",
+    "average": "4433",
+    "value1": "42",
+    "value2": "45",
+    "value3": "46",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpringLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jose Smith Caldas Reyes",
+    "personId": "2017REYE27",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spring Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -4683,7 +4895,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -4705,7 +4918,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -4727,7 +4941,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "56",
@@ -4747,53 +4962,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "6",
-    "best": "43",
-    "average": "0",
-    "value1": "43",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "VedrunaBalaguerOpen2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Rodrigo Aguilar",
-    "personId": "2017AGUI08",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "13",
-    "best": "43",
-    "average": "4533",
-    "value1": "44",
-    "value2": "49",
-    "value3": "43",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "NhoodXperienceSideEvents2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Rodrigo Aguilar",
-    "personId": "2017AGUI08",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "FMC Europe 2017",
+    "cityName": "Multiple cities (see website)",
+    "competitionDate": "2017-04-01",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -4815,7 +4987,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -4837,7 +5010,8 @@
     "personCountryId": "Peru",
     "competitionName": "Glorioso San Carlos 2019",
     "cityName": "Puno",
-    "competitionDate": "2019-2-16"
+    "competitionDate": "2019-02-16",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -4859,7 +5033,31 @@
     "personCountryId": "Peru",
     "competitionName": "Glorioso San Carlos 2019",
     "cityName": "Puno",
-    "competitionDate": "2019-2-16"
+    "competitionDate": "2019-02-16",
+    "gender": "m"
+  },
+  {
+    "pos": "6",
+    "best": "43",
+    "average": "0",
+    "value1": "43",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "VedrunaBalaguerOpen2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Rodrigo Aguilar",
+    "personId": "2017AGUI08",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Vedruna Balaguer Open 2019",
+    "cityName": "Balaguer, Lleida",
+    "competitionDate": "2019-02-23",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -4881,7 +5079,8 @@
     "personCountryId": "Peru",
     "competitionName": "Pre-Nacionales Arequipa 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-8-10"
+    "competitionDate": "2019-08-10",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -4903,7 +5102,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "80",
@@ -4925,7 +5125,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "35",
@@ -4947,7 +5148,31 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
+  },
+  {
+    "pos": "13",
+    "best": "43",
+    "average": "4533",
+    "value1": "44",
+    "value2": "49",
+    "value3": "43",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "NhoodXperienceSideEvents2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Rodrigo Aguilar",
+    "personId": "2017AGUI08",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Nhood Xperience Side Events 2023",
+    "cityName": "Sant Boi de Llobregat, Barcelona",
+    "competitionDate": "2023-11-01",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -4969,7 +5194,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -4991,73 +5217,8 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
-  },
-  {
-    "pos": "12",
-    "best": "44",
-    "average": "-1",
-    "value1": "44",
-    "value2": "-1",
-    "value3": "52",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PoliMiMentalBreakdown2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Adrian Estrada",
-    "personId": "2010ESTR01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "4",
-    "best": "44",
-    "average": "4433",
-    "value1": "44",
-    "value2": "44",
-    "value3": "45",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMEOpen2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Rodrigo Aguilar",
-    "personId": "2017AGUI08",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "27",
-    "best": "44",
-    "average": "-1",
-    "value1": "-1",
-    "value2": "44",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpanishChampionship2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Jhair Moron Gejaño",
-    "personId": "2016MORO03",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -5079,7 +5240,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
+  },
+  {
+    "pos": "12",
+    "best": "44",
+    "average": "-1",
+    "value1": "44",
+    "value2": "-1",
+    "value3": "52",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PoliMiMentalBreakdown2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Adrian Estrada",
+    "personId": "2010ESTR01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "PoliMi Mental Breakdown 2019",
+    "cityName": "Milan",
+    "competitionDate": "2019-03-16",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -5101,7 +5286,8 @@
     "personCountryId": "Peru",
     "competitionName": "Pre-Nacionales Arequipa 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-8-10"
+    "competitionDate": "2019-08-10",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -5123,7 +5309,8 @@
     "personCountryId": "Peru",
     "competitionName": "Pre-Nacionales Arequipa 2019",
     "cityName": "Arequipa",
-    "competitionDate": "2019-8-10"
+    "competitionDate": "2019-08-10",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -5145,7 +5332,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
+  },
+  {
+    "pos": "4",
+    "best": "44",
+    "average": "4433",
+    "value1": "44",
+    "value2": "44",
+    "value3": "45",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMEOpen2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Rodrigo Aguilar",
+    "personId": "2017AGUI08",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FME Open 2019",
+    "cityName": "Barcelona",
+    "competitionDate": "2019-12-14",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -5167,7 +5378,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
+  },
+  {
+    "pos": "27",
+    "best": "44",
+    "average": "-1",
+    "value1": "-1",
+    "value2": "44",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpanishChampionship2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jhair Moron Gejaño",
+    "personId": "2016MORO03",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spanish Championship 2023",
+    "cityName": "Multiple cities",
+    "competitionDate": "2023-10-14",
+    "gender": "m"
   },
   {
     "pos": "14",
@@ -5189,7 +5424,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "382",
@@ -5211,7 +5447,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-6-1"
+    "competitionDate": "2024-06-01",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -5233,7 +5470,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Valencube Huancayo 2025",
     "cityName": "Huancayo",
-    "competitionDate": "2025-2-15"
+    "competitionDate": "2025-02-15",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -5255,7 +5493,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -5275,9 +5514,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Barcelona Winter Open 2012",
+    "cityName": "Barcelona",
+    "competitionDate": "2012-01-26",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -5297,31 +5537,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "17",
-    "best": "45",
-    "average": "0",
-    "value1": "45",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "LuzonMultiMegaMadness2025",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Andres Taipe",
-    "personId": "2023TAIP01",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Vedruna Balaguer Open 2019",
+    "cityName": "Balaguer, Lleida",
+    "competitionDate": "2019-02-23",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -5343,7 +5562,8 @@
     "personCountryId": "Peru",
     "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
-    "competitionDate": "2022-11-26"
+    "competitionDate": "2022-11-26",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -5365,29 +5585,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-10-15"
-  },
-  {
-    "pos": "9",
-    "best": "45",
-    "average": "4733",
-    "value1": "45",
-    "value2": "47",
-    "value3": "50",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "PeruNationals2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Jhonatan Reategui",
-    "personId": "2016REAT01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Peru Nationals 2024",
-    "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -5409,29 +5608,54 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "f"
   },
   {
     "pos": "9",
-    "best": "46",
+    "best": "45",
+    "average": "4733",
+    "value1": "45",
+    "value2": "47",
+    "value3": "50",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "PeruNationals2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jhonatan Reategui",
+    "personId": "2016REAT01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Peru Nationals 2024",
+    "cityName": "Lima",
+    "competitionDate": "2024-11-22",
+    "gender": "m"
+  },
+  {
+    "pos": "17",
+    "best": "45",
     "average": "0",
-    "value1": "46",
+    "value1": "45",
     "value2": "0",
     "value3": "0",
     "value4": "0",
     "value5": "0",
-    "competitionId": "LesFranquesesOpen2018",
+    "competitionId": "LuzonMultiMegaMadness2025",
     "eventId": "333fm",
     "roundTypeId": "f",
-    "personName": "Jhair Moron Gejaño",
-    "personId": "2016MORO03",
+    "personName": "Andres Taipe",
+    "personId": "2023TAIP01",
     "formatId": "1",
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Luzon Multi-Mega Madness 2025",
+    "cityName": "Cainta, Rizal",
+    "competitionDate": "2025-06-01",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -5453,7 +5677,31 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Open 2013",
     "cityName": "Trujillo",
-    "competitionDate": "2013-7-20"
+    "competitionDate": "2013-07-20",
+    "gender": "m"
+  },
+  {
+    "pos": "9",
+    "best": "46",
+    "average": "0",
+    "value1": "46",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "LesFranquesesOpen2018",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jhair Moron Gejaño",
+    "personId": "2016MORO03",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Les Franqueses Open 2018",
+    "cityName": "Les Franqueses del Vallès, Barcelona",
+    "competitionDate": "2018-03-17",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -5475,29 +5723,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
-  },
-  {
-    "pos": "9",
-    "best": "46",
-    "average": "-1",
-    "value1": "46",
-    "value2": "-1",
-    "value3": "-1",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "FMCSpringLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "1",
-    "personName": "Walter Felix",
-    "personId": "2015FELI01",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "FMC Spring Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-15"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -5519,7 +5746,31 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
+  },
+  {
+    "pos": "9",
+    "best": "46",
+    "average": "-1",
+    "value1": "46",
+    "value2": "-1",
+    "value3": "-1",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "FMCSpringLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "1",
+    "personName": "Walter Felix",
+    "personId": "2015FELI01",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "FMC Spring Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-15",
+    "gender": "m"
   },
   {
     "pos": "381",
@@ -5541,7 +5792,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-6-1"
+    "competitionDate": "2024-06-01",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -5561,9 +5813,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Montpellier Open 2011",
+    "cityName": "Montpellier",
+    "competitionDate": "2011-05-28",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -5583,9 +5836,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Italian Open 2017",
+    "cityName": "Rome",
+    "competitionDate": "2017-10-07",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -5605,31 +5859,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "17",
-    "best": "47",
-    "average": "0",
-    "value1": "47",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "CuartoAldeillaOpen2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Jhair Moron Gejaño",
-    "personId": "2016MORO03",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Les Franqueses Open 2019",
+    "cityName": "Les Franqueses del Vallès, Barcelona",
+    "competitionDate": "2019-04-06",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -5651,7 +5884,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "15",
@@ -5673,7 +5907,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -5695,7 +5930,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -5717,7 +5953,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -5739,7 +5976,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "15",
@@ -5761,7 +5999,31 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
+  },
+  {
+    "pos": "17",
+    "best": "47",
+    "average": "0",
+    "value1": "47",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "CuartoAldeillaOpen2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jhair Moron Gejaño",
+    "personId": "2016MORO03",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Cuarto Aldeilla: 33 Horas Ruleta Open 2024",
+    "cityName": "Santa María del Águila, Almería",
+    "competitionDate": "2024-12-06",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -5781,9 +6043,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Yo Rubik 2016",
+    "cityName": "Santa Cruz",
+    "competitionDate": "2016-09-03",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -5805,7 +6068,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -5827,7 +6091,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "16",
@@ -5849,7 +6114,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -5871,7 +6137,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -5891,9 +6158,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Basauri Open 2010",
+    "cityName": "Basauri (Bilbao)",
+    "competitionDate": "2010-11-27",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -5913,31 +6181,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "12",
-    "best": "49",
-    "average": "0",
-    "value1": "49",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "MartorellOpen2019",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Rodrigo Aguilar",
-    "personId": "2017AGUI08",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Roma3 Al Cubo 2018",
+    "cityName": "Roma",
+    "competitionDate": "2018-06-09",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -5959,7 +6206,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
+  },
+  {
+    "pos": "12",
+    "best": "49",
+    "average": "0",
+    "value1": "49",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "MartorellOpen2019",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Rodrigo Aguilar",
+    "personId": "2017AGUI08",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Martorell Open 2019",
+    "cityName": "Martorell",
+    "competitionDate": "2019-11-16",
+    "gender": "m"
   },
   {
     "pos": "17",
@@ -5981,29 +6252,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
-  },
-  {
-    "pos": "10",
-    "best": "49",
-    "average": "-1",
-    "value1": "49",
-    "value2": "-1",
-    "value3": "65",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ZomblindersLima2023",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Elias Alonso Usaqui Cabezas",
-    "personId": "2020CABE02",
-    "formatId": "m",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "Zomblinders Lima 2023",
-    "cityName": "Lima",
-    "competitionDate": "2023-10-29"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -6025,7 +6275,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
+  },
+  {
+    "pos": "10",
+    "best": "49",
+    "average": "-1",
+    "value1": "49",
+    "value2": "-1",
+    "value3": "65",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ZomblindersLima2023",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Elias Alonso Usaqui Cabezas",
+    "personId": "2020CABE02",
+    "formatId": "m",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Zomblinders Lima 2023",
+    "cityName": "Lima",
+    "competitionDate": "2023-10-29",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -6047,7 +6321,8 @@
     "personCountryId": "Peru",
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
-    "competitionDate": "2024-5-5"
+    "competitionDate": "2024-05-05",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -6069,7 +6344,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Valencube Huancayo 2025",
     "cityName": "Huancayo",
-    "competitionDate": "2025-2-15"
+    "competitionDate": "2025-02-15",
+    "gender": "m"
   },
   {
     "pos": "15",
@@ -6089,9 +6365,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "PoliMi Open 2016",
+    "cityName": "Milan",
+    "competitionDate": "2016-12-03",
+    "gender": "m"
   },
   {
     "pos": "194",
@@ -6111,9 +6388,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "FMC Europe 2018",
+    "cityName": "Multiple cities (see website)",
+    "competitionDate": "2018-03-10",
+    "gender": "m"
   },
   {
     "pos": "8",
@@ -6135,7 +6413,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -6157,7 +6436,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-3-23"
+    "competitionDate": "2025-03-23",
+    "gender": "f"
   },
   {
     "pos": "17",
@@ -6177,9 +6457,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Italian Open 2015",
+    "cityName": "Milan",
+    "competitionDate": "2015-12-05",
+    "gender": "m"
   },
   {
     "pos": "335",
@@ -6199,31 +6480,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
-  },
-  {
-    "pos": "10",
-    "best": "51",
-    "average": "0",
-    "value1": "51",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "LleidaOpen2022",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "Jhair Moron Gejaño",
-    "personId": "2016MORO03",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "FMC 2019",
+    "cityName": "Multiple Cities",
+    "competitionDate": "2019-06-15",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -6245,7 +6505,31 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
+  },
+  {
+    "pos": "10",
+    "best": "51",
+    "average": "0",
+    "value1": "51",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "LleidaOpen2022",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "Jhair Moron Gejaño",
+    "personId": "2016MORO03",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Lleida Open 2022",
+    "cityName": "Lleida",
+    "competitionDate": "2022-06-18",
+    "gender": "m"
   },
   {
     "pos": "86",
@@ -6267,7 +6551,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
-    "competitionDate": "2023-3-25"
+    "competitionDate": "2023-03-25",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -6289,7 +6574,8 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -6311,7 +6597,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
-    "competitionDate": "2025-8-29"
+    "competitionDate": "2025-08-29",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -6333,7 +6620,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -6355,7 +6643,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -6377,7 +6666,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -6399,7 +6689,8 @@
     "personCountryId": "Peru",
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
-    "competitionDate": "2016-7-16"
+    "competitionDate": "2016-07-16",
+    "gender": "m"
   },
   {
     "pos": "18",
@@ -6421,7 +6712,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
-    "competitionDate": "2022-8-19"
+    "competitionDate": "2022-08-19",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -6443,7 +6735,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "12",
@@ -6465,7 +6758,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -6487,7 +6781,8 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -6507,9 +6802,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Girona Summer Open 2025",
+    "cityName": "Girona",
+    "competitionDate": "2025-08-09",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -6529,9 +6825,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Monterotondo Open 2015",
+    "cityName": "Monterotondo",
+    "competitionDate": "2015-10-17",
+    "gender": "m"
   },
   {
     "pos": "20",
@@ -6551,9 +6848,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Italian Championship 2016",
+    "cityName": "Milan",
+    "competitionDate": "2016-10-08",
+    "gender": "m"
   },
   {
     "pos": "77",
@@ -6575,29 +6873,8 @@
     "personCountryId": "Peru",
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
-    "competitionDate": "2025-8-24"
-  },
-  {
-    "pos": "15",
-    "best": "59",
-    "average": "0",
-    "value1": "59",
-    "value2": "0",
-    "value3": "0",
-    "value4": "0",
-    "value5": "0",
-    "competitionId": "ParetsOpen2024",
-    "eventId": "333fm",
-    "roundTypeId": "f",
-    "personName": "David Parra Meza",
-    "personId": "2010PARR01",
-    "formatId": "1",
-    "regionalSingleRecord": "NULL",
-    "regionalAverageRecord": "NULL",
-    "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionDate": "2025-08-24",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -6619,7 +6896,31 @@
     "personCountryId": "Peru",
     "competitionName": "Glorioso San Carlos 2019",
     "cityName": "Puno",
-    "competitionDate": "2019-2-16"
+    "competitionDate": "2019-02-16",
+    "gender": "m"
+  },
+  {
+    "pos": "15",
+    "best": "59",
+    "average": "0",
+    "value1": "59",
+    "value2": "0",
+    "value3": "0",
+    "value4": "0",
+    "value5": "0",
+    "competitionId": "ParetsOpen2024",
+    "eventId": "333fm",
+    "roundTypeId": "f",
+    "personName": "David Parra Meza",
+    "personId": "2010PARR01",
+    "formatId": "1",
+    "regionalSingleRecord": "NULL",
+    "regionalAverageRecord": "NULL",
+    "personCountryId": "Peru",
+    "competitionName": "Parets Open 2024",
+    "cityName": "Parets del Vallès, Barcelona",
+    "competitionDate": "2024-02-03",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -6641,7 +6942,8 @@
     "personCountryId": "Peru",
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-9-15"
+    "competitionDate": "2024-09-15",
+    "gender": "m"
   },
   {
     "pos": "7",
@@ -6663,7 +6965,8 @@
     "personCountryId": "Peru",
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
-    "competitionDate": "2022-8-13"
+    "competitionDate": "2022-08-13",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -6685,7 +6988,8 @@
     "personCountryId": "Peru",
     "competitionName": "San Valencube Huancayo 2025",
     "cityName": "Huancayo",
-    "competitionDate": "2025-2-15"
+    "competitionDate": "2025-02-15",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -6707,7 +7011,8 @@
     "personCountryId": "Peru",
     "competitionName": "CCS 2018",
     "cityName": "Trujillo",
-    "competitionDate": "2018-3-2"
+    "competitionDate": "2018-03-02",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -6729,7 +7034,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "13",
@@ -6751,7 +7057,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
-    "competitionDate": "2019-8-16"
+    "competitionDate": "2019-08-16",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -6773,7 +7080,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
-    "competitionDate": "2018-6-29"
+    "competitionDate": "2018-06-29",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -6795,7 +7103,8 @@
     "personCountryId": "Peru",
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
-    "competitionDate": "2023-6-25"
+    "competitionDate": "2023-06-25",
+    "gender": "m"
   },
   {
     "pos": "16",
@@ -6817,7 +7126,8 @@
     "personCountryId": "Peru",
     "competitionName": "Arnold Open 2017",
     "cityName": "L'Hospitalet de Llobregat, Barcelona",
-    "competitionDate": "2017-9-22"
+    "competitionDate": "2017-09-22",
+    "gender": "m"
   },
   {
     "pos": "15",
@@ -6839,6 +7149,7 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
-    "competitionDate": "2023-8-4"
+    "competitionDate": "2023-08-04",
+    "gender": "m"
   }
 ]

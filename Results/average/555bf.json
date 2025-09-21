@@ -17,8 +17,9 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "SAR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Univalle Spring 2017",
+    "cityName": "Cochabamba",
+    "competitionDate": "2017-08-12",
+    "gender": "m"
   }
 ]

@@ -19,7 +19,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -41,7 +42,8 @@
     "personCountryId": "Peru",
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-11-22"
+    "competitionDate": "2024-11-22",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -63,7 +65,8 @@
     "personCountryId": "Peru",
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-10-27"
+    "competitionDate": "2024-10-27",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -85,6 +88,7 @@
     "personCountryId": "Peru",
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
-    "competitionDate": "2024-2-18"
+    "competitionDate": "2024-02-18",
+    "gender": "m"
   }
 ]

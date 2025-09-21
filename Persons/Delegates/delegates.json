@@ -1,102 +1,24 @@
 [
   {
-    "name": "Helar Gomez Chalco",
-    "gender": "m",
-    "id": "2015CHAL01",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 66,
-    "competitionsDelegated": 49
-  },
-  {
     "name": "Natán Riggenbach",
     "gender": "m",
     "id": "2011RIGG03",
     "subid": "1",
     "countryId": "Peru",
     "competitions": 128,
-    "competitionsDelegated": 121
-  },
-  {
-    "name": "Pedro Luis Mamani Suclla",
-    "gender": "m",
-    "id": "2015SUCL01",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 45,
-    "competitionsDelegated": 9
-  },
-  {
-    "name": "Kevin Antony Tello Delgado",
-    "gender": "m",
-    "id": "2017DELG02",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 61,
-    "competitionsDelegated": 7
-  },
-  {
-    "name": "Jose Abanto Ortiz",
-    "gender": "m",
-    "id": "2012ORTI04",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 52,
-    "competitionsDelegated": 44
-  },
-  {
-    "name": "Paulo Guillén",
-    "gender": "m",
-    "id": "2014GUIL02",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 13,
-    "competitionsDelegated": 12
-  },
-  {
-    "name": "Andrés Hisashi Suzuki Cabrera",
-    "gender": "m",
-    "id": "2016SUZU03",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 74,
-    "competitionsDelegated": 58
-  },
-  {
-    "name": "Michel Andre Gonzaga Quijano",
-    "gender": "m",
-    "id": "2018QUIJ01",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 61,
-    "competitionsDelegated": 57
-  },
-  {
-    "name": "Angelo Giovanni Licetti León",
-    "gender": "m",
-    "id": "2013LEON05",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 23,
-    "competitionsDelegated": 6
-  },
-  {
-    "name": "Jhonatan Reategui",
-    "gender": "m",
-    "id": "2016REAT01",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 42,
-    "competitionsDelegated": 15
-  },
-  {
-    "name": "Bruno Alonso Villacorta Montoya",
-    "gender": "m",
-    "id": "2016MONT33",
-    "subid": "1",
-    "countryId": "Peru",
-    "competitions": 34,
-    "competitionsDelegated": 22
+    "lastCompetition": {
+      "competitionId": "PaseoCentralWinter2025",
+      "competitionName": "Paseo Central Winter 2025",
+      "cityName": "Arequipa",
+      "competitionDate": "2025-07-05"
+    },
+    "podiums": 126,
+    "competitionsDelegated": 121,
+    "lastDelegatedCompetition": {
+      "competitionId": "PaseoCentralWinter2025",
+      "competitionName": "Paseo Central Winter 2025",
+      "competitionDate": "2025-07-05"
+    }
   },
   {
     "name": "Noel Yzaguirre",
@@ -105,7 +27,124 @@
     "subid": "1",
     "countryId": "Peru",
     "competitions": 25,
-    "competitionsDelegated": 10
+    "lastCompetition": {
+      "competitionId": "TorneodeSpeedcubers2016",
+      "competitionName": "Torneo de Speedcubers 2016",
+      "cityName": "Lima",
+      "competitionDate": "2016-10-29"
+    },
+    "podiums": 14,
+    "competitionsDelegated": 10,
+    "lastDelegatedCompetition": {
+      "competitionId": "TorneodeSpeedcubers2016",
+      "competitionName": "Torneo de Speedcubers 2016",
+      "competitionDate": "2016-10-29"
+    }
+  },
+  {
+    "name": "Paulo Guillén",
+    "gender": "m",
+    "id": "2014GUIL02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 13,
+    "lastCompetition": {
+      "competitionId": "CampeonatoNacionalPerubik2017",
+      "competitionName": "Campeonato Nacional Perubik 2017",
+      "cityName": "Lima",
+      "competitionDate": "2017-08-26"
+    },
+    "podiums": 0,
+    "competitionsDelegated": 12,
+    "lastDelegatedCompetition": {
+      "competitionId": "SpeedsolvingSakura2017",
+      "competitionName": "Speedsolving Sakura 2017",
+      "competitionDate": "2017-12-17"
+    }
+  },
+  {
+    "name": "Jose Abanto Ortiz",
+    "gender": "m",
+    "id": "2012ORTI04",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 52,
+    "lastCompetition": {
+      "competitionId": "ItsClockingTimeLima2024",
+      "competitionName": "It's Clocking Time Lima 2024",
+      "cityName": "Lima",
+      "competitionDate": "2024-01-28"
+    },
+    "podiums": 45,
+    "competitionsDelegated": 44,
+    "lastDelegatedCompetition": {
+      "competitionId": "ItsClockingTimeLima2024",
+      "competitionName": "It's Clocking Time Lima 2024",
+      "competitionDate": "2024-01-28"
+    }
+  },
+  {
+    "name": "Helar Gomez Chalco",
+    "gender": "m",
+    "id": "2015CHAL01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 66,
+    "lastCompetition": {
+      "competitionId": "ChambeaenTuPBLima2025",
+      "competitionName": "Chambea en Tu PB Lima 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-05-03"
+    },
+    "podiums": 28,
+    "competitionsDelegated": 49,
+    "lastDelegatedCompetition": {
+      "competitionId": "ChambeaenTuPBLima2025",
+      "competitionName": "Chambea en Tu PB Lima 2025",
+      "competitionDate": "2025-05-03"
+    }
+  },
+  {
+    "name": "Angelo Giovanni Licetti León",
+    "gender": "m",
+    "id": "2013LEON05",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 23,
+    "lastCompetition": {
+      "competitionId": "CopaBlackHorse2019",
+      "competitionName": "Copa Black Horse 2019",
+      "cityName": "Lima",
+      "competitionDate": "2019-06-01"
+    },
+    "podiums": 34,
+    "competitionsDelegated": 6,
+    "lastDelegatedCompetition": {
+      "competitionId": "PalaciodelCubo2019",
+      "competitionName": "Palacio del Cubo 2019",
+      "competitionDate": "2019-11-16"
+    }
+  },
+  {
+    "name": "Kevin Antony Tello Delgado",
+    "gender": "m",
+    "id": "2017DELG02",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 60,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-08-29"
+    },
+    "podiums": 9,
+    "competitionsDelegated": 7,
+    "lastDelegatedCompetition": {
+      "competitionId": "LimaCuberano2022",
+      "competitionName": "Lima Cuberano 2022",
+      "competitionDate": "2022-03-12"
+    }
   },
   {
     "name": "Christian Saenz Valdivia",
@@ -114,6 +153,123 @@
     "subid": "1",
     "countryId": "Peru",
     "competitions": 16,
-    "competitionsDelegated": 3
+    "lastCompetition": {
+      "competitionId": "SchoolWinterLima2022",
+      "competitionName": "School Winter Lima 2022",
+      "cityName": "Lima",
+      "competitionDate": "2022-07-02"
+    },
+    "podiums": 73,
+    "competitionsDelegated": 3,
+    "lastDelegatedCompetition": {
+      "competitionId": "RealCube2022",
+      "competitionName": "Real Cube 2022",
+      "competitionDate": "2022-08-06"
+    }
+  },
+  {
+    "name": "Andrés Hisashi Suzuki Cabrera",
+    "gender": "m",
+    "id": "2016SUZU03",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 73,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-08-29"
+    },
+    "podiums": 105,
+    "competitionsDelegated": 58,
+    "lastDelegatedCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "competitionDate": "2025-08-29"
+    }
+  },
+  {
+    "name": "Bruno Alonso Villacorta Montoya",
+    "gender": "m",
+    "id": "2016MONT33",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 34,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-08-29"
+    },
+    "podiums": 38,
+    "competitionsDelegated": 22,
+    "lastDelegatedCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "competitionDate": "2025-08-29"
+    }
+  },
+  {
+    "name": "Michel Andre Gonzaga Quijano",
+    "gender": "m",
+    "id": "2018QUIJ01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 61,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-08-29"
+    },
+    "podiums": 63,
+    "competitionsDelegated": 57,
+    "lastDelegatedCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "competitionDate": "2025-08-29"
+    }
+  },
+  {
+    "name": "Jhonatan Reategui",
+    "gender": "m",
+    "id": "2016REAT01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 42,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-08-29"
+    },
+    "podiums": 64,
+    "competitionsDelegated": 15,
+    "lastDelegatedCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "competitionDate": "2025-08-29"
+    }
+  },
+  {
+    "name": "Pedro Luis Mamani Suclla",
+    "gender": "m",
+    "id": "2015SUCL01",
+    "subid": "1",
+    "countryId": "Peru",
+    "competitions": 45,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "cityName": "Lima",
+      "competitionDate": "2025-08-29"
+    },
+    "podiums": 47,
+    "competitionsDelegated": 9,
+    "lastDelegatedCompetition": {
+      "competitionId": "PeruNationals2025",
+      "competitionName": "Peru Nationals 2025",
+      "competitionDate": "2025-08-29"
+    }
   }
 ]

@@ -17,9 +17,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Montpellier Open 2011",
+    "cityName": "Montpellier",
+    "competitionDate": "2011-05-28",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -39,9 +40,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Barcelona Rubik's Summer Open 2011",
+    "cityName": "Sant Cugat (Barcelona)",
+    "competitionDate": "2011-07-29",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -61,9 +63,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Spanish Championship 2011",
+    "cityName": "Valencia",
+    "competitionDate": "2011-12-16",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -83,9 +86,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Castellon Open 2011",
+    "cityName": "Castellón de la Plana",
+    "competitionDate": "2011-04-30",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -105,9 +109,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Madrid Open Rubik 2010",
+    "cityName": "Madrid",
+    "competitionDate": "2010-10-30",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -129,7 +134,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Open 2011",
     "cityName": "Lima",
-    "competitionDate": "2011-11-5"
+    "competitionDate": "2011-11-05",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -149,9 +155,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Montpellier Open 2011",
+    "cityName": "Montpellier",
+    "competitionDate": "2011-05-28",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -173,7 +180,8 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
-    "competitionDate": "2012-2-18"
+    "competitionDate": "2012-02-18",
+    "gender": "m"
   },
   {
     "pos": "5",
@@ -193,9 +201,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Castellon Open 2011",
+    "cityName": "Castellón de la Plana",
+    "competitionDate": "2011-04-30",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -215,9 +224,10 @@
     "regionalSingleRecord": "NR",
     "regionalAverageRecord": "NR",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Barcelona Rubik's Summer Open 2010",
+    "cityName": "Sant Cugat (Barcelona)",
+    "competitionDate": "2010-07-09",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -239,7 +249,8 @@
     "personCountryId": "Peru",
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-7-17"
+    "competitionDate": "2011-07-17",
+    "gender": "f"
   },
   {
     "pos": "1",
@@ -261,7 +272,8 @@
     "personCountryId": "Peru",
     "competitionName": "AQP Summer 2012",
     "cityName": "Arequipa",
-    "competitionDate": "2012-3-10"
+    "competitionDate": "2012-03-10",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -283,7 +295,8 @@
     "personCountryId": "Peru",
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-7-17"
+    "competitionDate": "2011-07-17",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -305,7 +318,8 @@
     "personCountryId": "Peru",
     "competitionName": "II Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-12-18"
+    "competitionDate": "2011-12-18",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -327,7 +341,8 @@
     "personCountryId": "Peru",
     "competitionName": "Lima Open 2011",
     "cityName": "Lima",
-    "competitionDate": "2011-11-5"
+    "competitionDate": "2011-11-05",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -349,7 +364,8 @@
     "personCountryId": "Peru",
     "competitionName": "Aniversario Open 2012",
     "cityName": "Arequipa",
-    "competitionDate": "2012-6-2"
+    "competitionDate": "2012-06-02",
+    "gender": "f"
   },
   {
     "pos": "2",
@@ -371,7 +387,8 @@
     "personCountryId": "Peru",
     "competitionName": "II Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-12-18"
+    "competitionDate": "2011-12-18",
+    "gender": "f"
   },
   {
     "pos": "5",
@@ -391,9 +408,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Basauri Open 2012",
+    "cityName": "Basauri (Bilbao)",
+    "competitionDate": "2012-09-22",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -415,7 +433,8 @@
     "personCountryId": "Peru",
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-7-17"
+    "competitionDate": "2011-07-17",
+    "gender": "m"
   },
   {
     "pos": "11",
@@ -435,9 +454,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Chesapeake Science Point Fall 2012",
+    "cityName": "Hanover, Maryland",
+    "competitionDate": "2012-10-13",
+    "gender": "m"
   },
   {
     "pos": "3",
@@ -459,7 +479,8 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Open 2011",
     "cityName": "Trujillo",
-    "competitionDate": "2011-8-27"
+    "competitionDate": "2011-08-27",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -481,7 +502,8 @@
     "personCountryId": "Peru",
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-7-17"
+    "competitionDate": "2011-07-17",
+    "gender": "m"
   },
   {
     "pos": "1",
@@ -503,7 +525,8 @@
     "personCountryId": "Peru",
     "competitionName": "Aniversario Eduardo Valdivia 2012",
     "cityName": "Lima",
-    "competitionDate": "2012-11-18"
+    "competitionDate": "2012-11-18",
+    "gender": "f"
   },
   {
     "pos": "2",
@@ -525,7 +548,8 @@
     "personCountryId": "Peru",
     "competitionName": "AQP Summer 2012",
     "cityName": "Arequipa",
-    "competitionDate": "2012-3-10"
+    "competitionDate": "2012-03-10",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -547,7 +571,8 @@
     "personCountryId": "Peru",
     "competitionName": "II Arequipa Open 2011",
     "cityName": "Arequipa",
-    "competitionDate": "2011-12-18"
+    "competitionDate": "2011-12-18",
+    "gender": "m"
   },
   {
     "pos": "6",
@@ -567,9 +592,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Barcelona Winter Open 2012",
+    "cityName": "Barcelona",
+    "competitionDate": "2012-01-26",
+    "gender": "m"
   },
   {
     "pos": "10",
@@ -589,9 +615,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Basauri Open 2010",
+    "cityName": "Basauri (Bilbao)",
+    "competitionDate": "2010-11-27",
+    "gender": "m"
   },
   {
     "pos": "9",
@@ -611,9 +638,10 @@
     "regionalSingleRecord": "NULL",
     "regionalAverageRecord": "NULL",
     "personCountryId": "Peru",
-    "competitionName": "",
-    "cityName": "",
-    "competitionDate": "--"
+    "competitionName": "Basauri Open 2011",
+    "cityName": "Basauri (Bilbao)",
+    "competitionDate": "2011-09-17",
+    "gender": "m"
   },
   {
     "pos": "4",
@@ -635,7 +663,8 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Open 2011",
     "cityName": "Trujillo",
-    "competitionDate": "2011-8-27"
+    "competitionDate": "2011-08-27",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -657,7 +686,8 @@
     "personCountryId": "Peru",
     "competitionName": "Aniversario Eduardo Valdivia 2012",
     "cityName": "Lima",
-    "competitionDate": "2012-11-18"
+    "competitionDate": "2012-11-18",
+    "gender": "m"
   },
   {
     "pos": "2",
@@ -679,6 +709,7 @@
     "personCountryId": "Peru",
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
-    "competitionDate": "2012-2-18"
+    "competitionDate": "2012-02-18",
+    "gender": "m"
   }
 ]

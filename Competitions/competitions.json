@@ -1,0 +1,5234 @@
+[
+  {
+    "id": "PeruOpen2011",
+    "name": "Primer Abierto de Speedcubing Perúbik 2011",
+    "venue": "[Universidad Tecnológica del Perú](mailto:http://www.utp.edu.pe/)",
+    "latitude": "-12064072",
+    "longitude": "-77036395",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Esquina Av. 28 de Julio y Av. Petit Thouars",
+    "venueDetails": "Angelica Gallegos Auditorium",
+    "cellName": "Peru Open 2011",
+    "eventSpecs": "222 333 333bf 333oh 444",
+    "wcaDelegate": [
+      "2004MAOT02"
+    ],
+    "organiser": [
+      "2011REYE02",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2011-04-30",
+    "competitionEndDate": "2011-04-30"
+  },
+  {
+    "id": "ArequipaOpen2011",
+    "name": "Arequipa Open 2011",
+    "venue": "[Mall Aventura Plaza](http://www.skyscraperlife.com/peru/17091-arequipa-mall-aventura-plaza.html)",
+    "latitude": "-16417438",
+    "longitude": "-71514000",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Pizarro, Paucarpata",
+    "venueDetails": "Food Court",
+    "cellName": "Arequipa Open 2011",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011TORA01"
+    ],
+    "competitionDate": "2011-07-17",
+    "competitionEndDate": "2011-07-17"
+  },
+  {
+    "id": "TrujilloOpen2011",
+    "name": "Trujillo Open 2011",
+    "venue": "[Real Plaza](http://www.realplaza.pe/)",
+    "latitude": "-8112370",
+    "longitude": "-79030022",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Cesar Vallejo Oeste 1345 -  Urb Real Plaza",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Trujillo Open 2011",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ORTE02"
+    ],
+    "competitionDate": "2011-08-27",
+    "competitionEndDate": "2011-08-27"
+  },
+  {
+    "id": "LimaOpen2011",
+    "name": "Lima Open 2011",
+    "venue": "[Real Plaza, Centro Civico](http://www.realplaza.pe/)",
+    "latitude": "-12100695",
+    "longitude": "-77026718",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Paseo de la Republica 144",
+    "venueDetails": "4to piso, Cercado de Lima",
+    "cellName": "Lima Open 2011",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011REYE02"
+    ],
+    "competitionDate": "2011-11-05",
+    "competitionEndDate": "2011-11-05"
+  },
+  {
+    "id": "IIArequipaOpen2011",
+    "name": "II Arequipa Open 2011",
+    "venue": "[Mall Aventura Plaza](http://www.skyscraperlife.com/peru/17091-arequipa-mall-aventura-plaza.html)",
+    "latitude": "-16398822",
+    "longitude": "-71536886",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Pizarro s/n",
+    "venueDetails": "Food court",
+    "cellName": "II Arequipa Open 2011",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03",
+      "2011TORA01"
+    ],
+    "competitionDate": "2011-12-18",
+    "competitionEndDate": "2011-12-18"
+  },
+  {
+    "id": "TrujilloOpen2012",
+    "name": "Trujillo Open 2012",
+    "venue": "[Universidad Nacional de Trujillo](http://www.unitru.edu.pe/)",
+    "latitude": "-8113648",
+    "longitude": "-79029385",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Bolognesi 198",
+    "venueDetails": "Casino Universitario",
+    "cellName": "Trujillo Open 2012",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011CRUZ01"
+    ],
+    "competitionDate": "2012-02-18",
+    "competitionEndDate": "2012-02-18"
+  },
+  {
+    "id": "AQPSummer2012",
+    "name": "AQP Summer 2012",
+    "venue": "[Centro Cultural Peruano Norteamericano](http://web1.cultural.edu.pe/)",
+    "latitude": "-16398152",
+    "longitude": "-71528594",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Melgar 109",
+    "venueDetails": "Auditorio del Cultural",
+    "cellName": "AQP Summer 2012",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2012-03-10",
+    "competitionEndDate": "2012-03-10"
+  },
+  {
+    "id": "AniversarioOpen2012",
+    "name": "Aniversario Open 2012",
+    "venue": "[Centro Cultural Peruano Norteamericano](http://web1.cultural.edu.pe/)",
+    "latitude": "-16398152",
+    "longitude": "-71528594",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Melgar 109",
+    "venueDetails": "Auditorio del Cultural",
+    "cellName": "Aniversario Open 2012",
+    "eventSpecs": "222 333 333bf 333oh 444 magic minx",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2012-06-02",
+    "competitionEndDate": "2012-06-02"
+  },
+  {
+    "id": "ChiclayoOpen2012",
+    "name": "Chiclayo Open 2012",
+    "venue": "[Universidad de Chiclayo](http://www.udch.edu.pe/web/)",
+    "latitude": "-6766420",
+    "longitude": "-79840830",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Ciudad Universitaria, Km 3.5, Carretera Pimentel",
+    "venueDetails": "Auditorio de la Ciudad Universitaria de la UDCH",
+    "cellName": "Chiclayo Open 2012",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 magic minx mmagic pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2012ZAPA01"
+    ],
+    "competitionDate": "2012-08-11",
+    "competitionEndDate": "2012-08-11"
+  },
+  {
+    "id": "AniversarioEduardoValdivia2012",
+    "name": "Aniversario Eduardo Valdivia 2012",
+    "venue": "[Librería Imprenta Bonilla](http://www.facebook.com/libreria.imprentabonilla?ref=ts&fref=ts)",
+    "latitude": "-11933660",
+    "longitude": "-77075420",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Confraternidad Mz GG5 Lote 23-A, Urb. Pro, Los Olivos",
+    "venueDetails": "Tercer Piso",
+    "cellName": "Aniversario Eduardo Valdivia 2012",
+    "eventSpecs": "222 333 333bf 333oh 444 555 magic pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03",
+      "2012ZAMO02"
+    ],
+    "competitionDate": "2012-11-18",
+    "competitionEndDate": "2012-11-18"
+  },
+  {
+    "id": "CampeonatoSudamericano2013",
+    "name": "Campeonato Sudamericano 2013",
+    "venue": "[Centro Cultural Peruano Norteamericano](http://web1.cultural.edu.pe/mvia/)",
+    "latitude": "-16395804",
+    "longitude": "-71533205",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Melgar 109, Cercado",
+    "venueDetails": "Auditorio y Cafetería del CCPNA",
+    "cellName": "Sudamericano 2013",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 clock minx pyram sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2013-01-05",
+    "competitionEndDate": "2013-01-06"
+  },
+  {
+    "id": "ArequipaSummer2013",
+    "name": "Arequipa Summer 2013",
+    "venue": "[Auditorio Municipal J.L.B. y Rivero](http://www.munibustamante.gob.pe/)",
+    "latitude": "-16426700",
+    "longitude": "-71523914",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Dolores s/n",
+    "venueDetails": "Al costado de la Municipalidad",
+    "cellName": "Arequipa Summer 2013",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 777 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RAMO02",
+      "2011CUBA02"
+    ],
+    "competitionDate": "2013-03-16",
+    "competitionEndDate": "2013-03-16"
+  },
+  {
+    "id": "NacionalPerubik2013",
+    "name": "Campeonato Nacional Perubik 2013",
+    "venue": "[Academia ADUNI](http://www.ich.edu.pe/aduni/)",
+    "latitude": "-12046035",
+    "longitude": "-77030639",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Colonial 2798, cruce con Av Universitaria",
+    "venueDetails": "Auditorio y Biblioteca de la Academia",
+    "cellName": "Nacional Perubik 2013",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2012COCH01",
+      "2011GONZ05"
+    ],
+    "competitionDate": "2013-04-05",
+    "competitionEndDate": "2013-04-06"
+  },
+  {
+    "id": "TrujilloOpen2013",
+    "name": "Trujillo Open 2013",
+    "venue": "[Casino de la UNT](http://www.unitru.edu.pe/)",
+    "latitude": "-8113997",
+    "longitude": "-79031181",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Esquina de Jr. Alfonso Ugarte con Jr. Independencia",
+    "venueDetails": "Segundo piso, ingreso por Alfonso Ugarte",
+    "cellName": "Trujillo 2013",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011CRUZ01"
+    ],
+    "competitionDate": "2013-07-20",
+    "competitionEndDate": "2013-07-20"
+  },
+  {
+    "id": "MarianoMelgar2013",
+    "name": "I Open Mariano Melgar 2013",
+    "venue": "[Centro Cívico de Mariano Melgar](http://www.munimarianomelgar.gob.pe/content/nuestros-locales)",
+    "latitude": "-16402823",
+    "longitude": "-71508164",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Simón Bolívar 818, Mariano Melgar",
+    "venueDetails": "Primer piso",
+    "cellName": "Mariano Melgar 2013",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2013-10-04",
+    "competitionEndDate": "2013-10-05"
+  },
+  {
+    "id": "PalacioDelCubo2013",
+    "name": "Palacio del Cubo 2013",
+    "venue": "[Palacio de la Juventud](http://palacio.munilosolivos.edu.pe/)",
+    "latitude": "-12003306",
+    "longitude": "-77082599",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 2086, Los Olivos",
+    "venueDetails": "Cuarto piso",
+    "cellName": "Palacio del Cubo 2013",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2013-10-26",
+    "competitionEndDate": "2013-10-27"
+  },
+  {
+    "id": "Arguedas2013",
+    "name": "Campeonato Rubik Arguedas 2013",
+    "venue": "Coliseo de la Parroquia San Pedro y San Pablo",
+    "latitude": "-11971780",
+    "longitude": "-77043610",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jr Pallcamarca 119, Independencia",
+    "venueDetails": "Al costado de la Comisaría de Payet",
+    "cellName": "Arguedas 2013",
+    "eventSpecs": "222 333 333bf 333oh 444",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2013-11-09",
+    "competitionEndDate": "2013-11-09"
+  },
+  {
+    "id": "CuboViaMelgar2013",
+    "name": "CuboVia Melgar 2013",
+    "venue": "Ciclovía de Mariano Melgar",
+    "latitude": "-16400188",
+    "longitude": "-71506447",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Plaza Umachiri",
+    "venueDetails": "",
+    "cellName": "CuboVia Melgar 2013",
+    "eventSpecs": "222 333 333bf 333oh 444",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2013-11-24",
+    "competitionEndDate": "2013-11-24"
+  },
+  {
+    "id": "CulturalOpen2014",
+    "name": "Cultural Open 2014",
+    "venue": "[Centro Cultural Peruano Norteamericano](http://www.cultural.edu.pe/)",
+    "latitude": "-16395845",
+    "longitude": "-71533269",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Melgar 109, Cercado de Arequipa",
+    "venueDetails": "Auditorio del Cultural",
+    "cellName": "Cultural Open 2014",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2014-02-07",
+    "competitionEndDate": "2014-02-08"
+  },
+  {
+    "id": "BackToThePalace2014",
+    "name": "Back to the Palace 2014",
+    "venue": "[Palacio de la Juventud](http://palacio.munilosolivos.edu.pe/)",
+    "latitude": "-12003159",
+    "longitude": "-77082631",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 2086, Los Olivos",
+    "venueDetails": "",
+    "cellName": "Back to the Palace 2014",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01",
+      "2013CHAU02"
+    ],
+    "competitionDate": "2014-03-08",
+    "competitionEndDate": "2014-03-09"
+  },
+  {
+    "id": "OpenColca2014",
+    "name": "Open Colca 2014",
+    "venue": "Local de Autocolca",
+    "latitude": "-16394877",
+    "longitude": "-71534085",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Puente Grau # 116, Cercado",
+    "venueDetails": "",
+    "cellName": "Open Colca 2014",
+    "eventSpecs": "222 333 333bf 333oh 444",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2014-03-21",
+    "competitionEndDate": "2014-03-21"
+  },
+  {
+    "id": "UniRubik2014",
+    "name": "Campeonato UNI-Rubik 2014",
+    "venue": "Hall del Departamento de Estructuras, Facultad de Ingeniería Civil, UNI",
+    "latitude": "-12022291",
+    "longitude": "-77049002",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tupac Amaru s/n, Rimac",
+    "venueDetails": "Universidad Nacional de Ingeniería",
+    "cellName": "UNI-Rubik 2014",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2012ORTI04",
+      "2012TORR07"
+    ],
+    "competitionDate": "2014-06-20",
+    "competitionEndDate": "2014-06-21"
+  },
+  {
+    "id": "MarianoMelgar2014",
+    "name": "Mariano Melgar 2014",
+    "venue": "Centro Cívico de Mariano Melgar",
+    "latitude": "-16403533",
+    "longitude": "-71509754",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Simón Bolívar 818, Mariano Melgar",
+    "venueDetails": "",
+    "cellName": "Mariano Melgar 2014",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2014-07-12",
+    "competitionEndDate": "2014-07-13"
+  },
+  {
+    "id": "TCGArequipa2014",
+    "name": "TCG Arequipa 2014",
+    "venue": "Parque Lambramani",
+    "latitude": "-16410418",
+    "longitude": "-71519907",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Lambramani 325",
+    "venueDetails": "",
+    "cellName": "TCG Arequipa 2014",
+    "eventSpecs": "222 333 333bf 333oh 444 minx",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2014-08-30",
+    "competitionEndDate": "2014-08-30"
+  },
+  {
+    "id": "TCGLima2014",
+    "name": "TCG Lima 2014",
+    "venue": "Palacio de la Juventud",
+    "latitude": "-12003055",
+    "longitude": "-77082524",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 2086, Los Olivos – Lima",
+    "venueDetails": "Sábado en la biblioteca, domingo en el 3er piso.",
+    "cellName": "TCG Lima 2014",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2014-09-06",
+    "competitionEndDate": "2014-09-07"
+  },
+  {
+    "id": "IIOpenArguedas2014",
+    "name": "II Open Arguedas 2014",
+    "venue": "Coliseo Perú - Japón",
+    "latitude": "-11978382",
+    "longitude": "-77050558",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Huamachuco s/n, Tahuantinsuyo, Independencia",
+    "venueDetails": "",
+    "cellName": "II Open Arguedas 2014",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2013CABR03"
+    ],
+    "competitionDate": "2014-10-24",
+    "competitionEndDate": "2014-10-25"
+  },
+  {
+    "id": "40thAnniversaryPeru2014",
+    "name": "40th Anniversary Peru 2014",
+    "venue": "Parque Lambramani",
+    "latitude": "-16410336",
+    "longitude": "-71519907",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Lambramani 325",
+    "venueDetails": "Patio Central",
+    "cellName": "40th Anniversary 2014",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2014-11-08",
+    "competitionEndDate": "2014-11-08"
+  },
+  {
+    "id": "GameProTour2014",
+    "name": "Game Pro Tour 2014",
+    "venue": "Universidad Católica Santa María",
+    "latitude": "-16405911",
+    "longitude": "-71547732",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Campus de la UCSM",
+    "venueDetails": "Polideportivo",
+    "cellName": "Game Pro Tour 2014",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2014-11-29",
+    "competitionEndDate": "2014-11-30"
+  },
+  {
+    "id": "NewAvgeOpen2015",
+    "name": "New Avge Open 2015",
+    "venue": "Centro Comercial Megaplaza",
+    "latitude": "-11996243",
+    "longitude": "-77062633",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Alfredo Mendiola 3698 cruce con Av. El Pacífico",
+    "venueDetails": "",
+    "cellName": "New Avge Open 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03",
+      "2011QUEZ01"
+    ],
+    "organiser": [],
+    "competitionDate": "2015-01-31",
+    "competitionEndDate": "2015-02-01"
+  },
+  {
+    "id": "MarianoMelgar2015",
+    "name": "Mariano Melgar 2015",
+    "venue": "Centro Cívico de Mariano Melgar",
+    "latitude": "-16403771",
+    "longitude": "-71509817",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Simón Bolívar 818, Mariano Melgar",
+    "venueDetails": "",
+    "cellName": "Mariano Melgar 2015",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2015-04-11",
+    "competitionEndDate": "2015-04-11"
+  },
+  {
+    "id": "MegaRubik2015",
+    "name": "Mega Rubik 2015",
+    "venue": "Centro Comercial Megaplaza",
+    "latitude": "-11993935",
+    "longitude": "-77061474",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Alfredo Mendiola 3698 cruce con Av. El Pacífico",
+    "venueDetails": "",
+    "cellName": "Mega Rubik 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555bf minx pyram skewb",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [],
+    "competitionDate": "2015-05-02",
+    "competitionEndDate": "2015-05-03"
+  },
+  {
+    "id": "HunterOpen2015",
+    "name": "Hunter Open 2015",
+    "venue": "Auditorio de la Municipalidad de Hunter",
+    "latitude": "-16441580",
+    "longitude": "-71557732",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Viña del Mar N° 200- 2da. Cuadra",
+    "venueDetails": "",
+    "cellName": "Hunter Open 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2015-06-13",
+    "competitionEndDate": "2015-06-14"
+  },
+  {
+    "id": "TCGAndFriendsAQP2015",
+    "name": "TCG & Friends Arequipa 2015",
+    "venue": "Mall Aventura Plaza",
+    "latitude": "-16418241",
+    "longitude": "-71513422",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Pizarro s/n",
+    "venueDetails": "Plaza 3, frente a Ripley",
+    "cellName": "TCG & Friends AQP 2015",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2015-07-08",
+    "competitionEndDate": "2015-07-08"
+  },
+  {
+    "id": "TCGAndFriends2015",
+    "name": "TCG & Friends 2015",
+    "venue": "Centro Comercial Megaplaza",
+    "latitude": "-11994055",
+    "longitude": "-77062599",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Alfredo Mendiola 3698 cruce con Av. El Pacífico",
+    "venueDetails": "",
+    "cellName": "TCG & Friends 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2015-07-11",
+    "competitionEndDate": "2015-07-12"
+  },
+  {
+    "id": "SanMartinOpen2015",
+    "name": "San Martin Open 2015",
+    "venue": "I.E. San Martin de Socabaya",
+    "latitude": "-16443905",
+    "longitude": "-71530909",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Iquitos 201, San Martin de Socabaya",
+    "venueDetails": "Auditorio del colegio",
+    "cellName": "San Martin Open 2015",
+    "eventSpecs": "222 333 333bf 333oh 444 444bf 555",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2013HUAM02",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2015-10-10",
+    "competitionEndDate": "2015-10-10"
+  },
+  {
+    "id": "TCGSpringOpen2015",
+    "name": "TCG Spring Open 2015",
+    "venue": "Centro Comercial Megaplaza",
+    "latitude": "-11993903",
+    "longitude": "-77061354",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Alfredo Mendiola 3698 cruce con Av. El Pacífico",
+    "venueDetails": "",
+    "cellName": "TCG Spring Open 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2015-10-10",
+    "competitionEndDate": "2015-10-11"
+  },
+  {
+    "id": "CientificoOpen2015",
+    "name": "Cientifico Open 2015",
+    "venue": "Coliseo Perú - Japón",
+    "latitude": "-11978489",
+    "longitude": "-77050475",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Huamachuco s/n, Tahuantinsuyo, Independencia",
+    "venueDetails": "",
+    "cellName": "Cientifico Open 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2013CABR03"
+    ],
+    "competitionDate": "2015-11-08",
+    "competitionEndDate": "2015-11-08"
+  },
+  {
+    "id": "TecsupOpen2015",
+    "name": "Tecsup Speedcubing Open 2015",
+    "venue": "Instituto Tecnológico Superior TECSUP",
+    "latitude": "-16429786",
+    "longitude": "-71519021",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Urb. Monterrey, Lote D-8",
+    "venueDetails": "Salon A4 en el pabellón A",
+    "cellName": "Tecsup Open 2015",
+    "eventSpecs": "222 333 333bf 333oh 444 444bf 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2015-11-28",
+    "competitionEndDate": "2015-11-28"
+  },
+  {
+    "id": "INABIFOpen2015",
+    "name": "INABIF Open 2015",
+    "venue": "INABIF – AUDITORIO CENTRAL",
+    "latitude": "-12072520",
+    "longitude": "-77061595",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. San Martín N° 685, Pueblo Libre",
+    "venueDetails": "",
+    "cellName": "INABIF Open 2015",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2011BARA01"
+    ],
+    "competitionDate": "2015-12-05",
+    "competitionEndDate": "2015-12-06"
+  },
+  {
+    "id": "CrazyCubesOpen2015",
+    "name": "Crazy Cubes Open 2015",
+    "venue": "Auditorio del CIDUNT",
+    "latitude": "-8111637",
+    "longitude": "-79036287",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Jesus de Nazareth S/N, Trujillo",
+    "venueDetails": "Tercer piso",
+    "cellName": "Crazy Cubes Open 2015",
+    "eventSpecs": "222 333 333bf 333oh 444 555 pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2015-12-20",
+    "competitionEndDate": "2015-12-20"
+  },
+  {
+    "id": "TorneoAventuraCubica2016",
+    "name": "Torneo Aventura Cubica 2016",
+    "venue": "Mall Aventura Plaza Santa Anita",
+    "latitude": "-12056631",
+    "longitude": "-76970963",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Nicolas Ayllon, Santa Anita 15008",
+    "venueDetails": "Segundo nivel",
+    "cellName": "Aventura Cubica 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2016-01-23",
+    "competitionEndDate": "2016-01-24"
+  },
+  {
+    "id": "SpeedsolvingPucallpa2016",
+    "name": "Speedsolving Pucallpa 2016",
+    "venue": "Real Plaza - Pucallpa",
+    "latitude": "-8385367",
+    "longitude": "-74556052",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "",
+    "cellName": "Speedsolving Pucallpa 2016",
+    "eventSpecs": "222 333 333oh 444 555 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2016-02-06",
+    "competitionEndDate": "2016-02-07"
+  },
+  {
+    "id": "TCGWelcome2016",
+    "name": "TCG Welcome 2016",
+    "venue": "Centro Comercial El Conquistador",
+    "latitude": "-16400413",
+    "longitude": "-71531442",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "Patio del primer nivel",
+    "cellName": "TCG Welcome 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2016-03-19",
+    "competitionEndDate": "2016-03-19"
+  },
+  {
+    "id": "CrazyCubesSummer2016",
+    "name": "Crazy Cubes Summer 2016",
+    "venue": "Auditorio del CIDUNT",
+    "latitude": "-8111637",
+    "longitude": "-79036287",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Jesus de Nazareth S/N, Ciudad Universitaria, Trujillo",
+    "venueDetails": "Tercer piso",
+    "cellName": "Crazy Cubes Summer 2016",
+    "eventSpecs": "222 333 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2016-03-20",
+    "competitionEndDate": "2016-03-20"
+  },
+  {
+    "id": "PlazaNorteRubik2016",
+    "name": "Plaza Norte Rubik 2016",
+    "venue": "Centro Comercial Plaza Norte",
+    "latitude": "-12006913",
+    "longitude": "-77059765",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Cruce Panamericana Norte -Tomás Valle - Túpac Amaru",
+    "venueDetails": "2do nivel al costado de Chili’s",
+    "cellName": "Plaza Norte Rubik 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2011BARA01"
+    ],
+    "competitionDate": "2016-04-23",
+    "competitionEndDate": "2016-04-24"
+  },
+  {
+    "id": "UCSMSuperateOpen2016",
+    "name": "UCSM Supérate Open 2016",
+    "venue": "Centro Comercial El Conquistador",
+    "latitude": "-16400469",
+    "longitude": "-71531260",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "PPatio del primer nivelabellon S, tercer piso",
+    "cellName": "UCSM Supérate Open 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015CHAL01",
+      "2016VARG04",
+      "2014ZARA01"
+    ],
+    "competitionDate": "2016-06-11",
+    "competitionEndDate": "2016-06-11"
+  },
+  {
+    "id": "NacionalPerubik2016",
+    "name": "Campeonato Nacional Perubik 2016",
+    "venue": "Universidad Cesar Vallejo",
+    "latitude": "-11954849",
+    "longitude": "-77068990",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Alfredo Mendiola 6232, Los Olivos",
+    "venueDetails": "Auditorio Poemas Humanos",
+    "cellName": "Nacional Perubik 2016",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03",
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2011ESQU01",
+      "2011LEIV01",
+      "2011RIGG03",
+      "2011QUEZ01"
+    ],
+    "competitionDate": "2016-07-16",
+    "competitionEndDate": "2016-07-17"
+  },
+  {
+    "id": "GameProTour2016",
+    "name": "Game Pro Tour 2016",
+    "venue": "Feria Internacional Arequipa",
+    "latitude": "-16433121",
+    "longitude": "-71545285",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Campo Ferial Cerro Juli",
+    "venueDetails": "Sección del Game Pro Tour",
+    "cellName": "Game Pro Tour 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2016-08-13",
+    "competitionEndDate": "2016-08-14"
+  },
+  {
+    "id": "CrazyCubesOpen2016",
+    "name": "Crazy Cubes Open 2016",
+    "venue": "Auditorio del CIDUNT",
+    "latitude": "-8111637",
+    "longitude": "-79036287",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Jesus de Nazareth S/N, Ciudad Universitaria, Trujillo",
+    "venueDetails": "Tercer piso",
+    "cellName": "Crazy Cubes Open 2016",
+    "eventSpecs": "222 333 333oh 444 555 666 minx pyram skewb",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2016-08-14",
+    "competitionEndDate": "2016-08-14"
+  },
+  {
+    "id": "LimaRubik2016",
+    "name": "Lima Rubik 2016",
+    "venue": "Parque de la Exposición",
+    "latitude": "-12063025",
+    "longitude": "-77035848",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Esquina de 28 de Julio y Garcilazo de la Vega, Cercado de Lima",
+    "venueDetails": "",
+    "cellName": "Lima Rubik 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2016-08-27",
+    "competitionEndDate": "2016-08-28"
+  },
+  {
+    "id": "RubIquitos2016",
+    "name": "RubIquitos 2016",
+    "venue": "Recreo Turístico Familiar Don Pepe",
+    "latitude": "-3720898",
+    "longitude": "-73255861",
+    "cityName": "Iquitos",
+    "countryId": "Peru",
+    "venueAddress": "Calle 23 de julio, Lt 43, Punchana",
+    "venueDetails": "",
+    "cellName": "RubIquitos 2016",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2016RODR53"
+    ],
+    "competitionDate": "2016-10-22",
+    "competitionEndDate": "2016-10-22"
+  },
+  {
+    "id": "TorneodeSpeedcubers2016",
+    "name": "Torneo de Speedcubers 2016",
+    "venue": "C.C. MALL DEL SUR",
+    "latitude": "-12155742",
+    "longitude": "-76981496",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Los Lirios con Av. Pedro Miotta - San Juan de Miraflores",
+    "venueDetails": "4to nivel frente a la boletería de Cineplanet",
+    "cellName": "Torneo de Speedcubers 2016",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2011QUEZ01"
+    ],
+    "organiser": [
+      "2011BARA01"
+    ],
+    "competitionDate": "2016-10-29",
+    "competitionEndDate": "2016-10-30"
+  },
+  {
+    "id": "UNSASpeedcubing2016",
+    "name": "UNSA Speedcubing 2016",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16406203",
+    "longitude": "-71523935",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Venezuela s/n",
+    "venueDetails": "Facultad de Arquitectura",
+    "cellName": "UNSA Speedcubing 2016",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2016-10-29",
+    "competitionEndDate": "2016-10-29"
+  },
+  {
+    "id": "RealPlaza2016",
+    "name": "Real Plaza 2016",
+    "venue": "Universidad Nacional de San Agustin",
+    "latitude": "-16406184",
+    "longitude": "-71523945",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Venezuela s/n",
+    "venueDetails": "Facultad de Arquitectura",
+    "cellName": "Real Plaza 2016",
+    "eventSpecs": "222 333 333bf 333oh 444 444bf 555 555bf minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2016-11-26",
+    "competitionEndDate": "2016-11-26"
+  },
+  {
+    "id": "ComercioRubik2016",
+    "name": "Comercio Rubik 2016",
+    "venue": "I. E. Comercio N° 64",
+    "latitude": "-8376896",
+    "longitude": "-74537319",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Elmer Faucett S/N esq. Jr. Río Santiago",
+    "venueDetails": "Patio general",
+    "cellName": "Comercio Rubik 2016",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2016-12-10",
+    "competitionEndDate": "2016-12-10"
+  },
+  {
+    "id": "YuraSpeedcubers2017",
+    "name": "Yura Speedcubers 2017",
+    "venue": "Municipalidad Distrital de Yura - Auditorio (Cuarto Piso)",
+    "latitude": "-16302236",
+    "longitude": "-71623866",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Asoc. Ciudad de Dios Zn. 3 Sector B Centro Cívico ",
+    "venueDetails": "Km. 15.5 Pasando Colegio Intervida carretera Arequipa-Yura",
+    "cellName": "Yura Speedcubers 2017",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2013CCAP02"
+    ],
+    "competitionDate": "2017-01-14",
+    "competitionEndDate": "2017-01-14"
+  },
+  {
+    "id": "AventuraCubicaIII2017",
+    "name": "Aventura Cúbica III 2017",
+    "venue": "Mall Aventura Santa Anita",
+    "latitude": "-12056631",
+    "longitude": "-76970962",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Nicolas Ayllon 15008, Santa Anita",
+    "venueDetails": "3er Piso, Frente al patio de comidas",
+    "cellName": "Aventura Cúbica III 2017",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2017-02-04",
+    "competitionEndDate": "2017-02-05"
+  },
+  {
+    "id": "SpeedsolvingPucallpa2017",
+    "name": "Speedsolving Pucallpa 2017",
+    "venue": "Real Plaza - Pucallpa",
+    "latitude": "-8385332",
+    "longitude": "-74555985",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "",
+    "cellName": "Speedsolving Pucallpa 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2017-02-18",
+    "competitionEndDate": "2017-02-19"
+  },
+  {
+    "id": "CrazyCubesSummer2017",
+    "name": "Crazy Cubes Summer 2017",
+    "venue": "Auditorio del CIDUNT",
+    "latitude": "-8111637",
+    "longitude": "-79036287",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Jesus de Nazareth S/N, Ciudad Universitaria, Trujillo",
+    "venueDetails": "Tercer piso",
+    "cellName": "Crazy Cubes Summer 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 444bf 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2017-02-26",
+    "competitionEndDate": "2017-02-26"
+  },
+  {
+    "id": "SpeedsolvingHuancayo2017",
+    "name": "Speedsolving Huancayo 2017",
+    "venue": "Real Plaza",
+    "latitude": "-12066961",
+    "longitude": "-75205131",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Ferrocarril Nº 1035, Huancayo",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Speedsolving Huancayo 2017",
+    "eventSpecs": "222 333 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2017-03-05",
+    "competitionEndDate": "2017-03-05"
+  },
+  {
+    "id": "ActivaClubRubik2017",
+    "name": "Activa Club Rubik 2017",
+    "venue": "Activa Club",
+    "latitude": "-11972345",
+    "longitude": "-77044153",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jiron Pallcamarca 501, Urb Tupac Amaru,  Independencia",
+    "venueDetails": "",
+    "cellName": "Activa Club Rubik 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2011BARA01"
+    ],
+    "competitionDate": "2017-03-11",
+    "competitionEndDate": "2017-03-11"
+  },
+  {
+    "id": "CubiarTravel2017",
+    "name": "Cubiar Travel 2017",
+    "venue": "Mega Plaza Express Chincha",
+    "latitude": "-13414237",
+    "longitude": "-76148205",
+    "cityName": "Chincha",
+    "countryId": "Peru",
+    "venueAddress": "Carr. Panamericana Sur 1185, Sunampe, Peru",
+    "venueDetails": "",
+    "cellName": "Cubiar Travel 2017",
+    "eventSpecs": "222 333 333oh 444 555 pyram",
+    "wcaDelegate": [
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2016ACEN01"
+    ],
+    "competitionDate": "2017-04-08",
+    "competitionEndDate": "2017-04-08"
+  },
+  {
+    "id": "AventuraCubicaIV2017",
+    "name": "Aventura Cúbica IV 2017",
+    "venue": "Mall Aventura Santa Anita",
+    "latitude": "-12056631",
+    "longitude": "-76970959",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Nicolas Ayllon 15008, Santa Anita",
+    "venueDetails": "3er Piso, Frente al patio de comidas",
+    "cellName": "Aventura Cúbica IV 2017",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2017-04-22",
+    "competitionEndDate": "2017-04-23"
+  },
+  {
+    "id": "TCGFallArequipa2017",
+    "name": "TCG Fall Arequipa 2017",
+    "venue": "Colegio Esclavas del Sagrado Corazón de Jesús",
+    "latitude": "-16302236",
+    "longitude": "-71623866",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Antero Peralta 101, Arequipa, Perú",
+    "venueDetails": "Salón de usos múltiples",
+    "cellName": "TCG Fall Arequipa 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2017-04-22",
+    "competitionEndDate": "2017-04-22"
+  },
+  {
+    "id": "RubikPro2017",
+    "name": "Rubik Pro 2017",
+    "venue": "[Palacio de la Juventud](http://portal.munilosolivos.gob.pe/vacacionesolivenses/)",
+    "latitude": "-12003145",
+    "longitude": "-77082527",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 2910, Los Olivos",
+    "venueDetails": "Primer piso",
+    "cellName": "Rubik Pro 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2015VASQ06"
+    ],
+    "competitionDate": "2017-05-21",
+    "competitionEndDate": "2017-05-21"
+  },
+  {
+    "id": "LatinAmericaCubingTourArequi2017",
+    "name": "Latin America Cubing Tour - Arequipa 2017",
+    "venue": "[Tecsup](http://www.tecsup.edu.pe/home/)",
+    "latitude": "-16429189",
+    "longitude": "-71519719",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Hartley 11, José Luis Bustamante y Rivero, Perú",
+    "venueDetails": "Segundo piso de la Cafetería",
+    "cellName": "LatAm Tour - Arequipa 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2005FLEI01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2017-06-22",
+    "competitionEndDate": "2017-06-22"
+  },
+  {
+    "id": "LatinAmericaCubingTourLima2017",
+    "name": "Latin America Cubing Tour - Lima 2017",
+    "venue": "Parque La Muralla",
+    "latitude": "-12044561",
+    "longitude": "-77026398",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Línea Amarilla 6500, Rímac 15093, Perú",
+    "venueDetails": "Explanada",
+    "cellName": "LatAm Tour - Lima 2017",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2011RIGG03",
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2011ESQU01",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2017-06-24",
+    "competitionEndDate": "2017-06-25"
+  },
+  {
+    "id": "CrazyCubesOpen2017",
+    "name": "Crazy Cubes Open 2017",
+    "venue": "Real Plaza - Trujillo",
+    "latitude": "-8131788",
+    "longitude": "-79031696",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Fundo Las Casuarinas, Sub Lote predio A; Intersección & Av. Fátima, Prol Cesar Vallejo 1345, Trujillo 13008",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Crazy Cubes Open 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2017-07-09",
+    "competitionEndDate": "2017-07-09"
+  },
+  {
+    "id": "LTCCubeFest2017",
+    "name": "LTC Cube Fest 2017",
+    "venue": "Plaza Tec",
+    "latitude": "-12057115",
+    "longitude": "-77038316",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Garcilaso de la Vega 1354, Distrito de Lima 15001",
+    "venueDetails": "Sotano",
+    "cellName": "LTC Cube Fest 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [],
+    "competitionDate": "2017-07-22",
+    "competitionEndDate": "2017-07-23"
+  },
+  {
+    "id": "SpeedcubingIlo2017",
+    "name": "Speedcubing Ilo 2017",
+    "venue": "Salon de Eventos \"Los Faroles\"",
+    "latitude": "-17635422",
+    "longitude": "-71333621",
+    "cityName": "Ilo, Moquegua",
+    "countryId": "Peru",
+    "venueAddress": "Miramar O-1, Ilo",
+    "venueDetails": "",
+    "cellName": "Speedcubing Ilo 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2017ABRI01"
+    ],
+    "competitionDate": "2017-08-12",
+    "competitionEndDate": "2017-08-12"
+  },
+  {
+    "id": "ChimboteRubik2017",
+    "name": "ChimboteRubik 2017",
+    "venue": "[Centro Cultural Centenario] (http://www.centroculturalcentenario.org/)",
+    "latitude": "-9073637",
+    "longitude": "-78587304",
+    "cityName": "Chimbote",
+    "countryId": "Peru",
+    "venueAddress": "Prolongación Alfonso Ugarte N° 800 Chimbote, Ancash, Perú",
+    "venueDetails": "Galería de Arte ¨Ivan Orlic¨ del Centro Cultural Centenario",
+    "cellName": "ChimboteRubik 2017",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2016PALA01"
+    ],
+    "competitionDate": "2017-08-19",
+    "competitionEndDate": "2017-08-20"
+  },
+  {
+    "id": "RubikJunin2017",
+    "name": "Rubik Junin 2017",
+    "venue": "Real Plaza",
+    "latitude": "-12066961",
+    "longitude": "-75205131",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Ferrocarril Nº 1035, Huancayo",
+    "venueDetails": "3er Piso al costado del cine",
+    "cellName": "Rubik Junin 2017",
+    "eventSpecs": "222 333 333oh 444 pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2017-08-20",
+    "competitionEndDate": "2017-08-20"
+  },
+  {
+    "id": "CampeonatoNacionalPerubik2017",
+    "name": "Campeonato Nacional Perubik 2017",
+    "venue": "Megaplaza",
+    "latitude": "-11993848",
+    "longitude": "-77061917",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Panamericana Norte s/n, Los Olivos",
+    "venueDetails": "Segundo nivel",
+    "cellName": "Campeonato Nacional Perubik 2017",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2011RIGG03",
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2017-08-26",
+    "competitionEndDate": "2017-08-27"
+  },
+  {
+    "id": "CrazyCubesSpring2017",
+    "name": "Crazy Cubes Spring 2017",
+    "venue": "Real Plaza - Trujillo",
+    "latitude": "-8131788",
+    "longitude": "-79031696",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Fundo Las Casuarinas, Sub Lote predio A; Intersección & Av. Fátima, Prol Cesar Vallejo 1345, Trujillo 13008",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Crazy Cubes Spring 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2017-09-24",
+    "competitionEndDate": "2017-09-24"
+  },
+  {
+    "id": "FIGHTPeru2017",
+    "name": "FIGHT Peru 2017",
+    "venue": "[Municipalidad Provincial de Arequipa](www.muniarequipa.gob.pe/)",
+    "latitude": "-16399491",
+    "longitude": "-71536944",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Portal de la Municipalidad 110",
+    "venueDetails": "Primer patio",
+    "cellName": "FIGHT Peru 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2017-09-30",
+    "competitionEndDate": "2017-09-30"
+  },
+  {
+    "id": "JuliacaSpeedcubing2017",
+    "name": "Juliaca Speedcubing 2017",
+    "venue": "Real Plaza",
+    "latitude": "-15494219",
+    "longitude": "-70130982",
+    "cityName": "Juliaca",
+    "countryId": "Peru",
+    "venueAddress": "Jr. San Martin 110-344, Juliaca",
+    "venueDetails": "Pasillo (Al frente de ENTEL)",
+    "cellName": "Juliaca Speedcubing 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015CHAL01"
+    ],
+    "competitionDate": "2017-10-21",
+    "competitionEndDate": "2017-10-21"
+  },
+  {
+    "id": "RubIquitos2017",
+    "name": "RubIquitos 2017",
+    "venue": "Recreo Turístico Familiar Don Pepe",
+    "latitude": "-3720898",
+    "longitude": "-73255858",
+    "cityName": "Iquitos",
+    "countryId": "Peru",
+    "venueAddress": "Calle 23 de julio, Lt 43, Punchana",
+    "venueDetails": "",
+    "cellName": "RubIquitos 2017",
+    "eventSpecs": "222 333 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2016RODR53"
+    ],
+    "competitionDate": "2017-11-12",
+    "competitionEndDate": "2017-11-12"
+  },
+  {
+    "id": "LastCubingLima2017",
+    "name": "Last Cubing Lima 2017",
+    "venue": "Municipalidad San Martin de Porres",
+    "latitude": "-12030503",
+    "longitude": "-77057324",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Alfredo Mendiola 1146, San Martín de Porres",
+    "venueDetails": "Auditorio Municipal de San Martin de Porres",
+    "cellName": "Last Cubing Lima 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2017-12-09",
+    "competitionEndDate": "2017-12-10"
+  },
+  {
+    "id": "TCGSpring2017",
+    "name": "TCG Spring 2017",
+    "venue": "Tecsup",
+    "latitude": "-16429189",
+    "longitude": "-71519719",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Hartley 11, José Luis Bustamante y Rivero, Perú",
+    "venueDetails": "2do piso de la cafetería",
+    "cellName": "TCG Spring 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2017-12-09",
+    "competitionEndDate": "2017-12-09"
+  },
+  {
+    "id": "CrazyCubesChristmas2017",
+    "name": "Crazy Cubes Christmas 2017",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "Crazy Cubes Christmas 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2017-12-16",
+    "competitionEndDate": "2017-12-17"
+  },
+  {
+    "id": "SpeedsolvingSakura2017",
+    "name": "Speedsolving Sakura 2017",
+    "venue": "Complejo Academia Ingenieria",
+    "latitude": "-12066661",
+    "longitude": "-75211604",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Calle Real No235, El Tambo, Huancayo",
+    "venueDetails": "",
+    "cellName": "Speedsolving Sakura 2017",
+    "eventSpecs": "222 333 333bf 333oh 444 444bf minx pyram skewb",
+    "wcaDelegate": [
+      "2014GUIL02"
+    ],
+    "organiser": [
+      "2017CHAV22",
+      "2017TEJE01"
+    ],
+    "competitionDate": "2017-12-17",
+    "competitionEndDate": "2017-12-17"
+  },
+  {
+    "id": "CuscoSpeedcubing2018",
+    "name": "Cusco Speedcubing 2018",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521860",
+    "longitude": "-71974291",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "Auditorio",
+    "cellName": "Cusco Speedcubing 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2018-01-06",
+    "competitionEndDate": "2018-01-06"
+  },
+  {
+    "id": "AventuraCubicaV2018",
+    "name": "Aventura Cúbica V 2018",
+    "venue": "Mall Aventura Santa Anita",
+    "latitude": "-12056631",
+    "longitude": "-76970959",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Nicolas Ayllon 15008, Santa Anita",
+    "venueDetails": "3er Piso, Frente al patio de comidas",
+    "cellName": "Aventura Cúbica V 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2018-01-27",
+    "competitionEndDate": "2018-01-28"
+  },
+  {
+    "id": "ColegioNewtonYura2018",
+    "name": "Colegio Newton Yura 2018",
+    "venue": "Municipalidad Distrital de Yura - Auditorio (Cuarto Piso)",
+    "latitude": "-16302236",
+    "longitude": "-71623866",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Asoc. Ciudad de Dios Zn. 3 Sector B Centro Cívico ",
+    "venueDetails": "Km. 15.5 Pasando Colegio Intervida carretera Arequipa-Yura",
+    "cellName": "Colegio Newton Yura 2018",
+    "eventSpecs": "222 333 333bf 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2013CCAP02"
+    ],
+    "competitionDate": "2018-02-11",
+    "competitionEndDate": "2018-02-11"
+  },
+  {
+    "id": "IquiOpen2018",
+    "name": "Iqui Open 2018",
+    "venue": "Recreo Turístico Familiar Don Pepe",
+    "latitude": "-3722756",
+    "longitude": "-73255862",
+    "cityName": "Iquitos",
+    "countryId": "Peru",
+    "venueAddress": "Calle 23 de julio, Lt 43, Punchana",
+    "venueDetails": "Primer piso",
+    "cellName": "Iqui Open 2018",
+    "eventSpecs": "222 333 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2016NUNE15"
+    ],
+    "competitionDate": "2018-02-25",
+    "competitionEndDate": "2018-02-25"
+  },
+  {
+    "id": "CCS2018",
+    "name": "CCS 2018",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "CCS 2018",
+    "eventSpecs": "222 333 333fm 333oh 444 555 666 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2018-03-02",
+    "competitionEndDate": "2018-03-03"
+  },
+  {
+    "id": "PucallpaOpen2018",
+    "name": "Pucallpa Open 2018",
+    "venue": "Real Plaza - Pucallpa",
+    "latitude": "-8385332",
+    "longitude": "-74555985",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Pucallpa Open 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2018-03-10",
+    "competitionEndDate": "2018-03-11"
+  },
+  {
+    "id": "SanJoseCubing2018",
+    "name": "San Jose Cubing 2018",
+    "venue": "Colegio San José",
+    "latitude": "-16424533",
+    "longitude": "-71554776",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Alfonso Ugarte 302-498, A",
+    "venueDetails": "Coliseo del Colegio San José ",
+    "cellName": "San Jose Cubing 2018",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2014ZARA01"
+    ],
+    "competitionDate": "2018-03-10",
+    "competitionEndDate": "2018-03-11"
+  },
+  {
+    "id": "FIGHTPeru2018",
+    "name": "FIGHT Peru 2018",
+    "venue": "Megaplaza",
+    "latitude": "-11994219",
+    "longitude": "-77061092",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Alfredo Mendiola 3698, Independencia 15311, Perú",
+    "venueDetails": "Entre Saga y Paris",
+    "cellName": "FIGHT Peru 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2018-04-21",
+    "competitionEndDate": "2018-04-22"
+  },
+  {
+    "id": "GloriosoSanCarlos2018",
+    "name": "Glorioso San Carlos 2018",
+    "venue": "Glorioso Colegio Nacional San Carlos de Puno",
+    "latitude": "-15834364",
+    "longitude": "-70024441",
+    "cityName": "Puno",
+    "countryId": "Peru",
+    "venueAddress": " Talara 271, Puno",
+    "venueDetails": "Coliseo (Anexo)",
+    "cellName": "Glorioso San Carlos 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555bf pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2017JULI05",
+      "2017CUTI01"
+    ],
+    "competitionDate": "2018-05-05",
+    "competitionEndDate": "2018-05-05"
+  },
+  {
+    "id": "TorneoActivaClub2018",
+    "name": "Torneo Activa Club 2018",
+    "venue": "Activa Club",
+    "latitude": "-11972345",
+    "longitude": "-77044153",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jiron Pallcamarca 501, Urb Tupac Amaru,  Independencia",
+    "venueDetails": "En la Cancha de Futbol.",
+    "cellName": "Torneo Activa Club 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2011BARA01"
+    ],
+    "competitionDate": "2018-05-19",
+    "competitionEndDate": "2018-05-20"
+  },
+  {
+    "id": "TCGFall2018",
+    "name": "TCG Fall 2018",
+    "venue": "[Municipalidad Provincial de Arequipa](www.muniarequipa.gob.pe/)",
+    "latitude": "-16399491",
+    "longitude": "-71536944",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Portal de la Municipalidad 110",
+    "venueDetails": "Primer patio",
+    "cellName": "TCG Fall 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2018-06-02",
+    "competitionEndDate": "2018-06-02"
+  },
+  {
+    "id": "SpeedcubingIlo2018",
+    "name": "Speedcubing Ilo 2018",
+    "venue": "Coliseo \"Victor Raúl Carvajal\"",
+    "latitude": "-17647853",
+    "longitude": "-71345185",
+    "cityName": "Ilo, Moquegua",
+    "countryId": "Peru",
+    "venueAddress": "Mirave 414",
+    "venueDetails": "",
+    "cellName": "Speedcubing Ilo 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2017ABRI01"
+    ],
+    "competitionDate": "2018-06-09",
+    "competitionEndDate": "2018-06-09"
+  },
+  {
+    "id": "PeruNationals2018",
+    "name": "Peru Nationals 2018",
+    "venue": "Parque de la Exposición",
+    "latitude": "-12062609",
+    "longitude": "-77035643",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Amphitheater Exposition Park, Avenida Paseo de la República, Lima District",
+    "venueDetails": "Anfiteatro. Habrá carteles para que el público se pueda guiar.",
+    "cellName": "Peru Nationals 2018",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2012ORTI04",
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2018-06-29",
+    "competitionEndDate": "2018-07-01"
+  },
+  {
+    "id": "MarianoMelgarSpeedcubing2018",
+    "name": "Mariano Melgar Speedcubing 2018",
+    "venue": "Centro Cívico de Mariano Melgar",
+    "latitude": "-16403602",
+    "longitude": "-71509661",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Simón Bolívar 818, Mariano Melgar",
+    "venueDetails": "",
+    "cellName": "Mariano Melgar Speedcubing 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2015SUCL01"
+    ],
+    "competitionDate": "2018-08-04",
+    "competitionEndDate": "2018-08-04"
+  },
+  {
+    "id": "LTCKids2018",
+    "name": "LTC Kids 2018",
+    "venue": "Cyber Plaza",
+    "latitude": "-12056863",
+    "longitude": "-77038269",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Garcilazo de la Vega 1344",
+    "venueDetails": "Semi sotano, Cerca a la pileta ",
+    "cellName": "LTC Kids 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [],
+    "competitionDate": "2018-08-18",
+    "competitionEndDate": "2018-08-19"
+  },
+  {
+    "id": "SpeedsolvingJunin2018",
+    "name": "Speedsolving Junín 2018",
+    "venue": "Dirección Regional de Trabajo y Promoción del Empleo Junín",
+    "latitude": "-12061894",
+    "longitude": "-75215363",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Arequipa 520, Huancayo, Peru",
+    "venueDetails": "",
+    "cellName": "Speedsolving Junín 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2018-08-18",
+    "competitionEndDate": "2018-08-19"
+  },
+  {
+    "id": "SalesianosOpen2018",
+    "name": "Salesianos Open 2018",
+    "venue": "Colegio Don Bosco",
+    "latitude": "-16397003",
+    "longitude": "-71528731",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle San Pedro 216",
+    "venueDetails": "Auditorio, 2do piso",
+    "cellName": "Salesianos Open 2018",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015COLL07",
+      "2018CATU01"
+    ],
+    "competitionDate": "2018-09-29",
+    "competitionEndDate": "2018-09-30"
+  },
+  {
+    "id": "JaenMountainCubes2018",
+    "name": "Jaén Mountain Cubes 2018",
+    "venue": "Mini coliseo Los Aromos",
+    "latitude": "-5715790",
+    "longitude": "-78805568",
+    "cityName": "Jaén",
+    "countryId": "Peru",
+    "venueAddress": "Maria Parado de Bellido, Jaén",
+    "venueDetails": "",
+    "cellName": "Jaén Mountain Cubes 2018",
+    "eventSpecs": "222 333 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2018BRIC05"
+    ],
+    "competitionDate": "2018-10-13",
+    "competitionEndDate": "2018-10-14"
+  },
+  {
+    "id": "AventuraCubicaVI2018",
+    "name": "Aventura Cúbica VI 2018",
+    "venue": "Mall Aventura Santa Anita",
+    "latitude": "-12056631",
+    "longitude": "-76970959",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Nicolas Ayllon 15008, Santa Anita",
+    "venueDetails": "3er Piso, Frente al patio de comidas",
+    "cellName": "Aventura Cúbica VI 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2013LEON05"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2018-10-20",
+    "competitionEndDate": "2018-10-21"
+  },
+  {
+    "id": "TrujilloOpen2018",
+    "name": "Trujillo Open 2018",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "Trujillo Open 2018",
+    "eventSpecs": "222 333 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2018-10-20",
+    "competitionEndDate": "2018-10-20"
+  },
+  {
+    "id": "GameProTour2018",
+    "name": "Game Pro Tour 2018",
+    "venue": "Real Plaza Arequipa",
+    "latitude": "-16389173",
+    "longitude": "-71549422",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Real Plaza, Av. Ejercito, Cayma, Perú",
+    "venueDetails": "Estacionamiento, último nivel",
+    "cellName": "Game Pro Tour 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2018-10-27",
+    "competitionEndDate": "2018-10-28"
+  },
+  {
+    "id": "Pucallpa2018",
+    "name": "Pucallpa 2018",
+    "venue": "Ministerio Público - Pucallpa",
+    "latitude": "-8385710",
+    "longitude": "-74532333",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. San Martin 644",
+    "venueDetails": "Auditorio",
+    "cellName": "Pucallpa 2018",
+    "eventSpecs": "222 333 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2018-10-27",
+    "competitionEndDate": "2018-10-27"
+  },
+  {
+    "id": "IquitosCubing2018",
+    "name": "Iquitos Cubing 2018",
+    "venue": "Recreo Turístico Familiar Don Pepe",
+    "latitude": "-3722756",
+    "longitude": "-73255856",
+    "cityName": "Iquitos",
+    "countryId": "Peru",
+    "venueAddress": "Calle 23 de julio, Lt 43, Punchana",
+    "venueDetails": "Primer piso",
+    "cellName": "Iquitos Cubing 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2016NUNE15"
+    ],
+    "competitionDate": "2018-11-03",
+    "competitionEndDate": "2018-11-04"
+  },
+  {
+    "id": "LaTiendaCuberaChristmas2018",
+    "name": "La Tienda Cubera Christmas 2018",
+    "venue": "Centro comercial Cyber Plaza",
+    "latitude": "-12056863",
+    "longitude": "-77038269",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Inca Garcilazo de la Vega 1344, Cercado de Lima",
+    "venueDetails": "Semi sotano, cerca a la pileta ",
+    "cellName": "La Tienda Cubera Christmas 2018",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2013LEON05"
+    ],
+    "organiser": [],
+    "competitionDate": "2018-12-22",
+    "competitionEndDate": "2018-12-23"
+  },
+  {
+    "id": "CuscoSpeedcubing2019",
+    "name": "Cusco Speedcubing 2019",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521860",
+    "longitude": "-71974291",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "Auditorio",
+    "cellName": "Cusco Speedcubing 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [],
+    "competitionDate": "2019-01-05",
+    "competitionEndDate": "2019-01-05"
+  },
+  {
+    "id": "TCGDeluxe2019",
+    "name": "TCG Deluxe 2019",
+    "venue": "Mall Plaza Arequipa",
+    "latitude": "-16390539",
+    "longitude": "-71546450",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Ejercito",
+    "venueDetails": "Huerta Viva en el tercer nivel",
+    "cellName": "TCG Deluxe 2019",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2019-01-12",
+    "competitionEndDate": "2019-01-13"
+  },
+  {
+    "id": "AventuraCubicaVII2019",
+    "name": "Aventura Cúbica VII 2019",
+    "venue": "Mall Aventura Santa Anita",
+    "latitude": "-12056631",
+    "longitude": "-76970959",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Nicolas Ayllon 15008, Santa Anita",
+    "venueDetails": "3er Piso, Frente al patio de comidas",
+    "cellName": "Aventura Cúbica VII 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2013LEON05"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2019-02-16",
+    "competitionEndDate": "2019-02-17"
+  },
+  {
+    "id": "GloriosoSanCarlos2019",
+    "name": "Glorioso San Carlos 2019",
+    "venue": "Glorioso Colegio Nacional San Carlos de Puno",
+    "latitude": "-15834113",
+    "longitude": "-70024158",
+    "cityName": "Puno",
+    "countryId": "Peru",
+    "venueAddress": "Talara 271, Puno",
+    "venueDetails": "Coliseo (Anexo)",
+    "cellName": "Glorioso San Carlos 2019",
+    "eventSpecs": "222 333 333bf 333fm 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2017CUTI01"
+    ],
+    "competitionDate": "2019-02-16",
+    "competitionEndDate": "2019-02-16"
+  },
+  {
+    "id": "NewtonSpeedcubing2019",
+    "name": "Newton Speedcubing 2019",
+    "venue": "Municipalidad Distrital de Yura - Auditorio (Cuarto Piso)",
+    "latitude": "-16302236",
+    "longitude": "-71623866",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Asoc. Ciudad de Dios Zn. 3 Sector B Centro Cívico ",
+    "venueDetails": "Km. 15.5 Pasando Colegio Intervida carretera Arequipa-Yura",
+    "cellName": "Newton Speedcubing 2019",
+    "eventSpecs": "222 333 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2013CCAP02"
+    ],
+    "competitionDate": "2019-02-24",
+    "competitionEndDate": "2019-02-24"
+  },
+  {
+    "id": "SpeedsolvingHuancayo2019",
+    "name": "Speedsolving Huancayo 2019",
+    "venue": "Municipalidad Provincial de Huancayo",
+    "latitude": "-12070975",
+    "longitude": "-75208250",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Calle Real 800",
+    "venueDetails": "Auditorio",
+    "cellName": "Speedsolving Huancayo 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2019-03-24",
+    "competitionEndDate": "2019-03-24"
+  },
+  {
+    "id": "SpeedcuberPeruOtono2019",
+    "name": "Speedcuber Perú Otoño 2019",
+    "venue": "Centro Comercial Plaza Norte",
+    "latitude": "-12006224",
+    "longitude": "-77058985",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Cruce Panamericana Norte -Tomás Valle - Túpac Amaru",
+    "venueDetails": "Patio de Comidas Externo del C.C. Plaza Norte (2do nivel, al costado del restaurante Mediterráneo)",
+    "cellName": "Speedcuber Perú Otoño 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2018MONT03",
+      "2011BARA01"
+    ],
+    "competitionDate": "2019-04-20",
+    "competitionEndDate": "2019-04-21"
+  },
+  {
+    "id": "CopaBlackHorse2019",
+    "name": "Copa Black Horse 2019",
+    "venue": "Policlinico de Salud San Juan",
+    "latitude": "-12166731",
+    "longitude": "-76978501",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Pedro Miotta & Av Ramon Vargas Machuca, San Juan de Miraflores",
+    "venueDetails": "Patio del policlínico",
+    "cellName": "Copa Black Horse 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2013LEON05"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2019-06-01",
+    "competitionEndDate": "2019-06-02"
+  },
+  {
+    "id": "TCGFall2019",
+    "name": "TCG Fall 2019",
+    "venue": "[Municipalidad Provincial de Arequipa](https://www.muniarequipa.gob.pe/)",
+    "latitude": "-16399491",
+    "longitude": "-71536944",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Portal de la Municipalidad 110",
+    "venueDetails": "Primer patio",
+    "cellName": "TCG Fall 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2019-06-01",
+    "competitionEndDate": "2019-06-01"
+  },
+  {
+    "id": "CuscoSpeedcubingII2019",
+    "name": "Cusco Speedcubing II 2019",
+    "venue": "Auditorio de La Escuela Profesional de Ingeniería Electrónica de la UNSAAC",
+    "latitude": "-13521094",
+    "longitude": "-71956941",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Av. de La Cultura 773",
+    "venueDetails": "Primera Planta en el edificio de la E. P. de Ingeniería Electrónica ",
+    "cellName": "Cusco Speedcubing II 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2019SISA01"
+    ],
+    "competitionDate": "2019-06-29",
+    "competitionEndDate": "2019-06-29"
+  },
+  {
+    "id": "BreakingRecordsHuancayo2019",
+    "name": "Breaking Records Huancayo 2019",
+    "venue": "Municipalidad Provincial de Huancayo",
+    "latitude": "-12070975",
+    "longitude": "-75208250",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Calle Real 800",
+    "venueDetails": "Auditorio",
+    "cellName": "Breaking Records Huancayo 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2017SALA07"
+    ],
+    "competitionDate": "2019-08-03",
+    "competitionEndDate": "2019-08-03"
+  },
+  {
+    "id": "PreNacionalesArequipa2019",
+    "name": "Pre-Nacionales Arequipa 2019",
+    "venue": "Saturday: Centro Cívico de Mariano Melgar. Sunday: El Niño coliseum",
+    "latitude": "-16403602",
+    "longitude": "-71509661",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Saturday: Calle Simón Bolívar 818, Mariano Melgar. Sunday: Ica Street 210. ",
+    "venueDetails": "",
+    "cellName": "Pre-Nacionales Arequipa 2019",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015SUCL01"
+    ],
+    "competitionDate": "2019-08-10",
+    "competitionEndDate": "2019-08-11"
+  },
+  {
+    "id": "PeruNationals2019",
+    "name": "Peru Nationals 2019",
+    "venue": "Megaplaza",
+    "latitude": "-11993357",
+    "longitude": "-77060036",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Alfredo Mendiola 3698, Independencia 15311, Peru",
+    "venueDetails": "Boulevard",
+    "cellName": "Peru Nationals 2019",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2013LEON05",
+      "2015CHAL01",
+      "2012ORTI04",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01",
+      "2013LEON05",
+      "2015CHAL01",
+      "2012ORTI04",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2019-08-16",
+    "competitionEndDate": "2019-08-18"
+  },
+  {
+    "id": "ComasSpeedsolving2019",
+    "name": "Comas Speedsolving 2019",
+    "venue": "Municipalidad de Comas",
+    "latitude": "-11957358",
+    "longitude": "-77049372",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Plaza de Armas de Comas, Comas 15328 ",
+    "venueDetails": "Auditorio",
+    "cellName": "Comas Speedsolving 2019",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011ESQU01",
+      "2018VARG10"
+    ],
+    "competitionDate": "2019-09-28",
+    "competitionEndDate": "2019-09-29"
+  },
+  {
+    "id": "CubelandArequipa2019",
+    "name": "Cubeland Arequipa Speedsolving 2019",
+    "venue": "[Universidad San Martín de Porres - Sede Tahuaycani](https://usmpaqp.edu.pe/)",
+    "latitude": "-16401166",
+    "longitude": "-71554995",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Tahuaycani 140 ",
+    "venueDetails": "Primer patio",
+    "cellName": "Cubeland Arequipa 2019",
+    "eventSpecs": "222 333 444 pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2018CUTI01"
+    ],
+    "competitionDate": "2019-10-26",
+    "competitionEndDate": "2019-10-26"
+  },
+  {
+    "id": "ElNorteCubeaPeru2019",
+    "name": "El Norte Cubea Perú 2019",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "El Norte Cubea Perú 2019",
+    "eventSpecs": "222 333 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2015CORN06"
+    ],
+    "competitionDate": "2019-11-09",
+    "competitionEndDate": "2019-11-09"
+  },
+  {
+    "id": "PalaciodelCubo2019",
+    "name": "Palacio del Cubo 2019",
+    "venue": "Palacio de la Juventud",
+    "latitude": "-12002952",
+    "longitude": "-77082787",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 2086, Los Olivos",
+    "venueDetails": "Salón de eventos - piso 12 el primer día (Day 1: 2th floor) Salón de eventos - piso 4 el segundo día (Day 2: 4th floor)",
+    "cellName": "Palacio del Cubo 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2013LEON05",
+      "2017DELG02"
+    ],
+    "organiser": [
+      "2018MONT03",
+      "2011BARA01"
+    ],
+    "competitionDate": "2019-11-16",
+    "competitionEndDate": "2019-11-17"
+  },
+  {
+    "id": "CuscoSpeedcubingIII2019",
+    "name": "Cusco Speedcubing III 2019",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521860",
+    "longitude": "-71974291",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "Auditorio",
+    "cellName": "Cusco Speedcubing III 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [],
+    "competitionDate": "2019-11-30",
+    "competitionEndDate": "2019-11-30"
+  },
+  {
+    "id": "TCGSpring2019",
+    "name": "TCG Spring 2019",
+    "venue": "Mall Plaza Arequipa",
+    "latitude": "-16390815",
+    "longitude": "-71546793",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Ejercito",
+    "venueDetails": "Biblioteca Viva en el tercer nivel",
+    "cellName": "TCG Spring 2019",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2019-12-14",
+    "competitionEndDate": "2019-12-15"
+  },
+  {
+    "id": "IquitosCuber2019",
+    "name": "Iquitos Cuber 2019",
+    "venue": "C.E.P.S. Parroquial \"Nuestra Señora de la Salud\"",
+    "latitude": "-3727490",
+    "longitude": "-73253912",
+    "cityName": "Iquitos",
+    "countryId": "Peru",
+    "venueAddress": "Av. 28 de Julio #1251 - Punchana",
+    "venueDetails": "Gimnasio",
+    "cellName": "Iquitos Cuber 2019",
+    "eventSpecs": "222 333 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2016RODR53"
+    ],
+    "competitionDate": "2019-12-21",
+    "competitionEndDate": "2019-12-21"
+  },
+  {
+    "id": "LaTiendaCuberaChristmas2019",
+    "name": "La Tienda Cubera Christmas 2019",
+    "venue": "Centro comercial Cyber Plaza",
+    "latitude": "-12056863",
+    "longitude": "-77038269",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Inca Garcilazo de la Vega 1344, Cercado de Lima",
+    "venueDetails": "Semi sotano, cerca a la pileta ",
+    "cellName": "La Tienda Cubera Christmas 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04"
+    ],
+    "organiser": [],
+    "competitionDate": "2019-12-21",
+    "competitionEndDate": "2019-12-22"
+  },
+  {
+    "id": "GeekStoreSpeedsolving2019",
+    "name": "GeekStore Speedsolving 2019",
+    "venue": "Real Plaza",
+    "latitude": "-8385332",
+    "longitude": "-74555985",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "GeekStore Speedsolving 2019",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram sq1",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2019-12-28",
+    "competitionEndDate": "2019-12-28"
+  },
+  {
+    "id": "LimaCuberano2020",
+    "name": "Lima Cuberano 2020",
+    "venue": "Policlínico de Salud San Juan",
+    "latitude": "-12166518",
+    "longitude": "-76978529",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Pedro Miotta & Av Ramon Vargas Machuca, San Juan de Miraflores",
+    "venueDetails": "Patio del policlínico",
+    "cellName": "Lima Cuberano 2020",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2017DELG02"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2020-01-18",
+    "competitionEndDate": "2020-01-19"
+  },
+  {
+    "id": "GloriosoSanCarlos2020",
+    "name": "Glorioso San Carlos 2020",
+    "venue": "Glorioso Colegio Nacional \"San Carlos\" - Puno",
+    "latitude": "-15837748",
+    "longitude": "-70027496",
+    "cityName": "Puno",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Arequipa 245, Puno ",
+    "venueDetails": "Salón de reuniones ",
+    "cellName": "Glorioso San Carlos 2020",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2019CURI01",
+      "2014QUIS02",
+      "2017CUTI01"
+    ],
+    "competitionDate": "2020-02-15",
+    "competitionEndDate": "2020-02-15"
+  },
+  {
+    "id": "TrujilloHappyNewYear2020",
+    "name": "Trujillo Happy New Year 2020",
+    "venue": "Centro Comercial Boulevard",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "Trujillo Happy New Year 2020",
+    "eventSpecs": "222 333 333bf 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2013VALD02"
+    ],
+    "organiser": [
+      "2017SOLD01"
+    ],
+    "competitionDate": "2020-02-22",
+    "competitionEndDate": "2020-02-22"
+  },
+  {
+    "id": "ARomperTuPBLima2020",
+    "name": "A Romper Tu PB Lima 2020",
+    "venue": "Plaza Center",
+    "latitude": "-12203255",
+    "longitude": "-76932862",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Villa El Salvador, Av. Solidaridad, Lima 15816",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "A Romper Tu PB Lima 2020",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2017DELG02"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2020-02-29",
+    "competitionEndDate": "2020-03-01"
+  },
+  {
+    "id": "SpeedcubersEliteLima2021",
+    "name": "Speedcubers Elite Lima 2021",
+    "venue": "Activa Club",
+    "latitude": "-11972304",
+    "longitude": "-77044160",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jiron Pallcamarca 501, Urb Tupac Amaru,  Independencia",
+    "venueDetails": "Cancha de fútbol",
+    "cellName": "Speedcubers Elite Lima 2021",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2017DELG02"
+    ],
+    "organiser": [
+      "2018MONT03"
+    ],
+    "competitionDate": "2021-10-30",
+    "competitionEndDate": "2021-10-31"
+  },
+  {
+    "id": "BacktoCubingSanJose2021",
+    "name": "Back to Cubing San José 2021",
+    "venue": "Misión TEC",
+    "latitude": "-8334445",
+    "longitude": "-74595994",
+    "cityName": "Yarinacocha",
+    "countryId": "Peru",
+    "venueAddress": "Jirón 2 de Mayo S/N Mz 5 A Lt 2, San José de Yarinacocha",
+    "venueDetails": "",
+    "cellName": "Back to Cubing San José 2021",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2021-11-06",
+    "competitionEndDate": "2021-11-06"
+  },
+  {
+    "id": "CuscoSpeedcubing2021",
+    "name": "Cusco Speedcubing 2021",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521562",
+    "longitude": "-71974466",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "Auditorio",
+    "cellName": "Cusco Speedcubing 2021",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [],
+    "competitionDate": "2021-12-04",
+    "competitionEndDate": "2021-12-04"
+  },
+  {
+    "id": "BacktoCubingArequipa2021",
+    "name": "Back To Cubing Arequipa 2021",
+    "venue": "Centro Comercial \"El Conquistador\"",
+    "latitude": "-16400486",
+    "longitude": "-71531301",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "Patio del primer nivel",
+    "cellName": "Back To Cubing Arequipa 2021",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2021-12-11",
+    "competitionEndDate": "2021-12-11"
+  },
+  {
+    "id": "ChiclayanoTalentIsHere2022",
+    "name": "Chiclayano Talent Is Here 2022",
+    "venue": "Seminario Teológico Nazareno del Perú",
+    "latitude": "-6769487",
+    "longitude": "-79848990",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Urbanización Patazca, Lambayeque, Bernardo Alcedo 125, Chiclayo 14009",
+    "venueDetails": "Sala de ceremonias",
+    "cellName": "Chiclayano Talent Is Here 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2017DELG02"
+    ],
+    "organiser": [
+      "2018NUNU01"
+    ],
+    "competitionDate": "2022-01-28",
+    "competitionEndDate": "2022-01-28"
+  },
+  {
+    "id": "TCGSummerArequipa2022",
+    "name": "TCG Summer Arequipa 2022",
+    "venue": "Centro Comercial \"El Conquistador\"",
+    "latitude": "-16400486",
+    "longitude": "-71531301",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "Patio del primer nivel",
+    "cellName": "TCG Summer Arequipa 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2022-02-26",
+    "competitionEndDate": "2022-02-26"
+  },
+  {
+    "id": "LimaCuberano2022",
+    "name": "Lima Cuberano 2022",
+    "venue": "2do Nivel (zona recreativa)",
+    "latitude": "-12166500",
+    "longitude": "-76974750",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Ramon Vargas Machuca 306, San Juan de Miraflores 15801",
+    "venueDetails": "Mercado Primero de Mayo",
+    "cellName": "Lima Cuberano 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2017DELG02"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2022-03-12",
+    "competitionEndDate": "2022-03-13"
+  },
+  {
+    "id": "TCGNuevaGeneracion2022",
+    "name": "TCG Nueva Generación 2022",
+    "venue": "Colegio Mariano Melgar",
+    "latitude": "-12059689",
+    "longitude": "-77054057",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Pje. Mariano Melgar, Breña 15083",
+    "venueDetails": "Rotonda del Patio Central",
+    "cellName": "TCG Nueva Generación 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2013ALZA01"
+    ],
+    "competitionDate": "2022-04-30",
+    "competitionEndDate": "2022-05-01"
+  },
+  {
+    "id": "TCGFallArequipa2022",
+    "name": "TCG Fall Arequipa 2022",
+    "venue": "Centro Comercial \"El Conquistador\"",
+    "latitude": "-16400486",
+    "longitude": "-71531301",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "Patio del primer nivel",
+    "cellName": "TCG Fall Arequipa 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2022-06-11",
+    "competitionEndDate": "2022-06-11"
+  },
+  {
+    "id": "SchoolWinterLima2022",
+    "name": "School Winter Lima 2022",
+    "venue": "Colegio Virgen del Carmen",
+    "latitude": "-12030815",
+    "longitude": "-77031648",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Cecilia de Risco, Cercado de Lima 15093",
+    "venueDetails": "Patio Principal",
+    "cellName": "School Winter Lima 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2013VALD02",
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2017LOPE38"
+    ],
+    "competitionDate": "2022-07-02",
+    "competitionEndDate": "2022-07-03"
+  },
+  {
+    "id": "RealCube2022",
+    "name": "Real Cube 2022",
+    "venue": "C.C. Real Plaza Puruchuco",
+    "latitude": "-12039615",
+    "longitude": "-76932527",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Nicolás Ayllón 4770, Ate 15494",
+    "venueDetails": "Rotonda Principal",
+    "cellName": "Real Cube 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2013VALD02",
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2022-08-06",
+    "competitionEndDate": "2022-08-07"
+  },
+  {
+    "id": "SpeedsolvingHuancayo2022",
+    "name": "Speedsolving Is Back Huancayo 2022",
+    "venue": "Municipalidad Provincial de Huancayo",
+    "latitude": "-12070975",
+    "longitude": "-75208250",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Calle Real 800",
+    "venueDetails": "Auditorio",
+    "cellName": "Speedsolving Huancayo 2022",
+    "eventSpecs": "222 333 333fm 333oh 444 555 666 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [],
+    "competitionDate": "2022-08-13",
+    "competitionEndDate": "2022-08-14"
+  },
+  {
+    "id": "PeruNationals2022",
+    "name": "Peru Nationals 2022",
+    "venue": "Universidad Nacional de San Agustin (Área Ingenierías)",
+    "latitude": "-16398014",
+    "longitude": "-71537693",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle San Agustin 106",
+    "venueDetails": "Mariano Melgar and Paraninfo Auditoriums",
+    "cellName": "Peru Nationals 2022",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2022-08-19",
+    "competitionEndDate": "2022-08-21"
+  },
+  {
+    "id": "PucallpaCubea2022",
+    "name": "Pucallpa Cubea 2022",
+    "venue": "Real Plaza Pucallpa",
+    "latitude": "-8385332",
+    "longitude": "-74555985",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Pucallpa Cubea 2022",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2022-10-16",
+    "competitionEndDate": "2022-10-16"
+  },
+  {
+    "id": "UNSASpeedcubingPrimavera2022",
+    "name": "UNSA Speedcubing Primavera 2022",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16404810",
+    "longitude": "-71526339",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Paucarpata s/n",
+    "venueDetails": "Auditorio de Ingeniería Mecánica",
+    "cellName": "UNSA Speedcubing Primavera 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2022-11-12",
+    "competitionEndDate": "2022-11-12"
+  },
+  {
+    "id": "SinDNFenelPalacio2022",
+    "name": "Sin DNF en el Palacio 2022",
+    "venue": "Palacio de la Juventud",
+    "latitude": "-12002952",
+    "longitude": "-77082787",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 2086, Los Olivos",
+    "venueDetails": "Salón de eventos - piso 3",
+    "cellName": "Sin DNF en el Palacio 2022",
+    "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2018MONT03"
+    ],
+    "competitionDate": "2022-11-26",
+    "competitionEndDate": "2022-11-26"
+  },
+  {
+    "id": "TCGPowerUp2022",
+    "name": "TCG Power Up 2022",
+    "venue": "Colegio Mariano Melgar",
+    "latitude": "-12060006",
+    "longitude": "-77054033",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Pje. Mariano Melgar, Breña 15083",
+    "venueDetails": "Coliseo Mariano Melgar",
+    "cellName": "TCG Power Up 2022",
+    "eventSpecs": "222 333 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2013ALZA01"
+    ],
+    "competitionDate": "2022-12-03",
+    "competitionEndDate": "2022-12-04"
+  },
+  {
+    "id": "CuscoSpeedcubing2022",
+    "name": "Cusco Speedcubing 2022",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521562",
+    "longitude": "-71974466",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "Auditorio",
+    "cellName": "Cusco Speedcubing 2022",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2021TITO01"
+    ],
+    "competitionDate": "2022-12-10",
+    "competitionEndDate": "2022-12-10"
+  },
+  {
+    "id": "LimaSummer2023",
+    "name": "Lima Summer 2023",
+    "venue": "I.E. República de Chile",
+    "latitude": "-12085234",
+    "longitude": "-77031626",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Risso 477, Lince",
+    "venueDetails": "Patio Principal",
+    "cellName": "Lima Summer 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2015ACHA01"
+    ],
+    "competitionDate": "2023-02-04",
+    "competitionEndDate": "2023-02-05"
+  },
+  {
+    "id": "TCGSummerArequipa2023",
+    "name": "TCG Summer Arequipa 2023",
+    "venue": "Centro Comercial \"El Conquistador\"",
+    "latitude": "-16400486",
+    "longitude": "-71531301",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "Patio del primer nivel",
+    "cellName": "TCG Summer Arequipa 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2023-02-11",
+    "competitionEndDate": "2023-02-11"
+  },
+  {
+    "id": "SpeedcuberPeruILima2023",
+    "name": "Speedcuber Peru I Lima 2023",
+    "venue": "C.C. Arenales Plaza",
+    "latitude": "-12082040",
+    "longitude": "-77035874",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Gral. Antonio Alvarez de Arenales 1737",
+    "venueDetails": "Azotea - 5to nivel ",
+    "cellName": "Speedcuber Peru I Lima 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2018MONT03"
+    ],
+    "competitionDate": "2023-03-04",
+    "competitionEndDate": "2023-03-05"
+  },
+  {
+    "id": "HuancayoSummer2023",
+    "name": "Huancayo Summer 2023",
+    "venue": "Municipalidad Provincial de Huancayo",
+    "latitude": "-12071358",
+    "longitude": "-75208317",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Calle Real 800",
+    "venueDetails": "Auditorio",
+    "cellName": "Huancayo Summer 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2017CORI01"
+    ],
+    "competitionDate": "2023-03-18",
+    "competitionEndDate": "2023-03-19"
+  },
+  {
+    "id": "SpeedsolvingGeekcuber2023",
+    "name": "Speedsolving Geekcuber 2023",
+    "venue": "Real Plaza Pucallpa",
+    "latitude": "-8385332",
+    "longitude": "-74555985",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Speedsolving Geekcuber 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram sq1",
+    "wcaDelegate": [
+      "2016MONT33"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2023-04-02",
+    "competitionEndDate": "2023-04-02"
+  },
+  {
+    "id": "UNSASpeedcubingOtono2023",
+    "name": "UNSA Speedcubing Otoño 2023",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16404810",
+    "longitude": "-71526339",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Paucarpata s/n",
+    "venueDetails": "Auditorio de Ingeniería Mecánica",
+    "cellName": "UNSA Speedcubing Otoño 2023",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2023-04-15",
+    "competitionEndDate": "2023-04-16"
+  },
+  {
+    "id": "CubeForceLima2023",
+    "name": "Cube Force Lima 2023",
+    "venue": "C.C. Mallplaza Comas",
+    "latitude": "-11937301",
+    "longitude": "-77065487",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Los Ángeles 528, Comas",
+    "venueDetails": "Tercer piso",
+    "cellName": "Cube Force Lima 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2018TAYA02",
+      "2013ALZA01"
+    ],
+    "competitionDate": "2023-05-20",
+    "competitionEndDate": "2023-05-21"
+  },
+  {
+    "id": "SanJuanCubing2023",
+    "name": "San Juan Cubing 2023",
+    "venue": "Real Plaza Pucallpa",
+    "latitude": "-8384496",
+    "longitude": "-74555915",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "2 piso, patio de comidas",
+    "cellName": "San Juan Cubing 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram sq1",
+    "wcaDelegate": [
+      "2016MONT33"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2023-06-17",
+    "competitionEndDate": "2023-06-17"
+  },
+  {
+    "id": "UNSASpeedcubingPreNationals2023",
+    "name": "UNSA Speedcubing Pre-Nationals 2023",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16404810",
+    "longitude": "-71526339",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Paucarpata s/n",
+    "venueDetails": "Auditorio de Ingeniería Mecánica",
+    "cellName": "UNSA Speedcubing Pre-Nats 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2023-06-24",
+    "competitionEndDate": "2023-06-24"
+  },
+  {
+    "id": "JaquecaaDomicilioLima2023",
+    "name": "Jaqueca a Domicilio Lima 2023",
+    "venue": "Edificio residencial Castilla",
+    "latitude": "-12086698",
+    "longitude": "-77072000",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Castilla 1090, Magdalena del Mar 15086",
+    "venueDetails": "",
+    "cellName": "Jaqueca a Domicilio Lima 2023",
+    "eventSpecs": "333fm 333mbf 444bf",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2015ACHA01"
+    ],
+    "competitionDate": "2023-06-25",
+    "competitionEndDate": "2023-06-25"
+  },
+  {
+    "id": "ChiclayanosIndependientes2023",
+    "name": "Chiclayanos Independientes 2023",
+    "venue": "Seminario Teológico Nazareno del Perú",
+    "latitude": "-6769487",
+    "longitude": "-79848990",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Urbanización Patazca, Lambayeque, Bernardo Alcedo 125, Chiclayo 14009",
+    "venueDetails": "Sala de ceremonias",
+    "cellName": "Chiclayanos Independientes 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2021FENC01",
+      "2018NUNU01"
+    ],
+    "competitionDate": "2023-07-08",
+    "competitionEndDate": "2023-07-08"
+  },
+  {
+    "id": "LimaCubinvierno2023",
+    "name": "Lima Cubinvierno 2023",
+    "venue": "Casa de la Juventud de San Juan de Miraflores",
+    "latitude": "-12166159",
+    "longitude": "-76978596",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av Pedro Miotta 421, San Juan de Miraflores 15801",
+    "venueDetails": "Auditorio",
+    "cellName": "Lima Cubinvierno 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016RODR37"
+    ],
+    "competitionDate": "2023-07-22",
+    "competitionEndDate": "2023-07-23"
+  },
+  {
+    "id": "PeruNationals2023",
+    "name": "Peru Nationals 2023",
+    "venue": "Universidad Nacional de San Agustin (Claustro Menor)",
+    "latitude": "-16398048",
+    "longitude": "-71537738",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle San Agustin 106",
+    "venueDetails": "Claustro Menor Auditoriums",
+    "cellName": "Peru Nationals 2023",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2015CHAL01",
+      "2012ORTI04",
+      "2018QUIJ01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2023-08-04",
+    "competitionEndDate": "2023-08-06"
+  },
+  {
+    "id": "SanMarcosOpen2023",
+    "name": "San Marcos Open 2023",
+    "venue": "Universidad San Marcos",
+    "latitude": "-12059444",
+    "longitude": "-77084269",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Amezaga 282, Lima",
+    "venueDetails": "Coliseo deportivo y gimnasio",
+    "cellName": "San Marcos Open 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2015ACHA01"
+    ],
+    "competitionDate": "2023-08-12",
+    "competitionEndDate": "2023-08-13"
+  },
+  {
+    "id": "LaTiendaCuberaFest2023",
+    "name": "La Tienda Cubera Fest 2023",
+    "venue": "Circulo Militar del Perú",
+    "latitude": "-12081021",
+    "longitude": "-77045246",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Salaverry 1650, Jesús María",
+    "venueDetails": "",
+    "cellName": "La Tienda Cubera Fest 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [],
+    "competitionDate": "2023-08-19",
+    "competitionEndDate": "2023-08-20"
+  },
+  {
+    "id": "ChosicaCubingCup2023",
+    "name": "Chosica Cubing Cup 2023",
+    "venue": "Local Kuychi",
+    "latitude": "-11923543",
+    "longitude": "-76681665",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Prolongación Jorge Chavez, Trinchera Alta, Lote 5",
+    "venueDetails": "",
+    "cellName": "Chosica Cubing Cup 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2017DELG02"
+    ],
+    "competitionDate": "2023-09-03",
+    "competitionEndDate": "2023-09-03"
+  },
+  {
+    "id": "PlazaCenterCubeLimaI2023",
+    "name": "Plaza Center Cube Lima I 2023",
+    "venue": "Plaza Center San Martín de Porres",
+    "latitude": "-12009461",
+    "longitude": "-77062466",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tomás Valle 501, San Martín de Porres",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Plaza Center Cube Lima I 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2023-09-16",
+    "competitionEndDate": "2023-09-17"
+  },
+  {
+    "id": "CuberSpringOpenPlazaHuancayo2023",
+    "name": "Cuber Spring Open Plaza Huancayo 2023",
+    "venue": "C.C. Open Plaza Huancayo",
+    "latitude": "-12062613",
+    "longitude": "-75209484",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Prologación San Carlos 107, Huancayo",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Open Plaza Huancayo 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [],
+    "competitionDate": "2023-09-23",
+    "competitionEndDate": "2023-09-24"
+  },
+  {
+    "id": "PlazaCenterCubeLimaII2023",
+    "name": "Plaza Center Cube Lima II 2023",
+    "venue": "Plaza Center San Martín de Porres",
+    "latitude": "-12009461",
+    "longitude": "-77062466",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tomás Valle 501, San Martín de Porres",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Plaza Center Cube Lima II 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2023-09-30",
+    "competitionEndDate": "2023-10-01"
+  },
+  {
+    "id": "UNSASpeedcubingPrimavera2023",
+    "name": "UNSA Speedcubing Primavera 2023",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16407127",
+    "longitude": "-71520493",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Venezuela s/n",
+    "venueDetails": "UNSA Stadium",
+    "cellName": "UNSA Speedcubing Primavera 2023",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2022HERR11",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2023-10-07",
+    "competitionEndDate": "2023-10-08"
+  },
+  {
+    "id": "FMCSpringLima2023",
+    "name": "FMC Spring Lima 2023",
+    "venue": "Edificio Residencial Castilla",
+    "latitude": "-12086698",
+    "longitude": "-77072000",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Castilla 1090, Magdalena del Mar 15086",
+    "venueDetails": "",
+    "cellName": "FMC Spring Lima 2023",
+    "eventSpecs": "333fm",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2015ACHA01"
+    ],
+    "competitionDate": "2023-10-15",
+    "competitionEndDate": "2023-10-15"
+  },
+  {
+    "id": "TCGSpaceSantaAnita2023",
+    "name": "TCG Space Santa Anita 2023",
+    "venue": "C.C. Mall Aventura Santa Anita",
+    "latitude": "-12056942",
+    "longitude": "-76970772",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Nicolás Ayllón, Santa Anita 15008",
+    "venueDetails": "Segundo piso",
+    "cellName": "TCG Space Santa Anita 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2013ALZA01"
+    ],
+    "competitionDate": "2023-10-21",
+    "competitionEndDate": "2023-10-22"
+  },
+  {
+    "id": "ZomblindersLima2023",
+    "name": "Zomblinders Lima 2023",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Zomblinders Lima 2023",
+    "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2016SUZU03",
+      "2018MONT03"
+    ],
+    "competitionDate": "2023-10-29",
+    "competitionEndDate": "2023-10-29"
+  },
+  {
+    "id": "RealGeekcuberPucallpa2023",
+    "name": "Real Geekcuber Pucallpa 2023",
+    "venue": "Real Plaza Pucallpa",
+    "latitude": "-8385631",
+    "longitude": "-74556259",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "2 piso, Estación Feliz",
+    "cellName": "Real Geekcuber Pucallpa 2023",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2023-11-04",
+    "competitionEndDate": "2023-11-05"
+  },
+  {
+    "id": "CuscoSpeedcubing2023",
+    "name": "Cusco Speedcubing 2023",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521562",
+    "longitude": "-71974466",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "4to nivel",
+    "cellName": "Cusco Speedcubing 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [],
+    "competitionDate": "2023-11-10",
+    "competitionEndDate": "2023-11-11"
+  },
+  {
+    "id": "RealCubeIILima2023",
+    "name": "Real Cube II Lima 2023",
+    "venue": "C.C. Real Plaza Puruchuco",
+    "latitude": "-12039615",
+    "longitude": "-76932527",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Nicolás Ayllón 4770, Ate 15494",
+    "venueDetails": "Semisótano (Frente a Oechsle y Falabella)",
+    "cellName": "Real Cube II Lima 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2015CHAL01",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2023-11-11",
+    "competitionEndDate": "2023-11-12"
+  },
+  {
+    "id": "TCGSpaceIISantaAnita2023",
+    "name": "TCG Space II Santa Anita 2023",
+    "venue": "C.C. Mall Aventura Santa Anita",
+    "latitude": "-12056942",
+    "longitude": "-76970772",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Nicolás Ayllón, Santa Anita 15008",
+    "venueDetails": "Segundo piso",
+    "cellName": "TCG Space II Santa Anita 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2013ALZA01"
+    ],
+    "competitionDate": "2023-11-25",
+    "competitionEndDate": "2023-11-26"
+  },
+  {
+    "id": "UNSASCPrimaveraII2023",
+    "name": "UNSA Speedcubing Primavera II 2023",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16404820",
+    "longitude": "-71526360",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Paucarpata s/n",
+    "venueDetails": "Auditorio de Ingeniería Mecánica",
+    "cellName": "UNSA SC Primavera II 2023",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2022HERR11",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2023-12-02",
+    "competitionEndDate": "2023-12-03"
+  },
+  {
+    "id": "TCGSelvaCubica2023",
+    "name": "TCG Selva Cubica 2023",
+    "venue": "Coliseo Cerrado de Puerto Maldonado",
+    "latitude": "-12592836",
+    "longitude": "-69197296",
+    "cityName": "Madre de Dios",
+    "countryId": "Peru",
+    "venueAddress": " Jr. Junin Nr 37 Cuadra 10",
+    "venueDetails": "",
+    "cellName": "TCG Selva Cubica 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2019MALA03",
+      "2013ALZA01"
+    ],
+    "competitionDate": "2023-12-10",
+    "competitionEndDate": "2023-12-10"
+  },
+  {
+    "id": "SpeedcuberPeruIILima2023",
+    "name": "Speedcuber Peru II Lima 2023",
+    "venue": "Jirón Tomás Guido 332",
+    "latitude": "-12086681",
+    "longitude": "-77032641",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": " Jirón Tomás Guido 332, Lince 15046, Peru",
+    "venueDetails": "6th FLoor",
+    "cellName": "Speedcuber Peru II Lima 2023",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2012ORTI04"
+    ],
+    "organiser": [
+      "2018MONT03"
+    ],
+    "competitionDate": "2023-12-16",
+    "competitionEndDate": "2023-12-17"
+  },
+  {
+    "id": "ChosicasBigShow2024",
+    "name": "Chosica's Big Show 2024",
+    "venue": "Local Kuychi",
+    "latitude": "-11923546",
+    "longitude": "-76681654",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Prolongación Jorge Chávez, Trinchera Alta, Lote 5",
+    "venueDetails": "Local",
+    "cellName": "Chosica's Big Show 2024",
+    "eventSpecs": "444 555 666 777",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2017DELG02"
+    ],
+    "competitionDate": "2024-01-14",
+    "competitionEndDate": "2024-01-14"
+  },
+  {
+    "id": "ItsClockingTimeLima2024",
+    "name": "It's Clocking Time Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "It's Clocking Time Lima 2024",
+    "eventSpecs": "clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2012ORTI04",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03",
+      "2022RIVA03"
+    ],
+    "competitionDate": "2024-01-28",
+    "competitionEndDate": "2024-01-28"
+  },
+  {
+    "id": "InMemoriamJoseNoles2024",
+    "name": "In Memoriam José Noles 2024",
+    "venue": "Colegio Particular Betesda School",
+    "latitude": "-17653706",
+    "longitude": "-71332157",
+    "cityName": "Ilo, Moquegua",
+    "countryId": "Peru",
+    "venueAddress": "Urbanizacion Amauta 6C - A ",
+    "venueDetails": "Coliseo Betesda School",
+    "cellName": "In Memoriam José Noles 2024",
+    "eventSpecs": "222 333 333oh minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2017JARA09"
+    ],
+    "competitionDate": "2024-02-03",
+    "competitionEndDate": "2024-02-03"
+  },
+  {
+    "id": "PlazaCenterCubeLimalll2024",
+    "name": "Plaza Center Cube Lima lll 2024",
+    "venue": "Plaza Center San Martín de Porres",
+    "latitude": "-12009461",
+    "longitude": "-77062466",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tomás Valle 501, San Martín de Porres",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Plaza Center Cube Lima lll 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2024-02-10",
+    "competitionEndDate": "2024-02-11"
+  },
+  {
+    "id": "UNSASpeedcubingVerano2024",
+    "name": "UNSA Speedcubing Verano 2024",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16404820",
+    "longitude": "-71526360",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Paucarpata s/n",
+    "venueDetails": "Auditorio de Ingeniería Mecánica",
+    "cellName": "UNSA Speedcubing Verano 2024",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2022HERR11",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2024-02-17",
+    "competitionEndDate": "2024-02-18"
+  },
+  {
+    "id": "LoveIsBlindLima2024",
+    "name": "Love Is Blind Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Love Is Blind Lima 2024",
+    "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-02-18",
+    "competitionEndDate": "2024-02-18"
+  },
+  {
+    "id": "SAMCenterOpen2024",
+    "name": "SAM Center Open 2024",
+    "venue": "SAM Center Pucallpa",
+    "latitude": "-8391507",
+    "longitude": "-74567910",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario Km. 4,800",
+    "venueDetails": "Salón",
+    "cellName": "SAM Center Open 2024",
+    "eventSpecs": "222 333 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2024-02-18",
+    "competitionEndDate": "2024-02-18"
+  },
+  {
+    "id": "PlazaCenterCubeLimaIV2024",
+    "name": "Plaza Center Cube Lima IV 2024",
+    "venue": "Plaza Center San Martín de Porres",
+    "latitude": "-12009461",
+    "longitude": "-77062466",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tomás Valle 501, San Martín de Porres",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Plaza Center Cube Lima IV 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2024-03-02",
+    "competitionEndDate": "2024-03-03"
+  },
+  {
+    "id": "AndinaSpeedcubing2024",
+    "name": "Andina Speedcubing 2024",
+    "venue": "Universidad Andina del Cusco ",
+    "latitude": "-13537177",
+    "longitude": "-71904101",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Urb. Ingeniería A-5, Larapa Grande, San Jerónimo 08002. Cusco, Perú ",
+    "venueDetails": "Auditorio de la Facultad de CEAC ",
+    "cellName": "Andina Speedcubing 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2021TITO01"
+    ],
+    "competitionDate": "2024-03-15",
+    "competitionEndDate": "2024-03-16"
+  },
+  {
+    "id": "OpenPUCP2024",
+    "name": "Open PUCP 2024",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Segundo Piso del Comedor Central",
+    "cellName": "Open PUCP 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2024-03-16",
+    "competitionEndDate": "2024-03-16"
+  },
+  {
+    "id": "UNSASpeedcubingOtono2024",
+    "name": "UNSA Speedcubing Otoño 2024",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16404820",
+    "longitude": "-71526360",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Paucarpata s/n",
+    "venueDetails": "Auditorio de Ingeniería Mecánica",
+    "cellName": "UNSA Speedcubing Otoño 2024",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2022HERR11",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2024-04-27",
+    "competitionEndDate": "2024-04-28"
+  },
+  {
+    "id": "LosReyesdelCuboChiclayo2024",
+    "name": "Los Reyes del Cubo Chiclayo 2024",
+    "venue": "C.C. Plaza Bolognesi",
+    "latitude": "-6775724",
+    "longitude": "-79840030",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Francisco Bolognesi 536, Chiclayo",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Los Reyes del Cubo Chiclayo 2024",
+    "eventSpecs": "222 333 333bf 444 555 pyram",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2021FENC01"
+    ],
+    "competitionDate": "2024-04-28",
+    "competitionEndDate": "2024-04-28"
+  },
+  {
+    "id": "ChambeaenTuPBLima2024",
+    "name": "Chambea en Tu PB Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Chambea en Tu PB Lima 2024",
+    "eventSpecs": "555 777 clock minx skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-05-04",
+    "competitionEndDate": "2024-05-04"
+  },
+  {
+    "id": "BackToCubingSanJose2024",
+    "name": "Back To Cubing San José 2024",
+    "venue": "Misión TEC",
+    "latitude": "-8334445",
+    "longitude": "-74595994",
+    "cityName": "San José de Yarinacocha",
+    "countryId": "Peru",
+    "venueAddress": "Jirón 2 de Mayo S/N Mz 5 A Lt 2, San José de Yarinacocha",
+    "venueDetails": "Salón Comedor",
+    "cellName": "Back To Cubing San José 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2024-05-18",
+    "competitionEndDate": "2024-05-18"
+  },
+  {
+    "id": "TCGSpacelllSantaAnita2024",
+    "name": "TCG Space lll Santa Anita 2024",
+    "venue": "C.C. Mall Aventura Santa Anita",
+    "latitude": "-12056942",
+    "longitude": "-76970772",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Nicolás Ayllón, Santa Anita 15008",
+    "venueDetails": "Segundo piso",
+    "cellName": "TCG Space lll Santa Anita 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2022VILL04"
+    ],
+    "competitionDate": "2024-05-25",
+    "competitionEndDate": "2024-05-26"
+  },
+  {
+    "id": "ContigoPeruLima2024",
+    "name": "Contigo Peru Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070117",
+    "longitude": "-77052211",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Contigo Peru Lima 2024",
+    "eventSpecs": "222 333bf 444 666 clock pyram sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-06-07",
+    "competitionEndDate": "2024-06-07"
+  },
+  {
+    "id": "BlenkirWankaCube2024",
+    "name": "Blenkir Wanka Cube 2024",
+    "venue": "Colegio Blenkir - Sede Puente",
+    "latitude": "-12095955",
+    "longitude": "-75205674",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Gral. Cordova 1300 - Huancayo",
+    "venueDetails": "Auditorio",
+    "cellName": "Blenkir Wanka Cube 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [],
+    "competitionDate": "2024-06-08",
+    "competitionEndDate": "2024-06-09"
+  },
+  {
+    "id": "PUCPCubingFestivalI2024",
+    "name": "PUCP Cubing Festival I 2024",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Segundo Piso del Comedor Central",
+    "cellName": "PUCP Cubing Festival I 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2024-06-22",
+    "competitionEndDate": "2024-06-22"
+  },
+  {
+    "id": "200Peru2024",
+    "name": "200 Perú 2024",
+    "venue": "Centro Comercial El Conquistador",
+    "latitude": "-16400538",
+    "longitude": "-71532499",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "",
+    "cellName": "200 Perú 2024",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2024-07-13",
+    "competitionEndDate": "2024-07-13"
+  },
+  {
+    "id": "AmericasSchoolIIHuaraz2024",
+    "name": "America's School Speedcubing II Huaraz 2024",
+    "venue": "America's School ",
+    "latitude": "-9516481",
+    "longitude": "-77533197",
+    "cityName": "Huaraz",
+    "countryId": "Peru",
+    "venueAddress": "Av. Confraternidad Internacional Oeste Nº 821, Huaraz, Peru",
+    "venueDetails": "Patio",
+    "cellName": "America's School II Huaraz 2024",
+    "eventSpecs": "222 333 pyram",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [],
+    "competitionDate": "2024-07-13",
+    "competitionEndDate": "2024-07-13"
+  },
+  {
+    "id": "ReyesdelCuboChiclayoII2024",
+    "name": "Los Reyes del Cubo II Chiclayo 2024",
+    "venue": "C.C. Plaza Bolognesi",
+    "latitude": "-6775724",
+    "longitude": "-79840030",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Francisco Bolognesi 536, Chiclayo",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Reyes del Cubo Chiclayo II 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 pyram",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2021FENC01"
+    ],
+    "competitionDate": "2024-07-13",
+    "competitionEndDate": "2024-07-13"
+  },
+  {
+    "id": "AfterCubePartyLima2024",
+    "name": "After Cube Party Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070117",
+    "longitude": "-77052211",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "After Cube Party Lima 2024",
+    "eventSpecs": "333bf 333oh clock pyram sq1",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-07-14",
+    "competitionEndDate": "2024-07-14"
+  },
+  {
+    "id": "BackToCubingTrujillo2024",
+    "name": "Back To Cubing Trujillo 2024",
+    "venue": "[Alianza Francesa](https://aftrujillo.org.pe/)",
+    "latitude": "-8106318",
+    "longitude": "-79026050",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Jirón San Martín 858, Trujillo ",
+    "venueDetails": "Auditorio",
+    "cellName": "Back To Cubing Trujillo 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2024-07-14",
+    "competitionEndDate": "2024-07-14"
+  },
+  {
+    "id": "OpenPUCPCubingCommunity2024",
+    "name": "Open PUCP Cubing Community 2024",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón Z",
+    "cellName": "Open PUCP Cubing Community 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2024-07-19",
+    "competitionEndDate": "2024-07-20"
+  },
+  {
+    "id": "HuanucoalCubo2024",
+    "name": "Huánuco al Cubo 2024",
+    "venue": "[Cámara de Comercio e Industrias de Húanuco](https://camarahuanuco.org.pe/)",
+    "latitude": "-9930562",
+    "longitude": "-76238937",
+    "cityName": "Huánuco",
+    "countryId": "Peru",
+    "venueAddress": "Jr. General Prado 873",
+    "venueDetails": "Auditorio",
+    "cellName": "Huánuco al Cubo 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016REAT01",
+      "2024TINE01"
+    ],
+    "competitionDate": "2024-08-18",
+    "competitionEndDate": "2024-08-18"
+  },
+  {
+    "id": "PUCPCubingFestivalll2024",
+    "name": "PUCP Cubing Festival ll 2024",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón Z",
+    "cellName": "PUCP Cubing Festival ll 2024",
+    "eventSpecs": "222 333bf 444bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2024-09-08",
+    "competitionEndDate": "2024-09-08"
+  },
+  {
+    "id": "WelcomeSpringLima2024",
+    "name": "Welcome Spring Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070117",
+    "longitude": "-77052211",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Welcome Spring Lima 2024",
+    "eventSpecs": "333fm clock minx skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-09-15",
+    "competitionEndDate": "2024-09-15"
+  },
+  {
+    "id": "CaballerodelosMaresLima2024",
+    "name": "Caballero de los Mares Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070117",
+    "longitude": "-77052211",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Caballero de los Mares Lima 2024",
+    "eventSpecs": "333bf 444 555 666 777 clock sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-10-08",
+    "competitionEndDate": "2024-10-08"
+  },
+  {
+    "id": "OsoCubingFestILima2024",
+    "name": "Oso Cubing Fest I Lima 2024",
+    "venue": "C.C. Agustino Plaza",
+    "latitude": "-12041223",
+    "longitude": "-77003151",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Ancash 2151, El Agustino, Peru",
+    "venueDetails": "Patio de Comidas - Segundo Piso",
+    "cellName": "Oso Cubing Fest I Lima 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2013BELL06"
+    ],
+    "competitionDate": "2024-10-19",
+    "competitionEndDate": "2024-10-20"
+  },
+  {
+    "id": "PucallpaalCubo2024",
+    "name": "Pucallpa al Cubo 2024",
+    "venue": "[Colegio de Ingenieros del Perú - Consejo Departamental de Ucayali](https://cip-ucayali.org/)",
+    "latitude": "-8384088",
+    "longitude": "-74531797",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Tacna N° 551",
+    "venueDetails": "Auditorio",
+    "cellName": "Pucallpa al Cubo 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2024-10-19",
+    "competitionEndDate": "2024-10-19"
+  },
+  {
+    "id": "PUCPZomblinders2024",
+    "name": "PUCP Zomblinders 2024",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón N (Aula 111)",
+    "cellName": "PUCP Zomblinders 2024",
+    "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2024-10-27",
+    "competitionEndDate": "2024-10-27"
+  },
+  {
+    "id": "PUCPCubingFestivallll2024",
+    "name": "PUCP Cubing Festival lll 2024",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Comedor Central",
+    "cellName": "PUCP Cubing Festival lll 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2024-11-02",
+    "competitionEndDate": "2024-11-03"
+  },
+  {
+    "id": "TCGSpringArequipa2024",
+    "name": "TCG Spring Arequipa 2024",
+    "venue": "Centro Comercial El Conquistador",
+    "latitude": "-16400528",
+    "longitude": "-71531360",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Calle Octavio Muñoz Najar 128",
+    "venueDetails": "",
+    "cellName": "TCG Spring Arequipa 2024",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2015CHAL01",
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2024-11-02",
+    "competitionEndDate": "2024-11-02"
+  },
+  {
+    "id": "DeCubosyTodaslasSangresAndah2024",
+    "name": "De Cubos y Todas las Sangres Andahuaylas 2024",
+    "venue": "Universidad Nacional José María Arguedas",
+    "latitude": "-13664187",
+    "longitude": "-73348937",
+    "cityName": "Andahuaylas",
+    "countryId": "Peru",
+    "venueAddress": "Av. José María Arguedas 102, Andahuaylas 03701",
+    "venueDetails": "Auditorio Central",
+    "cellName": "Todas las Sangres Andah 2024",
+    "eventSpecs": "222 333 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2022AGUI03"
+    ],
+    "competitionDate": "2024-11-10",
+    "competitionEndDate": "2024-11-10"
+  },
+  {
+    "id": "AtipanakuyLima2024",
+    "name": "Atipanakuy Lima 2024",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070117",
+    "longitude": "-77052211",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Atipanakuy Lima 2024",
+    "eventSpecs": "333fm 555 clock pyram sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2024-11-17",
+    "competitionEndDate": "2024-11-17"
+  },
+  {
+    "id": "PeruNationals2024",
+    "name": "Peru Nationals 2024",
+    "venue": "[Colegio Saco Oliveros Sede Monterrico](https://sacooliveros.edu.pe/index.php/colegios/sedes/surco)",
+    "latitude": "-12099187",
+    "longitude": "-76979187",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Panamericana Sur con Av. El Derby, Monterrico",
+    "venueDetails": "Auditorio ",
+    "cellName": "Peru Nationals 2024",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2016REAT01",
+      "2018QUIJ01",
+      "2011RIGG03"
+    ],
+    "organiser": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2016REAT01",
+      "2018QUIJ01",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2024-11-22",
+    "competitionEndDate": "2024-11-24"
+  },
+  {
+    "id": "ManantialCubingPucallpa2024",
+    "name": "Manantial Cubing Pucallpa 2024",
+    "venue": "[Christian College Manantial](https://www.facebook.com/ccmanantial)",
+    "latitude": "-8382312",
+    "longitude": "-74538062",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Jr. 7 de Junio #157",
+    "venueDetails": "Auditorio",
+    "cellName": "Manantial Cubing Pucallpa 2024",
+    "eventSpecs": "222 333 333bf 444 pyram",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2024-12-07",
+    "competitionEndDate": "2024-12-07"
+  },
+  {
+    "id": "OpenChristmasCubeHuancayo2024",
+    "name": "Open Christmas Cube Huancayo 2024",
+    "venue": "Electrocento",
+    "latitude": "-12073800",
+    "longitude": "-75214729",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Panama 575, Huancayo, Huancayo",
+    "venueDetails": "Segundo Piso",
+    "cellName": "Open Christmas Huancayo 2024",
+    "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2017NAHU02"
+    ],
+    "competitionDate": "2024-12-14",
+    "competitionEndDate": "2024-12-15"
+  },
+  {
+    "id": "TCGSpacelVSantaAnita2025",
+    "name": "TCG Space lV Santa Anita 2025",
+    "venue": "C.C. Mall Aventura Santa Anita",
+    "latitude": "-12056942",
+    "longitude": "-76970772",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Nicolás Ayllón, Santa Anita 15008",
+    "venueDetails": "Segundo piso",
+    "cellName": "TCG Space lV Santa Anita 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2022VILL04"
+    ],
+    "competitionDate": "2025-01-04",
+    "competitionEndDate": "2025-01-05"
+  },
+  {
+    "id": "LosReyesdelCuboChiclayoIII2025",
+    "name": "Los Reyes del Cubo Chiclayo III 2025",
+    "venue": "C.C. Plaza Bolognesi",
+    "latitude": "-6775676",
+    "longitude": "-79839910",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Francisco Bolognesi 536, Chiclayo",
+    "venueDetails": "patio de comidas",
+    "cellName": "Los Reyes del Cubo III 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2021FENC01",
+      "2025LARR01"
+    ],
+    "competitionDate": "2025-01-25",
+    "competitionEndDate": "2025-01-26"
+  },
+  {
+    "id": "SanValencubeHuancayo2025",
+    "name": "San Valencube Huancayo 2025",
+    "venue": "Colegio Unión Internacional",
+    "latitude": "-12077292",
+    "longitude": "-75196964",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Sta Rosa N°263, Huancayo 12002",
+    "venueDetails": "Patio",
+    "cellName": "San Valencube Huancayo 2025",
+    "eventSpecs": "222 333 333bf 333fm 333oh 444 555 666 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2017NAHU02"
+    ],
+    "competitionDate": "2025-02-15",
+    "competitionEndDate": "2025-02-16"
+  },
+  {
+    "id": "LAPREPucallpaSpeedcubing2025",
+    "name": "LA PRE Pucallpa Speedcubing 2025",
+    "venue": "[Colegio y Academia LA PRE](https://www.facebook.com/colegioLAPRE)",
+    "latitude": "-8372121",
+    "longitude": "-74553033",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. José Faustino Sánchez Carrión 1498",
+    "venueDetails": "Salón de Eventos",
+    "cellName": "LA PRE Pucallpa Speedcubing 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 clock pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2018TELL03"
+    ],
+    "competitionDate": "2025-02-22",
+    "competitionEndDate": "2025-02-22"
+  },
+  {
+    "id": "PUCPCubingFestivalIV2025",
+    "name": "PUCP Cubing Festival IV 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Comedor Central",
+    "cellName": "PUCP Cubing Festival IV 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2015CHAL01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2025-02-22",
+    "competitionEndDate": "2025-02-23"
+  },
+  {
+    "id": "YanahuaraSummer2025",
+    "name": "Yanahuara Summer 2025",
+    "venue": "Colegio Antonio José de Sucre",
+    "latitude": "-16384398",
+    "longitude": "-71541048",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "León Velarde 410, Arequipa 04017",
+    "venueDetails": "Salón de usos múltiples",
+    "cellName": "Yanahuara Summer 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2011RIGG03",
+      "2024REVI03"
+    ],
+    "competitionDate": "2025-03-01",
+    "competitionEndDate": "2025-03-01"
+  },
+  {
+    "id": "PUCPFMCAttempt12025",
+    "name": "PUCP FMC Attempt 1 - 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12068978",
+    "longitude": "-77078064",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón N (Aula 113)",
+    "cellName": "PUCP FMC Attempt 1 - 2025",
+    "eventSpecs": "333fm clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2025-03-23",
+    "competitionEndDate": "2025-03-23"
+  },
+  {
+    "id": "PlazaCenterCubeLimaV2025",
+    "name": "Plaza Center Cube Lima V 2025",
+    "venue": "Plaza Center San Martín de Porres",
+    "latitude": "-12009461",
+    "longitude": "-77062466",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tomás Valle 501, San Martín de Porres",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Plaza Center Cube Lima V 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2015CHAL01",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2025-03-29",
+    "competitionEndDate": "2025-03-30"
+  },
+  {
+    "id": "ChiclayoClassic2025",
+    "name": "Chiclayo Classic 2025",
+    "venue": "C.C. Plaza Bolognesi",
+    "latitude": "-6775724",
+    "longitude": "-79840030",
+    "cityName": "Chiclayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Francisco Bolognesi 536, Chiclayo",
+    "venueDetails": "Patio de Comidas",
+    "cellName": "Chiclayo Classic 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2021FENC01",
+      "2018NUNU01"
+    ],
+    "competitionDate": "2025-03-30",
+    "competitionEndDate": "2025-03-30"
+  },
+  {
+    "id": "PlazaCenterCubeLimaVI2025",
+    "name": "Plaza Center Cube Lima VI 2025",
+    "venue": "Plaza Center San Martín de Porres",
+    "latitude": "-12009461",
+    "longitude": "-77062466",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Tomás Valle 501, San Martín de Porres",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Plaza Center Cube Lima VI 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2015CHAL01",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2011ESQU01"
+    ],
+    "competitionDate": "2025-04-05",
+    "competitionEndDate": "2025-04-06"
+  },
+  {
+    "id": "BackToCubingIquitos2025",
+    "name": "Back To Cubing Iquitos 2025",
+    "venue": "TK Local de Eventos",
+    "latitude": "-3748989",
+    "longitude": "-73246774",
+    "cityName": "Iquitos",
+    "countryId": "Peru",
+    "venueAddress": "Jr. Calvo de Araujo 436, Psj. Serafin Filomeno",
+    "venueDetails": "Salón",
+    "cellName": "Back To Cubing Iquitos 2025",
+    "eventSpecs": "222 333 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01",
+      "2016NUNE15"
+    ],
+    "competitionDate": "2025-04-13",
+    "competitionEndDate": "2025-04-13"
+  },
+  {
+    "id": "SanJoseCubingYarinacocha2025",
+    "name": "San José Cubing Yarinacocha 2025",
+    "venue": "Misión TEC",
+    "latitude": "-8334445",
+    "longitude": "-74595994",
+    "cityName": "San José de Yarinacocha",
+    "countryId": "Peru",
+    "venueAddress": "Jirón 2 de Mayo S/N Mz 5 A Lt 2, San José de Yarinacocha",
+    "venueDetails": "Salón Comedor",
+    "cellName": "San José Cubing Yarinacocha 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555bf clock minx pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2025-04-26",
+    "competitionEndDate": "2025-04-26"
+  },
+  {
+    "id": "UNSASpeedcubingOtono2025",
+    "name": "UNSA Speedcubing Otoño 2025",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16405926",
+    "longitude": "-71523989",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Venezuela s/n",
+    "venueDetails": "Auditorio de Arquitectura",
+    "cellName": "UNSA Speedcubing Otoño 2025",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
+    "wcaDelegate": [
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2011RIGG02",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2025-04-26",
+    "competitionEndDate": "2025-04-26"
+  },
+  {
+    "id": "ChambeaenTuPBLima2025",
+    "name": "Chambea en Tu PB Lima 2025",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Chambea en Tu PB Lima 2025",
+    "eventSpecs": "333bf clock sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2015CHAL01",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2025-05-03",
+    "competitionEndDate": "2025-05-03"
+  },
+  {
+    "id": "OsoCubingFestIILima2025",
+    "name": "Oso Cubing Fest II Lima 2025",
+    "venue": "C.C. Ecoplaza",
+    "latitude": "-12058967",
+    "longitude": "-76962381",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. La Molina 439, Ate 15012",
+    "venueDetails": "Patio del primer piso ",
+    "cellName": "Oso Cubing Fest II Lima 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2013BELL06"
+    ],
+    "competitionDate": "2025-05-31",
+    "competitionEndDate": "2025-06-01"
+  },
+  {
+    "id": "PaseoCentralWinter2025",
+    "name": "Paseo Central Winter 2025",
+    "venue": "Paseo Central",
+    "latitude": "-16424074",
+    "longitude": "-71546573",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Arturo Ibañez s/n",
+    "venueDetails": "Patio de comidas",
+    "cellName": "Paseo Central Winter 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 pyram",
+    "wcaDelegate": [
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2011RIGG03"
+    ],
+    "competitionDate": "2025-07-05",
+    "competitionEndDate": "2025-07-05"
+  },
+  {
+    "id": "PUCPCubingFestivalV2025",
+    "name": "PUCP Cubing Festival V 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12070513",
+    "longitude": "-77081258",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón Z",
+    "cellName": "PUCP Cubing Festival V 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2025-07-19",
+    "competitionEndDate": "2025-07-20"
+  },
+  {
+    "id": "TrujilloOpen2025",
+    "name": "Trujillo Open 2025",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "Trujillo Open 2025",
+    "eventSpecs": "222 333 444 pyram",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2015CORN06",
+      "2013CHIC01"
+    ],
+    "competitionDate": "2025-07-20",
+    "competitionEndDate": "2025-07-20"
+  },
+  {
+    "id": "InMemoriamJoseNoles2025",
+    "name": "In Memoriam José Noles 2025",
+    "venue": "Colegio Particular Betesda School",
+    "latitude": "-17653698",
+    "longitude": "-71332147",
+    "cityName": "Ilo, Moquegua",
+    "countryId": "Peru",
+    "venueAddress": "Urbanizacion Amauta 6C - A ",
+    "venueDetails": "Coliseo Betesda School",
+    "cellName": "In Memoriam José Noles 2025",
+    "eventSpecs": "222 333 333oh 444 minx pyram skewb",
+    "wcaDelegate": [
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2023SANC31",
+      "2023ROJA17"
+    ],
+    "competitionDate": "2025-08-09",
+    "competitionEndDate": "2025-08-09"
+  },
+  {
+    "id": "LAPRECubingPucallpa2025",
+    "name": "LA PRE Cubing Pucallpa 2025",
+    "venue": "[Colegio y Academia LA PRE](https://www.facebook.com/colegioLAPRE)",
+    "latitude": "-8372121",
+    "longitude": "-74553033",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. José Faustino Sánchez Carrión 1498",
+    "venueDetails": "Salón de Eventos",
+    "cellName": "LA PRE Cubing Pucallpa 2025",
+    "eventSpecs": "222 333 333oh 444 pyram skewb",
+    "wcaDelegate": [
+      "2016REAT01"
+    ],
+    "organiser": [
+      "2016REAT01"
+    ],
+    "competitionDate": "2025-08-16",
+    "competitionEndDate": "2025-08-16"
+  },
+  {
+    "id": "PUCPCubingFestivalVI2025",
+    "name": "PUCP Cubing Festival VI 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12069021",
+    "longitude": "-77081132",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón Z",
+    "cellName": "PUCP Cubing Festival VI 2025",
+    "eventSpecs": "333bf 333mbf 777 clock",
+    "wcaDelegate": [
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2025-08-24",
+    "competitionEndDate": "2025-08-24"
+  },
+  {
+    "id": "PeruNationals2025",
+    "name": "Peru Nationals 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12066655",
+    "longitude": "-77080091",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Coliseo Polideportivo",
+    "cellName": "Peru Nationals 2025",
+    "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2016MONT33",
+      "2016REAT01",
+      "2018QUIJ01",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2025-08-29",
+    "competitionEndDate": "2025-08-31"
+  },
+  {
+    "id": "UNSASpeedcubingPrimavera2025",
+    "name": "UNSA Speedcubing Primavera 2025",
+    "venue": "Universidad Nacional de San Agustín",
+    "latitude": "-16405926",
+    "longitude": "-71523989",
+    "cityName": "Arequipa",
+    "countryId": "Peru",
+    "venueAddress": "Avenida Venezuela s/n",
+    "venueDetails": "Auditorio de Arquitectura",
+    "cellName": "UNSA Speedcubing Primavera 2025",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      "2011RIGG03",
+      "2015SUCL01"
+    ],
+    "organiser": [
+      "2011RIGG02",
+      "2011RIGG03"
+    ],
+    "competitionDate": "2025-09-27",
+    "competitionEndDate": "2025-09-27"
+  },
+  {
+    "id": "PUCPCubingFestivalVII2025",
+    "name": "PUCP Cubing Festival VII 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12069021",
+    "longitude": "-77081132",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón Z",
+    "cellName": "PUCP Cubing Festival VII 2025",
+    "eventSpecs": "222 333bf 333oh 666 777 clock sq1",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016OBRE01"
+    ],
+    "competitionDate": "2025-10-19",
+    "competitionEndDate": "2025-10-19"
+  },
+  {
+    "id": "ZomblindersLima2025",
+    "name": "Zomblinders Lima 2025",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre ",
+    "venueDetails": "Sala de eventos",
+    "cellName": "Zomblinders Lima 2025",
+    "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
+    "wcaDelegate": [
+      "2016SUZU03",
+      "2018QUIJ01"
+    ],
+    "organiser": [
+      "2016SUZU03"
+    ],
+    "competitionDate": "2025-11-01",
+    "competitionEndDate": "2025-11-01"
+  },
+  {
+    "id": "TrujilloCubingFest2025",
+    "name": "Trujillo Cubing Fest 2025",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "latitude": "-8114976",
+    "longitude": "-79025613",
+    "cityName": "Trujillo",
+    "countryId": "Peru",
+    "venueAddress": "Av. España 2350, Trujillo 13001",
+    "venueDetails": "Patio Central",
+    "cellName": "Trujillo Cubing Fest 2025",
+    "eventSpecs": "222 333 pyram skewb",
+    "wcaDelegate": [
+      "2016SUZU03"
+    ],
+    "organiser": [
+      "2015CORN06",
+      "2013CHIC01"
+    ],
+    "competitionDate": "2025-11-09",
+    "competitionEndDate": "2025-11-09"
+  }
+]

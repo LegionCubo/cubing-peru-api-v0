@@ -134,7 +134,7 @@
     "gender": "m",
     "id": "2011BARA01",
     "countryId": "Peru",
-    "competitions": 30,
+    "competitions": 31,
     "lastCompetition": {
       "competitionId": "CrazyCubesSpring2017",
       "competitionName": "Crazy Cubes Spring 2017",
@@ -940,11 +940,11 @@
     "gender": "m",
     "id": "2012ARGA01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "AQPSummer2012",
-      "competitionName": "AQP Summer 2012",
-      "competitionDate": "2012-03-10"
+      "competitionId": "GloriosoSanCarlos2018",
+      "competitionName": "Glorioso San Carlos 2018",
+      "competitionDate": "2018-05-05"
     },
     "podiums": 0
   },
@@ -2526,7 +2526,7 @@
     "gender": "m",
     "id": "2013HUAN29",
     "countryId": "Peru",
-    "competitions": 127,
+    "competitions": 131,
     "lastCompetition": {
       "competitionId": "PUCPCubingFestivalV2025",
       "competitionName": "PUCP Cubing Festival V 2025",
@@ -2929,7 +2929,7 @@
     "gender": "f",
     "id": "2013MONT10",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
       "competitionId": "Arguedas2013",
       "competitionName": "Campeonato Rubik Arguedas 2013",
@@ -3306,7 +3306,7 @@
     "gender": "f",
     "id": "2013RODR12",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
       "competitionId": "Arguedas2013",
       "competitionName": "Campeonato Rubik Arguedas 2013",
@@ -3501,8 +3501,12 @@
     "gender": "m",
     "id": "2013SOTO02",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "PalacioDelCubo2013",
+      "competitionName": "Palacio del Cubo 2013",
+      "competitionDate": "2013-10-26"
+    },
     "podiums": 0
   },
   {
@@ -6487,11 +6491,11 @@
     "gender": "f",
     "id": "2015ALZA01",
     "countryId": "Peru",
-    "competitions": 28,
+    "competitions": 29,
     "lastCompetition": {
-      "competitionId": "SpeedcubersEliteLima2021",
-      "competitionName": "Speedcubers Elite Lima 2021",
-      "competitionDate": "2021-10-30"
+      "competitionId": "TCGNuevaGeneracion2022",
+      "competitionName": "TCG Nueva Generación 2022",
+      "competitionDate": "2022-04-30"
     },
     "podiums": 0
   },
@@ -7163,7 +7167,7 @@
     "gender": "m",
     "id": "2015FELI01",
     "countryId": "Peru",
-    "competitions": 57,
+    "competitions": 58,
     "lastCompetition": {
       "competitionId": "PeruNationals2024",
       "competitionName": "Peru Nationals 2024",
@@ -7462,7 +7466,7 @@
     "gender": "m",
     "id": "2015LUQU01",
     "countryId": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
       "competitionId": "TCGAndFriends2015",
       "competitionName": "TCG & Friends 2015",
@@ -8515,7 +8519,7 @@
     "gender": "m",
     "id": "2015TORR17",
     "countryId": "Peru",
-    "competitions": 9,
+    "competitions": 10,
     "lastCompetition": {
       "competitionId": "CopaBlackHorse2019",
       "competitionName": "Copa Black Horse 2019",
@@ -9425,7 +9429,7 @@
     "gender": "m",
     "id": "2016MILL07",
     "countryId": "Peru",
-    "competitions": 85,
+    "competitions": 86,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -10049,7 +10053,7 @@
     "gender": "m",
     "id": "2016BERL03",
     "countryId": "Peru",
-    "competitions": 38,
+    "competitions": 39,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -10270,7 +10274,7 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 73,
+    "competitions": 74,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -10712,8 +10716,12 @@
     "gender": "f",
     "id": "2016GUTI15",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "NacionalPerubik2016",
+      "competitionName": "Campeonato Nacional Perubik 2016",
+      "competitionDate": "2016-07-16"
+    },
     "podiums": 0
   },
   {
@@ -12099,7 +12107,7 @@
     "gender": "m",
     "id": "2016GALA01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
       "competitionId": "AventuraCubicaIV2017",
       "competitionName": "Aventura Cúbica IV 2017",
@@ -15310,7 +15318,7 @@
     "gender": "m",
     "id": "2017DELG02",
     "countryId": "Peru",
-    "competitions": 60,
+    "competitions": 61,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -15986,7 +15994,7 @@
     "gender": "m",
     "id": "2017PIME01",
     "countryId": "Peru",
-    "competitions": 51,
+    "competitions": 52,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -20679,8 +20687,12 @@
     "gender": "f",
     "id": "2017POMA05",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingSakura2017",
+      "competitionName": "Speedsolving Sakura 2017",
+      "competitionDate": "2017-12-17"
+    },
     "podiums": 0
   },
   {
@@ -21624,11 +21636,11 @@
     "gender": "m",
     "id": "2018MONT03",
     "countryId": "Peru",
-    "competitions": 30,
+    "competitions": 37,
     "lastCompetition": {
-      "competitionId": "PlazaCenterCubeLimaIV2024",
-      "competitionName": "Plaza Center Cube Lima IV 2024",
-      "competitionDate": "2024-03-02"
+      "competitionId": "PeruNationals2024",
+      "competitionName": "Peru Nationals 2024",
+      "competitionDate": "2024-11-22"
     },
     "podiums": 12
   },
@@ -22651,7 +22663,7 @@
     "gender": "m",
     "id": "2018OCHO03",
     "countryId": "Peru",
-    "competitions": 47,
+    "competitions": 48,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -22742,7 +22754,7 @@
     "gender": "m",
     "id": "2018QUIS04",
     "countryId": "Peru",
-    "competitions": 38,
+    "competitions": 41,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -23119,11 +23131,11 @@
     "gender": "m",
     "id": "2018MORI02",
     "countryId": "Peru",
-    "competitions": 4,
+    "competitions": 5,
     "lastCompetition": {
-      "competitionId": "CuberSpringOpenPlazaHuancayo2023",
-      "competitionName": "Cuber Spring Open Plaza Huancayo 2023",
-      "competitionDate": "2023-09-23"
+      "competitionId": "TCGSpaceSantaAnita2023",
+      "competitionName": "TCG Space Santa Anita 2023",
+      "competitionDate": "2023-10-21"
     },
     "podiums": 0
   },
@@ -23821,7 +23833,7 @@
     "gender": "m",
     "id": "2018DIAZ09",
     "countryId": "Peru",
-    "competitions": 41,
+    "competitions": 43,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -24159,7 +24171,7 @@
     "gender": "m",
     "id": "2018MONT28",
     "countryId": "Peru",
-    "competitions": 17,
+    "competitions": 18,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -25056,8 +25068,12 @@
     "gender": "m",
     "id": "2018ZEVA02",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingJunin2018",
+      "competitionName": "Speedsolving Junín 2018",
+      "competitionDate": "2018-08-18"
+    },
     "podiums": 0
   },
   {
@@ -27600,8 +27616,12 @@
     "gender": "m",
     "id": "2019RIOG01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingHuancayo2019",
+      "competitionName": "Speedsolving Huancayo 2019",
+      "competitionDate": "2019-03-24"
+    },
     "podiums": 0
   },
   {
@@ -27648,8 +27668,12 @@
     "gender": "m",
     "id": "2019ASTU01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingHuancayo2019",
+      "competitionName": "Speedsolving Huancayo 2019",
+      "competitionDate": "2019-03-24"
+    },
     "podiums": 0
   },
   {
@@ -28593,7 +28617,7 @@
     "gender": "m",
     "id": "2019PAUC01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
       "competitionId": "CuscoSpeedcubingIII2019",
       "competitionName": "Cusco Speedcubing III 2019",
@@ -29217,11 +29241,11 @@
     "gender": "m",
     "id": "2019VALE16",
     "countryId": "Peru",
-    "competitions": 11,
+    "competitions": 14,
     "lastCompetition": {
-      "competitionId": "PlazaCenterCubeLimaV2025",
-      "competitionName": "Plaza Center Cube Lima V 2025",
-      "competitionDate": "2025-03-29"
+      "competitionId": "PlazaCenterCubeLimaVI2025",
+      "competitionName": "Plaza Center Cube Lima VI 2025",
+      "competitionDate": "2025-04-05"
     },
     "podiums": 2
   },
@@ -29711,7 +29735,7 @@
     "gender": "m",
     "id": "2019AGUE01",
     "countryId": "Peru",
-    "competitions": 47,
+    "competitions": 48,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -31791,8 +31815,12 @@
     "gender": "m",
     "id": "2020LERM01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "GloriosoSanCarlos2020",
+      "competitionName": "Glorioso San Carlos 2020",
+      "competitionDate": "2020-02-15"
+    },
     "podiums": 0
   },
   {
@@ -33620,8 +33648,12 @@
     "gender": "f",
     "id": "2022VARG01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TCGSummerArequipa2022",
+      "competitionName": "TCG Summer Arequipa 2022",
+      "competitionDate": "2022-02-26"
+    },
     "podiums": 0
   },
   {
@@ -33798,7 +33830,7 @@
     "gender": "m",
     "id": "2022GAMA01",
     "countryId": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
       "competitionId": "LoveIsBlindLima2024",
       "competitionName": "Love Is Blind Lima 2024",
@@ -33889,7 +33921,7 @@
     "gender": "f",
     "id": "2022ALFA01",
     "countryId": "Peru",
-    "competitions": 6,
+    "competitions": 7,
     "lastCompetition": {
       "competitionId": "WC2023",
       "competitionName": "Rubik's WCA World Championship 2023",
@@ -34318,7 +34350,7 @@
     "gender": "m",
     "id": "2022MATA01",
     "countryId": "Peru",
-    "competitions": 10,
+    "competitions": 11,
     "lastCompetition": {
       "competitionId": "PlazaCenterCubeLimalll2024",
       "competitionName": "Plaza Center Cube Lima lll 2024",
@@ -36151,7 +36183,7 @@
     "gender": "f",
     "id": "2022MEJI08",
     "countryId": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
       "competitionId": "ChiclayanosIndependientes2023",
       "competitionName": "Chiclayanos Independientes 2023",
@@ -36268,8 +36300,12 @@
     "gender": "m",
     "id": "2022HIDA07",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TCGPowerUp2022",
+      "competitionName": "TCG Power Up 2022",
+      "competitionDate": "2022-12-03"
+    },
     "podiums": 0
   },
   {
@@ -36849,11 +36885,11 @@
     "gender": "m",
     "id": "2022CASA09",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TCGPowerUp2022",
-      "competitionName": "TCG Power Up 2022",
-      "competitionDate": "2022-12-03"
+      "competitionId": "SpeedcuberPeruILima2023",
+      "competitionName": "Speedcuber Peru I Lima 2023",
+      "competitionDate": "2023-03-04"
     },
     "podiums": 0
   },
@@ -37590,7 +37626,7 @@
     "gender": "m",
     "id": "2023ARIC02",
     "countryId": "Peru",
-    "competitions": 35,
+    "competitions": 36,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -38617,8 +38653,12 @@
     "gender": "m",
     "id": "2023QUIS06",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "UNSASpeedcubingOtono2023",
+      "competitionName": "UNSA Speedcubing Otoño 2023",
+      "competitionDate": "2023-04-15"
+    },
     "podiums": 0
   },
   {
@@ -38808,8 +38848,12 @@
     "gender": "f",
     "id": "2023CHIP04",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "UNSASpeedcubingOtono2023",
+      "competitionName": "UNSA Speedcubing Otoño 2023",
+      "competitionDate": "2023-04-15"
+    },
     "podiums": 0
   },
   {
@@ -38973,7 +39017,7 @@
     "gender": "m",
     "id": "2023SANC31",
     "countryId": "Peru",
-    "competitions": 36,
+    "competitions": 38,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -40910,8 +40954,12 @@
     "gender": "m",
     "id": "2023HUAM01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "PeruNationals2023",
+      "competitionName": "Peru Nationals 2023",
+      "competitionDate": "2023-08-04"
+    },
     "podiums": 0
   },
   {
@@ -45651,11 +45699,11 @@
     "gender": "m",
     "id": "2024PLAC02",
     "countryId": "Peru",
-    "competitions": 3,
+    "competitions": 4,
     "lastCompetition": {
-      "competitionId": "PUCPFMCAttempt12025",
-      "competitionName": "PUCP FMC Attempt 1 - 2025",
-      "competitionDate": "2025-03-23"
+      "competitionId": "PUCPCubingFestivalVI2025",
+      "competitionName": "PUCP Cubing Festival VI 2025",
+      "competitionDate": "2025-08-24"
     },
     "podiums": 0
   },
@@ -45820,8 +45868,12 @@
     "gender": "m",
     "id": "2024CARH01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "PlazaCenterCubeLimalll2024",
+      "competitionName": "Plaza Center Cube Lima lll 2024",
+      "competitionDate": "2024-02-10"
+    },
     "podiums": 0
   },
   {
@@ -47454,7 +47506,7 @@
     "gender": "m",
     "id": "2024GUIS03",
     "countryId": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -48286,8 +48338,12 @@
     "gender": "m",
     "id": "2024MART64",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "PUCPCubingFestivalI2024",
+      "competitionName": "PUCP Cubing Festival I 2024",
+      "competitionDate": "2024-06-22"
+    },
     "podiums": 0
   },
   {
@@ -50453,8 +50509,12 @@
     "gender": "m",
     "id": "2024VASQ19",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "OsoCubingFestILima2024",
+      "competitionName": "Oso Cubing Fest I Lima 2024",
+      "competitionDate": "2024-10-19"
+    },
     "podiums": 0
   },
   {
@@ -52035,8 +52095,12 @@
     "gender": "f",
     "id": "2024LEUA01",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "ManantialCubingPucallpa2024",
+      "competitionName": "Manantial Cubing Pucallpa 2024",
+      "competitionDate": "2024-12-07"
+    },
     "podiums": 0
   },
   {
@@ -52148,8 +52212,12 @@
     "gender": "m",
     "id": "2024PARD09",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "ManantialCubingPucallpa2024",
+      "competitionName": "Manantial Cubing Pucallpa 2024",
+      "competitionDate": "2024-12-07"
+    },
     "podiums": 0
   },
   {
@@ -53158,8 +53226,12 @@
     "gender": "f",
     "id": "2025PALA03",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SanValencubeHuancayo2025",
+      "competitionName": "San Valencube Huancayo 2025",
+      "competitionDate": "2025-02-15"
+    },
     "podiums": 0
   },
   {
@@ -53479,7 +53551,7 @@
     "gender": "m",
     "id": "2025SOTO05",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
       "competitionId": "UNSASpeedcubingOtono2025",
       "competitionName": "UNSA Speedcubing Otoño 2025",
@@ -54532,8 +54604,12 @@
     "gender": "m",
     "id": "2025SANT38",
     "countryId": "Peru",
-    "competitions": 0,
-    "lastCompetition": null,
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "OsoCubingFestIILima2025",
+      "competitionName": "Oso Cubing Fest II Lima 2025",
+      "competitionDate": "2025-05-31"
+    },
     "podiums": 0
   },
   {

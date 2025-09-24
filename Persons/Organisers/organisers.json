@@ -346,7 +346,7 @@
     "gender": "m",
     "id": "2011BARA01",
     "countryId": "Peru",
-    "competitions": 30,
+    "competitions": 31,
     "lastCompetition": {
       "competitionId": "CrazyCubesSpring2017",
       "competitionName": "Crazy Cubes Spring 2017",
@@ -821,11 +821,11 @@
     "gender": "m",
     "id": "2018MONT03",
     "countryId": "Peru",
-    "competitions": 30,
+    "competitions": 37,
     "lastCompetition": {
-      "competitionId": "PlazaCenterCubeLimaIV2024",
-      "competitionName": "Plaza Center Cube Lima IV 2024",
-      "competitionDate": "2024-03-02"
+      "competitionId": "PeruNationals2024",
+      "competitionName": "Peru Nationals 2024",
+      "competitionDate": "2024-11-22"
     },
     "podiums": 12,
     "competitionsOrganised": 8,
@@ -1201,7 +1201,7 @@
     "gender": "m",
     "id": "2017DELG02",
     "countryId": "Peru",
-    "competitions": 60,
+    "competitions": 61,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -1239,7 +1239,7 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 73,
+    "competitions": 74,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
@@ -1543,7 +1543,7 @@
     "gender": "m",
     "id": "2023SANC31",
     "countryId": "Peru",
-    "competitions": 36,
+    "competitions": 38,
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",

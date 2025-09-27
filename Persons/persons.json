@@ -48572,11 +48572,11 @@
     "gender": "m",
     "id": "2024ALON07",
     "countryId": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
-      "competitionId": "ElTormesOpen2024",
-      "competitionName": "El Tormes Open 2024",
-      "competitionDate": "2024-09-28"
+      "competitionId": "ElTormesOpen2025",
+      "competitionName": "El Tormes Open 2025",
+      "competitionDate": "2025-09-20"
     },
     "podiums": 0
   },

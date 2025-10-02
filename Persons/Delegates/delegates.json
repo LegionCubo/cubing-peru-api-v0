@@ -13,9 +13,9 @@
     "podiums": 126,
     "competitionsDelegated": 121,
     "lastDelegatedCompetition": {
-      "competitionId": "PaseoCentralWinter2025",
-      "competitionName": "Paseo Central Winter 2025",
-      "competitionDate": "2025-07-05"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27"
     }
   },
   {
@@ -241,9 +241,9 @@
     "podiums": 47,
     "competitionsDelegated": 9,
     "lastDelegatedCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27"
     }
   }
 ]

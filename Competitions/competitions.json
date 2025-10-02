@@ -12,11 +12,20 @@
     "cellName": "Trujillo Cubing Fest 2025",
     "eventSpecs": "222 333 pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2015CORN06",
-      "2013CHIC01"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      },
+      {
+        "id": "2013CHIC01",
+        "name": "Josué Esteban Bacilio Chicoma"
+      }
     ],
     "competitionDate": "2025-11-09",
     "competitionEndDate": "2025-11-09"
@@ -34,11 +43,20 @@
     "cellName": "Zomblinders Lima 2025",
     "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2025-11-01",
     "competitionEndDate": "2025-11-01"
@@ -56,11 +74,20 @@
     "cellName": "PUCP Cubing Festival VII 2025",
     "eventSpecs": "222 333bf 333oh 666 777 clock sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2025-10-19",
     "competitionEndDate": "2025-10-19"
@@ -78,12 +105,24 @@
     "cellName": "UNSA Speedcubing Primavera 2025",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2011RIGG02",
-      "2011RIGG03"
+      {
+        "id": "2011RIGG02",
+        "name": "Jael Riggenbach"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2025-09-27",
     "competitionEndDate": "2025-09-27"
@@ -101,14 +140,32 @@
     "cellName": "Peru Nationals 2025",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2016REAT01",
-      "2018QUIJ01",
-      "2015SUCL01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2025-08-29",
     "competitionEndDate": "2025-08-31"
@@ -126,10 +183,16 @@
     "cellName": "PUCP Cubing Festival VI 2025",
     "eventSpecs": "333bf 333mbf 777 clock",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2025-08-24",
     "competitionEndDate": "2025-08-24"
@@ -147,10 +210,16 @@
     "cellName": "LA PRE Cubing Pucallpa 2025",
     "eventSpecs": "222 333 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2025-08-16",
     "competitionEndDate": "2025-08-16"
@@ -168,11 +237,20 @@
     "cellName": "In Memoriam José Noles 2025",
     "eventSpecs": "222 333 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2015SUCL01"
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2023SANC31",
-      "2023ROJA17"
+      {
+        "id": "2023SANC31",
+        "name": "Francisco Barrenechea Sanchez"
+      },
+      {
+        "id": "2023ROJA17",
+        "name": "Marlon Rojas"
+      }
     ],
     "competitionDate": "2025-08-09",
     "competitionEndDate": "2025-08-09"
@@ -190,11 +268,20 @@
     "cellName": "Trujillo Open 2025",
     "eventSpecs": "222 333 444 pyram",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2015CORN06",
-      "2013CHIC01"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      },
+      {
+        "id": "2013CHIC01",
+        "name": "Josué Esteban Bacilio Chicoma"
+      }
     ],
     "competitionDate": "2025-07-20",
     "competitionEndDate": "2025-07-20"
@@ -212,12 +299,24 @@
     "cellName": "PUCP Cubing Festival V 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2025-07-19",
     "competitionEndDate": "2025-07-20"
@@ -235,11 +334,20 @@
     "cellName": "Paseo Central Winter 2025",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2025-07-05",
     "competitionEndDate": "2025-07-05"
@@ -257,11 +365,20 @@
     "cellName": "Oso Cubing Fest II Lima 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2013BELL06"
+      {
+        "id": "2013BELL06",
+        "name": "Jhon Anderson Soto Bellido"
+      }
     ],
     "competitionDate": "2025-05-31",
     "competitionEndDate": "2025-06-01"
@@ -279,13 +396,28 @@
     "cellName": "Chambea en Tu PB Lima 2025",
     "eventSpecs": "333bf clock sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2015CHAL01",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2025-05-03",
     "competitionEndDate": "2025-05-03"
@@ -303,10 +435,16 @@
     "cellName": "San José Cubing Yarinacocha 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555bf clock minx pyram skewb",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2025-04-26",
     "competitionEndDate": "2025-04-26"
@@ -324,12 +462,24 @@
     "cellName": "UNSA Speedcubing Otoño 2025",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2011RIGG02",
-      "2011RIGG03"
+      {
+        "id": "2011RIGG02",
+        "name": "Jael Riggenbach"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2025-04-26",
     "competitionEndDate": "2025-04-26"
@@ -347,11 +497,20 @@
     "cellName": "Back To Cubing Iquitos 2025",
     "eventSpecs": "222 333 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01",
-      "2016NUNE15"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      },
+      {
+        "id": "2016NUNE15",
+        "name": "Valentino Nuñez"
+      }
     ],
     "competitionDate": "2025-04-13",
     "competitionEndDate": "2025-04-13"
@@ -369,12 +528,24 @@
     "cellName": "Plaza Center Cube Lima VI 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2015CHAL01",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2025-04-05",
     "competitionEndDate": "2025-04-06"
@@ -392,11 +563,20 @@
     "cellName": "Chiclayo Classic 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2021FENC01",
-      "2018NUNU01"
+      {
+        "id": "2021FENC01",
+        "name": "Claudio Sandoval Fenco"
+      },
+      {
+        "id": "2018NUNU01",
+        "name": "Leví Sánchez Nunura"
+      }
     ],
     "competitionDate": "2025-03-30",
     "competitionEndDate": "2025-03-30"
@@ -414,12 +594,24 @@
     "cellName": "Plaza Center Cube Lima V 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2015CHAL01",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2025-03-29",
     "competitionEndDate": "2025-03-30"
@@ -437,10 +629,16 @@
     "cellName": "PUCP FMC Attempt 1 - 2025",
     "eventSpecs": "333fm clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2025-03-23",
     "competitionEndDate": "2025-03-23"
@@ -458,12 +656,24 @@
     "cellName": "Yanahuara Summer 2025",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2011RIGG03",
-      "2024REVI03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2024REVI03",
+        "name": "Walter Torres Revilla"
+      }
     ],
     "competitionDate": "2025-03-01",
     "competitionEndDate": "2025-03-01"
@@ -481,10 +691,16 @@
     "cellName": "LA PRE Pucallpa Speedcubing 2025",
     "eventSpecs": "222 333 333bf 333oh 444 clock pyram skewb",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2018TELL03"
+      {
+        "id": "2018TELL03",
+        "name": "Carlos Daniel Torres Tello"
+      }
     ],
     "competitionDate": "2025-02-22",
     "competitionEndDate": "2025-02-22"
@@ -502,11 +718,20 @@
     "cellName": "PUCP Cubing Festival IV 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2015CHAL01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2025-02-22",
     "competitionEndDate": "2025-02-23"
@@ -524,10 +749,16 @@
     "cellName": "San Valencube Huancayo 2025",
     "eventSpecs": "222 333 333bf 333fm 333oh 444 555 666 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2017NAHU02"
+      {
+        "id": "2017NAHU02",
+        "name": "Brayan Boza Ñahuinripa"
+      }
     ],
     "competitionDate": "2025-02-15",
     "competitionEndDate": "2025-02-16"
@@ -545,11 +776,20 @@
     "cellName": "Los Reyes del Cubo III 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2021FENC01",
-      "2025LARR01"
+      {
+        "id": "2021FENC01",
+        "name": "Claudio Sandoval Fenco"
+      },
+      {
+        "id": "2025LARR01",
+        "name": "Jorge Salazar Larrea"
+      }
     ],
     "competitionDate": "2025-01-25",
     "competitionEndDate": "2025-01-26"
@@ -567,11 +807,20 @@
     "cellName": "TCG Space lV Santa Anita 2025",
     "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2022VILL04"
+      {
+        "id": "2022VILL04",
+        "name": "Tyffany Villanueva"
+      }
     ],
     "competitionDate": "2025-01-04",
     "competitionEndDate": "2025-01-05"
@@ -589,11 +838,20 @@
     "cellName": "Open Christmas Huancayo 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2017NAHU02"
+      {
+        "id": "2017NAHU02",
+        "name": "Brayan Boza Ñahuinripa"
+      }
     ],
     "competitionDate": "2024-12-14",
     "competitionEndDate": "2024-12-15"
@@ -611,10 +869,16 @@
     "cellName": "Manantial Cubing Pucallpa 2024",
     "eventSpecs": "222 333 333bf 444 pyram",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2024-12-07",
     "competitionEndDate": "2024-12-07"
@@ -632,18 +896,48 @@
     "cellName": "Peru Nationals 2024",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2016REAT01",
-      "2018QUIJ01",
-      "2011RIGG03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2016REAT01",
-      "2018QUIJ01",
-      "2011RIGG03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2024-11-22",
     "competitionEndDate": "2024-11-24"
@@ -661,11 +955,20 @@
     "cellName": "Atipanakuy Lima 2024",
     "eventSpecs": "333fm 555 clock pyram sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-11-17",
     "competitionEndDate": "2024-11-17"
@@ -683,10 +986,16 @@
     "cellName": "Todas las Sangres Andah 2024",
     "eventSpecs": "222 333 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2022AGUI03"
+      {
+        "id": "2022AGUI03",
+        "name": "Mateo Aguirre"
+      }
     ],
     "competitionDate": "2024-11-10",
     "competitionEndDate": "2024-11-10"
@@ -704,11 +1013,20 @@
     "cellName": "PUCP Cubing Festival lll 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2024-11-02",
     "competitionEndDate": "2024-11-03"
@@ -726,12 +1044,24 @@
     "cellName": "TCG Spring Arequipa 2024",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2024-11-02",
     "competitionEndDate": "2024-11-02"
@@ -749,11 +1079,20 @@
     "cellName": "PUCP Zomblinders 2024",
     "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2024-10-27",
     "competitionEndDate": "2024-10-27"
@@ -771,12 +1110,24 @@
     "cellName": "Oso Cubing Fest I Lima 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2013BELL06"
+      {
+        "id": "2013BELL06",
+        "name": "Jhon Anderson Soto Bellido"
+      }
     ],
     "competitionDate": "2024-10-19",
     "competitionEndDate": "2024-10-20"
@@ -794,10 +1145,16 @@
     "cellName": "Pucallpa al Cubo 2024",
     "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2024-10-19",
     "competitionEndDate": "2024-10-19"
@@ -815,11 +1172,20 @@
     "cellName": "Caballero de los Mares Lima 2024",
     "eventSpecs": "333bf 444 555 666 777 clock sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-10-08",
     "competitionEndDate": "2024-10-08"
@@ -837,11 +1203,20 @@
     "cellName": "Welcome Spring Lima 2024",
     "eventSpecs": "333fm clock minx skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-09-15",
     "competitionEndDate": "2024-09-15"
@@ -859,11 +1234,20 @@
     "cellName": "PUCP Cubing Festival ll 2024",
     "eventSpecs": "222 333bf 444bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2024-09-08",
     "competitionEndDate": "2024-09-08"
@@ -881,12 +1265,27 @@
     "cellName": "Huánuco al Cubo 2024",
     "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2016REAT01",
-      "2018QUIJ01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016REAT01",
-      "2024TINE01"
+      {
+        "name": "Anghela Modesto"
+      },
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      },
+      {
+        "id": "2024TINE01",
+        "name": "Thony Jerson Pardavé Tineo"
+      }
     ],
     "competitionDate": "2024-08-18",
     "competitionEndDate": "2024-08-18"
@@ -904,11 +1303,20 @@
     "cellName": "Open PUCP Cubing Community 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2024-07-19",
     "competitionEndDate": "2024-07-20"
@@ -926,10 +1334,16 @@
     "cellName": "After Cube Party Lima 2024",
     "eventSpecs": "333bf 333oh clock pyram sq1",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-07-14",
     "competitionEndDate": "2024-07-14"
@@ -947,10 +1361,16 @@
     "cellName": "Back To Cubing Trujillo 2024",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2024-07-14",
     "competitionEndDate": "2024-07-14"
@@ -968,12 +1388,24 @@
     "cellName": "200 Perú 2024",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2024-07-13",
     "competitionEndDate": "2024-07-13"
@@ -991,9 +1423,16 @@
     "cellName": "America's School II Huaraz 2024",
     "eventSpecs": "222 333 pyram",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "I.E. AMERICA´S SCHOOL"
+      }
+    ],
     "competitionDate": "2024-07-13",
     "competitionEndDate": "2024-07-13"
   },
@@ -1010,10 +1449,16 @@
     "cellName": "Reyes del Cubo Chiclayo II 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 pyram",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2021FENC01"
+      {
+        "id": "2021FENC01",
+        "name": "Claudio Sandoval Fenco"
+      }
     ],
     "competitionDate": "2024-07-13",
     "competitionEndDate": "2024-07-13"
@@ -1031,11 +1476,20 @@
     "cellName": "PUCP Cubing Festival I 2024",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2024-06-22",
     "competitionEndDate": "2024-06-22"
@@ -1053,9 +1507,16 @@
     "cellName": "Blenkir Wanka Cube 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Cubos Astoria"
+      }
+    ],
     "competitionDate": "2024-06-08",
     "competitionEndDate": "2024-06-09"
   },
@@ -1072,11 +1533,20 @@
     "cellName": "Contigo Peru Lima 2024",
     "eventSpecs": "222 333bf 444 666 clock pyram sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-06-07",
     "competitionEndDate": "2024-06-07"
@@ -1094,11 +1564,20 @@
     "cellName": "TCG Space lll Santa Anita 2024",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2022VILL04"
+      {
+        "id": "2022VILL04",
+        "name": "Tyffany Villanueva"
+      }
     ],
     "competitionDate": "2024-05-25",
     "competitionEndDate": "2024-05-26"
@@ -1116,10 +1595,16 @@
     "cellName": "Back To Cubing San José 2024",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2024-05-18",
     "competitionEndDate": "2024-05-18"
@@ -1137,11 +1622,20 @@
     "cellName": "Chambea en Tu PB Lima 2024",
     "eventSpecs": "555 777 clock minx skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-05-04",
     "competitionEndDate": "2024-05-04"
@@ -1159,10 +1653,16 @@
     "cellName": "Los Reyes del Cubo Chiclayo 2024",
     "eventSpecs": "222 333 333bf 444 555 pyram",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2021FENC01"
+      {
+        "id": "2021FENC01",
+        "name": "Claudio Sandoval Fenco"
+      }
     ],
     "competitionDate": "2024-04-28",
     "competitionEndDate": "2024-04-28"
@@ -1180,13 +1680,28 @@
     "cellName": "UNSA Speedcubing Otoño 2024",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03",
-      "2015SUCL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "organiser": [
-      "2022HERR11",
-      "2011RIGG03"
+      {
+        "id": "2022HERR11",
+        "name": "Fabián Nicolás Cáceres Herrera"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2024-04-27",
     "competitionEndDate": "2024-04-28"
@@ -1204,11 +1719,20 @@
     "cellName": "Open PUCP 2024",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2024-03-16",
     "competitionEndDate": "2024-03-16"
@@ -1226,10 +1750,19 @@
     "cellName": "Andina Speedcubing 2024",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2021TITO01"
+      {
+        "id": "2021TITO01",
+        "name": "Jose Manuel Pumayalli Tito"
+      },
+      {
+        "name": "Mercedes Rosas Anco"
+      }
     ],
     "competitionDate": "2024-03-15",
     "competitionEndDate": "2024-03-16"
@@ -1247,12 +1780,24 @@
     "cellName": "Plaza Center Cube Lima IV 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2024-03-02",
     "competitionEndDate": "2024-03-03"
@@ -1270,11 +1815,20 @@
     "cellName": "Love Is Blind Lima 2024",
     "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "competitionDate": "2024-02-18",
     "competitionEndDate": "2024-02-18"
@@ -1292,11 +1846,20 @@
     "cellName": "SAM Center Open 2024",
     "eventSpecs": "222 333 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2016MONT33",
-      "2016REAT01"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2024-02-18",
     "competitionEndDate": "2024-02-18"
@@ -1314,11 +1877,20 @@
     "cellName": "UNSA Speedcubing Verano 2024",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2022HERR11",
-      "2011RIGG03"
+      {
+        "id": "2022HERR11",
+        "name": "Fabián Nicolás Cáceres Herrera"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2024-02-17",
     "competitionEndDate": "2024-02-18"
@@ -1336,12 +1908,24 @@
     "cellName": "Plaza Center Cube Lima lll 2024",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2024-02-10",
     "competitionEndDate": "2024-02-11"
@@ -1359,11 +1943,20 @@
     "cellName": "In Memoriam José Noles 2024",
     "eventSpecs": "222 333 333oh minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2017JARA09"
+      {
+        "id": "2017JARA09",
+        "name": "Piero Stefano Menéndez Jaramillo"
+      }
     ],
     "competitionDate": "2024-02-03",
     "competitionEndDate": "2024-02-03"
@@ -1381,14 +1974,32 @@
     "cellName": "It's Clocking Time Lima 2024",
     "eventSpecs": "clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016SUZU03",
-      "2022RIVA03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2022RIVA03",
+        "name": "Ximena Paola Bazán Rivasplata"
+      }
     ],
     "competitionDate": "2024-01-28",
     "competitionEndDate": "2024-01-28"
@@ -1406,10 +2017,16 @@
     "cellName": "Chosica's Big Show 2024",
     "eventSpecs": "444 555 666 777",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "competitionDate": "2024-01-14",
     "competitionEndDate": "2024-01-14"
@@ -1427,11 +2044,23 @@
     "cellName": "Speedcuber Peru II Lima 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2016MONT33",
-      "2012ORTI04"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2018MONT03"
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      },
+      {
+        "name": "Vanessa Katherine Rojas Rios"
+      }
     ],
     "competitionDate": "2023-12-16",
     "competitionEndDate": "2023-12-17"
@@ -1449,11 +2078,20 @@
     "cellName": "TCG Selva Cubica 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2019MALA03",
-      "2013ALZA01"
+      {
+        "id": "2019MALA03",
+        "name": "Kiyoshi Francisco Mamani Malaga"
+      },
+      {
+        "id": "2013ALZA01",
+        "name": "Yuri Villanueva Alzamora"
+      }
     ],
     "competitionDate": "2023-12-10",
     "competitionEndDate": "2023-12-10"
@@ -1471,12 +2109,24 @@
     "cellName": "UNSA SC Primavera II 2023",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2022HERR11",
-      "2011RIGG03"
+      {
+        "id": "2022HERR11",
+        "name": "Fabián Nicolás Cáceres Herrera"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2023-12-02",
     "competitionEndDate": "2023-12-03"
@@ -1494,12 +2144,24 @@
     "cellName": "TCG Space II Santa Anita 2023",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2013ALZA01"
+      {
+        "id": "2013ALZA01",
+        "name": "Yuri Villanueva Alzamora"
+      }
     ],
     "competitionDate": "2023-11-25",
     "competitionEndDate": "2023-11-26"
@@ -1517,14 +2179,32 @@
     "cellName": "Real Cube II Lima 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2015CHAL01",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2023-11-11",
     "competitionEndDate": "2023-11-12"
@@ -1542,9 +2222,16 @@
     "cellName": "Cusco Speedcubing 2023",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Mercedes Rosas Anco"
+      }
+    ],
     "competitionDate": "2023-11-10",
     "competitionEndDate": "2023-11-11"
   },
@@ -1561,10 +2248,16 @@
     "cellName": "Real Geekcuber Pucallpa 2023",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2023-11-04",
     "competitionEndDate": "2023-11-05"
@@ -1582,11 +2275,20 @@
     "cellName": "Zomblinders Lima 2023",
     "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2016SUZU03",
-      "2018MONT03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      }
     ],
     "competitionDate": "2023-10-29",
     "competitionEndDate": "2023-10-29"
@@ -1604,12 +2306,24 @@
     "cellName": "TCG Space Santa Anita 2023",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2013ALZA01"
+      {
+        "id": "2013ALZA01",
+        "name": "Yuri Villanueva Alzamora"
+      }
     ],
     "competitionDate": "2023-10-21",
     "competitionEndDate": "2023-10-22"
@@ -1627,10 +2341,16 @@
     "cellName": "FMC Spring Lima 2023",
     "eventSpecs": "333fm",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2015ACHA01"
+      {
+        "id": "2015ACHA01",
+        "name": "Leon Achata"
+      }
     ],
     "competitionDate": "2023-10-15",
     "competitionEndDate": "2023-10-15"
@@ -1648,12 +2368,24 @@
     "cellName": "UNSA Speedcubing Primavera 2023",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2022HERR11",
-      "2011RIGG03"
+      {
+        "id": "2022HERR11",
+        "name": "Fabián Nicolás Cáceres Herrera"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2023-10-07",
     "competitionEndDate": "2023-10-08"
@@ -1671,12 +2403,24 @@
     "cellName": "Plaza Center Cube Lima II 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2023-09-30",
     "competitionEndDate": "2023-10-01"
@@ -1694,9 +2438,16 @@
     "cellName": "Open Plaza Huancayo 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Cubos Astoria"
+      }
+    ],
     "competitionDate": "2023-09-23",
     "competitionEndDate": "2023-09-24"
   },
@@ -1713,12 +2464,24 @@
     "cellName": "Plaza Center Cube Lima I 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2023-09-16",
     "competitionEndDate": "2023-09-17"
@@ -1736,10 +2499,16 @@
     "cellName": "Chosica Cubing Cup 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "competitionDate": "2023-09-03",
     "competitionEndDate": "2023-09-03"
@@ -1757,10 +2526,20 @@
     "cellName": "La Tienda Cubera Fest 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Christian Olaya"
+      }
+    ],
     "competitionDate": "2023-08-19",
     "competitionEndDate": "2023-08-20"
   },
@@ -1777,11 +2556,20 @@
     "cellName": "San Marcos Open 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016MONT33",
-      "2018QUIJ01"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2015ACHA01"
+      {
+        "id": "2015ACHA01",
+        "name": "Leon Achata"
+      }
     ],
     "competitionDate": "2023-08-12",
     "competitionEndDate": "2023-08-13"
@@ -1799,15 +2587,39 @@
     "cellName": "Peru Nationals 2023",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2015CHAL01",
-      "2012ORTI04",
-      "2018QUIJ01",
-      "2011RIGG03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "name": "Edgar Cáceres Cabana"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2023-08-04",
     "competitionEndDate": "2023-08-06"
@@ -1825,12 +2637,24 @@
     "cellName": "Lima Cubinvierno 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016MONT33",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2016RODR37"
+      {
+        "id": "2016RODR37",
+        "name": "Angel Jesus Panebra Rodriguez"
+      }
     ],
     "competitionDate": "2023-07-22",
     "competitionEndDate": "2023-07-23"
@@ -1848,11 +2672,20 @@
     "cellName": "Chiclayanos Independientes 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2018QUIJ01"
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2021FENC01",
-      "2018NUNU01"
+      {
+        "id": "2021FENC01",
+        "name": "Claudio Sandoval Fenco"
+      },
+      {
+        "id": "2018NUNU01",
+        "name": "Leví Sánchez Nunura"
+      }
     ],
     "competitionDate": "2023-07-08",
     "competitionEndDate": "2023-07-08"
@@ -1870,11 +2703,20 @@
     "cellName": "Jaqueca a Domicilio Lima 2023",
     "eventSpecs": "333fm 333mbf 444bf",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2015ACHA01"
+      {
+        "id": "2015ACHA01",
+        "name": "Leon Achata"
+      }
     ],
     "competitionDate": "2023-06-25",
     "competitionEndDate": "2023-06-25"
@@ -1892,11 +2734,23 @@
     "cellName": "UNSA Speedcubing Pre-Nats 2023",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "name": "Edgar Cáceres Cabana"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2023-06-24",
     "competitionEndDate": "2023-06-24"
@@ -1914,10 +2768,16 @@
     "cellName": "San Juan Cubing 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram sq1",
     "wcaDelegate": [
-      "2016MONT33"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2023-06-17",
     "competitionEndDate": "2023-06-17"
@@ -1935,13 +2795,28 @@
     "cellName": "Cube Force Lima 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016MONT33",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2018TAYA02",
-      "2013ALZA01"
+      {
+        "id": "2018TAYA02",
+        "name": "Luis Gómez Taya"
+      },
+      {
+        "id": "2013ALZA01",
+        "name": "Yuri Villanueva Alzamora"
+      }
     ],
     "competitionDate": "2023-05-20",
     "competitionEndDate": "2023-05-21"
@@ -1959,11 +2834,23 @@
     "cellName": "UNSA Speedcubing Otoño 2023",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "name": "Edgar Cáceres Cabana"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2023-04-15",
     "competitionEndDate": "2023-04-16"
@@ -1981,10 +2868,16 @@
     "cellName": "Speedsolving Geekcuber 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram sq1",
     "wcaDelegate": [
-      "2016MONT33"
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2023-04-02",
     "competitionEndDate": "2023-04-02"
@@ -2002,11 +2895,20 @@
     "cellName": "Huancayo Summer 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2017CORI01"
+      {
+        "id": "2017CORI01",
+        "name": "Leonardo José Hilario Cori"
+      }
     ],
     "competitionDate": "2023-03-18",
     "competitionEndDate": "2023-03-19"
@@ -2024,13 +2926,31 @@
     "cellName": "Speedcuber Peru I Lima 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2018MONT03"
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      },
+      {
+        "name": "Vanessa Katherine Rojas Rios"
+      }
     ],
     "competitionDate": "2023-03-04",
     "competitionEndDate": "2023-03-05"
@@ -2048,11 +2968,20 @@
     "cellName": "TCG Summer Arequipa 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2023-02-11",
     "competitionEndDate": "2023-02-11"
@@ -2070,13 +2999,28 @@
     "cellName": "Lima Summer 2023",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2016MONT33",
-      "2012ORTI04",
-      "2018QUIJ01"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
     ],
     "organiser": [
-      "2015ACHA01"
+      {
+        "id": "2015ACHA01",
+        "name": "Leon Achata"
+      }
     ],
     "competitionDate": "2023-02-04",
     "competitionEndDate": "2023-02-05"
@@ -2094,10 +3038,19 @@
     "cellName": "Cusco Speedcubing 2022",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2021TITO01"
+      {
+        "id": "2021TITO01",
+        "name": "Jose Manuel Pumayalli Tito"
+      },
+      {
+        "name": "Mercedes Rosas Anco"
+      }
     ],
     "competitionDate": "2022-12-10",
     "competitionEndDate": "2022-12-10"
@@ -2115,11 +3068,20 @@
     "cellName": "TCG Power Up 2022",
     "eventSpecs": "222 333 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2013ALZA01"
+      {
+        "id": "2013ALZA01",
+        "name": "Yuri Villanueva Alzamora"
+      }
     ],
     "competitionDate": "2022-12-03",
     "competitionEndDate": "2022-12-04"
@@ -2137,11 +3099,20 @@
     "cellName": "Sin DNF en el Palacio 2022",
     "eventSpecs": "333bf 333fm 333mbf 444bf 555bf",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2018MONT03"
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      }
     ],
     "competitionDate": "2022-11-26",
     "competitionEndDate": "2022-11-26"
@@ -2159,11 +3130,23 @@
     "cellName": "UNSA Speedcubing Primavera 2022",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "name": "Edgar Cáceres Cabana"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2022-11-12",
     "competitionEndDate": "2022-11-12"
@@ -2181,10 +3164,16 @@
     "cellName": "Pucallpa Cubea 2022",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2022-10-16",
     "competitionEndDate": "2022-10-16"
@@ -2202,13 +3191,31 @@
     "cellName": "Peru Nationals 2022",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "name": "Edgar Cáceres Cabana"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2022-08-19",
     "competitionEndDate": "2022-08-21"
@@ -2226,9 +3233,16 @@
     "cellName": "Speedsolving Huancayo 2022",
     "eventSpecs": "222 333 333fm 333oh 444 555 666 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Cubos Astoria"
+      }
+    ],
     "competitionDate": "2022-08-13",
     "competitionEndDate": "2022-08-14"
   },
@@ -2245,12 +3259,24 @@
     "cellName": "Real Cube 2022",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2013VALD02",
-      "2012ORTI04"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2013VALD02",
+        "name": "Christian Saenz Valdivia"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2022-08-06",
     "competitionEndDate": "2022-08-07"
@@ -2268,12 +3294,24 @@
     "cellName": "School Winter Lima 2022",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2013VALD02",
-      "2012ORTI04"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2013VALD02",
+        "name": "Christian Saenz Valdivia"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2017LOPE38"
+      {
+        "id": "2017LOPE38",
+        "name": "Luis Gonzalo Porras Lopez"
+      }
     ],
     "competitionDate": "2022-07-02",
     "competitionEndDate": "2022-07-03"
@@ -2291,11 +3329,20 @@
     "cellName": "TCG Fall Arequipa 2022",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2022-06-11",
     "competitionEndDate": "2022-06-11"
@@ -2313,11 +3360,20 @@
     "cellName": "TCG Nueva Generación 2022",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2016SUZU03",
-      "2012ORTI04"
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2013ALZA01"
+      {
+        "id": "2013ALZA01",
+        "name": "Yuri Villanueva Alzamora"
+      }
     ],
     "competitionDate": "2022-04-30",
     "competitionEndDate": "2022-05-01"
@@ -2335,10 +3391,16 @@
     "cellName": "Lima Cuberano 2022",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2022-03-12",
     "competitionEndDate": "2022-03-13"
@@ -2356,11 +3418,20 @@
     "cellName": "TCG Summer Arequipa 2022",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2022-02-26",
     "competitionEndDate": "2022-02-26"
@@ -2378,10 +3449,16 @@
     "cellName": "Chiclayano Talent Is Here 2022",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "organiser": [
-      "2018NUNU01"
+      {
+        "id": "2018NUNU01",
+        "name": "Leví Sánchez Nunura"
+      }
     ],
     "competitionDate": "2022-01-28",
     "competitionEndDate": "2022-01-28"
@@ -2399,11 +3476,20 @@
     "cellName": "Back To Cubing Arequipa 2021",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2021-12-11",
     "competitionEndDate": "2021-12-11"
@@ -2421,9 +3507,16 @@
     "cellName": "Cusco Speedcubing 2021",
     "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Mercedes Rosas Anco"
+      }
+    ],
     "competitionDate": "2021-12-04",
     "competitionEndDate": "2021-12-04"
   },
@@ -2440,10 +3533,16 @@
     "cellName": "Back to Cubing San José 2021",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2021-11-06",
     "competitionEndDate": "2021-11-06"
@@ -2461,10 +3560,19 @@
     "cellName": "Speedcubers Elite Lima 2021",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "organiser": [
-      "2018MONT03"
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      },
+      {
+        "name": "Vanessa Katherine Rojas Rios"
+      }
     ],
     "competitionDate": "2021-10-30",
     "competitionEndDate": "2021-10-31"
@@ -2482,10 +3590,16 @@
     "cellName": "A Romper Tu PB Lima 2020",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2020-02-29",
     "competitionEndDate": "2020-03-01"
@@ -2503,10 +3617,16 @@
     "cellName": "Trujillo Happy New Year 2020",
     "eventSpecs": "222 333 333bf 444 minx pyram skewb",
     "wcaDelegate": [
-      "2013VALD02"
+      {
+        "id": "2013VALD02",
+        "name": "Christian Saenz Valdivia"
+      }
     ],
     "organiser": [
-      "2017SOLD01"
+      {
+        "id": "2017SOLD01",
+        "name": "Daniela Medalit Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2020-02-22",
     "competitionEndDate": "2020-02-22"
@@ -2524,13 +3644,28 @@
     "cellName": "Glorioso San Carlos 2020",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2019CURI01",
-      "2014QUIS02",
-      "2017CUTI01"
+      {
+        "id": "2019CURI01",
+        "name": "Diego Fernando Yampi Curie"
+      },
+      {
+        "id": "2014QUIS02",
+        "name": "Kenny Zapana Quispe"
+      },
+      {
+        "id": "2017CUTI01",
+        "name": "Marcelo Omar Quispe Cutipa"
+      }
     ],
     "competitionDate": "2020-02-15",
     "competitionEndDate": "2020-02-15"
@@ -2548,10 +3683,16 @@
     "cellName": "Lima Cuberano 2020",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2017DELG02"
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2020-01-18",
     "competitionEndDate": "2020-01-19"
@@ -2569,10 +3710,16 @@
     "cellName": "GeekStore Speedsolving 2019",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram sq1",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2019-12-28",
     "competitionEndDate": "2019-12-28"
@@ -2590,10 +3737,16 @@
     "cellName": "Iquitos Cuber 2019",
     "eventSpecs": "222 333 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2016RODR53"
+      {
+        "id": "2016RODR53",
+        "name": "Romer Rodríguez"
+      }
     ],
     "competitionDate": "2019-12-21",
     "competitionEndDate": "2019-12-21"
@@ -2611,9 +3764,16 @@
     "cellName": "La Tienda Cubera Christmas 2019",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Christian Olaya"
+      }
+    ],
     "competitionDate": "2019-12-21",
     "competitionEndDate": "2019-12-22"
   },
@@ -2630,11 +3790,20 @@
     "cellName": "TCG Spring 2019",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2019-12-14",
     "competitionEndDate": "2019-12-15"
@@ -2652,9 +3821,16 @@
     "cellName": "Cusco Speedcubing III 2019",
     "eventSpecs": "222 333 333bf 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Mercedes Rosas Anco"
+      }
+    ],
     "competitionDate": "2019-11-30",
     "competitionEndDate": "2019-11-30"
   },
@@ -2671,12 +3847,24 @@
     "cellName": "Palacio del Cubo 2019",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2013LEON05",
-      "2017DELG02"
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      },
+      {
+        "id": "2017DELG02",
+        "name": "Kevin Antony Tello Delgado"
+      }
     ],
     "organiser": [
-      "2018MONT03",
-      "2011BARA01"
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      },
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2019-11-16",
     "competitionEndDate": "2019-11-17"
@@ -2694,10 +3882,16 @@
     "cellName": "El Norte Cubea Perú 2019",
     "eventSpecs": "222 333 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2019-11-09",
     "competitionEndDate": "2019-11-09"
@@ -2715,10 +3909,16 @@
     "cellName": "Cubeland Arequipa 2019",
     "eventSpecs": "222 333 444 pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2018CUTI01"
+      {
+        "id": "2018CUTI01",
+        "name": "Percy Flavio Chacón Cutipa"
+      }
     ],
     "competitionDate": "2019-10-26",
     "competitionEndDate": "2019-10-26"
@@ -2736,11 +3936,20 @@
     "cellName": "Comas Speedsolving 2019",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01",
-      "2018VARG10"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "id": "2018VARG10",
+        "name": "Luis Vargas"
+      }
     ],
     "competitionDate": "2019-09-28",
     "competitionEndDate": "2019-09-29"
@@ -2758,17 +3967,44 @@
     "cellName": "Peru Nationals 2019",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2013LEON05",
-      "2015CHAL01",
-      "2012ORTI04",
-      "2011RIGG03"
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01",
-      "2013LEON05",
-      "2015CHAL01",
-      "2012ORTI04",
-      "2011RIGG03"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2019-08-16",
     "competitionEndDate": "2019-08-18"
@@ -2786,11 +4022,20 @@
     "cellName": "Pre-Nacionales Arequipa 2019",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015SUCL01"
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "competitionDate": "2019-08-10",
     "competitionEndDate": "2019-08-11"
@@ -2808,10 +4053,16 @@
     "cellName": "Breaking Records Huancayo 2019",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2017SALA07"
+      {
+        "id": "2017SALA07",
+        "name": "Ronald Fernando Remuzgo Salazar"
+      }
     ],
     "competitionDate": "2019-08-03",
     "competitionEndDate": "2019-08-03"
@@ -2829,10 +4080,19 @@
     "cellName": "Cusco Speedcubing II 2019",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2019SISA01"
+      {
+        "id": "2019SISA01",
+        "name": "David Chirme Sisa"
+      },
+      {
+        "name": "Mercedes Rosas Anco"
+      }
     ],
     "competitionDate": "2019-06-29",
     "competitionEndDate": "2019-06-29"
@@ -2850,10 +4110,16 @@
     "cellName": "Copa Black Horse 2019",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2013LEON05"
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2019-06-01",
     "competitionEndDate": "2019-06-02"
@@ -2871,11 +4137,20 @@
     "cellName": "TCG Fall 2019",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2019-06-01",
     "competitionEndDate": "2019-06-01"
@@ -2893,11 +4168,20 @@
     "cellName": "Speedcuber Perú Otoño 2019",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2018MONT03",
-      "2011BARA01"
+      {
+        "id": "2018MONT03",
+        "name": "Christian Montoya"
+      },
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2019-04-20",
     "competitionEndDate": "2019-04-21"
@@ -2915,10 +4199,19 @@
     "cellName": "Speedsolving Huancayo 2019",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "name": "Cubos Astoria"
+      }
     ],
     "competitionDate": "2019-03-24",
     "competitionEndDate": "2019-03-24"
@@ -2936,11 +4229,20 @@
     "cellName": "Newton Speedcubing 2019",
     "eventSpecs": "222 333 444 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2013CCAP02"
+      {
+        "id": "2013CCAP02",
+        "name": "Yenny Huanqque Ccapa"
+      }
     ],
     "competitionDate": "2019-02-24",
     "competitionEndDate": "2019-02-24"
@@ -2958,10 +4260,16 @@
     "cellName": "Aventura Cúbica VII 2019",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2013LEON05"
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2019-02-16",
     "competitionEndDate": "2019-02-17"
@@ -2979,10 +4287,16 @@
     "cellName": "Glorioso San Carlos 2019",
     "eventSpecs": "222 333 333bf 333fm 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2017CUTI01"
+      {
+        "id": "2017CUTI01",
+        "name": "Marcelo Omar Quispe Cutipa"
+      }
     ],
     "competitionDate": "2019-02-16",
     "competitionEndDate": "2019-02-16"
@@ -3000,11 +4314,20 @@
     "cellName": "TCG Deluxe 2019",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2019-01-12",
     "competitionEndDate": "2019-01-13"
@@ -3022,9 +4345,16 @@
     "cellName": "Cusco Speedcubing 2019",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Mercedes Rosas Anco"
+      }
+    ],
     "competitionDate": "2019-01-05",
     "competitionEndDate": "2019-01-05"
   },
@@ -3041,9 +4371,16 @@
     "cellName": "La Tienda Cubera Christmas 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2013LEON05"
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Christian Olaya"
+      }
+    ],
     "competitionDate": "2018-12-22",
     "competitionEndDate": "2018-12-23"
   },
@@ -3060,10 +4397,16 @@
     "cellName": "Iquitos Cubing 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2016NUNE15"
+      {
+        "id": "2016NUNE15",
+        "name": "Valentino Nuñez"
+      }
     ],
     "competitionDate": "2018-11-03",
     "competitionEndDate": "2018-11-04"
@@ -3081,11 +4424,20 @@
     "cellName": "Game Pro Tour 2018",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2018-10-27",
     "competitionEndDate": "2018-10-28"
@@ -3103,10 +4455,16 @@
     "cellName": "Pucallpa 2018",
     "eventSpecs": "222 333 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2018-10-27",
     "competitionEndDate": "2018-10-27"
@@ -3124,10 +4482,16 @@
     "cellName": "Aventura Cúbica VI 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2013LEON05"
+      {
+        "id": "2013LEON05",
+        "name": "Angelo Giovanni Licetti León"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2018-10-20",
     "competitionEndDate": "2018-10-21"
@@ -3145,10 +4509,16 @@
     "cellName": "Trujillo Open 2018",
     "eventSpecs": "222 333 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2018-10-20",
     "competitionEndDate": "2018-10-20"
@@ -3166,10 +4536,16 @@
     "cellName": "Jaén Mountain Cubes 2018",
     "eventSpecs": "222 333 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2018BRIC05"
+      {
+        "id": "2018BRIC05",
+        "name": "Javier Briceño"
+      }
     ],
     "competitionDate": "2018-10-13",
     "competitionEndDate": "2018-10-14"
@@ -3187,12 +4563,24 @@
     "cellName": "Salesianos Open 2018",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015COLL07",
-      "2018CATU01"
+      {
+        "id": "2015COLL07",
+        "name": "Alejandro Collantes"
+      },
+      {
+        "id": "2018CATU01",
+        "name": "Eduardo Andre Salas Catunta"
+      }
     ],
     "competitionDate": "2018-09-29",
     "competitionEndDate": "2018-09-30"
@@ -3210,9 +4598,16 @@
     "cellName": "LTC Kids 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Christian Olaya"
+      }
+    ],
     "competitionDate": "2018-08-18",
     "competitionEndDate": "2018-08-19"
   },
@@ -3229,10 +4624,19 @@
     "cellName": "Speedsolving Junín 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "name": "Cubos Astoria"
+      }
     ],
     "competitionDate": "2018-08-18",
     "competitionEndDate": "2018-08-19"
@@ -3250,10 +4654,16 @@
     "cellName": "Mariano Melgar Speedcubing 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2015SUCL01"
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
     ],
     "competitionDate": "2018-08-04",
     "competitionEndDate": "2018-08-04"
@@ -3271,11 +4681,27 @@
     "cellName": "Peru Nationals 2018",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2012ORTI04",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Brocubes"
+      },
+      {
+        "name": "Municipalidad de Lima"
+      }
+    ],
     "competitionDate": "2018-06-29",
     "competitionEndDate": "2018-07-01"
   },
@@ -3292,11 +4718,20 @@
     "cellName": "Speedcubing Ilo 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2017ABRI01"
+      {
+        "id": "2017ABRI01",
+        "name": "Ricardo Jesús Gambini Abril"
+      }
     ],
     "competitionDate": "2018-06-09",
     "competitionEndDate": "2018-06-09"
@@ -3314,11 +4749,20 @@
     "cellName": "TCG Fall 2018",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2018-06-02",
     "competitionEndDate": "2018-06-02"
@@ -3336,10 +4780,16 @@
     "cellName": "Torneo Activa Club 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2011BARA01"
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2018-05-19",
     "competitionEndDate": "2018-05-20"
@@ -3357,11 +4807,20 @@
     "cellName": "Glorioso San Carlos 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555bf pyram",
     "wcaDelegate": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "organiser": [
-      "2017JULI05",
-      "2017CUTI01"
+      {
+        "id": "2017JULI05",
+        "name": "Johan Matheos Serpa Juli"
+      },
+      {
+        "id": "2017CUTI01",
+        "name": "Marcelo Omar Quispe Cutipa"
+      }
     ],
     "competitionDate": "2018-05-05",
     "competitionEndDate": "2018-05-05"
@@ -3379,11 +4838,23 @@
     "cellName": "FIGHT Peru 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2011RIGG03"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "name": "FIGHT Peru"
+      }
     ],
     "competitionDate": "2018-04-21",
     "competitionEndDate": "2018-04-22"
@@ -3401,10 +4872,16 @@
     "cellName": "Pucallpa Open 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2018-03-10",
     "competitionEndDate": "2018-03-11"
@@ -3422,11 +4899,20 @@
     "cellName": "San Jose Cubing 2018",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2015CHAL01",
-      "2011RIGG03"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2014ZARA01"
+      {
+        "id": "2014ZARA01",
+        "name": "Rodrigo Zarate"
+      }
     ],
     "competitionDate": "2018-03-10",
     "competitionEndDate": "2018-03-11"
@@ -3444,10 +4930,16 @@
     "cellName": "CCS 2018",
     "eventSpecs": "222 333 333fm 333oh 444 555 666 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2018-03-02",
     "competitionEndDate": "2018-03-03"
@@ -3465,10 +4957,16 @@
     "cellName": "Iqui Open 2018",
     "eventSpecs": "222 333 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2016NUNE15"
+      {
+        "id": "2016NUNE15",
+        "name": "Valentino Nuñez"
+      }
     ],
     "competitionDate": "2018-02-25",
     "competitionEndDate": "2018-02-25"
@@ -3486,10 +4984,16 @@
     "cellName": "Colegio Newton Yura 2018",
     "eventSpecs": "222 333 333bf 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2013CCAP02"
+      {
+        "id": "2013CCAP02",
+        "name": "Yenny Huanqque Ccapa"
+      }
     ],
     "competitionDate": "2018-02-11",
     "competitionEndDate": "2018-02-11"
@@ -3507,10 +5011,16 @@
     "cellName": "Aventura Cúbica V 2018",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2018-01-27",
     "competitionEndDate": "2018-01-28"
@@ -3528,9 +5038,16 @@
     "cellName": "Cusco Speedcubing 2018",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "Mercedes Rosas Anco"
+      }
+    ],
     "competitionDate": "2018-01-06",
     "competitionEndDate": "2018-01-06"
   },
@@ -3547,11 +5064,20 @@
     "cellName": "Speedsolving Sakura 2017",
     "eventSpecs": "222 333 333bf 333oh 444 444bf minx pyram skewb",
     "wcaDelegate": [
-      "2014GUIL02"
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2017CHAV22",
-      "2017TEJE01"
+      {
+        "id": "2017CHAV22",
+        "name": "Gerson Huver Barrientos Chávez"
+      },
+      {
+        "id": "2017TEJE01",
+        "name": "Stalin Cipriano Tejeda"
+      }
     ],
     "competitionDate": "2017-12-17",
     "competitionEndDate": "2017-12-17"
@@ -3569,10 +5095,16 @@
     "cellName": "Crazy Cubes Christmas 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2017-12-16",
     "competitionEndDate": "2017-12-17"
@@ -3590,11 +5122,20 @@
     "cellName": "Last Cubing Lima 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2014GUIL02"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2016OBRE01"
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
     ],
     "competitionDate": "2017-12-09",
     "competitionEndDate": "2017-12-10"
@@ -3612,10 +5153,16 @@
     "cellName": "TCG Spring 2017",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2017-12-09",
     "competitionEndDate": "2017-12-09"
@@ -3633,10 +5180,16 @@
     "cellName": "RubIquitos 2017",
     "eventSpecs": "222 333 333oh 444 pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2016RODR53"
+      {
+        "id": "2016RODR53",
+        "name": "Romer Rodríguez"
+      }
     ],
     "competitionDate": "2017-11-12",
     "competitionEndDate": "2017-11-12"
@@ -3654,10 +5207,16 @@
     "cellName": "Juliaca Speedcubing 2017",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015CHAL01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      }
     ],
     "competitionDate": "2017-10-21",
     "competitionEndDate": "2017-10-21"
@@ -3675,9 +5234,16 @@
     "cellName": "FIGHT Peru 2017",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
-    "organiser": [],
+    "organiser": [
+      {
+        "name": "FIGHT Peru"
+      }
+    ],
     "competitionDate": "2017-09-30",
     "competitionEndDate": "2017-09-30"
   },
@@ -3694,10 +5260,16 @@
     "cellName": "Crazy Cubes Spring 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2014GUIL02"
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2017-09-24",
     "competitionEndDate": "2017-09-24"
@@ -3715,12 +5287,24 @@
     "cellName": "Campeonato Nacional Perubik 2017",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2011RIGG03",
-      "2014GUIL02"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2017-08-26",
     "competitionEndDate": "2017-08-27"
@@ -3738,10 +5322,16 @@
     "cellName": "Rubik Junin 2017",
     "eventSpecs": "222 333 333oh 444 pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2017-08-20",
     "competitionEndDate": "2017-08-20"
@@ -3759,10 +5349,16 @@
     "cellName": "ChimboteRubik 2017",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2014GUIL02"
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2016PALA01"
+      {
+        "id": "2016PALA01",
+        "name": "Juan Chacón Palacios"
+      }
     ],
     "competitionDate": "2017-08-19",
     "competitionEndDate": "2017-08-20"
@@ -3780,10 +5376,16 @@
     "cellName": "Speedcubing Ilo 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2017ABRI01"
+      {
+        "id": "2017ABRI01",
+        "name": "Ricardo Jesús Gambini Abril"
+      }
     ],
     "competitionDate": "2017-08-12",
     "competitionEndDate": "2017-08-12"
@@ -3801,7 +5403,10 @@
     "cellName": "LTC Cube Fest 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [],
     "competitionDate": "2017-07-22",
@@ -3820,10 +5425,16 @@
     "cellName": "Crazy Cubes Open 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2017-07-09",
     "competitionEndDate": "2017-07-09"
@@ -3841,13 +5452,28 @@
     "cellName": "LatAm Tour - Lima 2017",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2011RIGG03",
-      "2014GUIL02"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2011ESQU01",
-      "2011RIGG03"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2017-06-24",
     "competitionEndDate": "2017-06-25"
@@ -3865,11 +5491,20 @@
     "cellName": "LatAm Tour - Arequipa 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2005FLEI01",
-      "2011RIGG03"
+      {
+        "id": "2005FLEI01",
+        "name": "Jeremy Fleischman"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2017-06-22",
     "competitionEndDate": "2017-06-22"
@@ -3887,10 +5522,16 @@
     "cellName": "Rubik Pro 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2015VASQ06"
+      {
+        "id": "2015VASQ06",
+        "name": "Jarry Tapia Vasquez"
+      }
     ],
     "competitionDate": "2017-05-21",
     "competitionEndDate": "2017-05-21"
@@ -3908,11 +5549,20 @@
     "cellName": "Aventura Cúbica IV 2017",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2014GUIL02"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2017-04-22",
     "competitionEndDate": "2017-04-23"
@@ -3930,10 +5580,16 @@
     "cellName": "TCG Fall Arequipa 2017",
     "eventSpecs": "222 333 333bf 333oh 444 pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2017-04-22",
     "competitionEndDate": "2017-04-22"
@@ -3951,10 +5607,16 @@
     "cellName": "Cubiar Travel 2017",
     "eventSpecs": "222 333 333oh 444 555 pyram",
     "wcaDelegate": [
-      "2014GUIL02"
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2016ACEN01"
+      {
+        "id": "2016ACEN01",
+        "name": "Jesús Acencio"
+      }
     ],
     "competitionDate": "2017-04-08",
     "competitionEndDate": "2017-04-08"
@@ -3972,11 +5634,20 @@
     "cellName": "Activa Club Rubik 2017",
     "eventSpecs": "222 333 333bf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2014GUIL02"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2011BARA01"
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2017-03-11",
     "competitionEndDate": "2017-03-11"
@@ -3994,10 +5665,16 @@
     "cellName": "Speedsolving Huancayo 2017",
     "eventSpecs": "222 333 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2017-03-05",
     "competitionEndDate": "2017-03-05"
@@ -4015,10 +5692,16 @@
     "cellName": "Crazy Cubes Summer 2017",
     "eventSpecs": "222 333 333bf 333oh 444 444bf 555 minx pyram skewb",
     "wcaDelegate": [
-      "2014GUIL02"
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2017-02-26",
     "competitionEndDate": "2017-02-26"
@@ -4036,10 +5719,16 @@
     "cellName": "Speedsolving Pucallpa 2017",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2012ORTI04"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2017-02-18",
     "competitionEndDate": "2017-02-19"
@@ -4057,11 +5746,20 @@
     "cellName": "Aventura Cúbica III 2017",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2012ORTI04",
-      "2014GUIL02"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2017-02-04",
     "competitionEndDate": "2017-02-05"
@@ -4079,10 +5777,16 @@
     "cellName": "Yura Speedcubers 2017",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2013CCAP02"
+      {
+        "id": "2013CCAP02",
+        "name": "Yenny Huanqque Ccapa"
+      }
     ],
     "competitionDate": "2017-01-14",
     "competitionEndDate": "2017-01-14"
@@ -4100,10 +5804,16 @@
     "cellName": "Comercio Rubik 2016",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2014GUIL02"
+      {
+        "id": "2014GUIL02",
+        "name": "Paulo Guillén"
+      }
     ],
     "organiser": [
-      "2016REAT01"
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
     ],
     "competitionDate": "2016-12-10",
     "competitionEndDate": "2016-12-10"
@@ -4121,10 +5831,16 @@
     "cellName": "Real Plaza 2016",
     "eventSpecs": "222 333 333bf 333oh 444 444bf 555 555bf minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2016-11-26",
     "competitionEndDate": "2016-11-26"
@@ -4142,10 +5858,16 @@
     "cellName": "Torneo de Speedcubers 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2011BARA01"
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2016-10-29",
     "competitionEndDate": "2016-10-30"
@@ -4163,10 +5885,16 @@
     "cellName": "UNSA Speedcubing 2016",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2016-10-29",
     "competitionEndDate": "2016-10-29"
@@ -4184,10 +5912,16 @@
     "cellName": "RubIquitos 2016",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2016RODR53"
+      {
+        "id": "2016RODR53",
+        "name": "Romer Rodríguez"
+      }
     ],
     "competitionDate": "2016-10-22",
     "competitionEndDate": "2016-10-22"
@@ -4205,10 +5939,19 @@
     "cellName": "Lima Rubik 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "name": "Municipalidad de Lima"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2016-08-27",
     "competitionEndDate": "2016-08-28"
@@ -4226,10 +5969,16 @@
     "cellName": "Crazy Cubes Open 2016",
     "eventSpecs": "222 333 333oh 444 555 666 minx pyram skewb",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2016-08-14",
     "competitionEndDate": "2016-08-14"
@@ -4247,10 +5996,16 @@
     "cellName": "Game Pro Tour 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2016-08-13",
     "competitionEndDate": "2016-08-14"
@@ -4268,14 +6023,32 @@
     "cellName": "Nacional Perubik 2016",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03",
-      "2011QUEZ01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2011ESQU01",
-      "2011LEIV01",
-      "2011RIGG03",
-      "2011QUEZ01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "id": "2011LEIV01",
+        "name": "Jesus Eduardo Leiva Ramos"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "competitionDate": "2016-07-16",
     "competitionEndDate": "2016-07-17"
@@ -4293,12 +6066,24 @@
     "cellName": "UCSM Supérate Open 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015CHAL01",
-      "2016VARG04",
-      "2014ZARA01"
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2016VARG04",
+        "name": "Kevin Estefano Coayla Vargas"
+      },
+      {
+        "id": "2014ZARA01",
+        "name": "Rodrigo Zarate"
+      }
     ],
     "competitionDate": "2016-06-11",
     "competitionEndDate": "2016-06-11"
@@ -4316,10 +6101,16 @@
     "cellName": "Plaza Norte Rubik 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2011BARA01"
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2016-04-23",
     "competitionEndDate": "2016-04-24"
@@ -4337,10 +6128,16 @@
     "cellName": "Crazy Cubes Summer 2016",
     "eventSpecs": "222 333 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2016-03-20",
     "competitionEndDate": "2016-03-20"
@@ -4358,10 +6155,16 @@
     "cellName": "TCG Welcome 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2016-03-19",
     "competitionEndDate": "2016-03-19"
@@ -4379,10 +6182,16 @@
     "cellName": "Speedsolving Pucallpa 2016",
     "eventSpecs": "222 333 333oh 444 555 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2016-02-06",
     "competitionEndDate": "2016-02-07"
@@ -4400,10 +6209,16 @@
     "cellName": "Aventura Cubica 2016",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2016-01-23",
     "competitionEndDate": "2016-01-24"
@@ -4421,10 +6236,16 @@
     "cellName": "Crazy Cubes Open 2015",
     "eventSpecs": "222 333 333bf 333oh 444 555 pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2015CORN06"
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      }
     ],
     "competitionDate": "2015-12-20",
     "competitionEndDate": "2015-12-20"
@@ -4442,10 +6263,16 @@
     "cellName": "INABIF Open 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2011BARA01"
+      {
+        "id": "2011BARA01",
+        "name": "Roberto Antonio Ocmin Baráybar"
+      }
     ],
     "competitionDate": "2015-12-05",
     "competitionEndDate": "2015-12-06"
@@ -4463,10 +6290,16 @@
     "cellName": "Tecsup Open 2015",
     "eventSpecs": "222 333 333bf 333oh 444 444bf 555 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2015-11-28",
     "competitionEndDate": "2015-11-28"
@@ -4484,10 +6317,16 @@
     "cellName": "Cientifico Open 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 minx pyram skewb",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2013CABR03"
+      {
+        "id": "2013CABR03",
+        "name": "Brian Pebes Cabrera"
+      }
     ],
     "competitionDate": "2015-11-08",
     "competitionEndDate": "2015-11-08"
@@ -4505,11 +6344,20 @@
     "cellName": "San Martin Open 2015",
     "eventSpecs": "222 333 333bf 333oh 444 444bf 555",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2013HUAM02",
-      "2011RIGG03"
+      {
+        "id": "2013HUAM02",
+        "name": "Jose Alex Apaza Huaman"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2015-10-10",
     "competitionEndDate": "2015-10-10"
@@ -4527,10 +6375,16 @@
     "cellName": "TCG Spring Open 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2015-10-10",
     "competitionEndDate": "2015-10-11"
@@ -4548,7 +6402,10 @@
     "cellName": "TCG & Friends 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2015-07-11",
@@ -4567,7 +6424,10 @@
     "cellName": "TCG & Friends AQP 2015",
     "eventSpecs": "222 333 333bf 333oh 444 555 666 777 minx",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2015-07-08",
@@ -4586,7 +6446,10 @@
     "cellName": "Hunter Open 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2015-06-13",
@@ -4605,7 +6468,10 @@
     "cellName": "Mega Rubik 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555bf minx pyram skewb",
     "wcaDelegate": [
-      "2011QUEZ01"
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [],
     "competitionDate": "2015-05-02",
@@ -4624,10 +6490,16 @@
     "cellName": "Mariano Melgar 2015",
     "eventSpecs": "222 333 333bf 333oh 444 555 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2015-04-11",
     "competitionEndDate": "2015-04-11"
@@ -4645,8 +6517,14 @@
     "cellName": "New Avge Open 2015",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03",
-      "2011QUEZ01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2011QUEZ01",
+        "name": "Noel Yzaguirre"
+      }
     ],
     "organiser": [],
     "competitionDate": "2015-01-31",
@@ -4665,10 +6543,16 @@
     "cellName": "Game Pro Tour 2014",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2014-11-29",
     "competitionEndDate": "2014-11-30"
@@ -4686,7 +6570,10 @@
     "cellName": "40th Anniversary 2014",
     "eventSpecs": "222 333 333bf 333oh 444 pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2014-11-08",
@@ -4705,10 +6592,16 @@
     "cellName": "II Open Arguedas 2014",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2013CABR03"
+      {
+        "id": "2013CABR03",
+        "name": "Brian Pebes Cabrera"
+      }
     ],
     "competitionDate": "2014-10-24",
     "competitionEndDate": "2014-10-25"
@@ -4726,10 +6619,16 @@
     "cellName": "TCG Lima 2014",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2014-09-06",
     "competitionEndDate": "2014-09-07"
@@ -4747,7 +6646,10 @@
     "cellName": "TCG Arequipa 2014",
     "eventSpecs": "222 333 333bf 333oh 444 minx",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2014-08-30",
@@ -4766,7 +6668,10 @@
     "cellName": "Mariano Melgar 2014",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2014-07-12",
@@ -4785,11 +6690,20 @@
     "cellName": "UNI-Rubik 2014",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 444bf 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2012ORTI04",
-      "2012TORR07"
+      {
+        "id": "2012ORTI04",
+        "name": "Jose Abanto Ortiz"
+      },
+      {
+        "id": "2012TORR07",
+        "name": "Vladimir De la Torre"
+      }
     ],
     "competitionDate": "2014-06-20",
     "competitionEndDate": "2014-06-21"
@@ -4807,7 +6721,10 @@
     "cellName": "Open Colca 2014",
     "eventSpecs": "222 333 333bf 333oh 444",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2014-03-21",
@@ -4826,11 +6743,20 @@
     "cellName": "Back to the Palace 2014",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01",
-      "2013CHAU02"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      },
+      {
+        "id": "2013CHAU02",
+        "name": "Luis Enrique Gonzales Chauca"
+      }
     ],
     "competitionDate": "2014-03-08",
     "competitionEndDate": "2014-03-09"
@@ -4848,10 +6774,16 @@
     "cellName": "Cultural Open 2014",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram skewb sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2014-02-07",
     "competitionEndDate": "2014-02-08"
@@ -4869,7 +6801,10 @@
     "cellName": "CuboVia Melgar 2013",
     "eventSpecs": "222 333 333bf 333oh 444",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2013-11-24",
@@ -4888,7 +6823,10 @@
     "cellName": "Arguedas 2013",
     "eventSpecs": "222 333 333bf 333oh 444",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2013-11-09",
@@ -4907,10 +6845,16 @@
     "cellName": "Palacio del Cubo 2013",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ESQU01"
+      {
+        "id": "2011ESQU01",
+        "name": "Alexander Esquivel"
+      }
     ],
     "competitionDate": "2013-10-26",
     "competitionEndDate": "2013-10-27"
@@ -4928,7 +6872,10 @@
     "cellName": "Mariano Melgar 2013",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 666 777 minx pyram sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2013-10-04",
@@ -4947,10 +6894,16 @@
     "cellName": "Trujillo 2013",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011CRUZ01"
+      {
+        "id": "2011CRUZ01",
+        "name": "Marvin Castañeda Cruzado"
+      }
     ],
     "competitionDate": "2013-07-20",
     "competitionEndDate": "2013-07-20"
@@ -4968,11 +6921,20 @@
     "cellName": "Nacional Perubik 2013",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 minx pyram sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2012COCH01",
-      "2011GONZ05"
+      {
+        "id": "2012COCH01",
+        "name": "Exon Gamboa Cochachi"
+      },
+      {
+        "id": "2011GONZ05",
+        "name": "Humberto Guillen Gonzales"
+      }
     ],
     "competitionDate": "2013-04-05",
     "competitionEndDate": "2013-04-06"
@@ -4990,11 +6952,20 @@
     "cellName": "Arequipa Summer 2013",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 777 minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RAMO02",
-      "2011CUBA02"
+      {
+        "id": "2011RAMO02",
+        "name": "Erland Fuentes Ramos"
+      },
+      {
+        "id": "2011CUBA02",
+        "name": "Ernesto Gutiérrez Cuba"
+      }
     ],
     "competitionDate": "2013-03-16",
     "competitionEndDate": "2013-03-16"
@@ -5012,7 +6983,10 @@
     "cellName": "Sudamericano 2013",
     "eventSpecs": "222 333 333bf 333fm 333mbf 333oh 444 555 666 777 clock minx pyram sq1",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [],
     "competitionDate": "2013-01-05",
@@ -5031,11 +7005,20 @@
     "cellName": "Aniversario Eduardo Valdivia 2012",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03",
-      "2012ZAMO02"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2012ZAMO02",
+        "name": "Pedro Antonio Bonilla Zamora"
+      }
     ],
     "competitionDate": "2012-11-18",
     "competitionEndDate": "2012-11-18"
@@ -5053,10 +7036,16 @@
     "cellName": "Chiclayo Open 2012",
     "eventSpecs": "222 333 333bf 333mbf 333oh 444 555 magic minx mmagic pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2012ZAPA01"
+      {
+        "id": "2012ZAPA01",
+        "name": "Bryan Celis Zapata"
+      }
     ],
     "competitionDate": "2012-08-11",
     "competitionEndDate": "2012-08-11"
@@ -5074,10 +7063,16 @@
     "cellName": "Aniversario Open 2012",
     "eventSpecs": "222 333 333bf 333oh 444 magic minx",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2012-06-02",
     "competitionEndDate": "2012-06-02"
@@ -5095,10 +7090,16 @@
     "cellName": "AQP Summer 2012",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2012-03-10",
     "competitionEndDate": "2012-03-10"
@@ -5116,10 +7117,16 @@
     "cellName": "Trujillo Open 2012",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011CRUZ01"
+      {
+        "id": "2011CRUZ01",
+        "name": "Marvin Castañeda Cruzado"
+      }
     ],
     "competitionDate": "2012-02-18",
     "competitionEndDate": "2012-02-18"
@@ -5137,11 +7144,20 @@
     "cellName": "II Arequipa Open 2011",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011RIGG03",
-      "2011TORA01"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2011TORA01",
+        "name": "Ruben Toranzo"
+      }
     ],
     "competitionDate": "2011-12-18",
     "competitionEndDate": "2011-12-18"
@@ -5159,10 +7175,16 @@
     "cellName": "Lima Open 2011",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011REYE02"
+      {
+        "id": "2011REYE02",
+        "name": "Arturo Antonio Flores Reyes"
+      }
     ],
     "competitionDate": "2011-11-05",
     "competitionEndDate": "2011-11-05"
@@ -5180,10 +7202,16 @@
     "cellName": "Trujillo Open 2011",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic minx pyram",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011ORTE02"
+      {
+        "id": "2011ORTE02",
+        "name": "Ricardo Jose Reaño Ortega"
+      }
     ],
     "competitionDate": "2011-08-27",
     "competitionEndDate": "2011-08-27"
@@ -5201,10 +7229,16 @@
     "cellName": "Arequipa Open 2011",
     "eventSpecs": "222 333 333bf 333oh 444 555 magic",
     "wcaDelegate": [
-      "2011RIGG03"
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "organiser": [
-      "2011TORA01"
+      {
+        "id": "2011TORA01",
+        "name": "Ruben Toranzo"
+      }
     ],
     "competitionDate": "2011-07-17",
     "competitionEndDate": "2011-07-17"
@@ -5222,11 +7256,20 @@
     "cellName": "Peru Open 2011",
     "eventSpecs": "222 333 333bf 333oh 444",
     "wcaDelegate": [
-      "2004MAOT02"
+      {
+        "id": "2004MAOT02",
+        "name": "Tyson Mao (毛台勝)"
+      }
     ],
     "organiser": [
-      "2011REYE02",
-      "2011RIGG03"
+      {
+        "id": "2011REYE02",
+        "name": "Arturo Antonio Flores Reyes"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
     ],
     "competitionDate": "2011-04-30",
     "competitionEndDate": "2011-04-30"

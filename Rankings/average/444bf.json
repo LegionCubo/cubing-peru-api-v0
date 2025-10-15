@@ -20,6 +20,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

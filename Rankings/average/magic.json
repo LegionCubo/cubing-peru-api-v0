@@ -20,6 +20,7 @@
     "competitionName": "Montpellier Open 2011",
     "cityName": "Montpellier",
     "competitionDate": "2011-05-28",
+    "competitionCountryIso": "FR",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Lima Open 2011",
     "cityName": "Lima",
     "competitionDate": "2011-11-05",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
     "competitionDate": "2012-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-07-17",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-07-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "Aniversario Open 2012",
     "cityName": "Arequipa",
     "competitionDate": "2012-06-02",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Chesapeake Science Point Fall 2012",
     "cityName": "Hanover, Maryland",
     "competitionDate": "2012-10-13",
+    "competitionCountryIso": "US",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "Trujillo Open 2011",
     "cityName": "Trujillo",
     "competitionDate": "2011-08-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "Aniversario Eduardo Valdivia 2012",
     "cityName": "Lima",
     "competitionDate": "2012-11-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -227,6 +236,7 @@
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
     "competitionDate": "2012-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

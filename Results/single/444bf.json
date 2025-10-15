@@ -20,6 +20,7 @@
     "competitionName": "CubingUSA Nationals 2017",
     "cityName": "Fort Wayne, Indiana",
     "competitionDate": "2017-07-07",
+    "competitionCountryIso": "US",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "WCA European Championship 2018",
     "cityName": "Madrid",
     "competitionDate": "2018-07-19",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "CubingUSA Nationals 2018",
     "cityName": "Salt Lake City, Utah",
     "competitionDate": "2018-07-27",
+    "competitionCountryIso": "US",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "Campeonato Nacional Perubik 2017",
     "cityName": "Lima",
     "competitionDate": "2017-08-26",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Peru Nationals 2018",
     "cityName": "Lima",
     "competitionDate": "2018-06-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "San Jose Cubing 2018",
     "cityName": "Arequipa",
     "competitionDate": "2018-03-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Asian Championship 2016",
     "cityName": "Beijing",
     "competitionDate": "2016-10-01",
+    "competitionCountryIso": "CN",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "TCG & Friends 2015",
     "cityName": "Lima",
     "competitionDate": "2015-07-11",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "US Nationals 2016",
     "cityName": "Portland, Oregon",
     "competitionDate": "2016-07-29",
+    "competitionCountryIso": "US",
     "gender": "m"
   },
   {
@@ -227,6 +236,7 @@
     "competitionName": "Uchi Montevideo 2016",
     "cityName": "Montevideo",
     "competitionDate": "2016-02-12",
+    "competitionCountryIso": "UY",
     "gender": "m"
   },
   {
@@ -250,6 +260,7 @@
     "competitionName": "GeniusCube 2016",
     "cityName": "Bogotá",
     "competitionDate": "2016-11-05",
+    "competitionCountryIso": "CO",
     "gender": "m"
   },
   {
@@ -273,6 +284,7 @@
     "competitionName": "Crazy Cubes Summer 2017",
     "cityName": "Trujillo",
     "competitionDate": "2017-02-26",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -296,6 +308,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -319,6 +332,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -342,6 +356,7 @@
     "competitionName": "San Jose Cubing 2018",
     "cityName": "Arequipa",
     "competitionDate": "2018-03-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -365,6 +380,7 @@
     "competitionName": "World Rubik's Cube Championship 2015",
     "cityName": "São Paulo, São Paulo",
     "competitionDate": "2015-07-17",
+    "competitionCountryIso": "BR",
     "gender": "m"
   },
   {
@@ -388,6 +404,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -411,6 +428,7 @@
     "competitionName": "Charrua 2015",
     "cityName": "Montevideo",
     "competitionDate": "2015-09-12",
+    "competitionCountryIso": "UY",
     "gender": "m"
   },
   {
@@ -434,6 +452,7 @@
     "competitionName": "INABIF Open 2015",
     "cityName": "Lima",
     "competitionDate": "2015-12-05",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -457,6 +476,7 @@
     "competitionName": "Game Pro Tour 2016",
     "cityName": "Arequipa",
     "competitionDate": "2016-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -480,6 +500,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -503,6 +524,7 @@
     "competitionName": "Univalle Spring 2017",
     "cityName": "Cochabamba",
     "competitionDate": "2017-08-12",
+    "competitionCountryIso": "BO",
     "gender": "m"
   },
   {
@@ -526,6 +548,7 @@
     "competitionName": "TCG Welcome 2016",
     "cityName": "Arequipa",
     "competitionDate": "2016-03-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -549,6 +572,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -572,6 +596,7 @@
     "competitionName": "Bolivia Nationals 2016",
     "cityName": "Cochabamba",
     "competitionDate": "2016-07-01",
+    "competitionCountryIso": "BO",
     "gender": "m"
   },
   {
@@ -595,6 +620,7 @@
     "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
     "competitionDate": "2022-11-26",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -618,6 +644,7 @@
     "competitionName": "Game Pro Tour 2016",
     "cityName": "Arequipa",
     "competitionDate": "2016-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -641,6 +668,7 @@
     "competitionName": "Torneo Nacional Colombia 2016",
     "cityName": "Chía, Cundinamarca",
     "competitionDate": "2016-05-07",
+    "competitionCountryIso": "CO",
     "gender": "m"
   },
   {
@@ -664,6 +692,7 @@
     "competitionName": "Tecsup Speedcubing Open 2015",
     "cityName": "Arequipa",
     "competitionDate": "2015-11-28",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -687,6 +716,7 @@
     "competitionName": "TCG Welcome 2016",
     "cityName": "Arequipa",
     "competitionDate": "2016-03-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -710,6 +740,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -733,6 +764,7 @@
     "competitionName": "WCA South American Championship 2018",
     "cityName": "Poá, São Paulo",
     "competitionDate": "2018-12-15",
+    "competitionCountryIso": "BR",
     "gender": "m"
   },
   {
@@ -756,6 +788,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -779,6 +812,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -802,6 +836,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -825,6 +860,7 @@
     "competitionName": "Mariano Melgar 2014",
     "cityName": "Arequipa",
     "competitionDate": "2014-07-12",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -848,6 +884,7 @@
     "competitionName": "Rubikeros Open 2016",
     "cityName": "Santa Cruz",
     "competitionDate": "2016-01-29",
+    "competitionCountryIso": "BO",
     "gender": "m"
   },
   {
@@ -871,6 +908,7 @@
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
     "competitionDate": "2024-10-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -894,6 +932,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -917,6 +956,7 @@
     "competitionName": "Real Plaza 2016",
     "cityName": "Arequipa",
     "competitionDate": "2016-11-26",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -940,6 +980,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -963,6 +1004,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -986,6 +1028,7 @@
     "competitionName": "Campeonato UNI-Rubik 2014",
     "cityName": "Lima",
     "competitionDate": "2014-06-20",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1009,6 +1052,7 @@
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
     "competitionDate": "2019-08-16",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1032,6 +1076,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1055,6 +1100,7 @@
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
     "competitionDate": "2019-08-16",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1078,6 +1124,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1101,6 +1148,7 @@
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
     "competitionDate": "2024-10-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1124,6 +1172,7 @@
     "competitionName": "TahimiKubing in MultiLupa 2024",
     "cityName": "Muntinlupa City",
     "competitionDate": "2024-03-31",
+    "competitionCountryIso": "PH",
     "gender": "m"
   },
   {
@@ -1147,6 +1196,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1170,6 +1220,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1193,6 +1244,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1216,6 +1268,7 @@
     "competitionName": "Hunter Open 2015",
     "cityName": "Arequipa",
     "competitionDate": "2015-06-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1239,6 +1292,7 @@
     "competitionName": "Real Geekcuber Pucallpa 2023",
     "cityName": "Pucallpa",
     "competitionDate": "2023-11-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1262,6 +1316,7 @@
     "competitionName": "San Jose Cubing 2018",
     "cityName": "Arequipa",
     "competitionDate": "2018-03-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1285,6 +1340,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1308,6 +1364,7 @@
     "competitionName": "World Rubik's Cube Championship 2015",
     "cityName": "São Paulo, São Paulo",
     "competitionDate": "2015-07-17",
+    "competitionCountryIso": "BR",
     "gender": "m"
   },
   {
@@ -1331,6 +1388,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1354,6 +1412,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1377,6 +1436,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1400,6 +1460,7 @@
     "competitionName": "Taiwan Championship 2016",
     "cityName": "Taipei",
     "competitionDate": "2016-10-29",
+    "competitionCountryIso": "TW",
     "gender": "m"
   }
 ]

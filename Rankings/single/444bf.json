@@ -20,6 +20,7 @@
     "competitionName": "CubingUSA Nationals 2017",
     "cityName": "Fort Wayne, Indiana",
     "competitionDate": "2017-07-07",
+    "competitionCountryIso": "US",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "San Jose Cubing 2018",
     "cityName": "Arequipa",
     "competitionDate": "2018-03-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Peru Nationals 2019",
     "cityName": "Lima",
     "competitionDate": "2019-08-16",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "TahimiKubing in MultiLupa 2024",
     "cityName": "Muntinlupa City",
     "competitionDate": "2024-03-31",
+    "competitionCountryIso": "PH",
     "gender": "m"
   },
   {
@@ -227,6 +236,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -250,6 +260,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -273,6 +284,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

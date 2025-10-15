@@ -20,6 +20,7 @@
     "competitionName": "Ningbo Footsteps 2019",
     "cityName": "Ningbo, Zhejiang",
     "competitionDate": "2019-12-15",
+    "competitionCountryIso": "CN",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Ningbo Footsteps 2019",
     "cityName": "Ningbo, Zhejiang",
     "competitionDate": "2019-12-15",
+    "competitionCountryIso": "CN",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "Ningbo Footsteps 2019",
     "cityName": "Ningbo, Zhejiang",
     "competitionDate": "2019-12-15",
+    "competitionCountryIso": "CN",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "Juan Manuel Zafra Open 2019",
     "cityName": "Barcelona",
     "competitionDate": "2019-06-29",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Taiwan Championship 2016",
     "cityName": "Taipei",
     "competitionDate": "2016-10-29",
+    "competitionCountryIso": "TW",
     "gender": "m"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "Maru Cube Day 2017",
     "cityName": "Tainan",
     "competitionDate": "2017-07-15",
+    "competitionCountryIso": "TW",
     "gender": "m"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Bolivia Nationals 2016",
     "cityName": "Cochabamba",
     "competitionDate": "2016-07-01",
+    "competitionCountryIso": "BO",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "Iruña Open 2018",
     "cityName": "Pamplona, Navarra",
     "competitionDate": "2018-02-03",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "Gernika Open 2013",
     "cityName": "Gernika",
     "competitionDate": "2013-07-20",
+    "competitionCountryIso": "ES",
     "gender": "m"
   }
 ]

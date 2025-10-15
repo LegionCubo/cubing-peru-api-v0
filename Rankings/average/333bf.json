@@ -20,6 +20,7 @@
     "competitionName": "Speedsolving Geekcuber 2023",
     "cityName": "Pucallpa",
     "competitionDate": "2023-04-02",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Torneo de Speedcubers 2016",
     "cityName": "Lima",
     "competitionDate": "2016-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "TCG Fall 2019",
     "cityName": "Arequipa",
     "competitionDate": "2019-06-01",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "PUCP Cubing Festival IV 2025",
     "cityName": "Lima",
     "competitionDate": "2025-02-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Latin America Cubing Tour - Lima 2017",
     "cityName": "Lima",
     "competitionDate": "2017-06-24",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "TCG Space lV Santa Anita 2025",
     "cityName": "Lima",
     "competitionDate": "2025-01-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Game Pro Tour 2016",
     "cityName": "Arequipa",
     "competitionDate": "2016-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "Plaza Center Cube Lima IV 2024",
     "cityName": "Lima",
     "competitionDate": "2024-03-02",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "Aventura Cúbica V 2018",
     "cityName": "Lima",
     "competitionDate": "2018-01-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -227,6 +236,7 @@
     "competitionName": "Cultural Open 2014",
     "cityName": "Arequipa",
     "competitionDate": "2014-02-07",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -250,6 +260,7 @@
     "competitionName": "UNSA Speedcubing Verano 2024",
     "cityName": "Arequipa",
     "competitionDate": "2024-02-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -273,6 +284,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -296,6 +308,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -319,6 +332,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -342,6 +356,7 @@
     "competitionName": "Crazy Cubes Spring 2017",
     "cityName": "Trujillo",
     "competitionDate": "2017-09-24",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -365,6 +380,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -388,6 +404,7 @@
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
     "competitionDate": "2016-07-16",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -411,6 +428,7 @@
     "competitionName": "Cusco Speedcubing II 2019",
     "cityName": "Cusco",
     "competitionDate": "2019-06-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -434,6 +452,7 @@
     "competitionName": "200 Perú 2024",
     "cityName": "Arequipa",
     "competitionDate": "2024-07-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -457,6 +476,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -480,6 +500,7 @@
     "competitionName": "Lima Cuberano 2020",
     "cityName": "Lima",
     "competitionDate": "2020-01-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -503,6 +524,7 @@
     "competitionName": "Speedsolving Junín 2018",
     "cityName": "Huancayo",
     "competitionDate": "2018-08-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -526,6 +548,7 @@
     "competitionName": "Torneo Aventura Cubica 2016",
     "cityName": "Lima",
     "competitionDate": "2016-01-23",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -549,6 +572,7 @@
     "competitionName": "Aventura Cúbica VI 2018",
     "cityName": "Lima",
     "competitionDate": "2018-10-20",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -572,6 +596,7 @@
     "competitionName": "TCG Spring Open 2015",
     "cityName": "Lima",
     "competitionDate": "2015-10-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -595,6 +620,7 @@
     "competitionName": "Lima Rubik 2016",
     "cityName": "Lima",
     "competitionDate": "2016-08-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -618,6 +644,7 @@
     "competitionName": "Lima Summer 2023",
     "cityName": "Lima",
     "competitionDate": "2023-02-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -641,6 +668,7 @@
     "competitionName": "TCG Fall 2019",
     "cityName": "Arequipa",
     "competitionDate": "2019-06-01",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -664,6 +692,7 @@
     "competitionName": "Los Reyes del Cubo Chiclayo 2024",
     "cityName": "Chiclayo",
     "competitionDate": "2024-04-28",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -687,6 +716,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -710,6 +740,7 @@
     "competitionName": "San Marcos Open 2023",
     "cityName": "Lima",
     "competitionDate": "2023-08-12",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -733,6 +764,7 @@
     "competitionName": "Open Christmas Cube Huancayo 2024",
     "cityName": "Huancayo",
     "competitionDate": "2024-12-14",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -756,6 +788,7 @@
     "competitionName": "Lima Rubik 2016",
     "cityName": "Lima",
     "competitionDate": "2016-08-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -779,6 +812,7 @@
     "competitionName": "Lima Rubik 2016",
     "cityName": "Lima",
     "competitionDate": "2016-08-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -802,6 +836,7 @@
     "competitionName": "Crazy Cubes Spring 2017",
     "cityName": "Trujillo",
     "competitionDate": "2017-09-24",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -825,6 +860,7 @@
     "competitionName": "Cusco Speedcubing II 2019",
     "cityName": "Cusco",
     "competitionDate": "2019-06-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -848,6 +884,7 @@
     "competitionName": "TCG Deluxe 2019",
     "cityName": "Arequipa",
     "competitionDate": "2019-01-12",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -871,6 +908,7 @@
     "competitionName": "UNSA Speedcubing Otoño 2024",
     "cityName": "Arequipa",
     "competitionDate": "2024-04-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -894,6 +932,7 @@
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
     "competitionDate": "2016-07-16",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -917,6 +956,7 @@
     "competitionName": "Real Cube II Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-11-11",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -940,6 +980,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -963,6 +1004,7 @@
     "competitionName": "Campeonato Rubik Arguedas 2013",
     "cityName": "Lima",
     "competitionDate": "2013-11-09",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

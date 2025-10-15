@@ -20,6 +20,7 @@
     "competitionName": "Campeonato Nacional Perubik 2016",
     "cityName": "Lima",
     "competitionDate": "2016-07-16",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Univalle Spring 2017",
     "cityName": "Cochabamba",
     "competitionDate": "2017-08-12",
+    "competitionCountryIso": "BO",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
     "competitionDate": "2022-11-26",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

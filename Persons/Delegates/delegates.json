@@ -4,18 +4,20 @@
     "gender": "m",
     "id": "2011RIGG03",
     "countryId": "Peru",
-    "competitions": 128,
+    "competitions": 129,
     "lastCompetition": {
-      "competitionId": "PaseoCentralWinter2025",
-      "competitionName": "Paseo Central Winter 2025",
-      "competitionDate": "2025-07-05"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
-    "podiums": 126,
+    "podiums": 128,
     "competitionsDelegated": 121,
     "lastDelegatedCompetition": {
       "competitionId": "UNSASpeedcubingPrimavera2025",
       "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27"
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -27,14 +29,16 @@
     "lastCompetition": {
       "competitionId": "TorneodeSpeedcubers2016",
       "competitionName": "Torneo de Speedcubers 2016",
-      "competitionDate": "2016-10-29"
+      "competitionDate": "2016-10-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 14,
     "competitionsDelegated": 10,
     "lastDelegatedCompetition": {
       "competitionId": "TorneodeSpeedcubers2016",
       "competitionName": "Torneo de Speedcubers 2016",
-      "competitionDate": "2016-10-29"
+      "competitionDate": "2016-10-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -46,14 +50,16 @@
     "lastCompetition": {
       "competitionId": "CampeonatoNacionalPerubik2017",
       "competitionName": "Campeonato Nacional Perubik 2017",
-      "competitionDate": "2017-08-26"
+      "competitionDate": "2017-08-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsDelegated": 12,
     "lastDelegatedCompetition": {
       "competitionId": "SpeedsolvingSakura2017",
       "competitionName": "Speedsolving Sakura 2017",
-      "competitionDate": "2017-12-17"
+      "competitionDate": "2017-12-17",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -65,14 +71,16 @@
     "lastCompetition": {
       "competitionId": "ItsClockingTimeLima2024",
       "competitionName": "It's Clocking Time Lima 2024",
-      "competitionDate": "2024-01-28"
+      "competitionDate": "2024-01-28",
+      "competitionCountryIso": "PE"
     },
     "podiums": 45,
     "competitionsDelegated": 44,
     "lastDelegatedCompetition": {
       "competitionId": "ItsClockingTimeLima2024",
       "competitionName": "It's Clocking Time Lima 2024",
-      "competitionDate": "2024-01-28"
+      "competitionDate": "2024-01-28",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -84,14 +92,16 @@
     "lastCompetition": {
       "competitionId": "ChambeaenTuPBLima2025",
       "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03"
+      "competitionDate": "2025-05-03",
+      "competitionCountryIso": "PE"
     },
     "podiums": 28,
     "competitionsDelegated": 49,
     "lastDelegatedCompetition": {
       "competitionId": "ChambeaenTuPBLima2025",
       "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03"
+      "competitionDate": "2025-05-03",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -103,14 +113,16 @@
     "lastCompetition": {
       "competitionId": "CopaBlackHorse2019",
       "competitionName": "Copa Black Horse 2019",
-      "competitionDate": "2019-06-01"
+      "competitionDate": "2019-06-01",
+      "competitionCountryIso": "PE"
     },
     "podiums": 34,
     "competitionsDelegated": 6,
     "lastDelegatedCompetition": {
       "competitionId": "PalaciodelCubo2019",
       "competitionName": "Palacio del Cubo 2019",
-      "competitionDate": "2019-11-16"
+      "competitionDate": "2019-11-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -122,14 +134,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 9,
     "competitionsDelegated": 7,
     "lastDelegatedCompetition": {
       "competitionId": "LimaCuberano2022",
       "competitionName": "Lima Cuberano 2022",
-      "competitionDate": "2022-03-12"
+      "competitionDate": "2022-03-12",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -141,14 +155,16 @@
     "lastCompetition": {
       "competitionId": "SchoolWinterLima2022",
       "competitionName": "School Winter Lima 2022",
-      "competitionDate": "2022-07-02"
+      "competitionDate": "2022-07-02",
+      "competitionCountryIso": "PE"
     },
     "podiums": 73,
     "competitionsDelegated": 3,
     "lastDelegatedCompetition": {
       "competitionId": "RealCube2022",
       "competitionName": "Real Cube 2022",
-      "competitionDate": "2022-08-06"
+      "competitionDate": "2022-08-06",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -160,14 +176,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 105,
     "competitionsDelegated": 58,
     "lastDelegatedCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -179,14 +197,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 38,
     "competitionsDelegated": 22,
     "lastDelegatedCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -198,14 +218,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 63,
     "competitionsDelegated": 57,
     "lastDelegatedCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -217,14 +239,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 64,
     "competitionsDelegated": 15,
     "lastDelegatedCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -232,18 +256,20 @@
     "gender": "m",
     "id": "2015SUCL01",
     "countryId": "Peru",
-    "competitions": 45,
+    "competitions": 46,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
     "podiums": 47,
     "competitionsDelegated": 9,
     "lastDelegatedCompetition": {
       "competitionId": "UNSASpeedcubingPrimavera2025",
       "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27"
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     }
   }
 ]

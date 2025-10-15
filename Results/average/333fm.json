@@ -20,6 +20,7 @@
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
     "competitionDate": "2025-03-23",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-09-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
     "competitionDate": "2025-03-23",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
     "competitionDate": "2025-08-24",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
     "competitionDate": "2024-10-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-09-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -227,6 +236,7 @@
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -250,6 +260,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -273,6 +284,7 @@
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-07-14",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -296,6 +308,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -319,6 +332,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -342,6 +356,7 @@
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-09-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -365,6 +380,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -388,6 +404,7 @@
     "competitionName": "Jaqueca Di Tella 2023",
     "cityName": "Buenos Aires, Buenos Aires",
     "competitionDate": "2023-05-27",
+    "competitionCountryIso": "AR",
     "gender": "m"
   },
   {
@@ -411,6 +428,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -434,6 +452,7 @@
     "competitionName": "Nacionales Argentinas 2023",
     "cityName": "Buenos Aires, Buenos Aires",
     "competitionDate": "2023-09-01",
+    "competitionCountryIso": "AR",
     "gender": "m"
   },
   {
@@ -457,6 +476,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -480,6 +500,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -503,6 +524,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -526,6 +548,7 @@
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-07-14",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -549,6 +572,7 @@
     "competitionName": "Geselliges Gewürfel Göttingen 2025",
     "cityName": "Göttingen",
     "competitionDate": "2025-08-23",
+    "competitionCountryIso": "DE",
     "gender": "m"
   },
   {
@@ -572,6 +596,7 @@
     "competitionName": "PoliMi Op3n 2018",
     "cityName": "Milan",
     "competitionDate": "2018-05-26",
+    "competitionCountryIso": "IT",
     "gender": "m"
   },
   {
@@ -595,6 +620,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -618,6 +644,7 @@
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
     "competitionDate": "2025-03-23",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -641,6 +668,7 @@
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
     "competitionDate": "2022-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -664,6 +692,7 @@
     "competitionName": "Jaqueca Di Tella 2023",
     "cityName": "Buenos Aires, Buenos Aires",
     "competitionDate": "2023-05-27",
+    "competitionCountryIso": "AR",
     "gender": "m"
   },
   {
@@ -687,6 +716,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -710,6 +740,7 @@
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
     "competitionDate": "2025-03-23",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -733,6 +764,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -756,6 +788,7 @@
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
     "competitionDate": "2025-08-24",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -779,6 +812,7 @@
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
     "competitionDate": "2023-03-25",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -802,6 +836,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -825,6 +860,7 @@
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -848,6 +884,7 @@
     "competitionName": "FMC Los Andes 2025",
     "cityName": "Multiple Cities",
     "competitionDate": "2025-06-01",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -871,6 +908,7 @@
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
     "competitionDate": "2025-08-24",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -894,6 +932,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -917,6 +956,7 @@
     "competitionName": "Welcome Spring Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-09-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -940,6 +980,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -963,6 +1004,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -986,6 +1028,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1009,6 +1052,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1032,6 +1076,7 @@
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
     "competitionDate": "2022-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1055,6 +1100,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1078,6 +1124,7 @@
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
     "competitionDate": "2024-10-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1101,6 +1148,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1124,6 +1172,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -1147,6 +1196,7 @@
     "competitionName": "Atipanakuy Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1170,6 +1220,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1193,6 +1244,7 @@
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
     "competitionDate": "2025-08-24",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -1216,6 +1268,7 @@
     "competitionName": "Love Is Blind Lima 2024",
     "cityName": "Lima",
     "competitionDate": "2024-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1239,6 +1292,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -1262,6 +1316,7 @@
     "competitionName": "FMC Latin America 2025",
     "cityName": "Multiple Cities",
     "competitionDate": "2025-08-24",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -1285,6 +1340,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1308,6 +1364,7 @@
     "competitionName": "Sin DNF en el Palacio 2022",
     "cityName": "Lima",
     "competitionDate": "2022-11-26",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1331,6 +1388,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1354,6 +1412,7 @@
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-06-01",
+    "competitionCountryIso": "XW",
     "gender": "m"
   },
   {
@@ -1377,6 +1436,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1400,6 +1460,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1423,6 +1484,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1446,6 +1508,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1469,6 +1532,7 @@
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
     "competitionDate": "2022-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1492,6 +1556,7 @@
     "competitionName": "Ningbo Footsteps 2019",
     "cityName": "Ningbo, Zhejiang",
     "competitionDate": "2019-12-15",
+    "competitionCountryIso": "CN",
     "gender": "m"
   },
   {
@@ -1515,6 +1580,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1538,6 +1604,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -1561,6 +1628,7 @@
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
     "competitionDate": "2022-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1584,6 +1652,7 @@
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-06-01",
+    "competitionCountryIso": "XW",
     "gender": "m"
   },
   {
@@ -1607,6 +1676,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1630,6 +1700,7 @@
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
     "competitionDate": "2024-10-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1653,6 +1724,7 @@
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
     "competitionDate": "2023-03-25",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -1676,6 +1748,7 @@
     "competitionName": "Speedsolving Is Back Huancayo 2022",
     "cityName": "Huancayo",
     "competitionDate": "2022-08-13",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1699,6 +1772,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1722,6 +1796,7 @@
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
     "competitionDate": "2023-03-25",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -1745,6 +1820,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1768,6 +1844,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1791,6 +1868,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1814,6 +1892,7 @@
     "competitionName": "FMC Spanish Championship 2023",
     "cityName": "Multiple cities",
     "competitionDate": "2023-10-14",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -1837,6 +1916,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1860,6 +1940,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1883,6 +1964,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1906,6 +1988,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -1929,6 +2012,7 @@
     "competitionName": "FMC Europe 2017",
     "cityName": "Multiple cities (see website)",
     "competitionDate": "2017-04-01",
+    "competitionCountryIso": "XE",
     "gender": "m"
   },
   {
@@ -1952,6 +2036,7 @@
     "competitionName": "FME Open 2019",
     "cityName": "Barcelona",
     "competitionDate": "2019-12-14",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -1975,6 +2060,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -1998,6 +2084,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2021,6 +2108,7 @@
     "competitionName": "Rubik's WCA South American Championship FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-07-14",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -2044,6 +2132,7 @@
     "competitionName": "Ningbo Footsteps 2019",
     "cityName": "Ningbo, Zhejiang",
     "competitionDate": "2019-12-15",
+    "competitionCountryIso": "CN",
     "gender": "m"
   },
   {
@@ -2067,6 +2156,7 @@
     "competitionName": "PUCP Zomblinders 2024",
     "cityName": "Lima",
     "competitionDate": "2024-10-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2090,6 +2180,7 @@
     "competitionName": "Nhood Xperience Side Events 2023",
     "cityName": "Sant Boi de Llobregat, Barcelona",
     "competitionDate": "2023-11-01",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -2113,6 +2204,7 @@
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
     "competitionDate": "2023-03-25",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -2136,6 +2228,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2159,6 +2252,7 @@
     "competitionName": "FMC Latin America 2023",
     "cityName": "Multiple Cities",
     "competitionDate": "2023-03-25",
+    "competitionCountryIso": "XM",
     "gender": "m"
   },
   {
@@ -2182,6 +2276,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2205,6 +2300,7 @@
     "competitionName": "Zomblinders Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2228,6 +2324,7 @@
     "competitionName": "Peru Nationals 2024",
     "cityName": "Lima",
     "competitionDate": "2024-11-22",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2251,6 +2348,7 @@
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
     "competitionDate": "2025-03-23",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2274,6 +2372,7 @@
     "competitionName": "FMC Spring Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-10-15",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2297,6 +2396,7 @@
     "competitionName": "Jaqueca a Domicilio Lima 2023",
     "cityName": "Lima",
     "competitionDate": "2023-06-25",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2320,6 +2420,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2343,6 +2444,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -2366,6 +2468,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2389,6 +2492,7 @@
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-06-01",
+    "competitionCountryIso": "XW",
     "gender": "m"
   },
   {
@@ -2412,6 +2516,7 @@
     "competitionName": "FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-06-01",
+    "competitionCountryIso": "XW",
     "gender": "m"
   },
   {
@@ -2435,6 +2540,7 @@
     "competitionName": "PoliMi Open 2016",
     "cityName": "Milan",
     "competitionDate": "2016-12-03",
+    "competitionCountryIso": "IT",
     "gender": "m"
   },
   {
@@ -2458,6 +2564,7 @@
     "competitionName": "Altiplanic FMC 2024",
     "cityName": "Multiple Cities",
     "competitionDate": "2024-05-05",
+    "competitionCountryIso": "XS",
     "gender": "m"
   },
   {
@@ -2481,6 +2588,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2504,6 +2612,7 @@
     "competitionName": "Peru Nationals 2022",
     "cityName": "Arequipa",
     "competitionDate": "2022-08-19",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2527,6 +2636,7 @@
     "competitionName": "Peru Nationals 2025",
     "cityName": "Lima",
     "competitionDate": "2025-08-29",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -2550,6 +2660,7 @@
     "competitionName": "PUCP FMC Attempt 1 - 2025",
     "cityName": "Lima",
     "competitionDate": "2025-03-23",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -2573,6 +2684,7 @@
     "competitionName": "Peru Nationals 2023",
     "cityName": "Arequipa",
     "competitionDate": "2023-08-04",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

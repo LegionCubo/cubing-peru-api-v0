@@ -20,6 +20,7 @@
     "competitionName": "Aniversario Eduardo Valdivia 2012",
     "cityName": "Lima",
     "competitionDate": "2012-11-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -43,6 +44,7 @@
     "competitionName": "Lima Open 2011",
     "cityName": "Lima",
     "competitionDate": "2011-11-05",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -66,6 +68,7 @@
     "competitionName": "Montpellier Open 2011",
     "cityName": "Montpellier",
     "competitionDate": "2011-05-28",
+    "competitionCountryIso": "FR",
     "gender": "m"
   },
   {
@@ -89,6 +92,7 @@
     "competitionName": "Castellon Open 2011",
     "cityName": "Castellón de la Plana",
     "competitionDate": "2011-04-30",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -112,6 +116,7 @@
     "competitionName": "Barcelona Rubik's Summer Open 2011",
     "cityName": "Sant Cugat (Barcelona)",
     "competitionDate": "2011-07-29",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -135,6 +140,7 @@
     "competitionName": "Basauri Open 2011",
     "cityName": "Basauri (Bilbao)",
     "competitionDate": "2011-09-17",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -158,6 +164,7 @@
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
     "competitionDate": "2012-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -181,6 +188,7 @@
     "competitionName": "Montpellier Open 2011",
     "cityName": "Montpellier",
     "competitionDate": "2011-05-28",
+    "competitionCountryIso": "FR",
     "gender": "m"
   },
   {
@@ -204,6 +212,7 @@
     "competitionName": "Spanish Championship 2011",
     "cityName": "Valencia",
     "competitionDate": "2011-12-16",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -227,6 +236,7 @@
     "competitionName": "Basauri Open 2012",
     "cityName": "Basauri (Bilbao)",
     "competitionDate": "2012-09-22",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -250,6 +260,7 @@
     "competitionName": "Castellon Open 2011",
     "cityName": "Castellón de la Plana",
     "competitionDate": "2011-04-30",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -273,6 +284,7 @@
     "competitionName": "Barcelona Rubik's Summer Open 2010",
     "cityName": "Sant Cugat (Barcelona)",
     "competitionDate": "2010-07-09",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -296,6 +308,7 @@
     "competitionName": "Madrid Open Rubik 2010",
     "cityName": "Madrid",
     "competitionDate": "2010-10-30",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -319,6 +332,7 @@
     "competitionName": "Aniversario Open 2012",
     "cityName": "Arequipa",
     "competitionDate": "2012-06-02",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -342,6 +356,7 @@
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-07-17",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -365,6 +380,7 @@
     "competitionName": "II Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-12-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -388,6 +404,7 @@
     "competitionName": "II Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-12-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -411,6 +428,7 @@
     "competitionName": "Barcelona Winter Open 2012",
     "cityName": "Barcelona",
     "competitionDate": "2012-01-26",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -434,6 +452,7 @@
     "competitionName": "Aniversario Eduardo Valdivia 2012",
     "cityName": "Lima",
     "competitionDate": "2012-11-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -457,6 +476,7 @@
     "competitionName": "Trujillo Open 2011",
     "cityName": "Trujillo",
     "competitionDate": "2011-08-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -480,6 +500,7 @@
     "competitionName": "AQP Summer 2012",
     "cityName": "Arequipa",
     "competitionDate": "2012-03-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -503,6 +524,7 @@
     "competitionName": "Aniversario Open 2012",
     "cityName": "Arequipa",
     "competitionDate": "2012-06-02",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -526,6 +548,7 @@
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-07-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -549,6 +572,7 @@
     "competitionName": "AQP Summer 2012",
     "cityName": "Arequipa",
     "competitionDate": "2012-03-10",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -572,6 +596,7 @@
     "competitionName": "II Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-12-18",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -595,6 +620,7 @@
     "competitionName": "Lima Open 2011",
     "cityName": "Lima",
     "competitionDate": "2011-11-05",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -618,6 +644,7 @@
     "competitionName": "Chesapeake Science Point Fall 2012",
     "cityName": "Hanover, Maryland",
     "competitionDate": "2012-10-13",
+    "competitionCountryIso": "US",
     "gender": "m"
   },
   {
@@ -641,6 +668,7 @@
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-07-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -664,6 +692,7 @@
     "competitionName": "Trujillo Open 2011",
     "cityName": "Trujillo",
     "competitionDate": "2011-08-27",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -687,6 +716,7 @@
     "competitionName": "Arequipa Open 2011",
     "cityName": "Arequipa",
     "competitionDate": "2011-07-17",
+    "competitionCountryIso": "PE",
     "gender": "m"
   },
   {
@@ -710,6 +740,7 @@
     "competitionName": "Aniversario Eduardo Valdivia 2012",
     "cityName": "Lima",
     "competitionDate": "2012-11-18",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -733,6 +764,7 @@
     "competitionName": "Basauri Open 2010",
     "cityName": "Basauri (Bilbao)",
     "competitionDate": "2010-11-27",
+    "competitionCountryIso": "ES",
     "gender": "m"
   },
   {
@@ -756,6 +788,7 @@
     "competitionName": "AQP Summer 2012",
     "cityName": "Arequipa",
     "competitionDate": "2012-03-10",
+    "competitionCountryIso": "PE",
     "gender": "f"
   },
   {
@@ -779,6 +812,7 @@
     "competitionName": "Trujillo Open 2012",
     "cityName": "Trujillo",
     "competitionDate": "2012-02-18",
+    "competitionCountryIso": "PE",
     "gender": "m"
   }
 ]

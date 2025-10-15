@@ -8,14 +8,16 @@
     "lastCompetition": {
       "competitionId": "SpeedcubersEliteLima2021",
       "competitionName": "Speedcubers Elite Lima 2021",
-      "competitionDate": "2021-10-30"
+      "competitionDate": "2021-10-30",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "LimaOpen2011",
       "competitionName": "Lima Open 2011",
-      "competitionDate": "2011-11-05"
+      "competitionDate": "2011-11-05",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -23,18 +25,20 @@
     "gender": "m",
     "id": "2011RIGG03",
     "countryId": "Peru",
-    "competitions": 128,
+    "competitions": 129,
     "lastCompetition": {
-      "competitionId": "PaseoCentralWinter2025",
-      "competitionName": "Paseo Central Winter 2025",
-      "competitionDate": "2025-07-05"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
-    "podiums": 126,
+    "podiums": 128,
     "competitionsOrganised": 54,
     "lastOrganiserCompetition": {
       "competitionId": "UNSASpeedcubingPrimavera2025",
       "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27"
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -46,14 +50,16 @@
     "lastCompetition": {
       "competitionId": "IIArequipaOpen2011",
       "competitionName": "II Arequipa Open 2011",
-      "competitionDate": "2011-12-18"
+      "competitionDate": "2011-12-18",
+      "competitionCountryIso": "PE"
     },
     "podiums": 2,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "IIArequipaOpen2011",
       "competitionName": "II Arequipa Open 2011",
-      "competitionDate": "2011-12-18"
+      "competitionDate": "2011-12-18",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -65,14 +71,16 @@
     "lastCompetition": {
       "competitionId": "CrazyCubesOpen2015",
       "competitionName": "Crazy Cubes Open 2015",
-      "competitionDate": "2015-12-20"
+      "competitionDate": "2015-12-20",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloOpen2011",
       "competitionName": "Trujillo Open 2011",
-      "competitionDate": "2011-08-27"
+      "competitionDate": "2011-08-27",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -84,14 +92,16 @@
     "lastCompetition": {
       "competitionId": "CrazyCubesOpen2015",
       "competitionName": "Crazy Cubes Open 2015",
-      "competitionDate": "2015-12-20"
+      "competitionDate": "2015-12-20",
+      "competitionCountryIso": "PE"
     },
     "podiums": 14,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloOpen2013",
       "competitionName": "Trujillo Open 2013",
-      "competitionDate": "2013-07-20"
+      "competitionDate": "2013-07-20",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -103,14 +113,16 @@
     "lastCompetition": {
       "competitionId": "SanJoseCubing2018",
       "competitionName": "San Jose Cubing 2018",
-      "competitionDate": "2018-03-10"
+      "competitionDate": "2018-03-10",
+      "competitionCountryIso": "PE"
     },
     "podiums": 7,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "ChiclayoOpen2012",
       "competitionName": "Chiclayo Open 2012",
-      "competitionDate": "2012-08-11"
+      "competitionDate": "2012-08-11",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -122,14 +134,16 @@
     "lastCompetition": {
       "competitionId": "PalacioDelCubo2013",
       "competitionName": "Palacio del Cubo 2013",
-      "competitionDate": "2013-10-26"
+      "competitionDate": "2013-10-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 1,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "AniversarioEduardoValdivia2012",
       "competitionName": "Aniversario Eduardo Valdivia 2012",
-      "competitionDate": "2012-11-18"
+      "competitionDate": "2012-11-18",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -141,14 +155,16 @@
     "lastCompetition": {
       "competitionId": "HunterOpen2015",
       "competitionName": "Hunter Open 2015",
-      "competitionDate": "2015-06-13"
+      "competitionDate": "2015-06-13",
+      "competitionCountryIso": "PE"
     },
     "podiums": 6,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "ArequipaSummer2013",
       "competitionName": "Arequipa Summer 2013",
-      "competitionDate": "2013-03-16"
+      "competitionDate": "2013-03-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -160,14 +176,16 @@
     "lastCompetition": {
       "competitionId": "LaTiendaCuberaFest2023",
       "competitionName": "La Tienda Cubera Fest 2023",
-      "competitionDate": "2023-08-19"
+      "competitionDate": "2023-08-19",
+      "competitionCountryIso": "PE"
     },
     "podiums": 299,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "ArequipaSummer2013",
       "competitionName": "Arequipa Summer 2013",
-      "competitionDate": "2013-03-16"
+      "competitionDate": "2013-03-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -179,14 +197,16 @@
     "lastCompetition": {
       "competitionId": "UniRubik2014",
       "competitionName": "Campeonato UNI-Rubik 2014",
-      "competitionDate": "2014-06-20"
+      "competitionDate": "2014-06-20",
+      "competitionCountryIso": "PE"
     },
     "podiums": 1,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "NacionalPerubik2013",
       "competitionName": "Campeonato Nacional Perubik 2013",
-      "competitionDate": "2013-04-05"
+      "competitionDate": "2013-04-05",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -198,14 +218,16 @@
     "lastCompetition": {
       "competitionId": "CampeonatoSudamericano2013",
       "competitionName": "Campeonato Sudamericano 2013",
-      "competitionDate": "2013-01-05"
+      "competitionDate": "2013-01-05",
+      "competitionCountryIso": "PE"
     },
     "podiums": 1,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "NacionalPerubik2013",
       "competitionName": "Campeonato Nacional Perubik 2013",
-      "competitionDate": "2013-04-05"
+      "competitionDate": "2013-04-05",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -217,14 +239,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2023",
       "competitionName": "Peru Nationals 2023",
-      "competitionDate": "2023-08-04"
+      "competitionDate": "2023-08-04",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 32,
     "lastOrganiserCompetition": {
       "competitionId": "PlazaCenterCubeLimaVI2025",
       "competitionName": "Plaza Center Cube Lima VI 2025",
-      "competitionDate": "2025-04-05"
+      "competitionDate": "2025-04-05",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -236,14 +260,16 @@
     "lastCompetition": {
       "competitionId": "IIOpenArguedas2014",
       "competitionName": "II Open Arguedas 2014",
-      "competitionDate": "2014-10-24"
+      "competitionDate": "2014-10-24",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "BackToThePalace2014",
       "competitionName": "Back to the Palace 2014",
-      "competitionDate": "2014-03-08"
+      "competitionDate": "2014-03-08",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -255,14 +281,16 @@
     "lastCompetition": {
       "competitionId": "ItsClockingTimeLima2024",
       "competitionName": "It's Clocking Time Lima 2024",
-      "competitionDate": "2024-01-28"
+      "competitionDate": "2024-01-28",
+      "competitionCountryIso": "PE"
     },
     "podiums": 45,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2019",
       "competitionName": "Peru Nationals 2019",
-      "competitionDate": "2019-08-16"
+      "competitionDate": "2019-08-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -274,14 +302,16 @@
     "lastCompetition": {
       "competitionId": "FirstCubingUNIDA2023",
       "competitionName": "First Cubing UNIDA 2023",
-      "competitionDate": "2023-03-04"
+      "competitionDate": "2023-03-04",
+      "competitionCountryIso": "PY"
     },
     "podiums": 9,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "UniRubik2014",
       "competitionName": "Campeonato UNI-Rubik 2014",
-      "competitionDate": "2014-06-20"
+      "competitionDate": "2014-06-20",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -293,14 +323,16 @@
     "lastCompetition": {
       "competitionId": "ValldeNuria2025",
       "competitionName": "Vall de Núria 2025",
-      "competitionDate": "2025-05-03"
+      "competitionDate": "2025-05-03",
+      "competitionCountryIso": "ES"
     },
     "podiums": 87,
     "competitionsOrganised": 4,
     "lastOrganiserCompetition": {
       "competitionId": "LaMassana2021",
       "competitionName": "La Massana 2021",
-      "competitionDate": "2021-10-30"
+      "competitionDate": "2021-10-30",
+      "competitionCountryIso": "AD"
     }
   },
   {
@@ -312,14 +344,16 @@
     "lastCompetition": {
       "competitionId": "PalacioDelCubo2013",
       "competitionName": "Palacio del Cubo 2013",
-      "competitionDate": "2013-10-26"
+      "competitionDate": "2013-10-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "CientificoOpen2015",
       "competitionName": "Cientifico Open 2015",
-      "competitionDate": "2015-11-08"
+      "competitionDate": "2015-11-08",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -331,14 +365,16 @@
     "lastCompetition": {
       "competitionId": "TCGWelcome2016",
       "competitionName": "TCG Welcome 2016",
-      "competitionDate": "2016-03-19"
+      "competitionDate": "2016-03-19",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "SanMartinOpen2015",
       "competitionName": "San Martin Open 2015",
-      "competitionDate": "2015-10-10"
+      "competitionDate": "2015-10-10",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -350,14 +386,16 @@
     "lastCompetition": {
       "competitionId": "CrazyCubesSpring2017",
       "competitionName": "Crazy Cubes Spring 2017",
-      "competitionDate": "2017-09-24"
+      "competitionDate": "2017-09-24",
+      "competitionCountryIso": "PE"
     },
     "podiums": 50,
     "competitionsOrganised": 8,
     "lastOrganiserCompetition": {
       "competitionId": "ActivaClubLima2020",
       "competitionName": "Activa Club Lima 2020",
-      "competitionDate": "2020-04-04"
+      "competitionDate": "2020-04-04",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -369,14 +407,16 @@
     "lastCompetition": {
       "competitionId": "TrujilloOpen2018",
       "competitionName": "Trujillo Open 2018",
-      "competitionDate": "2018-10-20"
+      "competitionDate": "2018-10-20",
+      "competitionCountryIso": "PE"
     },
     "podiums": 5,
     "competitionsOrganised": 12,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloOpen2025",
       "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20"
+      "competitionDate": "2025-07-20",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -388,14 +428,16 @@
     "lastCompetition": {
       "competitionId": "ChambeaenTuPBLima2025",
       "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03"
+      "competitionDate": "2025-05-03",
+      "competitionCountryIso": "PE"
     },
     "podiums": 28,
     "competitionsOrganised": 4,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2022",
       "competitionName": "Peru Nationals 2022",
-      "competitionDate": "2022-08-19"
+      "competitionDate": "2022-08-19",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -407,14 +449,16 @@
     "lastCompetition": {
       "competitionId": "BacktoCubingArequipa2021",
       "competitionName": "Back To Cubing Arequipa 2021",
-      "competitionDate": "2021-12-11"
+      "competitionDate": "2021-12-11",
+      "competitionCountryIso": "PE"
     },
     "podiums": 35,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "UCSMSuperateOpen2016",
       "competitionName": "UCSM Supérate Open 2016",
-      "competitionDate": "2016-06-11"
+      "competitionDate": "2016-06-11",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -426,14 +470,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 78,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "SanJoseCubing2018",
       "competitionName": "San Jose Cubing 2018",
-      "competitionDate": "2018-03-10"
+      "competitionDate": "2018-03-10",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -445,14 +491,16 @@
     "lastCompetition": {
       "competitionId": "PlazaCenterCubeLimaV2025",
       "competitionName": "Plaza Center Cube Lima V 2025",
-      "competitionDate": "2025-03-29"
+      "competitionDate": "2025-03-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 22,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "NacionalPerubik2016",
       "competitionName": "Campeonato Nacional Perubik 2016",
-      "competitionDate": "2016-07-16"
+      "competitionDate": "2016-07-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -464,14 +512,16 @@
     "lastCompetition": {
       "competitionId": "TorneodeSpeedcubers2016",
       "competitionName": "Torneo de Speedcubers 2016",
-      "competitionDate": "2016-10-29"
+      "competitionDate": "2016-10-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 14,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "NacionalPerubik2016",
       "competitionName": "Campeonato Nacional Perubik 2016",
-      "competitionDate": "2016-07-16"
+      "competitionDate": "2016-07-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -483,14 +533,16 @@
     "lastCompetition": {
       "competitionId": "BackToCubingIquitos2025",
       "competitionName": "Back To Cubing Iquitos 2025",
-      "competitionDate": "2025-04-13"
+      "competitionDate": "2025-04-13",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 3,
     "lastOrganiserCompetition": {
       "competitionId": "IquitosCuber2019",
       "competitionName": "Iquitos Cuber 2019",
-      "competitionDate": "2019-12-21"
+      "competitionDate": "2019-12-21",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -502,14 +554,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 64,
     "competitionsOrganised": 19,
     "lastOrganiserCompetition": {
       "competitionId": "LAPRECubingPucallpa2025",
       "competitionName": "LA PRE Cubing Pucallpa 2025",
-      "competitionDate": "2025-08-16"
+      "competitionDate": "2025-08-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -521,14 +575,16 @@
     "lastCompetition": {
       "competitionId": "CubingVic2025",
       "competitionName": "CubingVic 2025",
-      "competitionDate": "2025-05-24"
+      "competitionDate": "2025-05-24",
+      "competitionCountryIso": "ES"
     },
     "podiums": 0,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "GuatemalaNationals2017",
       "competitionName": "Guatemala Nationals 2017",
-      "competitionDate": "2017-03-25"
+      "competitionDate": "2017-03-25",
+      "competitionCountryIso": "GT"
     }
   },
   {
@@ -540,14 +596,16 @@
     "lastCompetition": {
       "competitionId": "UNSASpeedcubing2016",
       "competitionName": "UNSA Speedcubing 2016",
-      "competitionDate": "2016-10-29"
+      "competitionDate": "2016-10-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 3,
     "lastOrganiserCompetition": {
       "competitionId": "NewtonSpeedcubing2019",
       "competitionName": "Newton Speedcubing 2019",
-      "competitionDate": "2019-02-24"
+      "competitionDate": "2019-02-24",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -559,14 +617,16 @@
     "lastCompetition": {
       "competitionId": "CubiarTravel2017",
       "competitionName": "Cubiar Travel 2017",
-      "competitionDate": "2017-04-08"
+      "competitionDate": "2017-04-08",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "CubiarTravel2017",
       "competitionName": "Cubiar Travel 2017",
-      "competitionDate": "2017-04-08"
+      "competitionDate": "2017-04-08",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -578,14 +638,16 @@
     "lastCompetition": {
       "competitionId": "UtahPfAIV2025",
       "competitionName": "Utah Puzzling for Awareness IV 2025",
-      "competitionDate": "2025-04-05"
+      "competitionDate": "2025-04-05",
+      "competitionCountryIso": "US"
     },
     "podiums": 14,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "RubikPro2017",
       "competitionName": "Rubik Pro 2017",
-      "competitionDate": "2017-05-21"
+      "competitionDate": "2017-05-21",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -597,14 +659,16 @@
     "lastCompetition": {
       "competitionId": "InMemoriamJoseNoles2025",
       "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09"
+      "competitionDate": "2025-08-09",
+      "competitionCountryIso": "PE"
     },
     "podiums": 5,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "SpeedcubingIlo2018",
       "competitionName": "Speedcubing Ilo 2018",
-      "competitionDate": "2018-06-09"
+      "competitionDate": "2018-06-09",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -616,14 +680,16 @@
     "lastCompetition": {
       "competitionId": "ElNorteCubeaPeru2019",
       "competitionName": "El Norte Cubea Perú 2019",
-      "competitionDate": "2019-11-09"
+      "competitionDate": "2019-11-09",
+      "competitionCountryIso": "PE"
     },
     "podiums": 1,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "ChimboteRubik2017",
       "competitionName": "ChimboteRubik 2017",
-      "competitionDate": "2017-08-19"
+      "competitionDate": "2017-08-19",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -635,14 +701,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 63,
     "competitionsOrganised": 17,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -654,14 +722,16 @@
     "lastCompetition": {
       "competitionId": "SpeedsolvingHuancayo2019",
       "competitionName": "Speedsolving Huancayo 2019",
-      "competitionDate": "2019-03-24"
+      "competitionDate": "2019-03-24",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "SpeedsolvingSakura2017",
       "competitionName": "Speedsolving Sakura 2017",
-      "competitionDate": "2017-12-17"
+      "competitionDate": "2017-12-17",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -673,14 +743,16 @@
     "lastCompetition": {
       "competitionId": "SpeedsolvingJunin2018",
       "competitionName": "Speedsolving Junín 2018",
-      "competitionDate": "2018-08-18"
+      "competitionDate": "2018-08-18",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "SpeedsolvingSakura2017",
       "competitionName": "Speedsolving Sakura 2017",
-      "competitionDate": "2017-12-17"
+      "competitionDate": "2017-12-17",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -692,14 +764,16 @@
     "lastCompetition": {
       "competitionId": "BackToCubingIquitos2025",
       "competitionName": "Back To Cubing Iquitos 2025",
-      "competitionDate": "2025-04-13"
+      "competitionDate": "2025-04-13",
+      "competitionCountryIso": "PE"
     },
     "podiums": 7,
     "competitionsOrganised": 3,
     "lastOrganiserCompetition": {
       "competitionId": "BackToCubingIquitos2025",
       "competitionName": "Back To Cubing Iquitos 2025",
-      "competitionDate": "2025-04-13"
+      "competitionDate": "2025-04-13",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -711,14 +785,16 @@
     "lastCompetition": {
       "competitionId": "GloriosoSanCarlos2020",
       "competitionName": "Glorioso San Carlos 2020",
-      "competitionDate": "2020-02-15"
+      "competitionDate": "2020-02-15",
+      "competitionCountryIso": "PE"
     },
     "podiums": 1,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "GloriosoSanCarlos2018",
       "competitionName": "Glorioso San Carlos 2018",
-      "competitionDate": "2018-05-05"
+      "competitionDate": "2018-05-05",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -726,18 +802,20 @@
     "gender": "m",
     "id": "2017CUTI01",
     "countryId": "Peru",
-    "competitions": 19,
+    "competitions": 20,
     "lastCompetition": {
-      "competitionId": "200Peru2024",
-      "competitionName": "200 Perú 2024",
-      "competitionDate": "2024-07-13"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
-    "podiums": 14,
+    "podiums": 15,
     "competitionsOrganised": 3,
     "lastOrganiserCompetition": {
       "competitionId": "GloriosoSanCarlos2020",
       "competitionName": "Glorioso San Carlos 2020",
-      "competitionDate": "2020-02-15"
+      "competitionDate": "2020-02-15",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -745,18 +823,20 @@
     "gender": "m",
     "id": "2015SUCL01",
     "countryId": "Peru",
-    "competitions": 45,
+    "competitions": 46,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
     "podiums": 47,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "PreNacionalesArequipa2019",
       "competitionName": "Pre-Nacionales Arequipa 2019",
-      "competitionDate": "2019-08-10"
+      "competitionDate": "2019-08-10",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -768,14 +848,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2022",
       "competitionName": "Peru Nationals 2022",
-      "competitionDate": "2022-08-19"
+      "competitionDate": "2022-08-19",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "SalesianosOpen2018",
       "competitionName": "Salesianos Open 2018",
-      "competitionDate": "2018-09-29"
+      "competitionDate": "2018-09-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -787,14 +869,16 @@
     "lastCompetition": {
       "competitionId": "CubelandArequipa2019",
       "competitionName": "Cubeland Arequipa Speedsolving 2019",
-      "competitionDate": "2019-10-26"
+      "competitionDate": "2019-10-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "SalesianosOpen2018",
       "competitionName": "Salesianos Open 2018",
-      "competitionDate": "2018-09-29"
+      "competitionDate": "2018-09-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -806,14 +890,16 @@
     "lastCompetition": {
       "competitionId": "JaenMountainCubes2018",
       "competitionName": "Jaén Mountain Cubes 2018",
-      "competitionDate": "2018-10-13"
+      "competitionDate": "2018-10-13",
+      "competitionCountryIso": "PE"
     },
     "podiums": 1,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "JaenMountainCubes2018",
       "competitionName": "Jaén Mountain Cubes 2018",
-      "competitionDate": "2018-10-13"
+      "competitionDate": "2018-10-13",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -825,14 +911,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2024",
       "competitionName": "Peru Nationals 2024",
-      "competitionDate": "2024-11-22"
+      "competitionDate": "2024-11-22",
+      "competitionCountryIso": "PE"
     },
     "podiums": 12,
     "competitionsOrganised": 8,
     "lastOrganiserCompetition": {
       "competitionId": "SpeedcuberPeruIILima2023",
       "competitionName": "Speedcuber Peru II Lima 2023",
-      "competitionDate": "2023-12-16"
+      "competitionDate": "2023-12-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -844,14 +932,16 @@
     "lastCompetition": {
       "competitionId": "CuscoSpeedcubing2022",
       "competitionName": "Cusco Speedcubing 2022",
-      "competitionDate": "2022-12-10"
+      "competitionDate": "2022-12-10",
+      "competitionCountryIso": "PE"
     },
     "podiums": 2,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "CuscoSpeedcubingII2019",
       "competitionName": "Cusco Speedcubing II 2019",
-      "competitionDate": "2019-06-29"
+      "competitionDate": "2019-06-29",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -863,14 +953,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 152,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "BreakingRecordsHuancayo2019",
       "competitionName": "Breaking Records Huancayo 2019",
-      "competitionDate": "2019-08-03"
+      "competitionDate": "2019-08-03",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -882,14 +974,16 @@
     "lastCompetition": {
       "competitionId": "CopaBlackHorse2019",
       "competitionName": "Copa Black Horse 2019",
-      "competitionDate": "2019-06-01"
+      "competitionDate": "2019-06-01",
+      "competitionCountryIso": "PE"
     },
     "podiums": 34,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2019",
       "competitionName": "Peru Nationals 2019",
-      "competitionDate": "2019-08-16"
+      "competitionDate": "2019-08-16",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -901,14 +995,16 @@
     "lastCompetition": {
       "competitionId": "LimaCuberano2020",
       "competitionName": "Lima Cuberano 2020",
-      "competitionDate": "2020-01-18"
+      "competitionDate": "2020-01-18",
+      "competitionCountryIso": "PE"
     },
     "podiums": 6,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "ComasSpeedsolving2019",
       "competitionName": "Comas Speedsolving 2019",
-      "competitionDate": "2019-09-28"
+      "competitionDate": "2019-09-28",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -920,14 +1016,16 @@
     "lastCompetition": {
       "competitionId": "UNSASpeedcubingPreNationals2023",
       "competitionName": "UNSA Speedcubing Pre-Nationals 2023",
-      "competitionDate": "2023-06-24"
+      "competitionDate": "2023-06-24",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "CubelandArequipa2019",
       "competitionName": "Cubeland Arequipa Speedsolving 2019",
-      "competitionDate": "2019-10-26"
+      "competitionDate": "2019-10-26",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -939,14 +1037,16 @@
     "lastCompetition": {
       "competitionId": "GloriosoSanCarlos2020",
       "competitionName": "Glorioso San Carlos 2020",
-      "competitionDate": "2020-02-15"
+      "competitionDate": "2020-02-15",
+      "competitionCountryIso": "PE"
     },
     "podiums": 4,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "GloriosoSanCarlos2020",
       "competitionName": "Glorioso San Carlos 2020",
-      "competitionDate": "2020-02-15"
+      "competitionDate": "2020-02-15",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -958,14 +1058,16 @@
     "lastCompetition": {
       "competitionId": "GloriosoSanCarlos2020",
       "competitionName": "Glorioso San Carlos 2020",
-      "competitionDate": "2020-02-15"
+      "competitionDate": "2020-02-15",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "GloriosoSanCarlos2020",
       "competitionName": "Glorioso San Carlos 2020",
-      "competitionDate": "2020-02-15"
+      "competitionDate": "2020-02-15",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -973,18 +1075,20 @@
     "gender": "f",
     "id": "2017SOLD01",
     "countryId": "Peru",
-    "competitions": 22,
+    "competitions": 23,
     "lastCompetition": {
-      "competitionId": "InMemoriamJoseNoles2025",
-      "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloHappyNewYear2020",
       "competitionName": "Trujillo Happy New Year 2020",
-      "competitionDate": "2020-02-22"
+      "competitionDate": "2020-02-22",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -996,14 +1100,16 @@
     "lastCompetition": {
       "competitionId": "ChiclayoClassic2025",
       "competitionName": "Chiclayo Classic 2025",
-      "competitionDate": "2025-03-30"
+      "competitionDate": "2025-03-30",
+      "competitionCountryIso": "PE"
     },
     "podiums": 16,
     "competitionsOrganised": 3,
     "lastOrganiserCompetition": {
       "competitionId": "ChiclayoClassic2025",
       "competitionName": "Chiclayo Classic 2025",
-      "competitionDate": "2025-03-30"
+      "competitionDate": "2025-03-30",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1015,14 +1121,16 @@
     "lastCompetition": {
       "competitionId": "TCGSelvaCubica2023",
       "competitionName": "TCG Selva Cubica 2023",
-      "competitionDate": "2023-12-10"
+      "competitionDate": "2023-12-10",
+      "competitionCountryIso": "PE"
     },
     "podiums": 5,
     "competitionsOrganised": 6,
     "lastOrganiserCompetition": {
       "competitionId": "TCGSelvaCubica2023",
       "competitionName": "TCG Selva Cubica 2023",
-      "competitionDate": "2023-12-10"
+      "competitionDate": "2023-12-10",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1034,14 +1142,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "SchoolWinterLima2022",
       "competitionName": "School Winter Lima 2022",
-      "competitionDate": "2022-07-02"
+      "competitionDate": "2022-07-02",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1053,14 +1163,16 @@
     "lastCompetition": {
       "competitionId": "AndinaSpeedcubing2024",
       "competitionName": "Andina Speedcubing 2024",
-      "competitionDate": "2024-03-15"
+      "competitionDate": "2024-03-15",
+      "competitionCountryIso": "PE"
     },
     "podiums": 3,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "AndinaSpeedcubing2024",
       "competitionName": "Andina Speedcubing 2024",
-      "competitionDate": "2024-03-15"
+      "competitionDate": "2024-03-15",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1072,14 +1184,16 @@
     "lastCompetition": {
       "competitionId": "GuildfordWinter2023",
       "competitionName": "Guildford Winter 2023",
-      "competitionDate": "2023-02-04"
+      "competitionDate": "2023-02-04",
+      "competitionCountryIso": "GB"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "GuildfordWinter2023",
       "competitionName": "Guildford Winter 2023",
-      "competitionDate": "2023-02-04"
+      "competitionDate": "2023-02-04",
+      "competitionCountryIso": "GB"
     }
   },
   {
@@ -1091,14 +1205,16 @@
     "lastCompetition": {
       "competitionId": "PlazaCenterCubeLimaV2025",
       "competitionName": "Plaza Center Cube Lima V 2025",
-      "competitionDate": "2025-03-29"
+      "competitionDate": "2025-03-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 76,
     "competitionsOrganised": 4,
     "lastOrganiserCompetition": {
       "competitionId": "FMCSpringLima2023",
       "competitionName": "FMC Spring Lima 2023",
-      "competitionDate": "2023-10-15"
+      "competitionDate": "2023-10-15",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1110,14 +1226,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 46,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "HuancayoSummer2023",
       "competitionName": "Huancayo Summer 2023",
-      "competitionDate": "2023-03-18"
+      "competitionDate": "2023-03-18",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1129,14 +1247,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "CubeForceLima2023",
       "competitionName": "Cube Force Lima 2023",
-      "competitionDate": "2023-05-20"
+      "competitionDate": "2023-05-20",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1148,14 +1268,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 5,
     "competitionsOrganised": 5,
     "lastOrganiserCompetition": {
       "competitionId": "ChiclayoClassic2025",
       "competitionName": "Chiclayo Classic 2025",
-      "competitionDate": "2025-03-30"
+      "competitionDate": "2025-03-30",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1167,14 +1289,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 88,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "LimaCubinvierno2023",
       "competitionName": "Lima Cubinvierno 2023",
-      "competitionDate": "2023-07-22"
+      "competitionDate": "2023-07-22",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1186,14 +1310,16 @@
     "lastCompetition": {
       "competitionId": "MallorcaOpen2025",
       "competitionName": "Mallorca Open 2025",
-      "competitionDate": "2025-04-05"
+      "competitionDate": "2025-04-05",
+      "competitionCountryIso": "ES"
     },
     "podiums": 21,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "PieraOpen2023",
       "competitionName": "Piera Open 2023",
-      "competitionDate": "2023-07-29"
+      "competitionDate": "2023-07-29",
+      "competitionCountryIso": "ES"
     }
   },
   {
@@ -1205,14 +1331,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 9,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "ChosicasBigShow2024",
       "competitionName": "Chosica's Big Show 2024",
-      "competitionDate": "2024-01-14"
+      "competitionDate": "2024-01-14",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1224,14 +1352,16 @@
     "lastCompetition": {
       "competitionId": "UNSASpeedcubingOtono2025",
       "competitionName": "UNSA Speedcubing Otoño 2025",
-      "competitionDate": "2025-04-26"
+      "competitionDate": "2025-04-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 15,
     "competitionsOrganised": 4,
     "lastOrganiserCompetition": {
       "competitionId": "UNSASpeedcubingOtono2024",
       "competitionName": "UNSA Speedcubing Otoño 2024",
-      "competitionDate": "2024-04-27"
+      "competitionDate": "2024-04-27",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1243,14 +1373,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 105,
     "competitionsOrganised": 13,
     "lastOrganiserCompetition": {
       "competitionId": "FMCLosAndes2025",
       "competitionName": "FMC Los Andes 2025",
-      "competitionDate": "2025-06-01"
+      "competitionDate": "2025-06-01",
+      "competitionCountryIso": "XS"
     }
   },
   {
@@ -1262,14 +1394,16 @@
     "lastCompetition": {
       "competitionId": "TCGSelvaCubica2023",
       "competitionName": "TCG Selva Cubica 2023",
-      "competitionDate": "2023-12-10"
+      "competitionDate": "2023-12-10",
+      "competitionCountryIso": "PE"
     },
     "podiums": 2,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "TCGSelvaCubica2023",
       "competitionName": "TCG Selva Cubica 2023",
-      "competitionDate": "2023-12-10"
+      "competitionDate": "2023-12-10",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1281,14 +1415,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 15,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "ItsClockingTimeLima2024",
       "competitionName": "It's Clocking Time Lima 2024",
-      "competitionDate": "2024-01-28"
+      "competitionDate": "2024-01-28",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1300,14 +1436,16 @@
     "lastCompetition": {
       "competitionId": "InMemoriamJoseNoles2025",
       "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09"
+      "competitionDate": "2025-08-09",
+      "competitionCountryIso": "PE"
     },
     "podiums": 7,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "InMemoriamJoseNoles2024",
       "competitionName": "In Memoriam José Noles 2024",
-      "competitionDate": "2024-02-03"
+      "competitionDate": "2024-02-03",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1319,14 +1457,16 @@
     "lastCompetition": {
       "competitionId": "TCGSpacelVSantaAnita2025",
       "competitionName": "TCG Space lV Santa Anita 2025",
-      "competitionDate": "2025-01-04"
+      "competitionDate": "2025-01-04",
+      "competitionCountryIso": "PE"
     },
     "podiums": 2,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "TCGSpacelVSantaAnita2025",
       "competitionName": "TCG Space lV Santa Anita 2025",
-      "competitionDate": "2025-01-04"
+      "competitionDate": "2025-01-04",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1338,14 +1478,16 @@
     "lastCompetition": {
       "competitionId": "HuanucoalCubo2024",
       "competitionName": "Huánuco al Cubo 2024",
-      "competitionDate": "2024-08-18"
+      "competitionDate": "2024-08-18",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "HuanucoalCubo2024",
       "competitionName": "Huánuco al Cubo 2024",
-      "competitionDate": "2024-08-18"
+      "competitionDate": "2024-08-18",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1357,14 +1499,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "OsoCubingFestIILima2025",
       "competitionName": "Oso Cubing Fest II Lima 2025",
-      "competitionDate": "2025-05-31"
+      "competitionDate": "2025-05-31",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1376,14 +1520,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 40,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "DeCubosyTodaslasSangresAndah2024",
       "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
-      "competitionDate": "2024-11-10"
+      "competitionDate": "2024-11-10",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1395,14 +1541,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 38,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2024",
       "competitionName": "Peru Nationals 2024",
-      "competitionDate": "2024-11-22"
+      "competitionDate": "2024-11-22",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1414,14 +1562,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 63,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2024",
       "competitionName": "Peru Nationals 2024",
-      "competitionDate": "2024-11-22"
+      "competitionDate": "2024-11-22",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1433,14 +1583,16 @@
     "lastCompetition": {
       "competitionId": "SanValencubeHuancayo2025",
       "competitionName": "San Valencube Huancayo 2025",
-      "competitionDate": "2025-02-15"
+      "competitionDate": "2025-02-15",
+      "competitionCountryIso": "PE"
     },
     "podiums": 4,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "SanValencubeHuancayo2025",
       "competitionName": "San Valencube Huancayo 2025",
-      "competitionDate": "2025-02-15"
+      "competitionDate": "2025-02-15",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1452,14 +1604,16 @@
     "lastCompetition": {
       "competitionId": "LosReyesdelCuboChiclayoIII2025",
       "competitionName": "Los Reyes del Cubo Chiclayo III 2025",
-      "competitionDate": "2025-01-25"
+      "competitionDate": "2025-01-25",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "LosReyesdelCuboChiclayoIII2025",
       "competitionName": "Los Reyes del Cubo Chiclayo III 2025",
-      "competitionDate": "2025-01-25"
+      "competitionDate": "2025-01-25",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1471,14 +1625,16 @@
     "lastCompetition": {
       "competitionId": "SanJoseCubingYarinacocha2025",
       "competitionName": "San José Cubing Yarinacocha 2025",
-      "competitionDate": "2025-04-26"
+      "competitionDate": "2025-04-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 42,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "LAPREPucallpaSpeedcubing2025",
       "competitionName": "LA PRE Pucallpa Speedcubing 2025",
-      "competitionDate": "2025-02-22"
+      "competitionDate": "2025-02-22",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1490,14 +1646,16 @@
     "lastCompetition": {
       "competitionId": "PaseoCentralWinter2025",
       "competitionName": "Paseo Central Winter 2025",
-      "competitionDate": "2025-07-05"
+      "competitionDate": "2025-07-05",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "YanahuaraSummer2025",
       "competitionName": "Yanahuara Summer 2025",
-      "competitionDate": "2025-03-01"
+      "competitionDate": "2025-03-01",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1509,14 +1667,16 @@
     "lastCompetition": {
       "competitionId": "UNSASpeedcubingOtono2025",
       "competitionName": "UNSA Speedcubing Otoño 2025",
-      "competitionDate": "2025-04-26"
+      "competitionDate": "2025-04-26",
+      "competitionCountryIso": "PE"
     },
     "podiums": 100,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "UNSASpeedcubingPrimavera2025",
       "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27"
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1528,14 +1688,16 @@
     "lastCompetition": {
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionDate": "2025-08-29",
+      "competitionCountryIso": "PE"
     },
     "podiums": 115,
     "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloOpen2025",
       "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20"
+      "competitionDate": "2025-07-20",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1543,18 +1705,20 @@
     "gender": "m",
     "id": "2023SANC31",
     "countryId": "Peru",
-    "competitions": 38,
+    "competitions": 39,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
-    "podiums": 44,
+    "podiums": 48,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "InMemoriamJoseNoles2025",
       "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09"
+      "competitionDate": "2025-08-09",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -1562,18 +1726,20 @@
     "gender": "m",
     "id": "2023ROJA17",
     "countryId": "Peru",
-    "competitions": 11,
+    "competitions": 12,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29"
+      "competitionId": "UNSASpeedcubingPrimavera2025",
+      "competitionName": "UNSA Speedcubing Primavera 2025",
+      "competitionDate": "2025-09-27",
+      "competitionCountryIso": "PE"
     },
-    "podiums": 16,
+    "podiums": 18,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "InMemoriamJoseNoles2025",
       "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09"
+      "competitionDate": "2025-08-09",
+      "competitionCountryIso": "PE"
     }
   }
 ]

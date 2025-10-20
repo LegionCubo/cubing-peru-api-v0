@@ -1380,5 +1380,53 @@
         "838"
       ]
     }
+  },
+  "333mbf": {
+    "m": {
+      "single": {
+        "personId": "2013HUAN29",
+        "personName": "Gianfranco Huanqui",
+        "best": "710346701",
+        "competitionId": "AventuraCubicaIV2017",
+        "competitionName": "Aventura Cúbica IV 2017",
+        "times": [
+          "710346701",
+          "810360006",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    "f": {
+      "single": {
+        "personId": "2011RIGG02",
+        "personName": "Jael Riggenbach",
+        "best": "920181100",
+        "competitionId": "PeruNationals2019",
+        "competitionName": "Peru Nationals 2019",
+        "times": [
+          "920181100",
+          "-2",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    "single": {
+      "personId": "2013HUAN29",
+      "personName": "Gianfranco Huanqui",
+      "best": "710346701",
+      "competitionId": "AventuraCubicaIV2017",
+      "competitionName": "Aventura Cúbica IV 2017",
+      "times": [
+        "710346701",
+        "810360006",
+        "0",
+        "0",
+        "0"
+      ]
+    }
   }
 }

@@ -1,5 +1,31 @@
 [
   {
+    "id": "CuscoSpring2025",
+    "name": "Cusco Spring 2025",
+    "venue": "CEP. Santa Rosa de Lima",
+    "latitude": "-13521562",
+    "longitude": "-71974466",
+    "cityName": "Cusco",
+    "countryId": "Peru",
+    "venueAddress": "Ahuacpinta 676",
+    "venueDetails": "4to nivel",
+    "cellName": "Cusco Spring 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 minx pyram",
+    "wcaDelegate": [
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
+    ],
+    "organiser": [
+      {
+        "name": "Mercedes Rosas Anco"
+      }
+    ],
+    "competitionDate": "2025-12-06",
+    "competitionEndDate": "2025-12-06"
+  },
+  {
     "id": "TrujilloCubingFest2025",
     "name": "Trujillo Cubing Fest 2025",
     "venue": "Centro Comercial Boulevard - Trujillo",
@@ -46,6 +72,10 @@
       {
         "id": "2016SUZU03",
         "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
       },
       {
         "id": "2018QUIJ01",

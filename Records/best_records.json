@@ -7,6 +7,7 @@
         "best": "59",
         "competitionId": "TCGSpacelVSantaAnita2025",
         "competitionName": "TCG Space lV Santa Anita 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "134",
           "165",
@@ -21,6 +22,7 @@
         "average": "136",
         "competitionId": "PeruNationals2025",
         "competitionName": "Peru Nationals 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "127",
           "-1",
@@ -37,6 +39,7 @@
         "best": "148",
         "competitionId": "TCGSpaceIISantaAnita2023",
         "competitionName": "TCG Space II Santa Anita 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "148",
           "467",
@@ -51,6 +54,7 @@
         "average": "313",
         "competitionId": "PUCPCubingFestivalIV2025",
         "competitionName": "PUCP Cubing Festival IV 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "329",
           "356",
@@ -66,6 +70,7 @@
       "best": "59",
       "competitionId": "TCGSpacelVSantaAnita2025",
       "competitionName": "TCG Space lV Santa Anita 2025",
+      "competitionCountryIso": "PE",
       "times": [
         "134",
         "165",
@@ -80,6 +85,7 @@
       "average": "136",
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
+      "competitionCountryIso": "PE",
       "times": [
         "127",
         "-1",
@@ -97,6 +103,7 @@
         "best": "465",
         "competitionId": "LimaCuberano2022",
         "competitionName": "Lima Cuberano 2022",
+        "competitionCountryIso": "PE",
         "times": [
           "808",
           "465",
@@ -111,6 +118,7 @@
         "average": "629",
         "competitionId": "PeruNationals2025",
         "competitionName": "Peru Nationals 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "589",
           "660",
@@ -127,6 +135,7 @@
         "best": "728",
         "competitionId": "OsoCubingFestILima2024",
         "competitionName": "Oso Cubing Fest I Lima 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "1087",
           "989",
@@ -141,6 +150,7 @@
         "average": "949",
         "competitionId": "PeruNationals2025",
         "competitionName": "Peru Nationals 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "949",
           "967",
@@ -156,6 +166,7 @@
       "best": "465",
       "competitionId": "LimaCuberano2022",
       "competitionName": "Lima Cuberano 2022",
+      "competitionCountryIso": "PE",
       "times": [
         "808",
         "465",
@@ -170,6 +181,7 @@
       "average": "629",
       "competitionId": "PeruNationals2025",
       "competitionName": "Peru Nationals 2025",
+      "competitionCountryIso": "PE",
       "times": [
         "589",
         "660",
@@ -187,6 +199,7 @@
         "best": "1466",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "1466",
           "1688",
@@ -201,6 +214,7 @@
         "average": "1704",
         "competitionId": "SpeedsolvingGeekcuber2023",
         "competitionName": "Speedsolving Geekcuber 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "1615",
           "1860",
@@ -217,6 +231,7 @@
         "best": "3392",
         "competitionId": "200Peru2024",
         "competitionName": "200 Perú 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "6274",
           "-1",
@@ -231,6 +246,7 @@
         "average": "4185",
         "competitionId": "LatinAmericaCubingTourLima2017",
         "competitionName": "Latin America Cubing Tour - Lima 2017",
+        "competitionCountryIso": "PE",
         "times": [
           "4096",
           "4171",
@@ -246,6 +262,7 @@
       "best": "1466",
       "competitionId": "ChosicaCubingCup2023",
       "competitionName": "Chosica Cubing Cup 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "1466",
         "1688",
@@ -260,6 +277,7 @@
       "average": "1704",
       "competitionId": "SpeedsolvingGeekcuber2023",
       "competitionName": "Speedsolving Geekcuber 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "1615",
         "1860",
@@ -277,6 +295,7 @@
         "best": "24",
         "competitionId": "PUCPZomblinders2024",
         "competitionName": "PUCP Zomblinders 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "24",
           "37",
@@ -291,6 +310,7 @@
         "average": "2667",
         "competitionId": "PUCPFMCAttempt12025",
         "competitionName": "PUCP FMC Attempt 1 - 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "24",
           "27",
@@ -307,6 +327,7 @@
         "best": "45",
         "competitionId": "LoveIsBlindLima2024",
         "competitionName": "Love Is Blind Lima 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "45",
           "-2",
@@ -321,6 +342,7 @@
         "average": "5600",
         "competitionId": "PUCPFMCAttempt12025",
         "competitionName": "PUCP FMC Attempt 1 - 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "50",
           "50",
@@ -336,6 +358,7 @@
       "best": "24",
       "competitionId": "PUCPZomblinders2024",
       "competitionName": "PUCP Zomblinders 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "24",
         "37",
@@ -350,6 +373,7 @@
       "average": "2667",
       "competitionId": "PUCPFMCAttempt12025",
       "competitionName": "PUCP FMC Attempt 1 - 2025",
+      "competitionCountryIso": "PE",
       "times": [
         "24",
         "27",
@@ -367,6 +391,7 @@
         "best": "683",
         "competitionId": "CalentandoMotoresUTDTS2024",
         "competitionName": "Calentando Motores Di Tella Sábado 2024",
+        "competitionCountryIso": "AR",
         "times": [
           "683",
           "1552",
@@ -381,6 +406,7 @@
         "average": "1071",
         "competitionId": "DeCubosyTodaslasSangresAndah2024",
         "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "1010",
           "1098",
@@ -397,6 +423,7 @@
         "best": "1716",
         "competitionId": "HuancayoSummer2023",
         "competitionName": "Huancayo Summer 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "2311",
           "2403",
@@ -411,6 +438,7 @@
         "average": "1997",
         "competitionId": "PlazaCenterCubeLimalll2024",
         "competitionName": "Plaza Center Cube Lima lll 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "1823",
           "1946",
@@ -426,6 +454,7 @@
       "best": "683",
       "competitionId": "CalentandoMotoresUTDTS2024",
       "competitionName": "Calentando Motores Di Tella Sábado 2024",
+      "competitionCountryIso": "AR",
       "times": [
         "683",
         "1552",
@@ -440,6 +469,7 @@
       "average": "1071",
       "competitionId": "DeCubosyTodaslasSangresAndah2024",
       "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "1010",
         "1098",
@@ -457,6 +487,7 @@
         "best": "2322",
         "competitionId": "LimaCubinvierno2023",
         "competitionName": "Lima Cubinvierno 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "2811",
           "2794",
@@ -471,6 +502,7 @@
         "average": "2568",
         "competitionId": "RealGeekcuberPucallpa2023",
         "competitionName": "Real Geekcuber Pucallpa 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "2532",
           "2439",
@@ -487,6 +519,7 @@
         "best": "3358",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "6373",
           "4914",
@@ -501,6 +534,7 @@
         "average": "4349",
         "competitionId": "PeruNationals2024",
         "competitionName": "Peru Nationals 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "4403",
           "4192",
@@ -516,6 +550,7 @@
       "best": "2322",
       "competitionId": "LimaCubinvierno2023",
       "competitionName": "Lima Cubinvierno 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "2811",
         "2794",
@@ -530,6 +565,7 @@
       "average": "2568",
       "competitionId": "RealGeekcuberPucallpa2023",
       "competitionName": "Real Geekcuber Pucallpa 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "2532",
         "2439",
@@ -547,6 +583,7 @@
         "best": "16814",
         "competitionId": "CubingUSANationals2017",
         "competitionName": "CubingUSA Nationals 2017",
+        "competitionCountryIso": "US",
         "times": [
           "-1",
           "-1",
@@ -561,6 +598,7 @@
         "average": "35090",
         "competitionId": "PeruNationals2024",
         "competitionName": "Peru Nationals 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "31467",
           "39789",
@@ -577,6 +615,7 @@
       "best": "16814",
       "competitionId": "CubingUSANationals2017",
       "competitionName": "CubingUSA Nationals 2017",
+      "competitionCountryIso": "US",
       "times": [
         "-1",
         "-1",
@@ -591,6 +630,7 @@
       "average": "35090",
       "competitionId": "PeruNationals2024",
       "competitionName": "Peru Nationals 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "31467",
         "39789",
@@ -608,6 +648,7 @@
         "best": "4053",
         "competitionId": "PlazaCenterCubeLimaI2023",
         "competitionName": "Plaza Center Cube Lima I 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "4844",
           "5296",
@@ -622,6 +663,7 @@
         "average": "4758",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "4605",
           "4608",
@@ -638,6 +680,7 @@
         "best": "7143",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "8190",
           "9185",
@@ -652,6 +695,7 @@
         "average": "8045",
         "competitionId": "PlazaCenterCubeLimalll2024",
         "competitionName": "Plaza Center Cube Lima lll 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "10641",
           "8472",
@@ -667,6 +711,7 @@
       "best": "4053",
       "competitionId": "PlazaCenterCubeLimaI2023",
       "competitionName": "Plaza Center Cube Lima I 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "4844",
         "5296",
@@ -681,6 +726,7 @@
       "average": "4758",
       "competitionId": "ChosicaCubingCup2023",
       "competitionName": "Chosica Cubing Cup 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "4605",
         "4608",
@@ -698,6 +744,7 @@
         "best": "54747",
         "competitionId": "NacionalPerubik2016",
         "competitionName": "Campeonato Nacional Perubik 2016",
+        "competitionCountryIso": "PE",
         "times": [
           "-1",
           "-1",
@@ -712,6 +759,7 @@
         "average": "100300",
         "competitionId": "UnivalleSpring2017",
         "competitionName": "Univalle Spring 2017",
+        "competitionCountryIso": "BO",
         "times": [
           "144800",
           "86000",
@@ -728,6 +776,7 @@
       "best": "54747",
       "competitionId": "NacionalPerubik2016",
       "competitionName": "Campeonato Nacional Perubik 2016",
+      "competitionCountryIso": "PE",
       "times": [
         "-1",
         "-1",
@@ -742,6 +791,7 @@
       "average": "100300",
       "competitionId": "UnivalleSpring2017",
       "competitionName": "Univalle Spring 2017",
+      "competitionCountryIso": "BO",
       "times": [
         "144800",
         "86000",
@@ -759,6 +809,7 @@
         "best": "8159",
         "competitionId": "ChosicasBigShow2024",
         "competitionName": "Chosica's Big Show 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "9446",
           "8915",
@@ -773,6 +824,7 @@
         "average": "8840",
         "competitionId": "ChosicasBigShow2024",
         "competitionName": "Chosica's Big Show 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "9446",
           "8915",
@@ -789,6 +841,7 @@
         "best": "13981",
         "competitionId": "CubeForceLima2023",
         "competitionName": "Cube Force Lima 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "15467",
           "13981",
@@ -803,6 +856,7 @@
         "average": "15082",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "15182",
           "15582",
@@ -818,6 +872,7 @@
       "best": "8159",
       "competitionId": "ChosicasBigShow2024",
       "competitionName": "Chosica's Big Show 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "9446",
         "8915",
@@ -832,6 +887,7 @@
       "average": "8840",
       "competitionId": "ChosicasBigShow2024",
       "competitionName": "Chosica's Big Show 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "9446",
         "8915",
@@ -849,6 +905,7 @@
         "best": "12909",
         "competitionId": "PeruNationals2023",
         "competitionName": "Peru Nationals 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "13961",
           "12909",
@@ -863,6 +920,7 @@
         "average": "13837",
         "competitionId": "ChosicasBigShow2024",
         "competitionName": "Chosica's Big Show 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "13591",
           "14368",
@@ -879,6 +937,7 @@
         "best": "23456",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "25117",
           "25985",
@@ -893,6 +952,7 @@
         "average": "24853",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "25117",
           "25985",
@@ -908,6 +968,7 @@
       "best": "12909",
       "competitionId": "PeruNationals2023",
       "competitionName": "Peru Nationals 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "13961",
         "12909",
@@ -922,6 +983,7 @@
       "average": "13837",
       "competitionId": "ChosicasBigShow2024",
       "competitionName": "Chosica's Big Show 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "13591",
         "14368",
@@ -939,6 +1001,7 @@
         "best": "310",
         "competitionId": "PUCPCubingFestivalV2025",
         "competitionName": "PUCP Cubing Festival V 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "472",
           "-1",
@@ -953,6 +1016,7 @@
         "average": "405",
         "competitionId": "PUCPCubingFestivalV2025",
         "competitionName": "PUCP Cubing Festival V 2025",
+        "competitionCountryIso": "PE",
         "times": [
           "472",
           "-1",
@@ -969,6 +1033,7 @@
         "best": "440",
         "competitionId": "RealCubeIILima2023",
         "competitionName": "Real Cube II Lima 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "571",
           "624",
@@ -983,6 +1048,7 @@
         "average": "554",
         "competitionId": "CaballerodelosMaresLima2024",
         "competitionName": "Caballero de los Mares Lima 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "494",
           "538",
@@ -998,6 +1064,7 @@
       "best": "310",
       "competitionId": "PUCPCubingFestivalV2025",
       "competitionName": "PUCP Cubing Festival V 2025",
+      "competitionCountryIso": "PE",
       "times": [
         "472",
         "-1",
@@ -1012,6 +1079,7 @@
       "average": "405",
       "competitionId": "PUCPCubingFestivalV2025",
       "competitionName": "PUCP Cubing Festival V 2025",
+      "competitionCountryIso": "PE",
       "times": [
         "472",
         "-1",
@@ -1029,6 +1097,7 @@
         "best": "2524",
         "competitionId": "LimaCuberano2022",
         "competitionName": "Lima Cuberano 2022",
+        "competitionCountryIso": "PE",
         "times": [
           "3521",
           "3453",
@@ -1043,6 +1112,7 @@
         "average": "3039",
         "competitionId": "WuxiOpen2019",
         "competitionName": "Wuxi Open 2019",
+        "competitionCountryIso": "CN",
         "times": [
           "3012",
           "2850",
@@ -1059,6 +1129,7 @@
         "best": "3911",
         "competitionId": "SanMarcosOpen2023",
         "competitionName": "San Marcos Open 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "3911",
           "5523",
@@ -1073,6 +1144,7 @@
         "average": "4561",
         "competitionId": "LaTiendaCuberaFest2023",
         "competitionName": "La Tienda Cubera Fest 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "4675",
           "4513",
@@ -1088,6 +1160,7 @@
       "best": "2524",
       "competitionId": "LimaCuberano2022",
       "competitionName": "Lima Cuberano 2022",
+      "competitionCountryIso": "PE",
       "times": [
         "3521",
         "3453",
@@ -1102,6 +1175,7 @@
       "average": "3039",
       "competitionId": "WuxiOpen2019",
       "competitionName": "Wuxi Open 2019",
+      "competitionCountryIso": "CN",
       "times": [
         "3012",
         "2850",
@@ -1119,6 +1193,7 @@
         "best": "103",
         "competitionId": "TCGSpacelllSantaAnita2024",
         "competitionName": "TCG Space lll Santa Anita 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "549",
           "103",
@@ -1133,6 +1208,7 @@
         "average": "210",
         "competitionId": "LaTiendaCuberaFest2023",
         "competitionName": "La Tienda Cubera Fest 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "182",
           "251",
@@ -1149,6 +1225,7 @@
         "best": "247",
         "competitionId": "TCGSpaceSantaAnita2023",
         "competitionName": "TCG Space Santa Anita 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "845",
           "247",
@@ -1163,6 +1240,7 @@
         "average": "433",
         "competitionId": "PlazaCenterCubeLimaII2023",
         "competitionName": "Plaza Center Cube Lima II 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "396",
           "429",
@@ -1178,6 +1256,7 @@
       "best": "103",
       "competitionId": "TCGSpacelllSantaAnita2024",
       "competitionName": "TCG Space lll Santa Anita 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "549",
         "103",
@@ -1192,6 +1271,7 @@
       "average": "210",
       "competitionId": "LaTiendaCuberaFest2023",
       "competitionName": "La Tienda Cubera Fest 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "182",
         "251",
@@ -1209,6 +1289,7 @@
         "best": "132",
         "competitionId": "CrazyCubesChristmas2017",
         "competitionName": "Crazy Cubes Christmas 2017",
+        "competitionCountryIso": "PE",
         "times": [
           "132",
           "332",
@@ -1223,6 +1304,7 @@
         "average": "236",
         "competitionId": "SpeedsolvingJunin2018",
         "competitionName": "Speedsolving Junín 2018",
+        "competitionCountryIso": "PE",
         "times": [
           "243",
           "236",
@@ -1239,6 +1321,7 @@
         "best": "312",
         "competitionId": "PlazaCenterCubeLimaIV2024",
         "competitionName": "Plaza Center Cube Lima IV 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "507",
           "312",
@@ -1253,6 +1336,7 @@
         "average": "442",
         "competitionId": "TCGSpacelllSantaAnita2024",
         "competitionName": "TCG Space lll Santa Anita 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "785",
           "467",
@@ -1268,6 +1352,7 @@
       "best": "132",
       "competitionId": "CrazyCubesChristmas2017",
       "competitionName": "Crazy Cubes Christmas 2017",
+      "competitionCountryIso": "PE",
       "times": [
         "132",
         "332",
@@ -1282,6 +1367,7 @@
       "average": "236",
       "competitionId": "SpeedsolvingJunin2018",
       "competitionName": "Speedsolving Junín 2018",
+      "competitionCountryIso": "PE",
       "times": [
         "243",
         "236",
@@ -1299,6 +1385,7 @@
         "best": "463",
         "competitionId": "ContigoPeruLima2024",
         "competitionName": "Contigo Peru Lima 2024",
+        "competitionCountryIso": "PE",
         "times": [
           "463",
           "1336",
@@ -1313,6 +1400,7 @@
         "average": "761",
         "competitionId": "RealCubeIILima2023",
         "competitionName": "Real Cube II Lima 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "1066",
           "716",
@@ -1329,6 +1417,7 @@
         "best": "1863",
         "competitionId": "CubeForceLima2023",
         "competitionName": "Cube Force Lima 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "1863",
           "2825",
@@ -1343,6 +1432,7 @@
         "average": "2879",
         "competitionId": "SanMarcosOpen2023",
         "competitionName": "San Marcos Open 2023",
+        "competitionCountryIso": "PE",
         "times": [
           "2439",
           "3240",
@@ -1358,6 +1448,7 @@
       "best": "463",
       "competitionId": "ContigoPeruLima2024",
       "competitionName": "Contigo Peru Lima 2024",
+      "competitionCountryIso": "PE",
       "times": [
         "463",
         "1336",
@@ -1372,6 +1463,7 @@
       "average": "761",
       "competitionId": "RealCubeIILima2023",
       "competitionName": "Real Cube II Lima 2023",
+      "competitionCountryIso": "PE",
       "times": [
         "1066",
         "716",
@@ -1389,6 +1481,7 @@
         "best": "710346701",
         "competitionId": "AventuraCubicaIV2017",
         "competitionName": "Aventura Cúbica IV 2017",
+        "competitionCountryIso": "PE",
         "times": [
           "710346701",
           "810360006",
@@ -1405,6 +1498,7 @@
         "best": "920181100",
         "competitionId": "PeruNationals2019",
         "competitionName": "Peru Nationals 2019",
+        "competitionCountryIso": "PE",
         "times": [
           "920181100",
           "-2",
@@ -1420,6 +1514,7 @@
       "best": "710346701",
       "competitionId": "AventuraCubicaIV2017",
       "competitionName": "Aventura Cúbica IV 2017",
+      "competitionCountryIso": "PE",
       "times": [
         "710346701",
         "810360006",

@@ -319,12 +319,12 @@
     "gender": "m",
     "id": "2010MOND01",
     "countryId": "Peru",
-    "competitions": 72,
+    "competitions": 73,
     "lastCompetition": {
-      "competitionId": "ValldeNuria2025",
-      "competitionName": "Vall de Núria 2025",
-      "competitionDate": "2025-05-03",
-      "competitionCountryIso": "ES"
+      "competitionId": "AndorranChampionship2025",
+      "competitionName": "Andorran Championship 2025",
+      "competitionDate": "2025-10-11",
+      "competitionCountryIso": "AD"
     },
     "podiums": 87,
     "competitionsOrganised": 4,
@@ -411,7 +411,7 @@
       "competitionCountryIso": "PE"
     },
     "podiums": 5,
-    "competitionsOrganised": 12,
+    "competitionsOrganised": 11,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloOpen2025",
       "competitionName": "Trujillo Open 2025",
@@ -697,19 +697,19 @@
     "gender": "m",
     "id": "2016OBRE01",
     "countryId": "Peru",
-    "competitions": 79,
+    "competitions": 80,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVII2025",
+      "competitionName": "PUCP Cubing Festival VII 2025",
+      "competitionDate": "2025-10-19",
       "competitionCountryIso": "PE"
     },
-    "podiums": 63,
+    "podiums": 64,
     "competitionsOrganised": 17,
     "lastOrganiserCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVII2025",
+      "competitionName": "PUCP Cubing Festival VII 2025",
+      "competitionDate": "2025-10-19",
       "competitionCountryIso": "PE"
     }
   },
@@ -1369,15 +1369,15 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 74,
+    "competitions": 75,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVII2025",
+      "competitionName": "PUCP Cubing Festival VII 2025",
+      "competitionDate": "2025-10-19",
       "competitionCountryIso": "PE"
     },
-    "podiums": 105,
-    "competitionsOrganised": 13,
+    "podiums": 107,
+    "competitionsOrganised": 12,
     "lastOrganiserCompetition": {
       "competitionId": "FMCLosAndes2025",
       "competitionName": "FMC Los Andes 2025",
@@ -1495,11 +1495,11 @@
     "gender": "m",
     "id": "2013BELL06",
     "countryId": "Peru",
-    "competitions": 35,
+    "competitions": 36,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVII2025",
+      "competitionName": "PUCP Cubing Festival VII 2025",
+      "competitionDate": "2025-10-19",
       "competitionCountryIso": "PE"
     },
     "podiums": 0,
@@ -1516,14 +1516,14 @@
     "gender": "m",
     "id": "2022AGUI03",
     "countryId": "Peru",
-    "competitions": 22,
+    "competitions": 23,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVII2025",
+      "competitionName": "PUCP Cubing Festival VII 2025",
+      "competitionDate": "2025-10-19",
       "competitionCountryIso": "PE"
     },
-    "podiums": 40,
+    "podiums": 42,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "DeCubosyTodaslasSangresAndah2024",
@@ -1558,14 +1558,14 @@
     "gender": "m",
     "id": "2018QUIJ01",
     "countryId": "Peru",
-    "competitions": 61,
+    "competitions": 62,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVII2025",
+      "competitionName": "PUCP Cubing Festival VII 2025",
+      "competitionDate": "2025-10-19",
       "competitionCountryIso": "PE"
     },
-    "podiums": 63,
+    "podiums": 64,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2024",
@@ -1692,7 +1692,7 @@
       "competitionCountryIso": "PE"
     },
     "podiums": 115,
-    "competitionsOrganised": 2,
+    "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "TrujilloOpen2025",
       "competitionName": "Trujillo Open 2025",

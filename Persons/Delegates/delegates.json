@@ -88,19 +88,19 @@
     "gender": "m",
     "id": "2015CHAL01",
     "countryId": "Peru",
-    "competitions": 66,
+    "competitions": 67,
     "lastCompetition": {
-      "competitionId": "ChambeaenTuPBLima2025",
-      "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 28,
-    "competitionsDelegated": 49,
+    "podiums": 29,
+    "competitionsDelegated": 50,
     "lastDelegatedCompetition": {
-      "competitionId": "ChambeaenTuPBLima2025",
-      "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     }
   },
@@ -172,19 +172,19 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 75,
+    "competitions": 76,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 107,
-    "competitionsDelegated": 56,
+    "podiums": 108,
+    "competitionsDelegated": 57,
     "lastDelegatedCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     }
   },
@@ -222,11 +222,11 @@
       "competitionCountryIso": "PE"
     },
     "podiums": 64,
-    "competitionsDelegated": 56,
+    "competitionsDelegated": 57,
     "lastDelegatedCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     }
   },

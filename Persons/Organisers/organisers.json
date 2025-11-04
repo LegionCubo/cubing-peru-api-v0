@@ -424,14 +424,14 @@
     "gender": "m",
     "id": "2015CHAL01",
     "countryId": "Peru",
-    "competitions": 66,
+    "competitions": 67,
     "lastCompetition": {
-      "competitionId": "ChambeaenTuPBLima2025",
-      "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 28,
+    "podiums": 29,
     "competitionsOrganised": 4,
     "lastOrganiserCompetition": {
       "competitionId": "PeruNationals2022",
@@ -634,11 +634,11 @@
     "gender": "m",
     "id": "2015VASQ06",
     "countryId": "Peru",
-    "competitions": 24,
+    "competitions": 25,
     "lastCompetition": {
-      "competitionId": "UtahPfAIV2025",
-      "competitionName": "Utah Puzzling for Awareness IV 2025",
-      "competitionDate": "2025-04-05",
+      "competitionId": "UtahStateUniversityFall2025",
+      "competitionName": "Utah State University Fall 2025",
+      "competitionDate": "2025-10-18",
       "competitionCountryIso": "US"
     },
     "podiums": 14,
@@ -1369,20 +1369,20 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 75,
+    "competitions": 76,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 107,
-    "competitionsOrganised": 12,
+    "podiums": 108,
+    "competitionsOrganised": 13,
     "lastOrganiserCompetition": {
-      "competitionId": "FMCLosAndes2025",
-      "competitionName": "FMC Los Andes 2025",
-      "competitionDate": "2025-06-01",
-      "competitionCountryIso": "XS"
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
+      "competitionCountryIso": "PE"
     }
   },
   {

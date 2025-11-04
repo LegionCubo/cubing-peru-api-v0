@@ -1,5 +1,32 @@
 [
   {
+    "id": "ItsChristmasTimeLima2025",
+    "name": "It's Christmas Time Lima 2025",
+    "venue": "Residencial Colombia",
+    "latitude": "-12070003",
+    "longitude": "-77052234",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Colombia 247, Pueblo Libre",
+    "venueDetails": "Sala de eventos",
+    "cellName": "It's Christmas Time Lima 2025",
+    "eventSpecs": "333bf clock",
+    "wcaDelegate": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
+    ],
+    "organiser": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
+    ],
+    "competitionDate": "2025-12-20",
+    "competitionEndDate": "2025-12-20"
+  },
+  {
     "id": "CuscoSpring2025",
     "name": "Cusco Spring 2025",
     "venue": "CEP. Santa Rosa de Lima",

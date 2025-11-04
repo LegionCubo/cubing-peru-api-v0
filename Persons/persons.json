@@ -46,11 +46,11 @@
     "gender": "m",
     "id": "2010ESTR01",
     "countryId": "Peru",
-    "competitions": 46,
+    "competitions": 47,
     "lastCompetition": {
-      "competitionId": "MalegnoValleminx2025",
-      "competitionName": "Malegno Valleminx 2025",
-      "competitionDate": "2025-07-26",
+      "competitionId": "MuggioICQualifier2025",
+      "competitionName": "Muggiò: IC Qualifier 2025",
+      "competitionDate": "2025-10-18",
       "competitionCountryIso": "IT"
     },
     "podiums": 3
@@ -2720,11 +2720,11 @@
     "gender": "m",
     "id": "2013HUAN29",
     "countryId": "Peru",
-    "competitions": 131,
+    "competitions": 132,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalV2025",
-      "competitionName": "PUCP Cubing Festival V 2025",
-      "competitionDate": "2025-07-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
     "podiums": 160
@@ -7480,14 +7480,14 @@
     "gender": "m",
     "id": "2015CHAL01",
     "countryId": "Peru",
-    "competitions": 66,
+    "competitions": 67,
     "lastCompetition": {
-      "competitionId": "ChambeaenTuPBLima2025",
-      "competitionName": "Chambea en Tu PB Lima 2025",
-      "competitionDate": "2025-05-03",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 28
+    "podiums": 29
   },
   {
     "name": "Eduardo Mollinedo Chavez",
@@ -8348,11 +8348,11 @@
     "gender": "m",
     "id": "2015NARV01",
     "countryId": "Peru",
-    "competitions": 3,
+    "competitions": 4,
     "lastCompetition": {
-      "competitionId": "OttawaBigCubes2025",
-      "competitionName": "Ottawa Big Cubes 2025",
-      "competitionDate": "2025-10-18",
+      "competitionId": "PickeringFavouritesFall2025",
+      "competitionName": "Pickering Favourites Fall 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "CA"
     },
     "podiums": 0
@@ -9286,11 +9286,11 @@
     "gender": "m",
     "id": "2015VASQ06",
     "countryId": "Peru",
-    "competitions": 24,
+    "competitions": 25,
     "lastCompetition": {
-      "competitionId": "UtahPfAIV2025",
-      "competitionName": "Utah Puzzling for Awareness IV 2025",
-      "competitionDate": "2025-04-05",
+      "competitionId": "UtahStateUniversityFall2025",
+      "competitionName": "Utah State University Fall 2025",
+      "competitionDate": "2025-10-18",
       "competitionCountryIso": "US"
     },
     "podiums": 14
@@ -10154,14 +10154,14 @@
     "gender": "m",
     "id": "2016MILL07",
     "countryId": "Peru",
-    "competitions": 88,
+    "competitions": 89,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 400
+    "podiums": 401
   },
   {
     "name": "Alexis Olivares Miranda",
@@ -11064,14 +11064,14 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 75,
+    "competitions": 76,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 107
+    "podiums": 108
   },
   {
     "name": "Angelo Taranco",
@@ -24504,11 +24504,11 @@
     "gender": "m",
     "id": "2018QUIS04",
     "countryId": "Peru",
-    "competitions": 42,
+    "competitions": 43,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
     "podiums": 35
@@ -25666,14 +25666,14 @@
     "gender": "m",
     "id": "2018DIAZ09",
     "countryId": "Peru",
-    "competitions": 44,
+    "competitions": 45,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 10
+    "podiums": 11
   },
   {
     "name": "Paolo Jose Paredes Sanchez",
@@ -31490,11 +31490,11 @@
     "gender": "m",
     "id": "2019VALE16",
     "countryId": "Peru",
-    "competitions": 14,
+    "competitions": 15,
     "lastCompetition": {
-      "competitionId": "PlazaCenterCubeLimaVI2025",
-      "competitionName": "Plaza Center Cube Lima VI 2025",
-      "competitionDate": "2025-04-05",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
     "podiums": 2
@@ -39204,14 +39204,14 @@
     "gender": "m",
     "id": "2022PREC01",
     "countryId": "Peru",
-    "competitions": 38,
+    "competitions": 39,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
-    "podiums": 19
+    "podiums": 21
   },
   {
     "name": "Diego André Gonzales Sánchez",
@@ -40058,11 +40058,11 @@
     "gender": "m",
     "id": "2023RODA01",
     "countryId": "Peru",
-    "competitions": 8,
+    "competitions": 9,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -41892,11 +41892,11 @@
     "gender": "m",
     "id": "2023CIEZ01",
     "countryId": "Peru",
-    "competitions": 17,
+    "competitions": 18,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -56746,11 +56746,11 @@
     "gender": "m",
     "id": "2025RODR02",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TCGSpacelVSantaAnita2025",
-      "competitionName": "TCG Space lV Santa Anita 2025",
-      "competitionDate": "2025-01-04",
+      "competitionId": "ZomblindersLima2025",
+      "competitionName": "Zomblinders Lima 2025",
+      "competitionDate": "2025-11-01",
       "competitionCountryIso": "PE"
     },
     "podiums": 0

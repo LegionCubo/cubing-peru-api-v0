@@ -172,19 +172,19 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 76,
+    "competitions": 77,
     "lastCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 108,
-    "competitionsDelegated": 57,
+    "podiums": 110,
+    "competitionsDelegated": 58,
     "lastDelegatedCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     }
   },

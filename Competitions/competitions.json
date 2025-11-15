@@ -27,6 +27,113 @@
     "competitionEndDate": "2025-12-20"
   },
   {
+    "id": "ArmandoSuenosBlenkir2025",
+    "name": "Armando Sueños Blenkir Huancayo 2025",
+    "venue": "Colegio Blenkir - Sede Puente",
+    "latitude": "-12095955",
+    "longitude": "-75205674",
+    "cityName": "Huancayo",
+    "countryId": "Peru",
+    "venueAddress": "Av. Gral. Cordova 1300 - Huancayo",
+    "venueDetails": "Auditorio",
+    "cellName": "Armando Sueños Blenkir 2025",
+    "eventSpecs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
+    ],
+    "organiser": [
+      {
+        "id": "2017NAHU02",
+        "name": "Brayan Boza Ñahuinripa"
+      },
+      {
+        "name": "Cubos Astoria"
+      }
+    ],
+    "competitionDate": "2025-12-13",
+    "competitionEndDate": "2025-12-14"
+  },
+  {
+    "id": "PucallpaalCubo2025",
+    "name": "Pucallpa al Cubo 2025",
+    "venue": "Real Plaza Pucallpa",
+    "latitude": "-8384838",
+    "longitude": "-74555875",
+    "cityName": "Pucallpa",
+    "countryId": "Peru",
+    "venueAddress": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venueDetails": "2 piso, patio de comidas",
+    "cellName": "Pucallpa al Cubo 2025",
+    "eventSpecs": "222 333 333oh 444 clock minx pyram skewb",
+    "wcaDelegate": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ],
+    "organiser": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ],
+    "competitionDate": "2025-12-07",
+    "competitionEndDate": "2025-12-07"
+  },
+  {
+    "id": "PUCPCubingFestivalVIII2025",
+    "name": "PUCP Cubing Festival VIII 2025",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "latitude": "-12069021",
+    "longitude": "-77081132",
+    "cityName": "Lima",
+    "countryId": "Peru",
+    "venueAddress": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venueDetails": "Pabellón Z",
+    "cellName": "PUCP Cubing Festival VIII 2025",
+    "eventSpecs": "222 333 333bf 333mbf 333oh 444 444bf 555 555bf 666 777 clock minx pyram skewb sq1",
+    "wcaDelegate": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
+    ],
+    "organiser": [
+      {
+        "id": "2022AGUI03",
+        "name": "Mateo Aguirre"
+      },
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      },
+      {
+        "name": "PUCP Cubing Community"
+      }
+    ],
+    "competitionDate": "2025-12-07",
+    "competitionEndDate": "2025-12-09"
+  },
+  {
     "id": "CuscoSpring2025",
     "name": "Cusco Spring 2025",
     "venue": "CEP. Santa Rosa de Lima",

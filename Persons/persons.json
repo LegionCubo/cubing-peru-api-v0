@@ -2244,14 +2244,14 @@
     "gender": "m",
     "id": "2013CHIC01",
     "countryId": "Peru",
-    "competitions": 32,
+    "competitions": 33,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 115
+    "podiums": 116
   },
   {
     "name": "Arnaldo Yucra Chipana",
@@ -11064,14 +11064,14 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 76,
+    "competitions": 77,
     "lastCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 108
+    "podiums": 110
   },
   {
     "name": "Angelo Taranco",
@@ -17770,11 +17770,11 @@
     "gender": "f",
     "id": "2017SOLD01",
     "countryId": "Peru",
-    "competitions": 23,
+    "competitions": 24,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingPrimavera2025",
-      "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -18386,11 +18386,11 @@
     "gender": "m",
     "id": "2017ALCA04",
     "countryId": "Peru",
-    "competitions": 7,
+    "competitions": 8,
     "lastCompetition": {
-      "competitionId": "BackToCubingTrujillo2024",
-      "competitionName": "Back To Cubing Trujillo 2024",
-      "competitionDate": "2024-07-14",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 5
@@ -22194,11 +22194,11 @@
     "gender": "m",
     "id": "2017ESPI26",
     "countryId": "Peru",
-    "competitions": 3,
+    "competitions": 4,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -32022,11 +32022,11 @@
     "gender": "m",
     "id": "2019AGUE01",
     "countryId": "Peru",
-    "competitions": 49,
+    "competitions": 50,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 2
@@ -35130,11 +35130,11 @@
     "gender": "m",
     "id": "2021MORA04",
     "countryId": "Peru",
-    "competitions": 9,
+    "competitions": 10,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -35452,14 +35452,14 @@
     "gender": "m",
     "id": "2021ROME02",
     "countryId": "Peru",
-    "competitions": 17,
+    "competitions": 18,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 14
+    "podiums": 16
   },
   {
     "name": "Rogelio Tarek Zambrano Gonzales",
@@ -36124,11 +36124,11 @@
     "gender": "m",
     "id": "2022NUNU03",
     "countryId": "Peru",
-    "competitions": 16,
+    "competitions": 17,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 12
@@ -43348,11 +43348,11 @@
     "gender": "m",
     "id": "2023LEON13",
     "countryId": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -44832,11 +44832,11 @@
     "gender": "f",
     "id": "2023CHUN15",
     "countryId": "Peru",
-    "competitions": 14,
+    "competitions": 15,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -48920,11 +48920,11 @@
     "gender": "m",
     "id": "2023REYE32",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "SpeedcuberPeruIILima2023",
-      "competitionName": "Speedcuber Peru II Lima 2023",
-      "competitionDate": "2023-12-16",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -50180,14 +50180,14 @@
     "gender": "m",
     "id": "2024SANC12",
     "countryId": "Peru",
-    "competitions": 10,
+    "competitions": 11,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 12
+    "podiums": 15
   },
   {
     "name": "Joshua Moises Lachira Hernandez",
@@ -50278,14 +50278,14 @@
     "gender": "m",
     "id": "2024GUZM06",
     "countryId": "Peru",
-    "competitions": 9,
+    "competitions": 10,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 8
+    "podiums": 12
   },
   {
     "name": "Andrés Modesto",
@@ -52728,11 +52728,11 @@
     "gender": "m",
     "id": "2024VALL15",
     "countryId": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -52798,11 +52798,11 @@
     "gender": "m",
     "id": "2024DIAZ13",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "BackToCubingTrujillo2024",
-      "competitionName": "Back To Cubing Trujillo 2024",
-      "competitionDate": "2024-07-14",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -58468,11 +58468,11 @@
     "gender": "m",
     "id": "2025MAMA07",
     "countryId": "Peru",
-    "competitions": 6,
+    "competitions": 7,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingPrimavera2025",
-      "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59406,11 +59406,11 @@
     "gender": "m",
     "id": "2025FIES01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59462,11 +59462,11 @@
     "gender": "m",
     "id": "2025LEON12",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59546,11 +59546,11 @@
     "gender": "m",
     "id": "2025ACEI01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59560,11 +59560,11 @@
     "gender": "m",
     "id": "2025YALL01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59616,11 +59616,11 @@
     "gender": "m",
     "id": "2025CARR26",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59658,11 +59658,11 @@
     "gender": "m",
     "id": "2025SOLA06",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59686,11 +59686,11 @@
     "gender": "m",
     "id": "2025NAMU01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59742,11 +59742,11 @@
     "gender": "m",
     "id": "2025SICC01",
     "countryId": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -60783,6 +60783,202 @@
       "competitionId": "PUCPCubingFestivalVII2025",
       "competitionName": "PUCP Cubing Festival VII 2025",
       "competitionDate": "2025-10-19",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Alessandro Stefano Yldefonso Salazar",
+    "gender": "m",
+    "id": "2025SALA17",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Antonio Heras Echeverría",
+    "gender": "m",
+    "id": "2025ECHE04",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Fabrizio Delgado",
+    "gender": "m",
+    "id": "2025DELG22",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Gabriel Túpac",
+    "gender": "m",
+    "id": "2025TUPA01",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Iván Armas Alcántara",
+    "gender": "m",
+    "id": "2025ALCA09",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Jorge Luis Rodríguez Valdivieso",
+    "gender": "m",
+    "id": "2025VALD12",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Josué Antonio Cerna Nodre",
+    "gender": "m",
+    "id": "2025NODR01",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Juan Sebastián Huamaní Gómez",
+    "gender": "m",
+    "id": "2025GOME34",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Julio Cesar Smith Tirado Marcelo",
+    "gender": "m",
+    "id": "2025MARC24",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Luis Adriano Vázquez Aguilar",
+    "gender": "m",
+    "id": "2025AGUI27",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Mathias Elié Barboza Moreno",
+    "gender": "m",
+    "id": "2025MORE28",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Mauro Sahid Cruz Mantilla",
+    "gender": "m",
+    "id": "2025MANT04",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Nicolás Marcus Paredes Díaz",
+    "gender": "m",
+    "id": "2025DIAZ28",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Patriccio Herrera",
+    "gender": "m",
+    "id": "2025HERR18",
+    "countryId": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0

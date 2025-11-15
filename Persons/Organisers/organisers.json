@@ -411,11 +411,11 @@
       "competitionCountryIso": "PE"
     },
     "podiums": 5,
-    "competitionsOrganised": 11,
+    "competitionsOrganised": 12,
     "lastOrganiserCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     }
   },
@@ -1075,11 +1075,11 @@
     "gender": "f",
     "id": "2017SOLD01",
     "countryId": "Peru",
-    "competitions": 23,
+    "competitions": 24,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingPrimavera2025",
-      "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
     "podiums": 0,
@@ -1369,14 +1369,14 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 76,
+    "competitions": 77,
     "lastCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 108,
+    "podiums": 110,
     "competitionsOrganised": 13,
     "lastOrganiserCompetition": {
       "competitionId": "ZomblindersLima2025",
@@ -1684,19 +1684,19 @@
     "gender": "m",
     "id": "2013CHIC01",
     "countryId": "Peru",
-    "competitions": 32,
+    "competitions": 33,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     },
-    "podiums": 115,
-    "competitionsOrganised": 1,
+    "podiums": 116,
+    "competitionsOrganised": 2,
     "lastOrganiserCompetition": {
-      "competitionId": "TrujilloOpen2025",
-      "competitionName": "Trujillo Open 2025",
-      "competitionDate": "2025-07-20",
+      "competitionId": "TrujilloCubingFest2025",
+      "competitionName": "Trujillo Cubing Fest 2025",
+      "competitionDate": "2025-11-09",
       "competitionCountryIso": "PE"
     }
   },

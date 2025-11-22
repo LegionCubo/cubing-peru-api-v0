@@ -1,13 +1,86 @@
 {
   "222": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2019MAGU04",
+          "personName": "Jose Antonio Cuipal Maguiña",
+          "best": "59",
+          "competitionId": "TCGSpacelVSantaAnita2025",
+          "competitionName": "TCG Space lV Santa Anita 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "134",
+            "165",
+            "177",
+            "149",
+            "59"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2019MAGU04",
+          "personName": "Jose Antonio Cuipal Maguiña",
+          "average": "136",
+          "competitionId": "PeruNationals2025",
+          "competitionName": "Peru Nationals 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "127",
+            "-1",
+            "128",
+            "141",
+            "139"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "best": "148",
+          "competitionId": "TCGSpaceIISantaAnita2023",
+          "competitionName": "TCG Space II Santa Anita 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "148",
+            "467",
+            "394",
+            "498",
+            "470"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "313",
+          "competitionId": "PUCPCubingFestivalIV2025",
+          "competitionName": "PUCP Cubing Festival IV 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "329",
+            "356",
+            "576",
+            "246",
+            "255"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2019MAGU04",
         "personName": "Jose Antonio Cuipal Maguiña",
         "best": "59",
         "competitionId": "TCGSpacelVSantaAnita2025",
         "competitionName": "TCG Space lV Santa Anita 2025",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "134",
           "165",
@@ -15,14 +88,17 @@
           "149",
           "59"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2019MAGU04",
         "personName": "Jose Antonio Cuipal Maguiña",
         "average": "136",
         "competitionId": "PeruNationals2025",
         "competitionName": "Peru Nationals 2025",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "127",
           "-1",
@@ -31,79 +107,90 @@
           "139"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "best": "148",
-        "competitionId": "TCGSpaceIISantaAnita2023",
-        "competitionName": "TCG Space II Santa Anita 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "148",
-          "467",
-          "394",
-          "498",
-          "470"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "313",
-        "competitionId": "PUCPCubingFestivalIV2025",
-        "competitionName": "PUCP Cubing Festival IV 2025",
-        "competitionCountryIso": "PE",
-        "times": [
-          "329",
-          "356",
-          "576",
-          "246",
-          "255"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2019MAGU04",
-      "personName": "Jose Antonio Cuipal Maguiña",
-      "best": "59",
-      "competitionId": "TCGSpacelVSantaAnita2025",
-      "competitionName": "TCG Space lV Santa Anita 2025",
-      "competitionCountryIso": "PE",
-      "times": [
-        "134",
-        "165",
-        "177",
-        "149",
-        "59"
-      ]
-    },
-    "average": {
-      "personId": "2019MAGU04",
-      "personName": "Jose Antonio Cuipal Maguiña",
-      "average": "136",
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionCountryIso": "PE",
-      "times": [
-        "127",
-        "-1",
-        "128",
-        "141",
-        "139"
-      ]
-    }
+    ]
   },
   "333": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2022NUNE01",
+          "personName": "Robert Yomi Cadenas Nuñez",
+          "best": "465",
+          "competitionId": "LimaCuberano2022",
+          "competitionName": "Lima Cuberano 2022",
+          "competitionCountryIso": "PE",
+          "times": [
+            "808",
+            "465",
+            "988",
+            "917",
+            "723"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022NUNE01",
+          "personName": "Robert Yomi Cadenas Nuñez",
+          "average": "629",
+          "competitionId": "PeruNationals2025",
+          "competitionName": "Peru Nationals 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "589",
+            "660",
+            "523",
+            "638",
+            "742"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "best": "728",
+          "competitionId": "OsoCubingFestILima2024",
+          "competitionName": "Oso Cubing Fest I Lima 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1087",
+            "989",
+            "959",
+            "728",
+            "1162"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "949",
+          "competitionId": "PeruNationals2025",
+          "competitionName": "Peru Nationals 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "949",
+            "967",
+            "875",
+            "932",
+            "1064"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2022NUNE01",
         "personName": "Robert Yomi Cadenas Nuñez",
         "best": "465",
         "competitionId": "LimaCuberano2022",
         "competitionName": "Lima Cuberano 2022",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "808",
           "465",
@@ -111,14 +198,17 @@
           "917",
           "723"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2022NUNE01",
         "personName": "Robert Yomi Cadenas Nuñez",
         "average": "629",
         "competitionId": "PeruNationals2025",
         "competitionName": "Peru Nationals 2025",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "589",
           "660",
@@ -127,79 +217,90 @@
           "742"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "best": "728",
-        "competitionId": "OsoCubingFestILima2024",
-        "competitionName": "Oso Cubing Fest I Lima 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "1087",
-          "989",
-          "959",
-          "728",
-          "1162"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "949",
-        "competitionId": "PeruNationals2025",
-        "competitionName": "Peru Nationals 2025",
-        "competitionCountryIso": "PE",
-        "times": [
-          "949",
-          "967",
-          "875",
-          "932",
-          "1064"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2022NUNE01",
-      "personName": "Robert Yomi Cadenas Nuñez",
-      "best": "465",
-      "competitionId": "LimaCuberano2022",
-      "competitionName": "Lima Cuberano 2022",
-      "competitionCountryIso": "PE",
-      "times": [
-        "808",
-        "465",
-        "988",
-        "917",
-        "723"
-      ]
-    },
-    "average": {
-      "personId": "2022NUNE01",
-      "personName": "Robert Yomi Cadenas Nuñez",
-      "average": "629",
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionCountryIso": "PE",
-      "times": [
-        "589",
-        "660",
-        "523",
-        "638",
-        "742"
-      ]
-    }
+    ]
   },
   "333bf": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2013HUAN29",
+          "personName": "Gianfranco Huanqui",
+          "best": "1466",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1466",
+            "1688",
+            "-1",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2013HUAN29",
+          "personName": "Gianfranco Huanqui",
+          "average": "1704",
+          "competitionId": "SpeedsolvingGeekcuber2023",
+          "competitionName": "Speedsolving Geekcuber 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1615",
+            "1860",
+            "1637",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2011RIGG02",
+          "personName": "Jael Riggenbach",
+          "best": "3392",
+          "competitionId": "200Peru2024",
+          "competitionName": "200 Perú 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "6274",
+            "-1",
+            "3392",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2011RIGG02",
+          "personName": "Jael Riggenbach",
+          "average": "4185",
+          "competitionId": "LatinAmericaCubingTourLima2017",
+          "competitionName": "Latin America Cubing Tour - Lima 2017",
+          "competitionCountryIso": "PE",
+          "times": [
+            "4096",
+            "4171",
+            "4287",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2013HUAN29",
         "personName": "Gianfranco Huanqui",
         "best": "1466",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "1466",
           "1688",
@@ -207,14 +308,17 @@
           "0",
           "0"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2013HUAN29",
         "personName": "Gianfranco Huanqui",
         "average": "1704",
         "competitionId": "SpeedsolvingGeekcuber2023",
         "competitionName": "Speedsolving Geekcuber 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "1615",
           "1860",
@@ -223,79 +327,150 @@
           "0"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2011RIGG02",
-        "personName": "Jael Riggenbach",
-        "best": "3392",
-        "competitionId": "200Peru2024",
-        "competitionName": "200 Perú 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "6274",
-          "-1",
-          "3392",
-          "0",
-          "0"
-        ]
-      },
-      "average": {
-        "personId": "2011RIGG02",
-        "personName": "Jael Riggenbach",
-        "average": "4185",
-        "competitionId": "LatinAmericaCubingTourLima2017",
-        "competitionName": "Latin America Cubing Tour - Lima 2017",
-        "competitionCountryIso": "PE",
-        "times": [
-          "4096",
-          "4171",
-          "4287",
-          "0",
-          "0"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2013HUAN29",
-      "personName": "Gianfranco Huanqui",
-      "best": "1466",
-      "competitionId": "ChosicaCubingCup2023",
-      "competitionName": "Chosica Cubing Cup 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "1466",
-        "1688",
-        "-1",
-        "0",
-        "0"
-      ]
-    },
-    "average": {
-      "personId": "2013HUAN29",
-      "personName": "Gianfranco Huanqui",
-      "average": "1704",
-      "competitionId": "SpeedsolvingGeekcuber2023",
-      "competitionName": "Speedsolving Geekcuber 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "1615",
-        "1860",
-        "1637",
-        "0",
-        "0"
-      ]
-    }
+    ]
   },
   "333fm": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2018DIAZ09",
+          "personName": "Paolo Gallegos",
+          "best": "24",
+          "competitionId": "PUCPZomblinders2024",
+          "competitionName": "PUCP Zomblinders 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "24",
+            "37",
+            "27",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "personId": "2016MILL07",
+          "personName": "Pedro Giuseppe Garcia Milla",
+          "best": "24",
+          "competitionId": "PUCPZomblinders2024",
+          "competitionName": "PUCP Zomblinders 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "-1",
+            "24",
+            "-1",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "personId": "2018DIAZ09",
+          "personName": "Paolo Gallegos",
+          "best": "24",
+          "competitionId": "PUCPFMCAttempt12025",
+          "competitionName": "PUCP FMC Attempt 1 - 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "24",
+            "27",
+            "29",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "personId": "2013CHIC01",
+          "personName": "Josué Esteban Bacilio Chicoma",
+          "best": "24",
+          "competitionId": "PeruNationals2025",
+          "competitionName": "Peru Nationals 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "37",
+            "24",
+            "41",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "personId": "2016MILL07",
+          "personName": "Pedro Giuseppe Garcia Milla",
+          "best": "24",
+          "competitionId": "PeruNationals2025",
+          "competitionName": "Peru Nationals 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "32",
+            "24",
+            "32",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2018DIAZ09",
+          "personName": "Paolo Gallegos",
+          "average": "2667",
+          "competitionId": "PUCPFMCAttempt12025",
+          "competitionName": "PUCP FMC Attempt 1 - 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "24",
+            "27",
+            "29",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022RIVA03",
+          "personName": "Ximena Paola Bazán Rivasplata",
+          "best": "45",
+          "competitionId": "LoveIsBlindLima2024",
+          "competitionName": "Love Is Blind Lima 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "45",
+            "-2",
+            "-2",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2019CHUK01",
+          "personName": "Keny Chu",
+          "average": "5600",
+          "competitionId": "PUCPFMCAttempt12025",
+          "competitionName": "PUCP FMC Attempt 1 - 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "50",
+            "50",
+            "68",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2018DIAZ09",
         "personName": "Paolo Gallegos",
         "best": "24",
         "competitionId": "PUCPZomblinders2024",
         "competitionName": "PUCP Zomblinders 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "24",
           "37",
@@ -304,13 +479,80 @@
           "0"
         ]
       },
-      "average": {
+      {
+        "personId": "2016MILL07",
+        "personName": "Pedro Giuseppe Garcia Milla",
+        "best": "24",
+        "competitionId": "PUCPZomblinders2024",
+        "competitionName": "PUCP Zomblinders 2024",
+        "competitionCountryIso": "PE",
+        "gender": "m",
+        "times": [
+          "-1",
+          "24",
+          "-1",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "personId": "2018DIAZ09",
+        "personName": "Paolo Gallegos",
+        "best": "24",
+        "competitionId": "PUCPFMCAttempt12025",
+        "competitionName": "PUCP FMC Attempt 1 - 2025",
+        "competitionCountryIso": "PE",
+        "gender": "m",
+        "times": [
+          "24",
+          "27",
+          "29",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "personId": "2013CHIC01",
+        "personName": "Josué Esteban Bacilio Chicoma",
+        "best": "24",
+        "competitionId": "PeruNationals2025",
+        "competitionName": "Peru Nationals 2025",
+        "competitionCountryIso": "PE",
+        "gender": "m",
+        "times": [
+          "37",
+          "24",
+          "41",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "personId": "2016MILL07",
+        "personName": "Pedro Giuseppe Garcia Milla",
+        "best": "24",
+        "competitionId": "PeruNationals2025",
+        "competitionName": "Peru Nationals 2025",
+        "competitionCountryIso": "PE",
+        "gender": "m",
+        "times": [
+          "32",
+          "24",
+          "32",
+          "0",
+          "0"
+        ]
+      }
+    ],
+    "average": [
+      {
         "personId": "2018DIAZ09",
         "personName": "Paolo Gallegos",
         "average": "2667",
         "competitionId": "PUCPFMCAttempt12025",
         "competitionName": "PUCP FMC Attempt 1 - 2025",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "24",
           "27",
@@ -319,79 +561,90 @@
           "0"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022RIVA03",
-        "personName": "Ximena Paola Bazán Rivasplata",
-        "best": "45",
-        "competitionId": "LoveIsBlindLima2024",
-        "competitionName": "Love Is Blind Lima 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "45",
-          "-2",
-          "-2",
-          "0",
-          "0"
-        ]
-      },
-      "average": {
-        "personId": "2019CHUK01",
-        "personName": "Keny Chu",
-        "average": "5600",
-        "competitionId": "PUCPFMCAttempt12025",
-        "competitionName": "PUCP FMC Attempt 1 - 2025",
-        "competitionCountryIso": "PE",
-        "times": [
-          "50",
-          "50",
-          "68",
-          "0",
-          "0"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2018DIAZ09",
-      "personName": "Paolo Gallegos",
-      "best": "24",
-      "competitionId": "PUCPZomblinders2024",
-      "competitionName": "PUCP Zomblinders 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "24",
-        "37",
-        "27",
-        "0",
-        "0"
-      ]
-    },
-    "average": {
-      "personId": "2018DIAZ09",
-      "personName": "Paolo Gallegos",
-      "average": "2667",
-      "competitionId": "PUCPFMCAttempt12025",
-      "competitionName": "PUCP FMC Attempt 1 - 2025",
-      "competitionCountryIso": "PE",
-      "times": [
-        "24",
-        "27",
-        "29",
-        "0",
-        "0"
-      ]
-    }
+    ]
   },
   "333oh": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2022AGUI03",
+          "personName": "Mateo Aguirre",
+          "best": "683",
+          "competitionId": "CalentandoMotoresUTDTS2024",
+          "competitionName": "Calentando Motores Di Tella Sábado 2024",
+          "competitionCountryIso": "AR",
+          "times": [
+            "683",
+            "1552",
+            "1106",
+            "1198",
+            "1321"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022AGUI03",
+          "personName": "Mateo Aguirre",
+          "average": "1071",
+          "competitionId": "DeCubosyTodaslasSangresAndah2024",
+          "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1010",
+            "1098",
+            "1435",
+            "1047",
+            "1067"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "best": "1716",
+          "competitionId": "HuancayoSummer2023",
+          "competitionName": "Huancayo Summer 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "2311",
+            "2403",
+            "2549",
+            "1852",
+            "1716"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "1997",
+          "competitionId": "PlazaCenterCubeLimalll2024",
+          "competitionName": "Plaza Center Cube Lima lll 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1823",
+            "1946",
+            "2172",
+            "2505",
+            "1872"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2022AGUI03",
         "personName": "Mateo Aguirre",
         "best": "683",
         "competitionId": "CalentandoMotoresUTDTS2024",
         "competitionName": "Calentando Motores Di Tella Sábado 2024",
         "competitionCountryIso": "AR",
+        "gender": "m",
         "times": [
           "683",
           "1552",
@@ -399,14 +652,17 @@
           "1198",
           "1321"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2022AGUI03",
         "personName": "Mateo Aguirre",
         "average": "1071",
         "competitionId": "DeCubosyTodaslasSangresAndah2024",
         "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "1010",
           "1098",
@@ -415,79 +671,90 @@
           "1067"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "best": "1716",
-        "competitionId": "HuancayoSummer2023",
-        "competitionName": "Huancayo Summer 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "2311",
-          "2403",
-          "2549",
-          "1852",
-          "1716"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "1997",
-        "competitionId": "PlazaCenterCubeLimalll2024",
-        "competitionName": "Plaza Center Cube Lima lll 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "1823",
-          "1946",
-          "2172",
-          "2505",
-          "1872"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2022AGUI03",
-      "personName": "Mateo Aguirre",
-      "best": "683",
-      "competitionId": "CalentandoMotoresUTDTS2024",
-      "competitionName": "Calentando Motores Di Tella Sábado 2024",
-      "competitionCountryIso": "AR",
-      "times": [
-        "683",
-        "1552",
-        "1106",
-        "1198",
-        "1321"
-      ]
-    },
-    "average": {
-      "personId": "2022AGUI03",
-      "personName": "Mateo Aguirre",
-      "average": "1071",
-      "competitionId": "DeCubosyTodaslasSangresAndah2024",
-      "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "1010",
-        "1098",
-        "1435",
-        "1047",
-        "1067"
-      ]
-    }
+    ]
   },
   "444": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "best": "2322",
+          "competitionId": "LimaCubinvierno2023",
+          "competitionName": "Lima Cubinvierno 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "2811",
+            "2794",
+            "2322",
+            "2850",
+            "2780"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "average": "2568",
+          "competitionId": "RealGeekcuberPucallpa2023",
+          "competitionName": "Real Geekcuber Pucallpa 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "2532",
+            "2439",
+            "3192",
+            "2509",
+            "2663"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "best": "3358",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "6373",
+            "4914",
+            "3358",
+            "5236",
+            "4491"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "4349",
+          "competitionId": "PeruNationals2024",
+          "competitionName": "Peru Nationals 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "4403",
+            "4192",
+            "-1",
+            "4087",
+            "4453"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "best": "2322",
         "competitionId": "LimaCubinvierno2023",
         "competitionName": "Lima Cubinvierno 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "2811",
           "2794",
@@ -495,14 +762,17 @@
           "2850",
           "2780"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "average": "2568",
         "competitionId": "RealGeekcuberPucallpa2023",
         "competitionName": "Real Geekcuber Pucallpa 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "2532",
           "2439",
@@ -511,79 +781,58 @@
           "2663"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "best": "3358",
-        "competitionId": "ChosicaCubingCup2023",
-        "competitionName": "Chosica Cubing Cup 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "6373",
-          "4914",
-          "3358",
-          "5236",
-          "4491"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "4349",
-        "competitionId": "PeruNationals2024",
-        "competitionName": "Peru Nationals 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "4403",
-          "4192",
-          "-1",
-          "4087",
-          "4453"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "best": "2322",
-      "competitionId": "LimaCubinvierno2023",
-      "competitionName": "Lima Cubinvierno 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "2811",
-        "2794",
-        "2322",
-        "2850",
-        "2780"
-      ]
-    },
-    "average": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "average": "2568",
-      "competitionId": "RealGeekcuberPucallpa2023",
-      "competitionName": "Real Geekcuber Pucallpa 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "2532",
-        "2439",
-        "3192",
-        "2509",
-        "2663"
-      ]
-    }
+    ]
   },
   "444bf": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2013HUAN29",
+          "personName": "Gianfranco Huanqui",
+          "best": "16814",
+          "competitionId": "CubingUSANationals2017",
+          "competitionName": "CubingUSA Nationals 2017",
+          "competitionCountryIso": "US",
+          "times": [
+            "-1",
+            "-1",
+            "16814",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2013HUAN29",
+          "personName": "Gianfranco Huanqui",
+          "average": "35090",
+          "competitionId": "PeruNationals2024",
+          "competitionName": "Peru Nationals 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "31467",
+            "39789",
+            "34013",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [],
+      "average": []
+    },
+    "single": [
+      {
         "personId": "2013HUAN29",
         "personName": "Gianfranco Huanqui",
         "best": "16814",
         "competitionId": "CubingUSANationals2017",
         "competitionName": "CubingUSA Nationals 2017",
         "competitionCountryIso": "US",
+        "gender": "m",
         "times": [
           "-1",
           "-1",
@@ -591,14 +840,17 @@
           "0",
           "0"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2013HUAN29",
         "personName": "Gianfranco Huanqui",
         "average": "35090",
         "competitionId": "PeruNationals2024",
         "competitionName": "Peru Nationals 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "31467",
           "39789",
@@ -607,48 +859,90 @@
           "0"
         ]
       }
-    },
-    "f": {},
-    "single": {
-      "personId": "2013HUAN29",
-      "personName": "Gianfranco Huanqui",
-      "best": "16814",
-      "competitionId": "CubingUSANationals2017",
-      "competitionName": "CubingUSA Nationals 2017",
-      "competitionCountryIso": "US",
-      "times": [
-        "-1",
-        "-1",
-        "16814",
-        "0",
-        "0"
-      ]
-    },
-    "average": {
-      "personId": "2013HUAN29",
-      "personName": "Gianfranco Huanqui",
-      "average": "35090",
-      "competitionId": "PeruNationals2024",
-      "competitionName": "Peru Nationals 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "31467",
-        "39789",
-        "34013",
-        "0",
-        "0"
-      ]
-    }
+    ]
   },
   "555": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "best": "4053",
+          "competitionId": "PlazaCenterCubeLimaI2023",
+          "competitionName": "Plaza Center Cube Lima I 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "4844",
+            "5296",
+            "4991",
+            "4997",
+            "4053"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "average": "4758",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "4605",
+            "4608",
+            "5700",
+            "4920",
+            "4747"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "best": "7143",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "8190",
+            "9185",
+            "9091",
+            "7143",
+            "8732"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "8045",
+          "competitionId": "PlazaCenterCubeLimalll2024",
+          "competitionName": "Plaza Center Cube Lima lll 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "10641",
+            "8472",
+            "7751",
+            "7758",
+            "7905"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "best": "4053",
         "competitionId": "PlazaCenterCubeLimaI2023",
         "competitionName": "Plaza Center Cube Lima I 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "4844",
           "5296",
@@ -656,14 +950,17 @@
           "4997",
           "4053"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "average": "4758",
         "competitionId": "ChosicaCubingCup2023",
         "competitionName": "Chosica Cubing Cup 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "4605",
           "4608",
@@ -672,79 +969,58 @@
           "4747"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "best": "7143",
-        "competitionId": "ChosicaCubingCup2023",
-        "competitionName": "Chosica Cubing Cup 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "8190",
-          "9185",
-          "9091",
-          "7143",
-          "8732"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "8045",
-        "competitionId": "PlazaCenterCubeLimalll2024",
-        "competitionName": "Plaza Center Cube Lima lll 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "10641",
-          "8472",
-          "7751",
-          "7758",
-          "7905"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "best": "4053",
-      "competitionId": "PlazaCenterCubeLimaI2023",
-      "competitionName": "Plaza Center Cube Lima I 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "4844",
-        "5296",
-        "4991",
-        "4997",
-        "4053"
-      ]
-    },
-    "average": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "average": "4758",
-      "competitionId": "ChosicaCubingCup2023",
-      "competitionName": "Chosica Cubing Cup 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "4605",
-        "4608",
-        "5700",
-        "4920",
-        "4747"
-      ]
-    }
+    ]
   },
   "555bf": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2013HUAN29",
+          "personName": "Gianfranco Huanqui",
+          "best": "54747",
+          "competitionId": "NacionalPerubik2016",
+          "competitionName": "Campeonato Nacional Perubik 2016",
+          "competitionCountryIso": "PE",
+          "times": [
+            "-1",
+            "-1",
+            "54747",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2013APAZ01",
+          "personName": "Yehude Rudy Canaza Apaza",
+          "average": "100300",
+          "competitionId": "UnivalleSpring2017",
+          "competitionName": "Univalle Spring 2017",
+          "competitionCountryIso": "BO",
+          "times": [
+            "144800",
+            "86000",
+            "70200",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [],
+      "average": []
+    },
+    "single": [
+      {
         "personId": "2013HUAN29",
         "personName": "Gianfranco Huanqui",
         "best": "54747",
         "competitionId": "NacionalPerubik2016",
         "competitionName": "Campeonato Nacional Perubik 2016",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "-1",
           "-1",
@@ -752,14 +1028,17 @@
           "0",
           "0"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2013APAZ01",
         "personName": "Yehude Rudy Canaza Apaza",
         "average": "100300",
         "competitionId": "UnivalleSpring2017",
         "competitionName": "Univalle Spring 2017",
         "competitionCountryIso": "BO",
+        "gender": "m",
         "times": [
           "144800",
           "86000",
@@ -768,48 +1047,90 @@
           "0"
         ]
       }
-    },
-    "f": {},
-    "single": {
-      "personId": "2013HUAN29",
-      "personName": "Gianfranco Huanqui",
-      "best": "54747",
-      "competitionId": "NacionalPerubik2016",
-      "competitionName": "Campeonato Nacional Perubik 2016",
-      "competitionCountryIso": "PE",
-      "times": [
-        "-1",
-        "-1",
-        "54747",
-        "0",
-        "0"
-      ]
-    },
-    "average": {
-      "personId": "2013APAZ01",
-      "personName": "Yehude Rudy Canaza Apaza",
-      "average": "100300",
-      "competitionId": "UnivalleSpring2017",
-      "competitionName": "Univalle Spring 2017",
-      "competitionCountryIso": "BO",
-      "times": [
-        "144800",
-        "86000",
-        "70200",
-        "0",
-        "0"
-      ]
-    }
+    ]
   },
   "666": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "best": "8159",
+          "competitionId": "ChosicasBigShow2024",
+          "competitionName": "Chosica's Big Show 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "9446",
+            "8915",
+            "8159",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "average": "8840",
+          "competitionId": "ChosicasBigShow2024",
+          "competitionName": "Chosica's Big Show 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "9446",
+            "8915",
+            "8159",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "best": "13981",
+          "competitionId": "CubeForceLima2023",
+          "competitionName": "Cube Force Lima 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "15467",
+            "13981",
+            "16442",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "average": "15082",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "15182",
+            "15582",
+            "14483",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "best": "8159",
         "competitionId": "ChosicasBigShow2024",
         "competitionName": "Chosica's Big Show 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "9446",
           "8915",
@@ -817,14 +1138,17 @@
           "0",
           "0"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "average": "8840",
         "competitionId": "ChosicasBigShow2024",
         "competitionName": "Chosica's Big Show 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "9446",
           "8915",
@@ -833,79 +1157,90 @@
           "0"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "best": "13981",
-        "competitionId": "CubeForceLima2023",
-        "competitionName": "Cube Force Lima 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "15467",
-          "13981",
-          "16442",
-          "0",
-          "0"
-        ]
-      },
-      "average": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "average": "15082",
-        "competitionId": "ChosicaCubingCup2023",
-        "competitionName": "Chosica Cubing Cup 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "15182",
-          "15582",
-          "14483",
-          "0",
-          "0"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "best": "8159",
-      "competitionId": "ChosicasBigShow2024",
-      "competitionName": "Chosica's Big Show 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "9446",
-        "8915",
-        "8159",
-        "0",
-        "0"
-      ]
-    },
-    "average": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "average": "8840",
-      "competitionId": "ChosicasBigShow2024",
-      "competitionName": "Chosica's Big Show 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "9446",
-        "8915",
-        "8159",
-        "0",
-        "0"
-      ]
-    }
+    ]
   },
   "777": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "best": "12909",
+          "competitionId": "PeruNationals2023",
+          "competitionName": "Peru Nationals 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "13961",
+            "12909",
+            "15783",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2015TELL01",
+          "personName": "Pedro Alejandro Condo Tellez",
+          "average": "13837",
+          "competitionId": "ChosicasBigShow2024",
+          "competitionName": "Chosica's Big Show 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "13591",
+            "14368",
+            "13552",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "best": "23456",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "25117",
+            "25985",
+            "23456",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "average": "24853",
+          "competitionId": "ChosicaCubingCup2023",
+          "competitionName": "Chosica Cubing Cup 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "25117",
+            "25985",
+            "23456",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "best": "12909",
         "competitionId": "PeruNationals2023",
         "competitionName": "Peru Nationals 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "13961",
           "12909",
@@ -913,14 +1248,17 @@
           "0",
           "0"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2015TELL01",
         "personName": "Pedro Alejandro Condo Tellez",
         "average": "13837",
         "competitionId": "ChosicasBigShow2024",
         "competitionName": "Chosica's Big Show 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "13591",
           "14368",
@@ -929,79 +1267,90 @@
           "0"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "best": "23456",
-        "competitionId": "ChosicaCubingCup2023",
-        "competitionName": "Chosica Cubing Cup 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "25117",
-          "25985",
-          "23456",
-          "0",
-          "0"
-        ]
-      },
-      "average": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "average": "24853",
-        "competitionId": "ChosicaCubingCup2023",
-        "competitionName": "Chosica Cubing Cup 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "25117",
-          "25985",
-          "23456",
-          "0",
-          "0"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "best": "12909",
-      "competitionId": "PeruNationals2023",
-      "competitionName": "Peru Nationals 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "13961",
-        "12909",
-        "15783",
-        "0",
-        "0"
-      ]
-    },
-    "average": {
-      "personId": "2015TELL01",
-      "personName": "Pedro Alejandro Condo Tellez",
-      "average": "13837",
-      "competitionId": "ChosicasBigShow2024",
-      "competitionName": "Chosica's Big Show 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "13591",
-        "14368",
-        "13552",
-        "0",
-        "0"
-      ]
-    }
+    ]
   },
   "clock": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2016SUZU03",
+          "personName": "Andrés Hisashi Suzuki Cabrera",
+          "best": "310",
+          "competitionId": "PUCPCubingFestivalV2025",
+          "competitionName": "PUCP Cubing Festival V 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "472",
+            "-1",
+            "310",
+            "354",
+            "390"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2016SUZU03",
+          "personName": "Andrés Hisashi Suzuki Cabrera",
+          "average": "405",
+          "competitionId": "PUCPCubingFestivalV2025",
+          "competitionName": "PUCP Cubing Festival V 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "472",
+            "-1",
+            "310",
+            "354",
+            "390"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022RIVA03",
+          "personName": "Ximena Paola Bazán Rivasplata",
+          "best": "440",
+          "competitionId": "RealCubeIILima2023",
+          "competitionName": "Real Cube II Lima 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "571",
+            "624",
+            "440",
+            "621",
+            "562"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022RIVA03",
+          "personName": "Ximena Paola Bazán Rivasplata",
+          "average": "554",
+          "competitionId": "CaballerodelosMaresLima2024",
+          "competitionName": "Caballero de los Mares Lima 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "494",
+            "538",
+            "560",
+            "565",
+            "-1"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2016SUZU03",
         "personName": "Andrés Hisashi Suzuki Cabrera",
         "best": "310",
         "competitionId": "PUCPCubingFestivalV2025",
         "competitionName": "PUCP Cubing Festival V 2025",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "472",
           "-1",
@@ -1009,14 +1358,17 @@
           "354",
           "390"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2016SUZU03",
         "personName": "Andrés Hisashi Suzuki Cabrera",
         "average": "405",
         "competitionId": "PUCPCubingFestivalV2025",
         "competitionName": "PUCP Cubing Festival V 2025",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "472",
           "-1",
@@ -1025,79 +1377,90 @@
           "390"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022RIVA03",
-        "personName": "Ximena Paola Bazán Rivasplata",
-        "best": "440",
-        "competitionId": "RealCubeIILima2023",
-        "competitionName": "Real Cube II Lima 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "571",
-          "624",
-          "440",
-          "621",
-          "562"
-        ]
-      },
-      "average": {
-        "personId": "2022RIVA03",
-        "personName": "Ximena Paola Bazán Rivasplata",
-        "average": "554",
-        "competitionId": "CaballerodelosMaresLima2024",
-        "competitionName": "Caballero de los Mares Lima 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "494",
-          "538",
-          "560",
-          "565",
-          "-1"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2016SUZU03",
-      "personName": "Andrés Hisashi Suzuki Cabrera",
-      "best": "310",
-      "competitionId": "PUCPCubingFestivalV2025",
-      "competitionName": "PUCP Cubing Festival V 2025",
-      "competitionCountryIso": "PE",
-      "times": [
-        "472",
-        "-1",
-        "310",
-        "354",
-        "390"
-      ]
-    },
-    "average": {
-      "personId": "2016SUZU03",
-      "personName": "Andrés Hisashi Suzuki Cabrera",
-      "average": "405",
-      "competitionId": "PUCPCubingFestivalV2025",
-      "competitionName": "PUCP Cubing Festival V 2025",
-      "competitionCountryIso": "PE",
-      "times": [
-        "472",
-        "-1",
-        "310",
-        "354",
-        "390"
-      ]
-    }
+    ]
   },
   "minx": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2013HUAN30",
+          "personName": "Juan Pablo Huanqui",
+          "best": "2524",
+          "competitionId": "LimaCuberano2022",
+          "competitionName": "Lima Cuberano 2022",
+          "competitionCountryIso": "PE",
+          "times": [
+            "3521",
+            "3453",
+            "3507",
+            "2524",
+            "3272"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2013HUAN30",
+          "personName": "Juan Pablo Huanqui",
+          "average": "3039",
+          "competitionId": "WuxiOpen2019",
+          "competitionName": "Wuxi Open 2019",
+          "competitionCountryIso": "CN",
+          "times": [
+            "3012",
+            "2850",
+            "3119",
+            "2997",
+            "3107"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "best": "3911",
+          "competitionId": "SanMarcosOpen2023",
+          "competitionName": "San Marcos Open 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "3911",
+            "5523",
+            "5043",
+            "4855",
+            "4134"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022VILL04",
+          "personName": "Tyffany Villanueva",
+          "average": "4561",
+          "competitionId": "LaTiendaCuberaFest2023",
+          "competitionName": "La Tienda Cubera Fest 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "4675",
+            "4513",
+            "4402",
+            "4494",
+            "4834"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2013HUAN30",
         "personName": "Juan Pablo Huanqui",
         "best": "2524",
         "competitionId": "LimaCuberano2022",
         "competitionName": "Lima Cuberano 2022",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "3521",
           "3453",
@@ -1105,14 +1468,17 @@
           "2524",
           "3272"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2013HUAN30",
         "personName": "Juan Pablo Huanqui",
         "average": "3039",
         "competitionId": "WuxiOpen2019",
         "competitionName": "Wuxi Open 2019",
         "competitionCountryIso": "CN",
+        "gender": "m",
         "times": [
           "3012",
           "2850",
@@ -1121,79 +1487,90 @@
           "3107"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "best": "3911",
-        "competitionId": "SanMarcosOpen2023",
-        "competitionName": "San Marcos Open 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "3911",
-          "5523",
-          "5043",
-          "4855",
-          "4134"
-        ]
-      },
-      "average": {
-        "personId": "2022VILL04",
-        "personName": "Tyffany Villanueva",
-        "average": "4561",
-        "competitionId": "LaTiendaCuberaFest2023",
-        "competitionName": "La Tienda Cubera Fest 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "4675",
-          "4513",
-          "4402",
-          "4494",
-          "4834"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2013HUAN30",
-      "personName": "Juan Pablo Huanqui",
-      "best": "2524",
-      "competitionId": "LimaCuberano2022",
-      "competitionName": "Lima Cuberano 2022",
-      "competitionCountryIso": "PE",
-      "times": [
-        "3521",
-        "3453",
-        "3507",
-        "2524",
-        "3272"
-      ]
-    },
-    "average": {
-      "personId": "2013HUAN30",
-      "personName": "Juan Pablo Huanqui",
-      "average": "3039",
-      "competitionId": "WuxiOpen2019",
-      "competitionName": "Wuxi Open 2019",
-      "competitionCountryIso": "CN",
-      "times": [
-        "3012",
-        "2850",
-        "3119",
-        "2997",
-        "3107"
-      ]
-    }
+    ]
   },
   "pyram": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2019MAGU04",
+          "personName": "Jose Antonio Cuipal Maguiña",
+          "best": "103",
+          "competitionId": "TCGSpacelllSantaAnita2024",
+          "competitionName": "TCG Space lll Santa Anita 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "549",
+            "103",
+            "721",
+            "576",
+            "237"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2021DIAZ01",
+          "personName": "Jeyson Paul Espinoza Diaz",
+          "average": "210",
+          "competitionId": "LaTiendaCuberaFest2023",
+          "competitionName": "La Tienda Cubera Fest 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "182",
+            "251",
+            "197",
+            "178",
+            "454"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "best": "247",
+          "competitionId": "TCGSpaceSantaAnita2023",
+          "competitionName": "TCG Space Santa Anita 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "845",
+            "247",
+            "466",
+            "473",
+            "546"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "433",
+          "competitionId": "PlazaCenterCubeLimaII2023",
+          "competitionName": "Plaza Center Cube Lima II 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "396",
+            "429",
+            "395",
+            "474",
+            "631"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2019MAGU04",
         "personName": "Jose Antonio Cuipal Maguiña",
         "best": "103",
         "competitionId": "TCGSpacelllSantaAnita2024",
         "competitionName": "TCG Space lll Santa Anita 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "549",
           "103",
@@ -1201,14 +1578,17 @@
           "576",
           "237"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2021DIAZ01",
         "personName": "Jeyson Paul Espinoza Diaz",
         "average": "210",
         "competitionId": "LaTiendaCuberaFest2023",
         "competitionName": "La Tienda Cubera Fest 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "182",
           "251",
@@ -1217,79 +1597,90 @@
           "454"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "best": "247",
-        "competitionId": "TCGSpaceSantaAnita2023",
-        "competitionName": "TCG Space Santa Anita 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "845",
-          "247",
-          "466",
-          "473",
-          "546"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "433",
-        "competitionId": "PlazaCenterCubeLimaII2023",
-        "competitionName": "Plaza Center Cube Lima II 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "396",
-          "429",
-          "395",
-          "474",
-          "631"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2019MAGU04",
-      "personName": "Jose Antonio Cuipal Maguiña",
-      "best": "103",
-      "competitionId": "TCGSpacelllSantaAnita2024",
-      "competitionName": "TCG Space lll Santa Anita 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "549",
-        "103",
-        "721",
-        "576",
-        "237"
-      ]
-    },
-    "average": {
-      "personId": "2021DIAZ01",
-      "personName": "Jeyson Paul Espinoza Diaz",
-      "average": "210",
-      "competitionId": "LaTiendaCuberaFest2023",
-      "competitionName": "La Tienda Cubera Fest 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "182",
-        "251",
-        "197",
-        "178",
-        "454"
-      ]
-    }
+    ]
   },
   "skewb": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2013TEMP01",
+          "personName": "Jhon Alexander Taboada Temple",
+          "best": "132",
+          "competitionId": "CrazyCubesChristmas2017",
+          "competitionName": "Crazy Cubes Christmas 2017",
+          "competitionCountryIso": "PE",
+          "times": [
+            "132",
+            "332",
+            "347",
+            "330",
+            "373"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2013TEMP01",
+          "personName": "Jhon Alexander Taboada Temple",
+          "average": "236",
+          "competitionId": "SpeedsolvingJunin2018",
+          "competitionName": "Speedsolving Junín 2018",
+          "competitionCountryIso": "PE",
+          "times": [
+            "243",
+            "236",
+            "286",
+            "228",
+            "215"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2022RIVA03",
+          "personName": "Ximena Paola Bazán Rivasplata",
+          "best": "312",
+          "competitionId": "PlazaCenterCubeLimaIV2024",
+          "competitionName": "Plaza Center Cube Lima IV 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "507",
+            "312",
+            "627",
+            "768",
+            "796"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2022RIVA03",
+          "personName": "Ximena Paola Bazán Rivasplata",
+          "average": "442",
+          "competitionId": "TCGSpacelllSantaAnita2024",
+          "competitionName": "TCG Space lll Santa Anita 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "785",
+            "467",
+            "372",
+            "487",
+            "331"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2013TEMP01",
         "personName": "Jhon Alexander Taboada Temple",
         "best": "132",
         "competitionId": "CrazyCubesChristmas2017",
         "competitionName": "Crazy Cubes Christmas 2017",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "132",
           "332",
@@ -1297,14 +1688,17 @@
           "330",
           "373"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2013TEMP01",
         "personName": "Jhon Alexander Taboada Temple",
         "average": "236",
         "competitionId": "SpeedsolvingJunin2018",
         "competitionName": "Speedsolving Junín 2018",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "243",
           "236",
@@ -1313,79 +1707,90 @@
           "215"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2022RIVA03",
-        "personName": "Ximena Paola Bazán Rivasplata",
-        "best": "312",
-        "competitionId": "PlazaCenterCubeLimaIV2024",
-        "competitionName": "Plaza Center Cube Lima IV 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "507",
-          "312",
-          "627",
-          "768",
-          "796"
-        ]
-      },
-      "average": {
-        "personId": "2022RIVA03",
-        "personName": "Ximena Paola Bazán Rivasplata",
-        "average": "442",
-        "competitionId": "TCGSpacelllSantaAnita2024",
-        "competitionName": "TCG Space lll Santa Anita 2024",
-        "competitionCountryIso": "PE",
-        "times": [
-          "785",
-          "467",
-          "372",
-          "487",
-          "331"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2013TEMP01",
-      "personName": "Jhon Alexander Taboada Temple",
-      "best": "132",
-      "competitionId": "CrazyCubesChristmas2017",
-      "competitionName": "Crazy Cubes Christmas 2017",
-      "competitionCountryIso": "PE",
-      "times": [
-        "132",
-        "332",
-        "347",
-        "330",
-        "373"
-      ]
-    },
-    "average": {
-      "personId": "2013TEMP01",
-      "personName": "Jhon Alexander Taboada Temple",
-      "average": "236",
-      "competitionId": "SpeedsolvingJunin2018",
-      "competitionName": "Speedsolving Junín 2018",
-      "competitionCountryIso": "PE",
-      "times": [
-        "243",
-        "236",
-        "286",
-        "228",
-        "215"
-      ]
-    }
+    ]
   },
   "sq1": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2016SUZU03",
+          "personName": "Andrés Hisashi Suzuki Cabrera",
+          "best": "463",
+          "competitionId": "ContigoPeruLima2024",
+          "competitionName": "Contigo Peru Lima 2024",
+          "competitionCountryIso": "PE",
+          "times": [
+            "463",
+            "1336",
+            "1243",
+            "1072",
+            "1073"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2016SUZU03",
+          "personName": "Andrés Hisashi Suzuki Cabrera",
+          "average": "761",
+          "competitionId": "RealCubeIILima2023",
+          "competitionName": "Real Cube II Lima 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1066",
+            "716",
+            "696",
+            "729",
+            "838"
+          ]
+        }
+      ]
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "best": "1863",
+          "competitionId": "CubeForceLima2023",
+          "competitionName": "Cube Force Lima 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "1863",
+            "2825",
+            "3663",
+            "2854",
+            "4341"
+          ]
+        }
+      ],
+      "average": [
+        {
+          "personId": "2020MAYT01",
+          "personName": "Ingrit Mayta",
+          "average": "2879",
+          "competitionId": "SanMarcosOpen2023",
+          "competitionName": "San Marcos Open 2023",
+          "competitionCountryIso": "PE",
+          "times": [
+            "2439",
+            "3240",
+            "3050",
+            "2439",
+            "3148"
+          ]
+        }
+      ]
+    },
+    "single": [
+      {
         "personId": "2016SUZU03",
         "personName": "Andrés Hisashi Suzuki Cabrera",
         "best": "463",
         "competitionId": "ContigoPeruLima2024",
         "competitionName": "Contigo Peru Lima 2024",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "463",
           "1336",
@@ -1393,14 +1798,17 @@
           "1072",
           "1073"
         ]
-      },
-      "average": {
+      }
+    ],
+    "average": [
+      {
         "personId": "2016SUZU03",
         "personName": "Andrés Hisashi Suzuki Cabrera",
         "average": "761",
         "competitionId": "RealCubeIILima2023",
         "competitionName": "Real Cube II Lima 2023",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "1066",
           "716",
@@ -1409,79 +1817,58 @@
           "838"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "best": "1863",
-        "competitionId": "CubeForceLima2023",
-        "competitionName": "Cube Force Lima 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "1863",
-          "2825",
-          "3663",
-          "2854",
-          "4341"
-        ]
-      },
-      "average": {
-        "personId": "2020MAYT01",
-        "personName": "Ingrit Mayta",
-        "average": "2879",
-        "competitionId": "SanMarcosOpen2023",
-        "competitionName": "San Marcos Open 2023",
-        "competitionCountryIso": "PE",
-        "times": [
-          "2439",
-          "3240",
-          "3050",
-          "2439",
-          "3148"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2016SUZU03",
-      "personName": "Andrés Hisashi Suzuki Cabrera",
-      "best": "463",
-      "competitionId": "ContigoPeruLima2024",
-      "competitionName": "Contigo Peru Lima 2024",
-      "competitionCountryIso": "PE",
-      "times": [
-        "463",
-        "1336",
-        "1243",
-        "1072",
-        "1073"
-      ]
-    },
-    "average": {
-      "personId": "2016SUZU03",
-      "personName": "Andrés Hisashi Suzuki Cabrera",
-      "average": "761",
-      "competitionId": "RealCubeIILima2023",
-      "competitionName": "Real Cube II Lima 2023",
-      "competitionCountryIso": "PE",
-      "times": [
-        "1066",
-        "716",
-        "696",
-        "729",
-        "838"
-      ]
-    }
+    ]
   },
   "333mbf": {
     "m": {
-      "single": {
+      "single": [
+        {
+          "personId": "2013HUAN29",
+          "personName": "Gianfranco Huanqui",
+          "best": "710346701",
+          "competitionId": "AventuraCubicaIV2017",
+          "competitionName": "Aventura Cúbica IV 2017",
+          "competitionCountryIso": "PE",
+          "times": [
+            "710346701",
+            "810360006",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": []
+    },
+    "f": {
+      "single": [
+        {
+          "personId": "2011RIGG02",
+          "personName": "Jael Riggenbach",
+          "best": "920181100",
+          "competitionId": "PeruNationals2019",
+          "competitionName": "Peru Nationals 2019",
+          "competitionCountryIso": "PE",
+          "times": [
+            "920181100",
+            "-2",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "average": []
+    },
+    "single": [
+      {
         "personId": "2013HUAN29",
         "personName": "Gianfranco Huanqui",
         "best": "710346701",
         "competitionId": "AventuraCubicaIV2017",
         "competitionName": "Aventura Cúbica IV 2017",
         "competitionCountryIso": "PE",
+        "gender": "m",
         "times": [
           "710346701",
           "810360006",
@@ -1490,38 +1877,6 @@
           "0"
         ]
       }
-    },
-    "f": {
-      "single": {
-        "personId": "2011RIGG02",
-        "personName": "Jael Riggenbach",
-        "best": "920181100",
-        "competitionId": "PeruNationals2019",
-        "competitionName": "Peru Nationals 2019",
-        "competitionCountryIso": "PE",
-        "times": [
-          "920181100",
-          "-2",
-          "0",
-          "0",
-          "0"
-        ]
-      }
-    },
-    "single": {
-      "personId": "2013HUAN29",
-      "personName": "Gianfranco Huanqui",
-      "best": "710346701",
-      "competitionId": "AventuraCubicaIV2017",
-      "competitionName": "Aventura Cúbica IV 2017",
-      "competitionCountryIso": "PE",
-      "times": [
-        "710346701",
-        "810360006",
-        "0",
-        "0",
-        "0"
-      ]
-    }
+    ]
   }
 }

@@ -4,19 +4,19 @@
     "gender": "m",
     "id": "2011RIGG03",
     "countryId": "Peru",
-    "competitions": 129,
+    "competitions": 130,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingPrimavera2025",
-      "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27",
+      "competitionId": "CuscoSpring2025",
+      "competitionName": "Cusco Spring 2025",
+      "competitionDate": "2025-12-06",
       "competitionCountryIso": "PE"
     },
-    "podiums": 128,
-    "competitionsDelegated": 121,
+    "podiums": 129,
+    "competitionsDelegated": 122,
     "lastDelegatedCompetition": {
-      "competitionId": "UNSASpeedcubingPrimavera2025",
-      "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27",
+      "competitionId": "CuscoSpring2025",
+      "competitionName": "Cusco Spring 2025",
+      "competitionDate": "2025-12-06",
       "competitionCountryIso": "PE"
     }
   },
@@ -88,19 +88,19 @@
     "gender": "m",
     "id": "2015CHAL01",
     "countryId": "Peru",
-    "competitions": 67,
+    "competitions": 68,
     "lastCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "PUCPCubingFestivalVIII2025",
+      "competitionName": "PUCP Cubing Festival VIII 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 29,
-    "competitionsDelegated": 50,
+    "competitionsDelegated": 51,
     "lastDelegatedCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "PUCPCubingFestivalVIII2025",
+      "competitionName": "PUCP Cubing Festival VIII 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     }
   },
@@ -172,19 +172,19 @@
     "gender": "m",
     "id": "2016SUZU03",
     "countryId": "Peru",
-    "competitions": 77,
+    "competitions": 78,
     "lastCompetition": {
-      "competitionId": "TrujilloCubingFest2025",
-      "competitionName": "Trujillo Cubing Fest 2025",
-      "competitionDate": "2025-11-09",
+      "competitionId": "PUCPCubingFestivalVIII2025",
+      "competitionName": "PUCP Cubing Festival VIII 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 110,
-    "competitionsDelegated": 58,
+    "podiums": 112,
+    "competitionsDelegated": 60,
     "lastDelegatedCompetition": {
-      "competitionId": "TrujilloCubingFest2025",
-      "competitionName": "Trujillo Cubing Fest 2025",
-      "competitionDate": "2025-11-09",
+      "competitionId": "ArmandoSuenosBlenkir2025",
+      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
+      "competitionDate": "2025-12-13",
       "competitionCountryIso": "PE"
     }
   },
@@ -193,19 +193,19 @@
     "gender": "m",
     "id": "2016MONT33",
     "countryId": "Peru",
-    "competitions": 34,
+    "competitions": 35,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVIII2025",
+      "competitionName": "PUCP Cubing Festival VIII 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 38,
-    "competitionsDelegated": 22,
+    "competitionsDelegated": 23,
     "lastDelegatedCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PUCPCubingFestivalVIII2025",
+      "competitionName": "PUCP Cubing Festival VIII 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     }
   },
@@ -214,19 +214,19 @@
     "gender": "m",
     "id": "2018QUIJ01",
     "countryId": "Peru",
-    "competitions": 62,
+    "competitions": 63,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVII2025",
-      "competitionName": "PUCP Cubing Festival VII 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "PUCPCubingFestivalVIII2025",
+      "competitionName": "PUCP Cubing Festival VIII 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 64,
-    "competitionsDelegated": 57,
+    "competitionsDelegated": 59,
     "lastDelegatedCompetition": {
-      "competitionId": "ZomblindersLima2025",
-      "competitionName": "Zomblinders Lima 2025",
-      "competitionDate": "2025-11-01",
+      "competitionId": "ArmandoSuenosBlenkir2025",
+      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
+      "competitionDate": "2025-12-13",
       "competitionCountryIso": "PE"
     }
   },
@@ -235,19 +235,19 @@
     "gender": "m",
     "id": "2016REAT01",
     "countryId": "Peru",
-    "competitions": 42,
+    "competitions": 44,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PucallpaalCubo2025",
+      "competitionName": "Pucallpa al Cubo 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 64,
-    "competitionsDelegated": 15,
+    "podiums": 68,
+    "competitionsDelegated": 16,
     "lastDelegatedCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "PucallpaalCubo2025",
+      "competitionName": "Pucallpa al Cubo 2025",
+      "competitionDate": "2025-12-07",
       "competitionCountryIso": "PE"
     }
   },

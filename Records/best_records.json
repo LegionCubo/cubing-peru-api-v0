@@ -1322,6 +1322,21 @@
             "621",
             "562"
           ]
+        },
+        {
+          "personId": "2022RIVA03",
+          "personName": "Ximena Paola Bazán Rivasplata",
+          "best": "440",
+          "competitionId": "ArmandoSuenosBlenkir2025",
+          "competitionName": "Armando Sueños Blenkir Huancayo 2025",
+          "competitionCountryIso": "PE",
+          "times": [
+            "440",
+            "855",
+            "603",
+            "652",
+            "679"
+          ]
         }
       ],
       "average": [

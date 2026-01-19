@@ -1,0 +1,109 @@
+{
+  "competitors": 4424,
+  "competitions": 253,
+  "recordNational": 465,
+  "upcomingCompetitions": [
+    {
+      "id": "LoveIsBlindLima2026",
+      "name": "Love Is Blind Lima 2026",
+      "venue": "Residencial Colombia",
+      "city_name": "Lima",
+      "country_id": "Peru",
+      "venue_address": "Av. Colombia 247, Pueblo Libre ",
+      "venue_details": "Sala de eventos",
+      "latitude_microdegrees": "-12070003",
+      "longitude_microdegrees": "-77052234",
+      "competitionDate": "2026-02-15",
+      "competitionEndDate": "2026-02-15",
+      "monthDate": "Feb",
+      "dayDate": 15
+    },
+    {
+      "id": "IloSpeedcubingSummer2026",
+      "name": "Ilo Speedcubing Summer 2026",
+      "venue": "Colegio Particular Betesda School",
+      "city_name": "Ilo, Moquegua",
+      "country_id": "Peru",
+      "venue_address": "Urbanizacion Amauta 6C - A ",
+      "venue_details": "Coliseo Betesda School",
+      "latitude_microdegrees": "-17653698",
+      "longitude_microdegrees": "-71332147",
+      "competitionDate": "2026-01-31",
+      "competitionEndDate": "2026-01-31",
+      "monthDate": "Ene",
+      "dayDate": 31
+    },
+    {
+      "id": "SteelsCubesLima2026",
+      "name": "Steel's Cubes Lima 2026",
+      "venue": "Salón de Eventos Bullanga",
+      "city_name": "Lima",
+      "country_id": "Peru",
+      "venue_address": "Av. Brasil 1158, Pueblo Libre",
+      "venue_details": "Salón de Eventos",
+      "latitude_microdegrees": "-12070655",
+      "longitude_microdegrees": "-77050381",
+      "competitionDate": "2026-01-23",
+      "competitionEndDate": "2026-01-24",
+      "monthDate": "Ene",
+      "dayDate": 23
+    },
+    {
+      "id": "UNSASpeedcubingSpring2026",
+      "name": "UNSA Speedcubing Spring 2026",
+      "venue": "Universidad Nacional de San Agustín",
+      "city_name": "Arequipa",
+      "country_id": "Peru",
+      "venue_address": "Avenida Venezuela s/n",
+      "venue_details": "Auditorio de Arquitectura",
+      "latitude_microdegrees": "-16405926",
+      "longitude_microdegrees": "-71523989",
+      "competitionDate": "2026-01-17",
+      "competitionEndDate": "2026-01-17",
+      "monthDate": "Ene",
+      "dayDate": 17
+    }
+  ],
+  "rankingNational": [
+    {
+      "personIdNr": "2022NUNE01",
+      "nameNr": "Robert Yomi Cadenas Nuñez",
+      "averageNr": 629,
+      "idCompetitionNr": "PeruNationals2025",
+      "competitionNr": "Peru Nationals 2025",
+      "competitionCountryIso": "PE"
+    },
+    {
+      "personIdNr": "2019MAGU04",
+      "nameNr": "Jose Antonio Cuipal Maguiña",
+      "averageNr": 641,
+      "idCompetitionNr": "ArmandoSuenosBlenkir2025",
+      "competitionNr": "Armando Sueños Blenkir Huancayo 2025",
+      "competitionCountryIso": "PE"
+    },
+    {
+      "personIdNr": "2018OCHO03",
+      "nameNr": "Benjamín Ochoa",
+      "averageNr": 711,
+      "idCompetitionNr": "TCGSpaceIISantaAnita2023",
+      "competitionNr": "TCG Space II Santa Anita 2023",
+      "competitionCountryIso": "PE"
+    },
+    {
+      "personIdNr": "2017ROMA11",
+      "nameNr": "Edson Bryan Béjar Román",
+      "averageNr": 713,
+      "idCompetitionNr": "200Peru2024",
+      "competitionNr": "200 Perú 2024",
+      "competitionCountryIso": "PE"
+    },
+    {
+      "personIdNr": "2015TELL01",
+      "nameNr": "Pedro Alejandro Condo Tellez",
+      "averageNr": 732,
+      "idCompetitionNr": "RealCubeIILima2023",
+      "competitionNr": "Real Cube II Lima 2023",
+      "competitionCountryIso": "PE"
+    }
+  ]
+}

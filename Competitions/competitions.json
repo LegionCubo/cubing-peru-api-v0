@@ -1,5 +1,39 @@
 [
   {
+    "id": "SummeroftheCubeHuancayo2026",
+    "name": "Summer of the Cube Huancayo 2026",
+    "venue": "Electrocentro ",
+    "city_name": "Huancayo",
+    "country_id": "Peru",
+    "venue_address": "Av. Huancavelica 2733 - Parque Industrial - El Tambo",
+    "venue_details": "Salon de Eventos",
+    "cell_name": "Summer of the Cube Huancayo 2026",
+    "event_specs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "latitude_microdegrees": "-12046173",
+    "longitude_microdegrees": "-75231119",
+    "competitionDate": "2026-02-28",
+    "competitionEndDate": "2026-03-01",
+    "organiser": [
+      {
+        "id": "2017NAHU02",
+        "name": "Brayan Boza Ñahuinripa"
+      },
+      {
+        "name": "Cubos Astoria"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
+    ]
+  },
+  {
     "id": "LoveIsBlindLima2026",
     "name": "Love Is Blind Lima 2026",
     "venue": "Residencial Colombia",
@@ -27,6 +61,33 @@
       {
         "id": "2018QUIJ01",
         "name": "Michel Andre Gonzaga Quijano"
+      }
+    ]
+  },
+  {
+    "id": "SpeedsolvingXPucallpa2026",
+    "name": "Speedsolving X Pucallpa 2026",
+    "venue": "Real Plaza Pucallpa",
+    "city_name": "Pucallpa",
+    "country_id": "Peru",
+    "venue_address": "Av. Centenario esq. Jr. Alfredo Eglinton",
+    "venue_details": "2 piso, patio de comidas",
+    "cell_name": "Speedsolving X Pucallpa 2026",
+    "event_specs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "latitude_microdegrees": "-8384838",
+    "longitude_microdegrees": "-74555875",
+    "competitionDate": "2026-02-07",
+    "competitionEndDate": "2026-02-08",
+    "organiser": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
       }
     ]
   },

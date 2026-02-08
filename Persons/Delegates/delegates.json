@@ -172,20 +172,20 @@
     "gender": "m",
     "wca_id": "2016SUZU03",
     "country_id": "Peru",
-    "competitions": 81,
+    "competitions": 82,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 116,
-    "competitionsDelegated": 62,
+    "competitionsDelegated": 63,
     "lastDelegatedCompetition": {
-      "competitionId": "FMCundertheMistletoe2025",
-      "competitionName": "FMC under the Mistletoe 2025",
-      "competitionDate": "2025-12-20",
-      "competitionCountryIso": "XW"
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
+      "competitionCountryIso": "PE"
     }
   },
   {
@@ -214,19 +214,19 @@
     "gender": "m",
     "wca_id": "2018QUIJ01",
     "country_id": "Peru",
-    "competitions": 64,
+    "competitions": 65,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 64,
-    "competitionsDelegated": 59,
+    "competitionsDelegated": 60,
     "lastDelegatedCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     }
   },
@@ -243,11 +243,11 @@
       "competitionCountryIso": "PE"
     },
     "podiums": 68,
-    "competitionsDelegated": 17,
+    "competitionsDelegated": 18,
     "lastDelegatedCompetition": {
-      "competitionId": "CubeadaHuanuco2025",
-      "competitionName": "Cubeada de Fin de Año Huánuco 2025",
-      "competitionDate": "2025-12-28",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     }
   },
@@ -256,20 +256,41 @@
     "gender": "m",
     "wca_id": "2015SUCL01",
     "country_id": "Peru",
-    "competitions": 47,
+    "competitions": 48,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 47,
-    "competitionsDelegated": 10,
+    "podiums": 50,
+    "competitionsDelegated": 11,
     "lastDelegatedCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
+    }
+  },
+  {
+    "name": "Joseph Daniel Blas Sanchez",
+    "gender": "m",
+    "wca_id": "2016SANC08",
+    "country_id": "Peru",
+    "competitions": 118,
+    "lastCompetition": {
+      "competitionId": "SanCristobalOpenSucre2026",
+      "competitionName": "San Cristobal Open Sucre 2026",
+      "competitionDate": "2026-01-30",
+      "competitionCountryIso": "BO"
+    },
+    "podiums": 264,
+    "competitionsDelegated": 3,
+    "lastDelegatedCompetition": {
+      "competitionId": "BigsBlindCBBA2026",
+      "competitionName": "Bigs & Blind CBBA 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "BO"
     }
   }
 ]

@@ -1908,11 +1908,11 @@
     "gender": "m",
     "wca_id": "2013BELL06",
     "country_id": "Peru",
-    "competitions": 37,
+    "competitions": 38,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -2720,14 +2720,14 @@
     "gender": "m",
     "wca_id": "2013HUAN29",
     "country_id": "Peru",
-    "competitions": 134,
+    "competitions": 135,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 162
+    "podiums": 163
   },
   {
     "name": "Juan Pablo Huanqui",
@@ -6906,11 +6906,11 @@
     "gender": "m",
     "wca_id": "2015ACHA01",
     "country_id": "Peru",
-    "competitions": 51,
+    "competitions": 52,
     "lastCompetition": {
-      "competitionId": "PlazaCenterCubeLimaV2025",
-      "competitionName": "Plaza Center Cube Lima V 2025",
-      "competitionDate": "2025-03-29",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 76
@@ -8348,12 +8348,12 @@
     "gender": "m",
     "wca_id": "2015NARV01",
     "country_id": "Peru",
-    "competitions": 4,
+    "competitions": 5,
     "lastCompetition": {
-      "competitionId": "PickeringFavouritesFall2025",
-      "competitionName": "Pickering Favourites Fall 2025",
-      "competitionDate": "2025-11-01",
-      "competitionCountryIso": "CA"
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0
   },
@@ -9034,14 +9034,14 @@
     "gender": "m",
     "wca_id": "2015SUCL01",
     "country_id": "Peru",
-    "competitions": 47,
+    "competitions": 48,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 47
+    "podiums": 50
   },
   {
     "name": "Manuel Alejandro Mamani Suclla",
@@ -9160,11 +9160,11 @@
     "gender": "m",
     "wca_id": "2015TORR16",
     "country_id": "Peru",
-    "competitions": 10,
+    "competitions": 11,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -10154,14 +10154,14 @@
     "gender": "m",
     "wca_id": "2016MILL07",
     "country_id": "Peru",
-    "competitions": 91,
+    "competitions": 92,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 420
+    "podiums": 423
   },
   {
     "name": "Alexis Olivares Miranda",
@@ -10224,11 +10224,11 @@
     "gender": "m",
     "wca_id": "2016OBRE01",
     "country_id": "Peru",
-    "competitions": 83,
+    "competitions": 84,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 64
@@ -10476,14 +10476,14 @@
     "gender": "m",
     "wca_id": "2016SANC08",
     "country_id": "Peru",
-    "competitions": 116,
+    "competitions": 118,
     "lastCompetition": {
-      "competitionId": "MYHMBoliviaNationals2025",
-      "competitionName": "MYHM Bolivia Nationals 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SanCristobalOpenSucre2026",
+      "competitionName": "San Cristobal Open Sucre 2026",
+      "competitionDate": "2026-01-30",
       "competitionCountryIso": "BO"
     },
-    "podiums": 254
+    "podiums": 264
   },
   {
     "name": "Stefano Andre Cardenas Santos",
@@ -11078,11 +11078,11 @@
     "gender": "m",
     "wca_id": "2016SUZU03",
     "country_id": "Peru",
-    "competitions": 81,
+    "competitions": 82,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 116
@@ -12030,14 +12030,14 @@
     "gender": "m",
     "wca_id": "2016RODR37",
     "country_id": "Peru",
-    "competitions": 59,
+    "competitions": 60,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 88
+    "podiums": 91
   },
   {
     "name": "Benjamin Milla Quispe",
@@ -14620,14 +14620,14 @@
     "gender": "m",
     "wca_id": "2017CORI01",
     "country_id": "Peru",
-    "competitions": 37,
+    "competitions": 38,
     "lastCompetition": {
-      "competitionId": "CubeadaHuanuco2025",
-      "competitionName": "Cubeada de Fin de Año Huánuco 2025",
-      "competitionDate": "2025-12-28",
-      "competitionCountryIso": "PE"
+      "competitionId": "VinaSummer2026",
+      "competitionName": "Viña Summer 2026",
+      "competitionDate": "2026-01-24",
+      "competitionCountryIso": "CL"
     },
-    "podiums": 53
+    "podiums": 54
   },
   {
     "name": "Lucciano Florez",
@@ -15838,14 +15838,14 @@
     "gender": "m",
     "wca_id": "2017HUAN07",
     "country_id": "Peru",
-    "competitions": 43,
+    "competitions": 44,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 123
+    "podiums": 125
   },
   {
     "name": "Gustavo Aldahir Ayquipa Arroyo",
@@ -17406,11 +17406,11 @@
     "gender": "m",
     "wca_id": "2017MAMA02",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "InMemoriamJoseNoles2025",
-      "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -17560,14 +17560,14 @@
     "gender": "m",
     "wca_id": "2017JARA09",
     "country_id": "Peru",
-    "competitions": 20,
+    "competitions": 21,
     "lastCompetition": {
-      "competitionId": "InMemoriamJoseNoles2025",
-      "competitionName": "In Memoriam José Noles 2025",
-      "competitionDate": "2025-08-09",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 7
+    "podiums": 11
   },
   {
     "name": "Ricardo Jesús Gambini Abril",
@@ -17784,11 +17784,11 @@
     "gender": "f",
     "wca_id": "2017SOLD01",
     "country_id": "Peru",
-    "competitions": 25,
+    "competitions": 26,
     "lastCompetition": {
-      "competitionId": "CuscoSpring2025",
-      "competitionName": "Cusco Spring 2025",
-      "competitionDate": "2025-12-06",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -19058,14 +19058,14 @@
     "gender": "m",
     "wca_id": "2017QUIS05",
     "country_id": "Peru",
-    "competitions": 3,
+    "competitions": 4,
     "lastCompetition": {
-      "competitionId": "SanJoseCubing2018",
-      "competitionName": "San Jose Cubing 2018",
-      "competitionDate": "2018-03-10",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 0
+    "podiums": 1
   },
   {
     "name": "Lucero Barrios Abril",
@@ -19800,11 +19800,11 @@
     "gender": "m",
     "wca_id": "2017HUAN72",
     "country_id": "Peru",
-    "competitions": 9,
+    "competitions": 10,
     "lastCompetition": {
-      "competitionId": "SanMarcosOpen2023",
-      "competitionName": "San Marcos Open 2023",
-      "competitionDate": "2023-08-12",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -22026,14 +22026,14 @@
     "gender": "m",
     "wca_id": "2017REYE27",
     "country_id": "Peru",
-    "competitions": 54,
+    "competitions": 55,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 64
+    "podiums": 65
   },
   {
     "name": "Moises Picoy Hinostroza",
@@ -24308,11 +24308,11 @@
     "gender": "m",
     "wca_id": "2018PIME03",
     "country_id": "Peru",
-    "competitions": 40,
+    "competitions": 41,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 2
@@ -24420,14 +24420,14 @@
     "gender": "m",
     "wca_id": "2018OCHO03",
     "country_id": "Peru",
-    "competitions": 50,
+    "competitions": 51,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 159
+    "podiums": 163
   },
   {
     "name": "Carlos Alberth Cerrón Vargas",
@@ -24518,14 +24518,14 @@
     "gender": "m",
     "wca_id": "2018QUIS04",
     "country_id": "Peru",
-    "competitions": 44,
+    "competitions": 45,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 38
+    "podiums": 39
   },
   {
     "name": "Diego Sobenes Juro",
@@ -25568,11 +25568,11 @@
     "gender": "m",
     "wca_id": "2018ALCA07",
     "country_id": "Peru",
-    "competitions": 24,
+    "competitions": 25,
     "lastCompetition": {
-      "competitionId": "PeruNationals2025",
-      "competitionName": "Peru Nationals 2025",
-      "competitionDate": "2025-08-29",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -25652,11 +25652,11 @@
     "gender": "m",
     "wca_id": "2018QUIJ01",
     "country_id": "Peru",
-    "competitions": 64,
+    "competitions": 65,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 64
@@ -27220,11 +27220,11 @@
     "gender": "f",
     "wca_id": "2018CCUN01",
     "country_id": "Peru",
-    "competitions": 2,
+    "competitions": 3,
     "lastCompetition": {
-      "competitionId": "TCGDeluxe2019",
-      "competitionName": "TCG Deluxe 2019",
-      "competitionDate": "2019-01-12",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -29740,11 +29740,11 @@
     "gender": "m",
     "wca_id": "2019GUEV02",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -32036,11 +32036,11 @@
     "gender": "m",
     "wca_id": "2019AGUE01",
     "country_id": "Peru",
-    "competitions": 52,
+    "competitions": 53,
     "lastCompetition": {
-      "competitionId": "CubeadaHuanuco2025",
-      "competitionName": "Cubeada de Fin de Año Huánuco 2025",
-      "competitionDate": "2025-12-28",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 2
@@ -32078,11 +32078,11 @@
     "gender": "m",
     "wca_id": "2019BUST06",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -32442,14 +32442,14 @@
     "gender": "m",
     "wca_id": "2019MORE26",
     "country_id": "Peru",
-    "competitions": 9,
+    "competitions": 10,
     "lastCompetition": {
-      "competitionId": "MontemurloSpeedcubing2025",
-      "competitionName": "Montemurlo Speedcubing 2025",
-      "competitionDate": "2025-03-08",
+      "competitionId": "CasagioveWinter2026",
+      "competitionName": "Casagiove Winter 2026",
+      "competitionDate": "2026-01-24",
       "competitionCountryIso": "IT"
     },
-    "podiums": 6
+    "podiums": 8
   },
   {
     "name": "Diego Antonio Tezen Nonajulca",
@@ -33604,14 +33604,14 @@
     "gender": "m",
     "wca_id": "2019MAGU04",
     "country_id": "Peru",
-    "competitions": 62,
+    "competitions": 63,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 190
+    "podiums": 193
   },
   {
     "name": "Lucy Ana Solis Maguiña",
@@ -35480,11 +35480,11 @@
     "gender": "m",
     "wca_id": "2021GONZ02",
     "country_id": "Peru",
-    "competitions": 3,
+    "competitions": 4,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivallll2024",
-      "competitionName": "PUCP Cubing Festival lll 2024",
-      "competitionDate": "2024-11-02",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -35956,11 +35956,11 @@
     "gender": "f",
     "wca_id": "2021TURP02",
     "country_id": "Peru",
-    "competitions": 14,
+    "competitions": 15,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingOtono2025",
-      "competitionName": "UNSA Speedcubing Otoño 2025",
-      "competitionDate": "2025-04-26",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -36166,11 +36166,11 @@
     "gender": "m",
     "wca_id": "2022BUST01",
     "country_id": "Peru",
-    "competitions": 20,
+    "competitions": 21,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 5
@@ -37020,11 +37020,11 @@
     "gender": "m",
     "wca_id": "2022MEND06",
     "country_id": "Peru",
-    "competitions": 21,
+    "competitions": 22,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 2
@@ -39218,14 +39218,14 @@
     "gender": "m",
     "wca_id": "2022PREC01",
     "country_id": "Peru",
-    "competitions": 41,
+    "competitions": 42,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 23
+    "podiums": 25
   },
   {
     "name": "Diego André Gonzales Sánchez",
@@ -39764,11 +39764,11 @@
     "gender": "m",
     "wca_id": "2022MATO05",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -40464,11 +40464,11 @@
     "gender": "m",
     "wca_id": "2023ARIC01",
     "country_id": "Peru",
-    "competitions": 44,
+    "competitions": 45,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 34
@@ -40702,11 +40702,11 @@
     "gender": "m",
     "wca_id": "2023CHUG02",
     "country_id": "Peru",
-    "competitions": 25,
+    "competitions": 26,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -41906,11 +41906,11 @@
     "gender": "m",
     "wca_id": "2023CIEZ01",
     "country_id": "Peru",
-    "competitions": 19,
+    "competitions": 20,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -41948,11 +41948,11 @@
     "gender": "m",
     "wca_id": "2023PONC03",
     "country_id": "Peru",
-    "competitions": 30,
+    "competitions": 31,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 26
@@ -42032,14 +42032,14 @@
     "gender": "m",
     "wca_id": "2023SANC31",
     "country_id": "Peru",
-    "competitions": 41,
+    "competitions": 42,
     "lastCompetition": {
-      "competitionId": "ArmandoSuenosBlenkir2025",
-      "competitionName": "Armando Sueños Blenkir Huancayo 2025",
-      "competitionDate": "2025-12-13",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 51
+    "podiums": 54
   },
   {
     "name": "Iker Estanish Puyen",
@@ -44202,14 +44202,14 @@
     "gender": "m",
     "wca_id": "2023ROJA17",
     "country_id": "Peru",
-    "competitions": 14,
+    "competitions": 15,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 25
+    "podiums": 29
   },
   {
     "name": "Matías Arce",
@@ -46442,14 +46442,14 @@
     "gender": "m",
     "wca_id": "2023PAST08",
     "country_id": "Peru",
-    "competitions": 20,
+    "competitions": 21,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 9
+    "podiums": 10
   },
   {
     "name": "Braddy Matheo Castro Morales",
@@ -49228,11 +49228,11 @@
     "gender": "m",
     "wca_id": "2024PLAC02",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -50026,11 +50026,11 @@
     "gender": "m",
     "wca_id": "2024DEPA01",
     "country_id": "Peru",
-    "competitions": 6,
+    "competitions": 7,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -52196,11 +52196,11 @@
     "gender": "m",
     "wca_id": "2024GONZ39",
     "country_id": "Peru",
-    "competitions": 11,
+    "competitions": 12,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -52434,14 +52434,14 @@
     "gender": "m",
     "wca_id": "2024SULL05",
     "country_id": "Peru",
-    "competitions": 8,
+    "competitions": 9,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 3
+    "podiums": 8
   },
   {
     "name": "Elainne Cataleya Urquizo Rodas",
@@ -53708,14 +53708,14 @@
     "gender": "m",
     "wca_id": "2024CHIR01",
     "country_id": "Peru",
-    "competitions": 11,
+    "competitions": 12,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 2
+    "podiums": 3
   },
   {
     "name": "Josué Santiago Aurelio Oliden Vertiz",
@@ -53862,11 +53862,11 @@
     "gender": "m",
     "wca_id": "2024REVI02",
     "country_id": "Peru",
-    "competitions": 4,
+    "competitions": 5,
     "lastCompetition": {
-      "competitionId": "OttawaSideEventsB2025",
-      "competitionName": "Ottawa Side Events B 2025",
-      "competitionDate": "2025-10-19",
+      "competitionId": "PickeringNxNxNWinter2026",
+      "competitionName": "Pickering NxNxN Winter 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "CA"
     },
     "podiums": 0
@@ -54338,11 +54338,11 @@
     "gender": "m",
     "wca_id": "2024ESPI27",
     "country_id": "Peru",
-    "competitions": 8,
+    "competitions": 9,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -54800,14 +54800,14 @@
     "gender": "m",
     "wca_id": "2024QUIS12",
     "country_id": "Peru",
-    "competitions": 10,
+    "competitions": 11,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
-    "podiums": 0
+    "podiums": 1
   },
   {
     "name": "Emilia Vela",
@@ -54842,11 +54842,11 @@
     "gender": "m",
     "wca_id": "2024GUEV10",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -55038,14 +55038,14 @@
     "gender": "m",
     "wca_id": "2024CUMP01",
     "country_id": "Peru",
-    "competitions": 6,
+    "competitions": 7,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
-    "podiums": 0
+    "podiums": 1
   },
   {
     "name": "Fabio André Soto Sánchez",
@@ -55948,11 +55948,11 @@
     "gender": "m",
     "wca_id": "2024VILL57",
     "country_id": "Peru",
-    "competitions": 7,
+    "competitions": 8,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -57418,11 +57418,11 @@
     "gender": "m",
     "wca_id": "2025VALE03",
     "country_id": "Peru",
-    "competitions": 8,
+    "competitions": 9,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -57488,11 +57488,11 @@
     "gender": "m",
     "wca_id": "2025DUEN01",
     "country_id": "Peru",
-    "competitions": 7,
+    "competitions": 8,
     "lastCompetition": {
-      "competitionId": "ItsChristmasTimeLima2025",
-      "competitionName": "It's Christmas Time Lima 2025",
-      "competitionDate": "2025-12-20",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -57614,11 +57614,11 @@
     "gender": "m",
     "wca_id": "2025PARI02",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingPrimavera2025",
-      "competitionName": "UNSA Speedcubing Primavera 2025",
-      "competitionDate": "2025-09-27",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 4
@@ -57782,11 +57782,11 @@
     "gender": "m",
     "wca_id": "2025MALP01",
     "country_id": "Peru",
-    "competitions": 8,
+    "competitions": 9,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -59154,11 +59154,11 @@
     "gender": "m",
     "wca_id": "2025NOMB01",
     "country_id": "Peru",
-    "competitions": 5,
+    "competitions": 6,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -60442,11 +60442,11 @@
     "gender": "m",
     "wca_id": "2025GRAD02",
     "country_id": "Peru",
-    "competitions": 3,
+    "competitions": 4,
     "lastCompetition": {
-      "competitionId": "PUCPCubingFestivalVIII2025",
-      "competitionName": "PUCP Cubing Festival VIII 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SteelsCubesLima2026",
+      "competitionName": "Steel's Cubes Lima 2026",
+      "competitionDate": "2026-01-23",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -62024,11 +62024,11 @@
     "gender": "m",
     "wca_id": "2026GAME01",
     "country_id": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "UNSASpeedcubingSpring2026",
-      "competitionName": "UNSA Speedcubing Spring 2026",
-      "competitionDate": "2026-01-17",
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -62226,6 +62226,34 @@
       "competitionName": "UNSA Speedcubing Spring 2026",
       "competitionDate": "2026-01-17",
       "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Santhiago Fabian Flores Gamero",
+    "gender": "m",
+    "wca_id": "2026GAME02",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "IloSpeedcubingSummer2026",
+      "competitionName": "Ilo Speedcubing Summer 2026",
+      "competitionDate": "2026-01-31",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Valerie Areli Carrasco Samillan",
+    "gender": "f",
+    "wca_id": "2026SAMI01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "AlcobendasOpen2026",
+      "competitionName": "Alcobendas Virgen de la Paz Open 2026",
+      "competitionDate": "2026-01-31",
+      "competitionCountryIso": "ES"
     },
     "podiums": 0
   }

@@ -1,53 +1,8 @@
 {
-  "competitors": 4445,
-  "competitions": 255,
+  "competitors": 4447,
+  "competitions": 256,
   "recordNational": 465,
   "upcomingCompetitions": [
-    {
-      "id": "SteelsCubesLima2026",
-      "name": "Steel's Cubes Lima 2026",
-      "venue": "Salón de Eventos Bullanga",
-      "city_name": "Lima",
-      "country_id": "Peru",
-      "venue_address": "Av. Brasil 1158, Pueblo Libre",
-      "venue_details": "Salón de Eventos",
-      "latitude_microdegrees": "-12070655",
-      "longitude_microdegrees": "-77050381",
-      "competitionDate": "2026-01-23",
-      "competitionEndDate": "2026-01-24",
-      "monthDate": "Ene",
-      "dayDate": 23
-    },
-    {
-      "id": "IloSpeedcubingSummer2026",
-      "name": "Ilo Speedcubing Summer 2026",
-      "venue": "Colegio Particular Betesda School",
-      "city_name": "Ilo, Moquegua",
-      "country_id": "Peru",
-      "venue_address": "Urbanizacion Amauta 6C - A ",
-      "venue_details": "Coliseo Betesda School",
-      "latitude_microdegrees": "-17653698",
-      "longitude_microdegrees": "-71332147",
-      "competitionDate": "2026-01-31",
-      "competitionEndDate": "2026-01-31",
-      "monthDate": "Ene",
-      "dayDate": 31
-    },
-    {
-      "id": "SpeedsolvingXPucallpa2026",
-      "name": "Speedsolving X Pucallpa 2026",
-      "venue": "Real Plaza Pucallpa",
-      "city_name": "Pucallpa",
-      "country_id": "Peru",
-      "venue_address": "Av. Centenario esq. Jr. Alfredo Eglinton",
-      "venue_details": "2 piso, patio de comidas",
-      "latitude_microdegrees": "-8384838",
-      "longitude_microdegrees": "-74555875",
-      "competitionDate": "2026-02-07",
-      "competitionEndDate": "2026-02-08",
-      "monthDate": "Feb",
-      "dayDate": 7
-    },
     {
       "id": "LoveIsBlindLima2026",
       "name": "Love Is Blind Lima 2026",
@@ -77,6 +32,21 @@
       "competitionEndDate": "2026-03-01",
       "monthDate": "Feb",
       "dayDate": 28
+    },
+    {
+      "id": "PUCPCubingFestivalIX2026",
+      "name": "PUCP Cubing Festival IX 2026",
+      "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+      "city_name": "Lima",
+      "country_id": "Peru",
+      "venue_address": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+      "venue_details": "Pabellón Z",
+      "latitude_microdegrees": "-12069021",
+      "longitude_microdegrees": "-77081132",
+      "competitionDate": "2026-03-07",
+      "competitionEndDate": "2026-03-08",
+      "monthDate": "Mar",
+      "dayDate": 7
     }
   ],
   "rankingNational": [

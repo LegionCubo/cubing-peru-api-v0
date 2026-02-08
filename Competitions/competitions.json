@@ -1,5 +1,51 @@
 [
   {
+    "id": "PUCPCubingFestivalIX2026",
+    "name": "PUCP Cubing Festival IX 2026",
+    "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
+    "city_name": "Lima",
+    "country_id": "Peru",
+    "venue_address": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
+    "venue_details": "Pabellón Z",
+    "cell_name": "PUCP Cubing Festival IX 2026",
+    "event_specs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "latitude_microdegrees": "-12069021",
+    "longitude_microdegrees": "-77081132",
+    "competitionDate": "2026-03-07",
+    "competitionEndDate": "2026-03-08",
+    "organiser": [
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      },
+      {
+        "name": "PUCP Cubing Community"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      },
+      {
+        "id": "2016MONT33",
+        "name": "Bruno Alonso Villacorta Montoya"
+      },
+      {
+        "id": "2015CHAL01",
+        "name": "Helar Gomez Chalco"
+      },
+      {
+        "id": "2022AGUI03",
+        "name": "Mateo Aguirre"
+      },
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
+    ]
+  },
+  {
     "id": "SummeroftheCubeHuancayo2026",
     "name": "Summer of the Cube Huancayo 2026",
     "venue": "Electrocentro ",

@@ -1,6 +1,6 @@
 {
-  "competitors": 4447,
-  "competitions": 256,
+  "competitors": 4456,
+  "competitions": 257,
   "recordNational": 465,
   "upcomingCompetitions": [
     {
@@ -47,6 +47,21 @@
       "competitionEndDate": "2026-03-08",
       "monthDate": "Mar",
       "dayDate": 7
+    },
+    {
+      "id": "UNSASpeedcubingSummer2026",
+      "name": "UNSA Speedcubing Summer 2026",
+      "venue": "Universidad Nacional de San Agustín",
+      "city_name": "Arequipa",
+      "country_id": "Peru",
+      "venue_address": "Avenida Paucarpata s/n",
+      "venue_details": "Auditorio de Mecánica",
+      "latitude_microdegrees": "-16404803",
+      "longitude_microdegrees": "-71526344",
+      "competitionDate": "2026-03-28",
+      "competitionEndDate": "2026-03-28",
+      "monthDate": "Mar",
+      "dayDate": 28
     }
   ],
   "rankingNational": [

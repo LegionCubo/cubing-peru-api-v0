@@ -529,19 +529,19 @@
     "gender": "m",
     "wca_id": "2016SANC08",
     "country_id": "Peru",
-    "competitions": 118,
+    "competitions": 119,
     "lastCompetition": {
-      "competitionId": "SanCristobalOpenSucre2026",
-      "competitionName": "San Cristobal Open Sucre 2026",
-      "competitionDate": "2026-01-30",
+      "competitionId": "BigsBlindCBBA2026",
+      "competitionName": "Bigs & Blind CBBA 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "BO"
     },
     "podiums": 264,
-    "competitionsOrganised": 56,
+    "competitionsOrganised": 57,
     "lastOrganiserCompetition": {
-      "competitionId": "SanCristobalOpenSucre2026",
-      "competitionName": "San Cristobal Open Sucre 2026",
-      "competitionDate": "2026-01-30",
+      "competitionId": "ElSolarValentinesDaySC2026",
+      "competitionName": "El Solar Valentine's Day SC 2026",
+      "competitionDate": "2026-02-14",
       "competitionCountryIso": "BO"
     }
   },
@@ -571,14 +571,14 @@
     "gender": "m",
     "wca_id": "2016REAT01",
     "country_id": "Peru",
-    "competitions": 45,
+    "competitions": 46,
     "lastCompetition": {
-      "competitionId": "CubeadaHuanuco2025",
-      "competitionName": "Cubeada de Fin de Año Huánuco 2025",
-      "competitionDate": "2025-12-28",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 68,
+    "podiums": 73,
     "competitionsOrganised": 22,
     "lastOrganiserCompetition": {
       "competitionId": "SpeedsolvingXPucallpa2026",
@@ -1642,14 +1642,14 @@
     "gender": "m",
     "wca_id": "2018TELL03",
     "country_id": "Peru",
-    "competitions": 20,
+    "competitions": 21,
     "lastCompetition": {
-      "competitionId": "SanJoseCubingYarinacocha2025",
-      "competitionName": "San José Cubing Yarinacocha 2025",
-      "competitionDate": "2025-04-26",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 42,
+    "podiums": 47,
     "competitionsOrganised": 1,
     "lastOrganiserCompetition": {
       "competitionId": "LAPREPucallpaSpeedcubing2025",

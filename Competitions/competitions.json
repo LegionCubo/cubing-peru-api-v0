@@ -1,5 +1,44 @@
 [
   {
+    "id": "UNSASpeedcubingSummer2026",
+    "name": "UNSA Speedcubing Summer 2026",
+    "venue": "Universidad Nacional de San Agustín",
+    "city_name": "Arequipa",
+    "country_id": "Peru",
+    "venue_address": "Avenida Paucarpata s/n",
+    "venue_details": "Auditorio de Mecánica",
+    "cell_name": "UNSA Speedcubing Summer 2026",
+    "event_specs": "222 333 333bf 333mbf 333oh 444 pyram",
+    "latitude_microdegrees": "-16404803",
+    "longitude_microdegrees": "-71526344",
+    "competitionDate": "2026-03-28",
+    "competitionEndDate": "2026-03-28",
+    "organiser": [
+      {
+        "id": "2024QUIS12",
+        "name": "Emerson Alessandro Vilca Quispe"
+      },
+      {
+        "id": "2022HERR11",
+        "name": "Fabián Nicolás Cáceres Herrera"
+      },
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2011RIGG03",
+        "name": "Natán Riggenbach"
+      },
+      {
+        "id": "2015SUCL01",
+        "name": "Pedro Luis Mamani Suclla"
+      }
+    ]
+  },
+  {
     "id": "PUCPCubingFestivalIX2026",
     "name": "PUCP Cubing Festival IX 2026",
     "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
@@ -119,7 +158,7 @@
     "venue_address": "Av. Centenario esq. Jr. Alfredo Eglinton",
     "venue_details": "2 piso, patio de comidas",
     "cell_name": "Speedsolving X Pucallpa 2026",
-    "event_specs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "event_specs": "222 333 333oh 444 555 clock minx pyram skewb sq1",
     "latitude_microdegrees": "-8384838",
     "longitude_microdegrees": "-74555875",
     "competitionDate": "2026-02-07",

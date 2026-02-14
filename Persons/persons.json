@@ -9860,14 +9860,14 @@
     "gender": "m",
     "wca_id": "2016GARC05",
     "country_id": "Peru",
-    "competitions": 20,
+    "competitions": 21,
     "lastCompetition": {
-      "competitionId": "SanJoseCubingYarinacocha2025",
-      "competitionName": "San José Cubing Yarinacocha 2025",
-      "competitionDate": "2025-04-26",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 30
+    "podiums": 32
   },
   {
     "name": "Dylan Gonzales",
@@ -10392,14 +10392,14 @@
     "gender": "m",
     "wca_id": "2016REAT01",
     "country_id": "Peru",
-    "competitions": 45,
+    "competitions": 46,
     "lastCompetition": {
-      "competitionId": "CubeadaHuanuco2025",
-      "competitionName": "Cubeada de Fin de Año Huánuco 2025",
-      "competitionDate": "2025-12-28",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 68
+    "podiums": 73
   },
   {
     "name": "Joseph Francisco De La Cruz Rivas",
@@ -10476,11 +10476,11 @@
     "gender": "m",
     "wca_id": "2016SANC08",
     "country_id": "Peru",
-    "competitions": 118,
+    "competitions": 119,
     "lastCompetition": {
-      "competitionId": "SanCristobalOpenSucre2026",
-      "competitionName": "San Cristobal Open Sucre 2026",
-      "competitionDate": "2026-01-30",
+      "competitionId": "BigsBlindCBBA2026",
+      "competitionName": "Bigs & Blind CBBA 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "BO"
     },
     "podiums": 264
@@ -24448,14 +24448,14 @@
     "gender": "m",
     "wca_id": "2018TELL03",
     "country_id": "Peru",
-    "competitions": 20,
+    "competitions": 21,
     "lastCompetition": {
-      "competitionId": "SanJoseCubingYarinacocha2025",
-      "competitionName": "San José Cubing Yarinacocha 2025",
-      "competitionDate": "2025-04-26",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 42
+    "podiums": 47
   },
   {
     "name": "Carlos Ramirez Sotelo",
@@ -27920,11 +27920,11 @@
     "gender": "m",
     "wca_id": "2018SOTO05",
     "country_id": "Peru",
-    "competitions": 12,
+    "competitions": 13,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 2
@@ -38602,11 +38602,11 @@
     "gender": "m",
     "wca_id": "2022PINE06",
     "country_id": "Peru",
-    "competitions": 7,
+    "competitions": 8,
     "lastCompetition": {
-      "competitionId": "LAPRECubingPucallpa2025",
-      "competitionName": "LA PRE Cubing Pucallpa 2025",
-      "competitionDate": "2025-08-16",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -41164,11 +41164,11 @@
     "gender": "f",
     "wca_id": "2023VELA08",
     "country_id": "Peru",
-    "competitions": 9,
+    "competitions": 10,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -41192,11 +41192,11 @@
     "gender": "f",
     "wca_id": "2023SHAP02",
     "country_id": "Peru",
-    "competitions": 7,
+    "competitions": 8,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -41206,14 +41206,14 @@
     "gender": "m",
     "wca_id": "2023SHAP03",
     "country_id": "Peru",
-    "competitions": 12,
+    "competitions": 13,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 16
+    "podiums": 17
   },
   {
     "name": "Bruno De Souza",
@@ -60442,14 +60442,14 @@
     "gender": "m",
     "wca_id": "2025GRAD02",
     "country_id": "Peru",
-    "competitions": 4,
+    "competitions": 5,
     "lastCompetition": {
-      "competitionId": "SteelsCubesLima2026",
-      "competitionName": "Steel's Cubes Lima 2026",
-      "competitionDate": "2026-01-23",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
-    "podiums": 0
+    "podiums": 7
   },
   {
     "name": "Piero Giovanni Morroni Peixoto",
@@ -61114,11 +61114,11 @@
     "gender": "m",
     "wca_id": "2025VILC03",
     "country_id": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -61142,11 +61142,11 @@
     "gender": "m",
     "wca_id": "2025CAMP28",
     "country_id": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -61198,11 +61198,11 @@
     "gender": "m",
     "wca_id": "2025RODR92",
     "country_id": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 1
@@ -61226,11 +61226,11 @@
     "gender": "m",
     "wca_id": "2025NAVA14",
     "country_id": "Peru",
-    "competitions": 1,
+    "competitions": 2,
     "lastCompetition": {
-      "competitionId": "PucallpaalCubo2025",
-      "competitionName": "Pucallpa al Cubo 2025",
-      "competitionDate": "2025-12-07",
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
       "competitionCountryIso": "PE"
     },
     "podiums": 0
@@ -62254,6 +62254,132 @@
       "competitionName": "Alcobendas Virgen de la Paz Open 2026",
       "competitionDate": "2026-01-31",
       "competitionCountryIso": "ES"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Andre Kaqui",
+    "gender": "m",
+    "wca_id": "2026KAQU01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Andrei Vasquez Vargas Guerra",
+    "gender": "m",
+    "wca_id": "2026GUER04",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Eduardo Gerald Nina Flores",
+    "gender": "m",
+    "wca_id": "2026FLOR09",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Elias Bada",
+    "gender": "m",
+    "wca_id": "2026BADA01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Jared Stephano Pinchi Arévalo",
+    "gender": "m",
+    "wca_id": "2026AREV01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Lucas Rengifo",
+    "gender": "m",
+    "wca_id": "2026RENG01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Oziel Oliveira",
+    "gender": "m",
+    "wca_id": "2026OLIV05",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Rafael Agustín",
+    "gender": "m",
+    "wca_id": "2026AGUS01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
+    },
+    "podiums": 0
+  },
+  {
+    "name": "Roberto Reátegui",
+    "gender": "m",
+    "wca_id": "2026REAT01",
+    "country_id": "Peru",
+    "competitions": 1,
+    "lastCompetition": {
+      "competitionId": "SpeedsolvingXPucallpa2026",
+      "competitionName": "Speedsolving X Pucallpa 2026",
+      "competitionDate": "2026-02-07",
+      "competitionCountryIso": "PE"
     },
     "podiums": 0
   }

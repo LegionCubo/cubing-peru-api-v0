@@ -41,16 +41,16 @@
         {
           "personId": "2020MAYT01",
           "personName": "Ingrit Mayta",
-          "best": "148",
-          "competitionId": "TCGSpaceIISantaAnita2023",
-          "competitionName": "TCG Space II Santa Anita 2023",
+          "best": "125",
+          "competitionId": "PUCPCubingFestivalIX2026",
+          "competitionName": "PUCP Cubing Festival IX 2026",
           "competitionCountryIso": "PE",
           "times": [
-            "148",
-            "467",
-            "394",
-            "498",
-            "470"
+            "381",
+            "240",
+            "411",
+            "125",
+            "356"
           ]
         }
       ],
@@ -58,16 +58,16 @@
         {
           "personId": "2020MAYT01",
           "personName": "Ingrit Mayta",
-          "average": "313",
-          "competitionId": "PUCPCubingFestivalIV2025",
-          "competitionName": "PUCP Cubing Festival IV 2025",
+          "average": "298",
+          "competitionId": "PUCPCubingFestivalIX2026",
+          "competitionName": "PUCP Cubing Festival IX 2026",
           "competitionCountryIso": "PE",
           "times": [
-            "329",
-            "356",
-            "576",
-            "246",
-            "255"
+            "303",
+            "275",
+            "316",
+            "612",
+            "258"
           ]
         }
       ]
@@ -586,16 +586,16 @@
         {
           "personId": "2022AGUI03",
           "personName": "Mateo Aguirre",
-          "average": "1071",
-          "competitionId": "DeCubosyTodaslasSangresAndah2024",
-          "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
+          "average": "1067",
+          "competitionId": "PUCPCubingFestivalIX2026",
+          "competitionName": "PUCP Cubing Festival IX 2026",
           "competitionCountryIso": "PE",
           "times": [
-            "1010",
-            "1098",
-            "1435",
-            "1047",
-            "1067"
+            "936",
+            "1017",
+            "1062",
+            "1329",
+            "1123"
           ]
         }
       ]
@@ -658,17 +658,17 @@
       {
         "personId": "2022AGUI03",
         "personName": "Mateo Aguirre",
-        "average": "1071",
-        "competitionId": "DeCubosyTodaslasSangresAndah2024",
-        "competitionName": "De Cubos y Todas las Sangres Andahuaylas 2024",
+        "average": "1067",
+        "competitionId": "PUCPCubingFestivalIX2026",
+        "competitionName": "PUCP Cubing Festival IX 2026",
         "competitionCountryIso": "PE",
         "gender": "m",
         "times": [
-          "1010",
-          "1098",
-          "1435",
-          "1047",
-          "1067"
+          "936",
+          "1017",
+          "1062",
+          "1329",
+          "1123"
         ]
       }
     ]
@@ -1163,16 +1163,16 @@
     "m": {
       "single": [
         {
-          "personId": "2015TELL01",
-          "personName": "Pedro Alejandro Condo Tellez",
-          "best": "12909",
-          "competitionId": "PeruNationals2023",
-          "competitionName": "Peru Nationals 2023",
+          "personId": "2017HUAN07",
+          "personName": "Gerson Marcelo Nuñez Huanuiri",
+          "best": "12138",
+          "competitionId": "PUCPCubingFestivalIX2026",
+          "competitionName": "PUCP Cubing Festival IX 2026",
           "competitionCountryIso": "PE",
           "times": [
-            "13961",
-            "12909",
-            "15783",
+            "12138",
+            "14648",
+            "13491",
             "0",
             "0"
           ]
@@ -1180,16 +1180,16 @@
       ],
       "average": [
         {
-          "personId": "2015TELL01",
-          "personName": "Pedro Alejandro Condo Tellez",
-          "average": "13837",
-          "competitionId": "ChosicasBigShow2024",
-          "competitionName": "Chosica's Big Show 2024",
+          "personId": "2017HUAN07",
+          "personName": "Gerson Marcelo Nuñez Huanuiri",
+          "average": "13426",
+          "competitionId": "PUCPCubingFestivalIX2026",
+          "competitionName": "PUCP Cubing Festival IX 2026",
           "competitionCountryIso": "PE",
           "times": [
-            "13591",
-            "14368",
-            "13552",
+            "12138",
+            "14648",
+            "13491",
             "0",
             "0"
           ]
@@ -1234,17 +1234,17 @@
     },
     "single": [
       {
-        "personId": "2015TELL01",
-        "personName": "Pedro Alejandro Condo Tellez",
-        "best": "12909",
-        "competitionId": "PeruNationals2023",
-        "competitionName": "Peru Nationals 2023",
+        "personId": "2017HUAN07",
+        "personName": "Gerson Marcelo Nuñez Huanuiri",
+        "best": "12138",
+        "competitionId": "PUCPCubingFestivalIX2026",
+        "competitionName": "PUCP Cubing Festival IX 2026",
         "competitionCountryIso": "PE",
         "gender": "m",
         "times": [
-          "13961",
-          "12909",
-          "15783",
+          "12138",
+          "14648",
+          "13491",
           "0",
           "0"
         ]
@@ -1252,17 +1252,17 @@
     ],
     "average": [
       {
-        "personId": "2015TELL01",
-        "personName": "Pedro Alejandro Condo Tellez",
-        "average": "13837",
-        "competitionId": "ChosicasBigShow2024",
-        "competitionName": "Chosica's Big Show 2024",
+        "personId": "2017HUAN07",
+        "personName": "Gerson Marcelo Nuñez Huanuiri",
+        "average": "13426",
+        "competitionId": "PUCPCubingFestivalIX2026",
+        "competitionName": "PUCP Cubing Festival IX 2026",
         "competitionCountryIso": "PE",
         "gender": "m",
         "times": [
-          "13591",
-          "14368",
-          "13552",
+          "12138",
+          "14648",
+          "13491",
           "0",
           "0"
         ]

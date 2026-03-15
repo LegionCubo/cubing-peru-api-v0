@@ -123,5 +123,30 @@
     "competitionDate": "2022-11-26",
     "competitionCountryIso": "PE",
     "gender": "m"
+  },
+  {
+    "id": "7914148",
+    "pos": "2",
+    "best": "218100",
+    "average": "-1",
+    "competition_id": "LoveIsBlindLima2026",
+    "round_type_id": "f",
+    "event_id": "555bf",
+    "person_name": "Pedro Giuseppe Garcia Milla",
+    "person_id": "2016MILL07",
+    "format_id": "3",
+    "regional_single_record": "NULL",
+    "regional_average_record": "NULL",
+    "person_country_id": "Peru",
+    "value1": "218100",
+    "value2": "-2",
+    "value3": "-2",
+    "value4": "0",
+    "value5": "0",
+    "competitionName": "Love Is Blind Lima 2026",
+    "cityName": "Lima",
+    "competitionDate": "2026-02-15",
+    "competitionCountryIso": "PE",
+    "gender": "m"
   }
 ]

@@ -333,76 +333,16 @@
     "m": {
       "single": [
         {
-          "personId": "2018DIAZ09",
-          "personName": "Paolo Gallegos",
-          "best": "24",
-          "competitionId": "PUCPZomblinders2024",
-          "competitionName": "PUCP Zomblinders 2024",
+          "personId": "2023ARIC01",
+          "personName": "Alonzo Sanchez Arica",
+          "best": "20",
+          "competitionId": "CubinginPremierHuancayo2026",
+          "competitionName": "Cubing in Premier Huancayo 2026",
           "competitionCountryIso": "PE",
           "times": [
-            "24",
-            "37",
-            "27",
+            "20",
             "0",
-            "0"
-          ]
-        },
-        {
-          "personId": "2016MILL07",
-          "personName": "Pedro Giuseppe Garcia Milla",
-          "best": "24",
-          "competitionId": "PUCPZomblinders2024",
-          "competitionName": "PUCP Zomblinders 2024",
-          "competitionCountryIso": "PE",
-          "times": [
-            "-1",
-            "24",
-            "-1",
             "0",
-            "0"
-          ]
-        },
-        {
-          "personId": "2018DIAZ09",
-          "personName": "Paolo Gallegos",
-          "best": "24",
-          "competitionId": "PUCPFMCAttempt12025",
-          "competitionName": "PUCP FMC Attempt 1 - 2025",
-          "competitionCountryIso": "PE",
-          "times": [
-            "24",
-            "27",
-            "29",
-            "0",
-            "0"
-          ]
-        },
-        {
-          "personId": "2013CHIC01",
-          "personName": "Josué Esteban Bacilio Chicoma",
-          "best": "24",
-          "competitionId": "PeruNationals2025",
-          "competitionName": "Peru Nationals 2025",
-          "competitionCountryIso": "PE",
-          "times": [
-            "37",
-            "24",
-            "41",
-            "0",
-            "0"
-          ]
-        },
-        {
-          "personId": "2016MILL07",
-          "personName": "Pedro Giuseppe Garcia Milla",
-          "best": "24",
-          "competitionId": "PeruNationals2025",
-          "competitionName": "Peru Nationals 2025",
-          "competitionCountryIso": "PE",
-          "times": [
-            "32",
-            "24",
-            "32",
             "0",
             "0"
           ]
@@ -464,81 +404,17 @@
     },
     "single": [
       {
-        "personId": "2018DIAZ09",
-        "personName": "Paolo Gallegos",
-        "best": "24",
-        "competitionId": "PUCPZomblinders2024",
-        "competitionName": "PUCP Zomblinders 2024",
+        "personId": "2023ARIC01",
+        "personName": "Alonzo Sanchez Arica",
+        "best": "20",
+        "competitionId": "CubinginPremierHuancayo2026",
+        "competitionName": "Cubing in Premier Huancayo 2026",
         "competitionCountryIso": "PE",
         "gender": "m",
         "times": [
-          "24",
-          "37",
-          "27",
+          "20",
           "0",
-          "0"
-        ]
-      },
-      {
-        "personId": "2016MILL07",
-        "personName": "Pedro Giuseppe Garcia Milla",
-        "best": "24",
-        "competitionId": "PUCPZomblinders2024",
-        "competitionName": "PUCP Zomblinders 2024",
-        "competitionCountryIso": "PE",
-        "gender": "m",
-        "times": [
-          "-1",
-          "24",
-          "-1",
           "0",
-          "0"
-        ]
-      },
-      {
-        "personId": "2018DIAZ09",
-        "personName": "Paolo Gallegos",
-        "best": "24",
-        "competitionId": "PUCPFMCAttempt12025",
-        "competitionName": "PUCP FMC Attempt 1 - 2025",
-        "competitionCountryIso": "PE",
-        "gender": "m",
-        "times": [
-          "24",
-          "27",
-          "29",
-          "0",
-          "0"
-        ]
-      },
-      {
-        "personId": "2013CHIC01",
-        "personName": "Josué Esteban Bacilio Chicoma",
-        "best": "24",
-        "competitionId": "PeruNationals2025",
-        "competitionName": "Peru Nationals 2025",
-        "competitionCountryIso": "PE",
-        "gender": "m",
-        "times": [
-          "37",
-          "24",
-          "41",
-          "0",
-          "0"
-        ]
-      },
-      {
-        "personId": "2016MILL07",
-        "personName": "Pedro Giuseppe Garcia Milla",
-        "best": "24",
-        "competitionId": "PeruNationals2025",
-        "competitionName": "Peru Nationals 2025",
-        "competitionCountryIso": "PE",
-        "gender": "m",
-        "times": [
-          "32",
-          "24",
-          "32",
           "0",
           "0"
         ]
@@ -1164,7 +1040,7 @@
       "single": [
         {
           "personId": "2017HUAN07",
-          "personName": "Gerson Marcelo Nuñez Huanuiri",
+          "personName": "Marcelo Nuñez",
           "best": "12138",
           "competitionId": "PUCPCubingFestivalIX2026",
           "competitionName": "PUCP Cubing Festival IX 2026",
@@ -1181,7 +1057,7 @@
       "average": [
         {
           "personId": "2017HUAN07",
-          "personName": "Gerson Marcelo Nuñez Huanuiri",
+          "personName": "Marcelo Nuñez",
           "average": "13426",
           "competitionId": "PUCPCubingFestivalIX2026",
           "competitionName": "PUCP Cubing Festival IX 2026",
@@ -1235,7 +1111,7 @@
     "single": [
       {
         "personId": "2017HUAN07",
-        "personName": "Gerson Marcelo Nuñez Huanuiri",
+        "personName": "Marcelo Nuñez",
         "best": "12138",
         "competitionId": "PUCPCubingFestivalIX2026",
         "competitionName": "PUCP Cubing Festival IX 2026",
@@ -1253,7 +1129,7 @@
     "average": [
       {
         "personId": "2017HUAN07",
-        "personName": "Gerson Marcelo Nuñez Huanuiri",
+        "personName": "Marcelo Nuñez",
         "average": "13426",
         "competitionId": "PUCPCubingFestivalIX2026",
         "competitionName": "PUCP Cubing Festival IX 2026",

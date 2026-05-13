@@ -1,16 +1,155 @@
 [
   {
+    "id": "TrujilloOpen2026",
+    "name": "Trujillo Open 2026",
+    "venue": "Centro Comercial Boulevard - Trujillo",
+    "city_name": "Trujillo",
+    "country_id": "Peru",
+    "venue_address": "Av. España 2350, Trujillo 13001",
+    "venue_details": "Patio Central",
+    "cell_name": "Trujillo Open 2026",
+    "event_specs": "222 333 444 pyram",
+    "latitude_microdegrees": "-8114976",
+    "longitude_microdegrees": "-79025613",
+    "competitionDate": "2026-08-02",
+    "competitionEndDate": "2026-08-02",
+    "organiser": [
+      {
+        "id": "2015CORN06",
+        "name": "César Cornejo Soldevilla"
+      },
+      {
+        "id": "2013CHIC01",
+        "name": "Josué Esteban Bacilio Chicoma"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2016SUZU03",
+        "name": "Andrés Hisashi Suzuki Cabrera"
+      }
+    ]
+  },
+  {
+    "id": "NuevoChimboteSpeedcube2026",
+    "name": "Nuevo Chimbote Speedcube Fest 2026",
+    "venue": "Centro Cultural de la municipalidad de Nuevo Chimbote",
+    "city_name": "Nuevo Chimbote",
+    "country_id": "Peru",
+    "venue_address": "VFJM+9P3, Nuevo Chimbote 02712",
+    "venue_details": "Anfiteatro",
+    "cell_name": "Nuevo Chimbote Speedcube 2026",
+    "event_specs": "222 333 333bf 333oh 444 555 666 777 clock minx pyram skewb sq1",
+    "latitude_microdegrees": "-9120712",
+    "longitude_microdegrees": "-78531234",
+    "competitionDate": "2026-05-23",
+    "competitionEndDate": "2026-05-24",
+    "organiser": [
+      {
+        "id": "2016OBRE01",
+        "name": "Piero Alessandro Laguna Obregon"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
+    ]
+  },
+  {
+    "id": "SpeedcubingHuanuco2026",
+    "name": "Speedcubing Huánuco 2026",
+    "venue": "Local de Eventos VENSAL",
+    "city_name": "Huánuco",
+    "country_id": "Peru",
+    "venue_address": "Jr. Independencia 637",
+    "venue_details": "Salón",
+    "cell_name": "Speedcubing Huánuco 2026",
+    "event_specs": "222 333 333oh 444 clock minx pyram skewb",
+    "latitude_microdegrees": "-9929731",
+    "longitude_microdegrees": "-76247258",
+    "competitionDate": "2026-05-03",
+    "competitionEndDate": "2026-05-03",
+    "organiser": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ]
+  },
+  {
+    "id": "CubinginPremierHuancayo2026",
+    "name": "Cubing in Premier Huancayo 2026",
+    "venue": "Premiere School Huancayo",
+    "city_name": "Huancayo",
+    "country_id": "Peru",
+    "venue_address": "Amazonas 130, Huancayo 12001",
+    "venue_details": "Patio principal",
+    "cell_name": "Cubing in Premier Huancayo 2026",
+    "event_specs": "222 333 333bf 333fm 333oh 444 555 666 clock minx pyram skewb",
+    "latitude_microdegrees": "-12064001",
+    "longitude_microdegrees": "-75209950",
+    "competitionDate": "2026-05-01",
+    "competitionEndDate": "2026-05-02",
+    "organiser": [
+      {
+        "id": "2022FIGU07",
+        "name": "Yeferson Gelaman Maldonado Figueroa"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2018QUIJ01",
+        "name": "Michel Andre Gonzaga Quijano"
+      }
+    ]
+  },
+  {
+    "id": "LAPRECubingPucallpa2026",
+    "name": "LA PRE Cubing Pucallpa 2026",
+    "venue": "[Colegio y Academia LA PRE](https://www.facebook.com/colegioLAPRE)",
+    "city_name": "Pucallpa",
+    "country_id": "Peru",
+    "venue_address": "Av. José Faustino Sánchez Carrión 1498",
+    "venue_details": "Salón de Eventos",
+    "cell_name": "LA PRE Cubing Pucallpa 2026",
+    "event_specs": "222 333 333oh 444 555 clock minx pyram skewb",
+    "latitude_microdegrees": "-8372071",
+    "longitude_microdegrees": "-74553016",
+    "competitionDate": "2026-04-18",
+    "competitionEndDate": "2026-04-18",
+    "organiser": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ],
+    "wcaDelegate": [
+      {
+        "id": "2016REAT01",
+        "name": "Jhonatan Reategui"
+      }
+    ]
+  },
+  {
     "id": "UNSASpeedcubingSummer2026",
     "name": "UNSA Speedcubing Summer 2026",
     "venue": "Universidad Nacional de San Agustín",
     "city_name": "Arequipa",
     "country_id": "Peru",
-    "venue_address": "Avenida Paucarpata s/n",
-    "venue_details": "Auditorio de Mecánica",
+    "venue_address": "Avenida Venezuela s/n",
+    "venue_details": "Auditorio de Arquitectura",
     "cell_name": "UNSA Speedcubing Summer 2026",
     "event_specs": "222 333 333bf 333mbf 333oh 444 pyram",
-    "latitude_microdegrees": "-16404803",
-    "longitude_microdegrees": "-71526344",
+    "latitude_microdegrees": "-16405926",
+    "longitude_microdegrees": "-71523989",
     "competitionDate": "2026-03-28",
     "competitionEndDate": "2026-03-28",
     "organiser": [
@@ -62,10 +201,6 @@
       }
     ],
     "wcaDelegate": [
-      {
-        "id": "2016SUZU03",
-        "name": "Andrés Hisashi Suzuki Cabrera"
-      },
       {
         "id": "2016REAT01",
         "name": "Jhonatan Reategui"

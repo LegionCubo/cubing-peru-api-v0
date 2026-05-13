@@ -1,37 +1,37 @@
 {
-  "competitors": 4494,
-  "competitions": 258,
+  "competitors": 4554,
+  "competitions": 263,
   "recordNational": 465,
   "upcomingCompetitions": [
     {
-      "id": "PUCPCubingFestivalX2026",
-      "name": "PUCP Cubing Festival X 2026",
-      "venue": "[Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)",
-      "city_name": "Lima",
+      "id": "NuevoChimboteSpeedcube2026",
+      "name": "Nuevo Chimbote Speedcube Fest 2026",
+      "venue": "Centro Cultural de la municipalidad de Nuevo Chimbote",
+      "city_name": "Nuevo Chimbote",
       "country_id": "Peru",
-      "venue_address": "Av. Universitaria 1801, San Miguel, 15088 Lima, Perú",
-      "venue_details": "Pabellón Z",
-      "latitude_microdegrees": "-12069026",
-      "longitude_microdegrees": "-77081126",
-      "competitionDate": "2026-03-21",
-      "competitionEndDate": "2026-03-22",
-      "monthDate": "Mar",
-      "dayDate": 21
+      "venue_address": "VFJM+9P3, Nuevo Chimbote 02712",
+      "venue_details": "Anfiteatro",
+      "latitude_microdegrees": "-9120712",
+      "longitude_microdegrees": "-78531234",
+      "competitionDate": "2026-05-23",
+      "competitionEndDate": "2026-05-24",
+      "monthDate": "May",
+      "dayDate": 23
     },
     {
-      "id": "UNSASpeedcubingSummer2026",
-      "name": "UNSA Speedcubing Summer 2026",
-      "venue": "Universidad Nacional de San Agustín",
-      "city_name": "Arequipa",
+      "id": "TrujilloOpen2026",
+      "name": "Trujillo Open 2026",
+      "venue": "Centro Comercial Boulevard - Trujillo",
+      "city_name": "Trujillo",
       "country_id": "Peru",
-      "venue_address": "Avenida Paucarpata s/n",
-      "venue_details": "Auditorio de Mecánica",
-      "latitude_microdegrees": "-16404803",
-      "longitude_microdegrees": "-71526344",
-      "competitionDate": "2026-03-28",
-      "competitionEndDate": "2026-03-28",
-      "monthDate": "Mar",
-      "dayDate": 28
+      "venue_address": "Av. España 2350, Trujillo 13001",
+      "venue_details": "Patio Central",
+      "latitude_microdegrees": "-8114976",
+      "longitude_microdegrees": "-79025613",
+      "competitionDate": "2026-08-02",
+      "competitionEndDate": "2026-08-02",
+      "monthDate": "Ago",
+      "dayDate": 2
     }
   ],
   "rankingNational": [
@@ -46,9 +46,9 @@
     {
       "personIdNr": "2019MAGU04",
       "nameNr": "Jose Antonio Cuipal Maguiña",
-      "averageNr": 641,
-      "idCompetitionNr": "ArmandoSuenosBlenkir2025",
-      "competitionNr": "Armando Sueños Blenkir Huancayo 2025",
+      "averageNr": 634,
+      "idCompetitionNr": "PUCPCubingFestivalX2026",
+      "competitionNr": "PUCP Cubing Festival X 2026",
       "competitionCountryIso": "PE"
     },
     {
